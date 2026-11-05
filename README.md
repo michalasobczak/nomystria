@@ -4,11 +4,6 @@
 
 > Odkrywanie tajemnic i ukrytej struktury prawa.
 
-> [!WARNING]
-> **To projekt eksploracyjny.** Teksty aktów prawnych są wyszukiwane, dobierane i konwertowane automatycznie, więc dane mogą zawierać błędy i nieścisłości. Każdy przypadek należy rozpatrywać indywidualnie i porównywać z tekstem ogłoszonym w Dzienniku Ustaw. Nie jest to źródło prawa ani porada prawna.
-
-**Autor i sposób pracy.** Autorem inicjatywy jest [Michał Sobczak](https://michalasobczak.com) ([@michalasobczak](https://github.com/michalasobczak)). Ustala wytyczne, szablon i schemat działania oraz kontroluje wyniki. Prace są prowadzone automatycznie, z wykorzystaniem sztucznej inteligencji.
-
 Projekt prowadzimy według metodyki [Rondo + Context-Driven-Development](https://workwithrondo.com). Artefakty:
 
 - ten README (stan „tu i teraz”),
@@ -1334,3 +1329,10 @@ Aktów w zbiorze: **1177**, w tym Konstytucja. W brzmieniu ujednoliconym: 936. W
 | 1176 | [Ustawa z dnia 18 września 2026 r. o podatku od nadzwyczajnych zysków osiągniętych w okresie od marca 2026 r. do marca 2027 r. ze zbycia paliw ciekłych](dane/ustawy/2026/2026-1287-o-podatku-od-nadzwyczajnych-zyskow-osiagnietych-w-okresie-od-marca-2026-r-do-mar.md) | Dz.U. 2026 poz. 1287 | ○ | 0 | — | — | — |
 | 1177 | [Ustawa z dnia 18 września 2026 r. o szczególnych rozwiązaniach związanych z organizacją XXVI Światowego Jamboree Skautowego w Rzeczypospolitej Polskiej w 2027 r.](dane/ustawy/2026/2026-1343-o-szczegolnych-rozwiazaniach-zwiazanych-z-organizacja-xxvi-swiatowego-jamboree-s.md) | Dz.U. 2026 poz. 1343 | ○ | 0 | — | — | — |
 <!-- LISTA:END -->
+
+## Uwagi
+
+> [!WARNING]
+> **To projekt eksploracyjny.** Teksty aktów prawnych są wyszukiwane, dobierane i konwertowane automatycznie, więc dane mogą zawierać błędy i nieścisłości. Każdy przypadek należy rozpatrywać indywidualnie i porównywać z tekstem ogłoszonym w Dzienniku Ustaw. Nie jest to źródło prawa ani porada prawna.
+
+**Autor i sposób pracy.** Autorem inicjatywy jest [Michał Sobczak](https://michalasobczak.com) ([@michalasobczak](https://github.com/michalasobczak)). Ustala wytyczne, szablon i schemat działania oraz kontroluje wyniki. Prace są prowadzone automatycznie, z wykorzystaniem sztucznej inteligencji.

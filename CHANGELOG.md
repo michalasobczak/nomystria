@@ -4,6 +4,10 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### README: sekcja „Uwagi” pod tabelą ustaw
+
+- Ostrzeżenie o eksploracyjnym charakterze projektu i informację o autorze przeniesiono z początku README do nowej sekcji „Uwagi” pod tabelą ustaw. Odświeżanie tabeli (`skrypty/tabela.py`) zachowuje tę sekcję.
+
 ### README: autor i sposób pracy
 
 - Dodano informację o autorze inicjatywy (Michał Sobczak): ustala wytyczne, szablon i schemat działania oraz kontroluje wyniki. Prace są prowadzone automatycznie, z wykorzystaniem sztucznej inteligencji.
