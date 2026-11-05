@@ -67,6 +67,10 @@ def _md_cell(v) -> str:
 START, END = "<!-- LISTA:START -->", "<!-- LISTA:END -->"
 
 
+# Symbole brzmienia w tabeli, żeby kolumna była wąska.
+SYMBOLE = {"ujednolicone": "●", "pierwotne": "○", "pierwotne (zmieniana)": "◐"}
+
+
 def render_list(rows: list[dict]) -> str:
     """Tabela Markdown wszystkich ustaw (rows — wiersze indeksu, ścieżki względem korzenia repo)."""
     uj = sum(r["brzmienie"] == "ujednolicone" for r in rows)
@@ -75,14 +79,16 @@ def render_list(rows: list[dict]) -> str:
         f"Aktów w zbiorze: **{len(rows)}**, w tym Konstytucja. W brzmieniu ujednoliconym: {uj}. "
         f"W brzmieniu pierwotnym: {len(rows) - uj}, w tym {zm} zmienianych bez tekstu ujednoliconego.",
         "",
+        "- **Br.** to brzmienie: ● ujednolicone (tekst Kancelarii Sejmu), ○ pierwotne (ustawa niezmieniana), "
+        "◐ pierwotne, ale ustawa była zmieniana i nie ma tekstu ujednoliconego (tekst może być nieaktualny).",
         "- **Zmian** to liczba ustaw zmieniających według ISAP („Akty zmieniające”).",
         "- **Tekst jednolity** to ostatnie obwieszczenie tekstu jednolitego w Dz. U. z datą obwieszczenia.",
         "- **Zmian po t.j.** to ustawy zmieniające ogłoszone po tym tekście jednolitym. "
         "Ich treść jest w tekście ujednoliconym, ale nie w jednolitym.",
         "- **Tekst ujednolicony z dnia** to data, na którą Kancelaria Sejmu opracowała tekst ujednolicony.",
         "",
-        "| Lp. | Ustawa | Dz. U. | Brzmienie | Zmian | Tekst jednolity | Zmian po t.j. | Tekst ujednolicony z dnia |",
-        "| ---: | --- | --- | --- | ---: | --- | ---: | --- |",
+        "| Lp. | Ustawa | Dz. U. | Br. | Zmian | Tekst jednolity | Zmian po t.j. | Tekst ujednolicony z dnia |",
+        "| ---: | --- | --- | :---: | ---: | --- | ---: | --- |",
     ]
     for i, r in enumerate(rows, 1):
         tj = f"{r['tekst_jednolity']} ({r['tekst_jednolity_z_dnia']})" if r["tekst_jednolity"] else ""
@@ -90,7 +96,7 @@ def render_list(rows: list[dict]) -> str:
             str(i),
             f"[{_md_cell(r['tytul'])}]({r['plik']})",
             _md_cell(r["adres_publikacyjny"]),
-            _md_cell(r["brzmienie"]),
+            SYMBOLE.get(r["brzmienie"], _md_cell(r["brzmienie"])),
             _md_cell(r["liczba_ustaw_zmieniajacych"]),
             _md_cell(tj),
             _md_cell(r["zmian_po_tekscie_jednolitym"]),

@@ -4,6 +4,10 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### S004: symbole brzmienia w tabeli
+
+- Kolumna „Brzmienie” w tabeli README zastąpiona wąską kolumną „Br.” z symbolami ● / ○ / ◐ i legendą. Na prośbę właściciela, bo tabela się rozjeżdżała.
+
 ### Metodyka CDD (backfill)
 
 - Projekt prowadzimy zgodnie z [workwithrondo.com](https://workwithrondo.com).
