@@ -168,7 +168,8 @@
   $("svg").addEventListener("keydown", (e) => { if (e.key === "Enter") { const g = e.target.closest("[data-n]"); if (g) setTrasa(pathTo(g.dataset.n)); } });
   $("lista").addEventListener("click", (e) => { const tr = e.target.closest("tr[data-p]"); if (tr) setTrasa(tr.dataset.p.split(">")); });
 
-  fetch(`sciezki/${encodeURIComponent(id)}.json`)
+  const WERSJA = document.querySelector('meta[name="wersja"]')?.content || "";
+  fetch(`sciezki/${encodeURIComponent(id)}.json?v=${encodeURIComponent(WERSJA)}`)
     .then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
     .then((d) => {
       D = d; W = d.wezly;

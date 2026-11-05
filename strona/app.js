@@ -143,7 +143,7 @@
             · ${z.weryfikacja_krzyzowa ? "potwierdzone krzyżowo" : "jedno źródło"}</span>
         </div>
         <p>${esc(z.opis)}</p>
-        ${z.diagram ? `<p><a class="zn-diag" href="sciezki.html?id=${encodeURIComponent(z.diagram)}">Diagram ścieżek: przetestuj przepisy →</a></p>` : ""}
+        ${z.diagram ? `<p><a class="zn-diag" href="sciezki.html?id=${encodeURIComponent(z.diagram)}">⇢ Diagram ścieżek: przetestuj przepisy</a></p>` : ""}
         ${(z.cytaty || []).slice(0, 2).map((c) => `<blockquote>${esc(c)}</blockquote>`).join("")}
         <details><summary>Uzasadnienie i źródła</summary>
           <p>${esc(z.uzasadnienie)}</p>
@@ -170,7 +170,7 @@
             ${z.weryfikacja_krzyzowa ? " · potwierdzone krzyżowo" : " · niepotwierdzone krzyżowo"}
             ${(z.cytaty || []).map((c) => `<blockquote>${esc(c)}</blockquote>`).join("")}
             <p>${esc(z.opis)}</p>
-            ${z.diagram ? `<p><a href="sciezki.html?id=${encodeURIComponent(z.diagram)}">Diagram ścieżek →</a></p>` : ""}
+            ${z.diagram ? `<p><a class="zn-diag" href="sciezki.html?id=${encodeURIComponent(z.diagram)}">⇢ Diagram ścieżek: przetestuj przepisy</a></p>` : ""}
             ${z.uzasadnienie ? `<p><em>Uzasadnienie:</em> ${esc(z.uzasadnienie)}</p>` : ""}
             <p class="eli">${esc(z.id)} (${esc(z.k)}) · wykryto: ${esc((z.zrodla_wykrycia || []).join(", "))}</p>
           </div>`).join("")
@@ -230,7 +230,8 @@
   window.addEventListener("hashchange", () => { applyHash(); render(); });
 
   // ---- start ----
-  fetch("dane.json")
+  const WERSJA = document.querySelector('meta[name="wersja"]')?.content || "";
+  fetch("dane.json?v=" + encodeURIComponent(WERSJA))
     .then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
     .then((d) => {
       DATA = d.ustawy.map((u) => ({ ...u, data: u.data || "", nZnal: u.znaleziska.length, _hay: norm(u.tytul + " " + u.eli + " " + u.adres) }));

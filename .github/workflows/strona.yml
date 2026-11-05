@@ -33,6 +33,8 @@ jobs:
         run: |
           mkdir -p _site
           cp strona/*.html strona/*.js strona/*.css _site/
+          # wersjonowanie plików (cache przeglądarki): __WERSJA__ → skrót commita
+          sed -i "s/__WERSJA__/${GITHUB_SHA::7}/g" _site/*.html
           python skrypty/strona.py --out _site/dane.json
       - uses: actions/upload-pages-artifact@v3
         with:

@@ -4,6 +4,10 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### S007: wersjonowanie plików strony
+
+- Właściciel nie widział linku do diagramu, bo przeglądarka trzymała starą wersję `app.js` i `dane.json` (GitHub Pages: `cache-control: max-age=600`). Workflow wstawia teraz skrót commita w miejsce `__WERSJA__` w HTML, a pliki JS, CSS i dane są ładowane z `?v=<commit>`. Link do diagramu ma postać wyraźnego przycisku.
+
 ### S009: diagram ścieżek i numeracja znalezisk
 
 - Znaleziska mają ciągłą numerację (1–18) w liście pod wierszem i w oknie szczegółów.
