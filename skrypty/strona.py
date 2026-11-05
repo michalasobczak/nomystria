@@ -89,6 +89,7 @@ def build(root: Path = ROOT) -> dict:
             "tytul": r["tytul"],
             "rok": _int(r["rok"]),
             "poz": _int(r["pozycja"]),
+            "data": r["data_aktu"],  # data uchwalenia (RRRR-MM-DD); domyślne sortowanie strony
             "adres": r["adres_publikacyjny"],
             "status": r["status"],
             "br": BRZMIENIE.get(r["brzmienie"], r["brzmienie"]),

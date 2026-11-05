@@ -4,88 +4,100 @@
 
   const SYMBOL = { U: "●", P: "○", PZ: "◐" };
   const BR_OPIS = { U: "ujednolicone", P: "pierwotne", PZ: "pierwotne (zmieniana)" };
-  const KONTROLA_OPIS = { zgodny: "zgodna", rozbiezny: "rozbieżna", niezweryfikowany: "niezweryfikowana", brak: "brak kontroli" };
+  const KONTROLA_OPIS = { zgodny: "potwierdzone", rozbiezny: "rozbieżność", niezweryfikowany: "nie dało się potwierdzić", brak: "nie sprawdzano" };
   const KATEGORIA_OPIS = {
     sprzecznosc: "sprzeczność", niespojnosc: "niespójność", luka: "luka", wada: "wada legislacyjna",
     brak_sciezki_alternatywnej: "brak ścieżki alternatywnej", zaniechanie: "zaniechanie",
   };
   const WERDYKT_OPIS = { potwierdzone: "potwierdzone", odrzucone: "odrzucone", do_dyskusji: "do dyskusji", brak: "bez werdyktu" };
+  const DOMYSLNE_SORT = { k: "data", dir: -1 };
+  const ADV = ["rokOd", "rokDo", "zmOd", "zmDo", "tj", "poTj", "kontrola", "werdykt"];
 
   const $ = (id) => document.getElementById(id);
   const el = {
-    q: $("q"), rokOd: $("rokOd"), rokDo: $("rokDo"), zmOd: $("zmOd"), zmDo: $("zmDo"),
-    tj: $("tj"), poTj: $("poTj"), kontrola: $("kontrola"), znal: $("znal"),
+    q: $("q"), tylkoZnal: $("tylkoZnal"), rokOd: $("rokOd"), rokDo: $("rokDo"), zmOd: $("zmOd"), zmDo: $("zmDo"),
+    tj: $("tj"), poTj: $("poTj"), kontrola: $("kontrola"), werdykt: $("werdykt"),
     br: Array.from(document.querySelectorAll('input[name="br"]')),
+    adv: $("zaawansowane"), advActive: $("advActive"),
     rows: $("wiersze"), summary: $("summary"), dialog: $("szczegoly"), dlg: $("szTresc"),
   };
 
   let DATA = [];
-  let sort = { k: "rok", dir: 1 };
+  let sort = { ...DOMYSLNE_SORT };
 
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const norm = (s) => String(s ?? "").toLocaleLowerCase("pl").normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/ł/g, "l");
   const num = (v) => (v === "" || v === null || v === undefined || isNaN(+v) ? null : +v);
+  const sortStr = (s) => s.k + (s.dir < 0 ? ":desc" : "");
 
   // ---- stan filtrów <-> adres URL (#q=...&br=U,P) ----
   function readState() {
-    return {
-      q: el.q.value.trim(), rokOd: el.rokOd.value, rokDo: el.rokDo.value, zmOd: el.zmOd.value, zmDo: el.zmDo.value,
-      tj: el.tj.value, poTj: el.poTj.value, kontrola: el.kontrola.value, znal: el.znal.value,
-      br: el.br.filter((c) => c.checked).map((c) => c.value).join(","),
-      sort: sort.k + (sort.dir < 0 ? ":desc" : ""),
-    };
+    const st = { q: el.q.value.trim(), tylkoZnal: el.tylkoZnal.checked ? "1" : "", br: el.br.filter((c) => c.checked).map((c) => c.value).join(",") };
+    for (const k of ADV) st[k] = el[k].value;
+    return st;
   }
   function writeHash(st) {
     const p = new URLSearchParams();
     for (const [k, v] of Object.entries(st)) {
       if (k === "br" && v === "U,P,PZ") continue;
-      if (k === "sort" && v === "rok") continue;
       if (v) p.set(k, v);
     }
+    if (sortStr(sort) !== sortStr(DOMYSLNE_SORT)) p.set("sort", sortStr(sort));
     const h = p.toString();
     history.replaceState(null, "", h ? "#" + h : location.pathname + location.search);
   }
   function applyHash() {
     const p = new URLSearchParams(location.hash.slice(1));
-    for (const k of ["q", "rokOd", "rokDo", "zmOd", "zmDo", "tj", "poTj", "kontrola", "znal"]) el[k].value = p.get(k) || "";
+    el.q.value = p.get("q") || "";
+    el.tylkoZnal.checked = p.get("tylkoZnal") === "1";
+    for (const k of ADV) el[k].value = p.get(k) || "";
     const br = (p.get("br") || "U,P,PZ").split(",");
     el.br.forEach((c) => (c.checked = br.includes(c.value)));
-    const s = (p.get("sort") || "rok").split(":");
+    const s = (p.get("sort") || sortStr(DOMYSLNE_SORT)).split(":");
     sort = { k: s[0], dir: s[1] === "desc" ? -1 : 1 };
+    // Zaawansowane rozwinięte, jeśli adres zawiera filtry zaawansowane.
+    if (ADV.some((k) => p.get(k)) || p.get("br")) el.adv.open = true;
   }
 
   // ---- filtrowanie ----
-  function matches(u, st, words) {
-    if (words.length) {
-      const hay = u._hay;
-      if (!words.every((w) => hay.includes(w))) return false;
+  // Każdy filtr osobno, żeby liczyć opcje przy pozostałych filtrach (fasety).
+  const FILTRY = {
+    q: (u, st) => { const w = norm(st.q).split(/\s+/).filter(Boolean); return !w.length || w.every((x) => u._hay.includes(x)); },
+    tylkoZnal: (u, st) => !st.tylkoZnal || u.znaleziska.length > 0,
+    br: (u, st) => (st.br ? st.br.split(",") : []).includes(u.br),
+    rok: (u, st) => { const o = num(st.rokOd), d = num(st.rokDo); return (o === null || (u.rok ?? -1) >= o) && (d === null || (u.rok ?? 1e9) <= d); },
+    zmian: (u, st) => { const o = num(st.zmOd), d = num(st.zmDo); return (o === null || (u.zmian ?? 0) >= o) && (d === null || (u.zmian ?? 0) <= d); },
+    tj: (u, st) => !st.tj || (st.tj === "jest" ? !!u.tj : !u.tj),
+    poTj: (u, st) => !st.poTj || (st.poTj === "1" ? u.poTj > 0 : !!u.tj && u.poTj === 0),
+    kontrola: (u, st) => !st.kontrola || u.kontrola === st.kontrola,
+    werdykt: (u, st) => !st.werdykt || u.znaleziska.some((z) => z.werdykt_autora === st.werdykt),
+  };
+  const matchesExcept = (u, st, skip) => Object.entries(FILTRY).every(([k, f]) => k === skip || f(u, st));
+
+  function updateCounts(st) {
+    // Liczba ustaw po podmianie jednego filtra na daną opcję; pozostałe filtry bez zmian.
+    const count = (_filtr, patch) => { const s = { ...st, ...patch }; let n = 0; for (const u of DATA) if (matchesExcept(u, s, null)) n++; return n; };
+    const set = (key, n) => document.querySelectorAll(`[data-cnt="${key}"]`).forEach((e) => (e.textContent = `(${n})`));
+    set("tylkoZnal", count("tylkoZnal", { tylkoZnal: "1" }));
+    for (const b of ["U", "P", "PZ"]) set("br:" + b, count("br", { br: b }));
+    const opts = { tj: "tj", poTj: "poTj", kontrola: "kontrola", werdykt: "werdykt" };
+    for (const [id, f] of Object.entries(opts)) {
+      for (const o of el[id].options) {
+        if (!o.dataset.label) o.dataset.label = o.textContent;
+        o.textContent = o.value ? `${o.dataset.label} (${count(f, { [id]: o.value })})` : o.dataset.label;
+      }
     }
-    const br = st.br ? st.br.split(",") : [];
-    if (!br.includes(u.br)) return false;
-    const ro = num(st.rokOd), rd = num(st.rokDo), zo = num(st.zmOd), zd = num(st.zmDo);
-    if (ro !== null && (u.rok ?? -1) < ro) return false;
-    if (rd !== null && (u.rok ?? 1e9) > rd) return false;
-    if (zo !== null && (u.zmian ?? 0) < zo) return false;
-    if (zd !== null && (u.zmian ?? 0) > zd) return false;
-    if (st.tj === "jest" && !u.tj) return false;
-    if (st.tj === "brak" && u.tj) return false;
-    if (st.poTj === "1" && !(u.poTj > 0)) return false;
-    if (st.poTj === "0" && !(u.tj && u.poTj === 0)) return false;
-    if (st.kontrola && u.kontrola !== st.kontrola) return false;
-    if (st.znal === "sa" && !u.znaleziska.length) return false;
-    if (st.znal === "brak" && u.znaleziska.length) return false;
-    if (st.znal === "potwierdzone" && !u.znaleziska.some((z) => z.werdykt_autora === "potwierdzone")) return false;
-    return true;
+    const n = ADV.filter((k) => st[k]).length + (st.br !== "U,P,PZ" ? 1 : 0);
+    el.advActive.textContent = n ? `· aktywne: ${n}` : "";
   }
 
   function cmp(a, b) {
     const k = sort.k;
-    let x = a[k], y = b[k];
-    if (k === "tytul") return sort.dir * String(x).localeCompare(String(y), "pl");
+    const x = a[k], y = b[k];
     const ex = x === null || x === undefined || x === "", ey = y === null || y === undefined || y === "";
-    if (ex || ey) return ex === ey ? a.rok - b.rok || a.poz - b.poz : ex ? 1 : -1; // puste zawsze na końcu
-    if (typeof x === "number" && typeof y === "number") return sort.dir * (x - y) || a.poz - b.poz;
-    return sort.dir * String(x).localeCompare(String(y), "pl");
+    if (ex || ey) return ex === ey ? 0 : ex ? 1 : -1; // puste zawsze na końcu
+    if (typeof x === "number" && typeof y === "number") return sort.dir * (x - y) || b.data.localeCompare(a.data);
+    return sort.dir * String(x).localeCompare(String(y), "pl") || b.poz - a.poz;
   }
 
   function badge(k) {
@@ -95,8 +107,8 @@
   function render() {
     const st = readState();
     writeHash(st);
-    const words = norm(st.q).split(/\s+/).filter(Boolean);
-    const list = DATA.filter((u) => matches(u, st, words)).sort(cmp);
+    const list = DATA.filter((u) => matchesExcept(u, st, null)).sort(cmp);
+    updateCounts(st);
     el.summary.textContent = `Wyników: ${list.length} z ${DATA.length} ustaw.`;
     document.querySelectorAll("th[data-k]").forEach((th) => {
       th.setAttribute("aria-sort", th.dataset.k === sort.k ? (sort.dir > 0 ? "ascending" : "descending") : "none");
@@ -104,7 +116,7 @@
     const html = list.map((u) => `
       <tr data-eli="${esc(u.eli)}" tabindex="0">
         <td>${esc(u.tytul)}<span class="eli">${esc(u.eli)} · ${esc(u.adres)}</span></td>
-        <td class="num">${u.rok ?? ""}</td>
+        <td class="nowrap">${esc(u.data)}</td>
         <td class="c" title="${esc(BR_OPIS[u.br] || u.br)}">${SYMBOL[u.br] || esc(u.br)}</td>
         <td class="num">${u.zmian ?? ""}</td>
         <td class="nowrap">${u.tj ? `${esc(u.tj)}<span class="eli">${esc(u.tjData)}</span>` : "—"}</td>
@@ -121,10 +133,10 @@
     const u = DATA.find((x) => x.eli === eli);
     if (!u) return;
     const wyniki = u.wyniki.length
-      ? `<table class="mini"><thead><tr><th>Kontrola</th><th>Parametr</th><th>W zbiorze</th><th>W źródle</th><th>Źródło</th><th>Werdykt</th><th>Wyjaśnienie</th></tr></thead><tbody>${
+      ? `<table class="mini"><thead><tr><th>Kontrola</th><th>Parametr</th><th>W zbiorze</th><th>W źródle</th><th>Źródło</th><th>Wynik</th><th>Wyjaśnienie</th></tr></thead><tbody>${
           u.wyniki.map((w) => `<tr><td>${esc(w.k)}</td><td>${esc(w.parametr)}</td><td>${esc(w.wartosc_zbior)}</td><td>${esc(w.wartosc_zrodlo)}</td><td>${esc(w.zrodlo)}</td><td>${badge(w.werdykt)}</td><td>${esc(w.wyjasnienie)}</td></tr>`).join("")
         }</tbody></table>`
-      : `<p>${badge("brak")} Tej ustawy jeszcze nie kontrolowano.</p>`;
+      : `<p>${badge("brak")} Metadanych tej ustawy nie sprawdzano jeszcze w niezależnym źródle.</p>`;
     const znal = u.znaleziska.length
       ? u.znaleziska.map((z) => `
           <div class="znal">
@@ -149,6 +161,7 @@
       <dl class="meta">
         <dt>ELI</dt><dd>${esc(u.eli)}</dd>
         <dt>Publikacja</dt><dd>${esc(u.adres)}</dd>
+        <dt>Data ustawy</dt><dd>${esc(u.data) || "—"}</dd>
         <dt>Status (ISAP)</dt><dd>${esc(u.status)}</dd>
         <dt>Brzmienie</dt><dd>${SYMBOL[u.br] || ""} ${esc(BR_OPIS[u.br] || u.br)}</dd>
         <dt>Wejście w życie</dt><dd>${esc(u.wejscie) || "—"}</dd>
@@ -158,7 +171,7 @@
         <dt>Tekst ujednolicony z dnia</dt><dd>${esc(u.tu) || "—"}</dd>
         <dt>Opracowano na podstawie</dt><dd>${esc(u.podstawa) || "—"}</dd>
       </dl>
-      <h3>Kontrola parametrów</h3>${wyniki}
+      <h3>Weryfikacja metadanych</h3>${wyniki}
       <h3>Znaleziska</h3>${znal}`;
     el.dialog.showModal();
   }
@@ -167,10 +180,11 @@
   let t;
   const debounced = () => { clearTimeout(t); t = setTimeout(render, 120); };
   [el.q, el.rokOd, el.rokDo, el.zmOd, el.zmDo].forEach((i) => i.addEventListener("input", debounced));
-  [el.tj, el.poTj, el.kontrola, el.znal, ...el.br].forEach((i) => i.addEventListener("change", render));
+  [el.tylkoZnal, el.tj, el.poTj, el.kontrola, el.werdykt, ...el.br].forEach((i) => i.addEventListener("change", render));
   $("reset").addEventListener("click", () => { history.replaceState(null, "", location.pathname); applyHash(); render(); });
   document.querySelectorAll("th[data-k]").forEach((th) => th.addEventListener("click", () => {
-    sort = sort.k === th.dataset.k ? { k: sort.k, dir: -sort.dir } : { k: th.dataset.k, dir: th.dataset.k === "tytul" || th.dataset.k === "rok" ? 1 : -1 };
+    const k = th.dataset.k;
+    sort = sort.k === k ? { k, dir: -sort.dir } : { k, dir: k === "tytul" ? 1 : -1 };
     render();
   }));
   el.rows.addEventListener("click", (e) => { const tr = e.target.closest("tr[data-eli]"); if (tr) details(tr.dataset.eli); });
@@ -182,7 +196,7 @@
   fetch("dane.json")
     .then((r) => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
     .then((d) => {
-      DATA = d.ustawy.map((u) => ({ ...u, nZnal: u.znaleziska.length, _hay: norm(u.tytul + " " + u.eli + " " + u.adres) }));
+      DATA = d.ustawy.map((u) => ({ ...u, data: u.data || "", nZnal: u.znaleziska.length, _hay: norm(u.tytul + " " + u.eli + " " + u.adres) }));
       if (d.kontrole && d.kontrole.length) {
         $("kontrole").hidden = false;
         $("listaKontroli").innerHTML = d.kontrole.map((k) =>

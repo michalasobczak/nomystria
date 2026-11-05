@@ -28,7 +28,10 @@ Repozytorium jest publiczne, więc GitHub Pages jest bezpłatne i nie wymaga ser
     - liczba znalezisk S006 według kategorii i werdyktu.
   - Sortowanie po kolumnach i licznik wyników.
   - Szczegóły ustawy: metadane, wyniki kontroli z wyjaśnieniami, znaleziska z cytatami i werdyktem autora, linki do pliku Markdown w repozytorium, PDF-u źródłowego i ISAP.
-  - Ostrzeżenie o eksploracyjnym charakterze projektu i informacja o autorze, jak w README.
+  - Wyszukiwanie podstawowe: pole tekstowe i przełącznik „Tylko ustawy ze znaleziskami”, domyślnie wyłączony. Pozostałe filtry są w zwijanej sekcji „Wyszukiwanie zaawansowane”. Rozwija się sama, gdy adres zawiera filtry zaawansowane.
+  - Liczby w nawiasach przy opcjach pokazują, ile ustaw da dana opcja przy pozostałych ustawionych filtrach.
+  - Domyślne sortowanie: od najnowszej ustawy (data ustawy malejąco).
+  - Stopka zawiera tylko link do repozytorium. Ostrzeżenie i informacja o autorze są w README (decyzja właściciela).
   - Filtry zapisane w adresie URL (np. `#brzmienie=U&zmianyPoTj=1`), żeby wynik dało się komuś wysłać.
 - **Poza zakresem:** edycja i komentowanie na stronie, logowanie, backend, wyszukiwanie w treści ustaw (opcja na później), wersje historyczne.
 - **Kryteria sukcesu:** bramki G1–G6.
@@ -73,13 +76,14 @@ Warunek ukończenia: strona działa pod `https://michalasobczak.github.io/nomyst
 | G3 | Filtry | dla ● + „zmiany po t.j. > 0” strona pokazuje tyle rekordów, ile wylicza skrypt z `indeks.csv` | sprawdzenie w przeglądarce (ręczne lub automat) | zamknięcie S007 |
 | G4 | Linki | linki do pliku ustawy, PDF i ISAP otwierają się dla 5 losowych rekordów | sprawdzenie w przeglądarce | zamknięcie S007 |
 | G5 (negatywna) | Brak „zgodny z braku danych” | rekord bez kontroli nigdy nie ma oznaczenia zgodności | test | publikację |
-| G6 (negatywna) | Ostrzeżenie widoczne | ostrzeżenie o projekcie eksploracyjnym jest na każdej stronie | test (obecność w `index.html`) | publikację |
+| G6 | Link do repozytorium | stopka zawiera link do repozytorium (ostrzeżenie usunięto ze strony decyzją właściciela, zostaje w README) | test (obecność w `index.html`) | publikację |
+| G7 | Poprawne liczniki | liczby w nawiasach przy opcjach są równe liczbie wyników po wybraniu opcji (np. brzmienie 936/224/17, t.j. 813/364, zmiany po t.j. 292/521 bez innych filtrów) | sprawdzenie w przeglądarce | publikację |
 
 ## 8. Expected Outcome
 
 - **Efekt bezpośredni:** publiczny adres do przeglądania korpusu i wyników kontroli.
 - **Efekt mierzalny:** filtrowanie 1200 rekordów < 100 ms, a strona waży (bez danych) < 50 KB.
-- **Skutki uboczne:** każdy push uruchamia workflow, co zajmuje minuty z darmowej puli dla repozytoriów publicznych. Strona jest publiczna, więc ostrzeżenie musi być widoczne (G6).
+- **Skutki uboczne:** każdy push uruchamia workflow, co zajmuje minuty z darmowej puli dla repozytoriów publicznych.
 - **Wycofanie:** wyłączenie Pages w ustawieniach i usunięcie workflow.
 
 ## 9. Additional Information

@@ -4,6 +4,14 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### S007: poprawki strony po uwagach właściciela
+
+- **Błąd:** opcje filtra „Zmiany po t.j.” miały w nawiasach progi „(> 0)” i „(0)”, które wyglądały jak liczniki. Teraz każda opcja (brzmienie, tekst jednolity, zmiany po t.j., weryfikacja, werdykt, przełącznik znalezisk) pokazuje prawdziwą liczbę ustaw, uwzględniającą pozostałe filtry. Pierwsza wersja liczników też była błędna, bo pomijała filtr, dla którego liczyła, i wszędzie pokazywała 1177. Wykryło to sprawdzenie w przeglądarce.
+- „Kontrola parametrów” przemianowana na „Weryfikacja metadanych”. Dodano opis (sprawdzenie brzmienia, tekstu jednolitego i liczby zmian w niezależnym źródle, S005) i zrozumiałe wartości: potwierdzone / rozbieżność / nie dało się potwierdzić / nie sprawdzano.
+- Wyszukiwanie podstawowe zawiera pole tekstowe i przełącznik „Tylko ustawy ze znaleziskami” (domyślnie wyłączony). Pozostałe filtry są w zwijanej sekcji „Wyszukiwanie zaawansowane” z licznikiem aktywnych filtrów.
+- Domyślne sortowanie: data ustawy malejąco. Kolumna „Rok” zastąpiona kolumną „Data”, a do `dane.json` dodano pole `data`.
+- Na prośbę właściciela usunięto ze strony ostrzeżenie i informację o autorze. Stopka zawiera tylko link do repozytorium.
+
 ### S007: strona opublikowana
 
 - Za zgodą właściciela włączono GitHub Pages (źródło: GitHub Actions). Strona działa pod adresem https://michalasobczak.github.io/nomystria/.

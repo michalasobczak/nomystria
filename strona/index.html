@@ -12,49 +12,57 @@
     <div class="wrap">
       <h1><a href="https://github.com/michalasobczak/nomystria">Nomystria</a></h1>
       <p class="tagline">Odkrywanie tajemnic i ukrytej struktury prawa: obowiązujące ustawy w aktualnym brzmieniu i wyniki kontroli.</p>
-      <div class="warning" role="note" id="ostrzezenie">
-        <strong>To projekt eksploracyjny.</strong>
-        Teksty aktów prawnych są wyszukiwane, dobierane i konwertowane automatycznie, więc dane mogą zawierać błędy i nieścisłości. Każdy przypadek należy rozpatrywać indywidualnie i porównywać z tekstem ogłoszonym w Dzienniku Ustaw. Nie jest to źródło prawa ani porada prawna.
-      </div>
     </div>
   </header>
 
   <main class="wrap">
-    <section class="filters" aria-label="Filtry">
+    <section class="basic" aria-label="Wyszukiwanie">
       <label class="f-search">
         <span>Szukaj w tytule lub ELI</span>
         <input type="search" id="q" placeholder="np. kodeks, podatek, DU/1997/553" autocomplete="off">
       </label>
-      <label><span>Rok od</span><input type="number" id="rokOd" inputmode="numeric" min="1900" max="2100"></label>
-      <label><span>Rok do</span><input type="number" id="rokDo" inputmode="numeric" min="1900" max="2100"></label>
-      <fieldset class="f-br">
-        <legend>Brzmienie</legend>
-        <label><input type="checkbox" name="br" value="U" checked> ● ujednolicone</label>
-        <label><input type="checkbox" name="br" value="P" checked> ○ pierwotne</label>
-        <label><input type="checkbox" name="br" value="PZ" checked> ◐ pierwotne (zmieniana)</label>
-      </fieldset>
-      <label><span>Zmian od</span><input type="number" id="zmOd" inputmode="numeric" min="0"></label>
-      <label><span>Zmian do</span><input type="number" id="zmDo" inputmode="numeric" min="0"></label>
-      <label><span>Tekst jednolity</span>
-        <select id="tj"><option value="">dowolnie</option><option value="jest">jest</option><option value="brak">brak</option></select>
+      <label class="toggle">
+        <input type="checkbox" id="tylkoZnal">
+        <span>Tylko ustawy ze znaleziskami <span class="cnt" data-cnt="tylkoZnal"></span></span>
       </label>
-      <label><span>Zmiany po t.j.</span>
-        <select id="poTj"><option value="">dowolnie</option><option value="1">są (&gt; 0)</option><option value="0">brak (0)</option></select>
-      </label>
-      <label><span>Kontrola parametrów</span>
-        <select id="kontrola">
-          <option value="">dowolnie</option><option value="zgodny">zgodna</option><option value="rozbiezny">rozbieżna</option>
-          <option value="niezweryfikowany">niezweryfikowana</option><option value="brak">brak kontroli</option>
-        </select>
-      </label>
-      <label><span>Znaleziska</span>
-        <select id="znal">
-          <option value="">dowolnie</option><option value="sa">są jakiekolwiek</option>
-          <option value="potwierdzone">potwierdzone przez autora</option><option value="brak">brak</option>
-        </select>
-      </label>
-      <div class="f-actions"><button type="button" id="reset">Wyczyść filtry</button></div>
     </section>
+
+    <details class="adv" id="zaawansowane">
+      <summary>Wyszukiwanie zaawansowane <span class="adv-active" id="advActive"></span></summary>
+      <section class="filters" aria-label="Filtry zaawansowane">
+        <label><span>Rok od</span><input type="number" id="rokOd" inputmode="numeric" min="1900" max="2100"></label>
+        <label><span>Rok do</span><input type="number" id="rokDo" inputmode="numeric" min="1900" max="2100"></label>
+        <fieldset class="f-br">
+          <legend>Brzmienie</legend>
+          <label><input type="checkbox" name="br" value="U" checked> ● ujednolicone <span class="cnt" data-cnt="br:U"></span></label>
+          <label><input type="checkbox" name="br" value="P" checked> ○ pierwotne <span class="cnt" data-cnt="br:P"></span></label>
+          <label><input type="checkbox" name="br" value="PZ" checked> ◐ pierwotne (zmieniana) <span class="cnt" data-cnt="br:PZ"></span></label>
+        </fieldset>
+        <label><span>Liczba zmian od</span><input type="number" id="zmOd" inputmode="numeric" min="0"></label>
+        <label><span>Liczba zmian do</span><input type="number" id="zmDo" inputmode="numeric" min="0"></label>
+        <label><span>Tekst jednolity</span>
+          <select id="tj"><option value="">dowolnie</option><option value="jest">jest</option><option value="brak">brak</option></select>
+        </label>
+        <label><span>Zmiany po tekście jednolitym</span>
+          <select id="poTj"><option value="">dowolnie</option><option value="1">są</option><option value="0">brak</option></select>
+        </label>
+        <label class="f-help"><span>Weryfikacja metadanych</span>
+          <select id="kontrola">
+            <option value="">dowolnie</option><option value="zgodny">potwierdzone</option><option value="rozbiezny">rozbieżność</option>
+            <option value="niezweryfikowany">nie dało się potwierdzić</option><option value="brak">nie sprawdzano</option>
+          </select>
+          <small>Czy brzmienie, tekst jednolity i liczbę zmian tej ustawy sprawdzono w niezależnym źródle (specyfikacja S005).</small>
+        </label>
+        <label><span>Werdykt autora (znaleziska)</span>
+          <select id="werdykt">
+            <option value="">dowolny</option><option value="potwierdzone">potwierdzone</option>
+            <option value="do_dyskusji">do dyskusji</option><option value="odrzucone">odrzucone</option>
+          </select>
+        </label>
+        <div class="f-actions"><button type="button" id="reset">Wyczyść filtry</button></div>
+      </section>
+      <p class="hint">Liczby w nawiasach pokazują, ile ustaw da dana opcja przy pozostałych ustawionych filtrach.</p>
+    </details>
 
     <p class="summary" id="summary" aria-live="polite">Wczytywanie danych…</p>
 
@@ -63,14 +71,14 @@
         <thead>
           <tr>
             <th data-k="tytul" scope="col">Ustawa</th>
-            <th data-k="rok" scope="col" class="num">Rok</th>
-            <th data-k="br" scope="col" class="c" title="Brzmienie">Br.</th>
-            <th data-k="zmian" scope="col" class="num">Zmian</th>
+            <th data-k="data" scope="col" class="nowrap" title="Data ustawy">Data</th>
+            <th data-k="br" scope="col" class="c" title="Brzmienie: ● ujednolicone, ○ pierwotne, ◐ pierwotne (zmieniana)">Br.</th>
+            <th data-k="zmian" scope="col" class="num" title="Liczba ustaw zmieniających">Zmian</th>
             <th data-k="tjData" scope="col">Tekst jednolity</th>
             <th data-k="poTj" scope="col" class="num" title="Zmiany ogłoszone po tekście jednolitym">Po t.j.</th>
             <th data-k="tu" scope="col" title="Data tekstu ujednoliconego">T. ujednolicony</th>
-            <th data-k="kontrola" scope="col">Kontrola</th>
-            <th data-k="nZnal" scope="col" class="num">Znal.</th>
+            <th data-k="kontrola" scope="col" title="Weryfikacja metadanych w niezależnym źródle (S005)">Weryfikacja</th>
+            <th data-k="nZnal" scope="col" class="num" title="Liczba znalezisk (S006)">Znal.</th>
           </tr>
         </thead>
         <tbody id="wiersze"></tbody>
@@ -89,10 +97,7 @@
   </dialog>
 
   <footer class="wrap foot">
-    <p><strong>Autor i sposób pracy.</strong> Autorem inicjatywy jest <a href="https://michalasobczak.pl">Michał Sobczak</a>
-      (<a href="https://github.com/michalasobczak">@michalasobczak</a>). Ustala wytyczne, szablon i schemat działania oraz kontroluje wyniki. Prace są prowadzone automatycznie, z wykorzystaniem sztucznej inteligencji, a wyniki są weryfikowane krzyżowo za pomocą różnych narzędzi.</p>
-    <p>Źródło tekstów: <a href="https://isap.sejm.gov.pl">ISAP</a> (<a href="https://api.sejm.gov.pl/eli.html">API ELI Sejmu</a>). Tekst ujednolicony nie jest źródłem prawa, wiąże wyłącznie Dziennik Ustaw.
-      Kod i dane: <a href="https://github.com/michalasobczak/nomystria">github.com/michalasobczak/nomystria</a>.</p>
+    <p><a href="https://github.com/michalasobczak/nomystria">github.com/michalasobczak/nomystria</a></p>
   </footer>
 
   <script src="app.js"></script>

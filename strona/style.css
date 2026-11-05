@@ -104,3 +104,17 @@ dl.meta dd { margin: 0; overflow-wrap: anywhere; }
   th, td { padding: 6px; }
   .hide-sm { display: none; }
 }
+
+/* Wyszukiwanie podstawowe i zaawansowane */
+.basic { display: flex; flex-wrap: wrap; gap: 10px 20px; align-items: end; margin: 16px 0 8px; }
+.basic .f-search { flex: 1 1 320px; display: flex; flex-direction: column; gap: 3px; font-size: 13px; color: var(--muted); }
+.toggle { display: flex; align-items: center; gap: 8px; padding: 6px 0; cursor: pointer; }
+.toggle input { width: 18px; height: 18px; }
+.cnt { color: var(--muted); font-variant-numeric: tabular-nums; }
+details.adv { border: 1px solid var(--line); border-radius: 8px; background: var(--panel); padding: 0 12px; margin: 8px 0; }
+details.adv > summary { cursor: pointer; padding: 10px 0; font-weight: 600; }
+details.adv[open] > summary { border-bottom: 1px solid var(--line); }
+.adv-active { font-weight: 400; color: var(--accent); }
+details.adv .filters { margin: 12px 0 4px; }
+.f-help small { color: var(--muted); font-size: 12px; line-height: 1.35; }
+.hint { color: var(--muted); font-size: 12px; margin: 4px 0 10px; }

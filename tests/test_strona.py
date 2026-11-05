@@ -74,11 +74,9 @@ class TestGenerator(unittest.TestCase):
 
 
 class TestStrona(unittest.TestCase):
-    def test_g6_ostrzezenie_i_autor(self):
+    def test_g6_link_do_repozytorium(self):
         html = (ROOT / "strona" / "index.html").read_text(encoding="utf-8")
-        self.assertIn("To projekt eksploracyjny.", html)
-        self.assertIn("Nie jest to źródło prawa", html)
-        self.assertIn("https://michalasobczak.pl", html)
+        self.assertIn('href="https://github.com/michalasobczak/nomystria"', html)
 
     def test_strona_czyta_dane_json(self):
         js = (ROOT / "strona" / "app.js").read_text(encoding="utf-8")
