@@ -1,0 +1,148 @@
+---
+tytul: "Ustawa z dnia 20 stycznia 2011 r. o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa"
+eli: "DU/2011/173"
+adres_publikacyjny: "Dz.U. 2011 nr 34 poz. 173"
+status: "akt posiada tekst jednolity"
+brzmienie: "ujednolicone"
+data_aktu: "2011-01-20"
+data_wejscia_w_zycie: "2011-05-17"
+tekst_ujednolicony_z_dnia: "2025-10-29"
+opracowano_na_podstawie: "t.j. Dz. U. z 2025 r. poz. 1443."
+liczba_ustaw_zmieniajacych: 2
+tekst_jednolity: "Dz.U. 2025 poz. 1443"
+tekst_jednolity_z_dnia: "2025-10-20"
+zmian_po_tekscie_jednolitym: 0
+slowa_kluczowe: ["funkcjonariusz publiczny", "administracja rządowa", "administracja państwowa"]
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/173/text/U/D20110173Lj.pdf"
+isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110340173"
+---
+
+# Ustawa z dnia 20 stycznia 2011 r. o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa
+
+**Dz. U. 2011 Nr 34 poz. 173**
+
+**USTAWA**
+
+z dnia 20 stycznia 2011 r.
+
+**o odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa**
+
+## Rozdział 1
+
+**Przepisy ogólne**
+
+Art. 1. Ustawa określa zasady odpowiedzialności majątkowej funkcjonariuszy publicznych wobec Skarbu Państwa, jednostek samorządu terytorialnego lub innych podmiotów ponoszących odpowiedzialność za szkodę wyrządzoną przy wykonywaniu władzy publicznej, za działania lub zaniechania prowadzące do rażącego naruszenia prawa oraz zasady postępowania w przedmiocie takiej odpowiedzialności.
+
+Art. 2. 1. Użyte w ustawie określenia oznaczają:
+
+1) funkcjonariusz publiczny – osobę działającą w charakterze organu administracji publicznej lub z jego upoważnienia albo jako członek kolegialnego organu administracji publicznej lub osobę wykonującą w urzędzie organu administracji publicznej pracę w ramach stosunku pracy, stosunku służbowego lub umowy cywilnoprawnej, biorącą udział w prowadzeniu sprawy rozstrzyganej w drodze decyzji lub postanowienia przez taki organ;
+
+2) podmiot odpowiedzialny – Skarb Państwa, jednostkę samorządu terytorialnego lub inny podmiot, który, zgodnie z art. 417 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071 i 1172), ponosi odpowiedzialność majątkową za szkody wyrządzone przy wykonywaniu władzy publicznej;
+
+3) organ administracji publicznej – organ administracji publicznej w rozumieniu art. 5 § 2 pkt 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
+
+2. Ilekroć w ustawie jest mowa o wykonywaniu władzy publicznej z rażącym naruszeniem prawa, należy przez to rozumieć również wykonywanie władzy publicznej bez podstawy prawnej.
+
+3. Ilekroć w ustawie jest mowa o wynagrodzeniu przysługującym funkcjonariuszowi publicznemu, należy przez to rozumieć również przysługujące mu uposażenie.
+
+Art. 3. Odpowiedzialność funkcjonariusza publicznego na zasadach określonych w ustawie wyłącza przewidzianą w przepisach odrębnych odpowiedzialność majątkową funkcjonariusza publicznego wobec podmiotu odpowiedzialnego za szkodę wyrządzoną tym samym działaniem lub zaniechaniem.
+
+Art. 4. W sprawach nieuregulowanych w ustawie do odpowiedzialności majątkowej funkcjonariuszy publicznych stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny.
+
+## Rozdział 2
+
+**Zasady odpowiedzialności majątkowej funkcjonariuszy publicznych**
+
+Art. 5. Funkcjonariusz publiczny ponosi odpowiedzialność majątkową w razie łącznego zaistnienia następujących przesłanek:
+
+1) na mocy prawomocnego orzeczenia sądu lub na mocy ugody zostało wypłacone przez podmiot odpowiedzialny odszkodowanie za szkodę wyrządzoną przy wykonywaniu władzy publicznej z rażącym naruszeniem prawa;
+
+2) rażące naruszenie prawa, o którym mowa w pkt 1, zostało spowodowane zawinionym działaniem lub zaniechaniem funkcjonariusza publicznego;
+
+3) rażące naruszenie prawa, o którym mowa w pkt 1, zostało stwierdzone zgodnie z art. 6.
+
+Art. 6. Przez stwierdzenie rażącego naruszenia prawa należy rozumieć:
+
+1) wydanie ostatecznej decyzji stwierdzającej nieważność decyzji lub postanowienia na podstawie art. 156 § 1 pkt 2 lub art. 156 § 1 pkt 2 w związku z art. 126 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego;
+
+2) wydanie ostatecznej decyzji stwierdzającej nieważność decyzji lub postanowienia na podstawie art. 247 § 1 pkt 2 albo pkt 3 lub art. 247 § 1 pkt 2 albo pkt 3, w związku z art. 219 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm.[^1]);
+
+3) stwierdzenie braku podstawy prawnej lub rażącego naruszenia prawa na podstawie art. 54 § 3 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935 i 1685 oraz z 2025 r. poz. 769);
+
+4) wydanie prawomocnego wyroku na podstawie art. 145 § 1 pkt 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi w związku z art. 156 § 1 pkt 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego;
+
+5) wydanie prawomocnego wyroku na podstawie art. 145 § 1 pkt 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi w związku z art. 247 § 1 pkt 2 albo 3 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa;
+
+6) stwierdzenie rażącego naruszenia prawa na podstawie art. 37 § 6 pkt 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego;
+
+7) stwierdzenie rażącego naruszenia prawa na podstawie art. 141 § 2 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa;
+
+8) prawomocne stwierdzenie rażącego naruszenia prawa na podstawie art. 149 lub art. 154 § 2 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi;
+
+9) prawomocne stwierdzenie rażącego naruszenia prawa na podstawie art. 47714 § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620, 1172 i 1302);
+
+10) prawomocne stwierdzenie braku podstawy prawnej lub rażącego naruszenia prawa na podstawie art. 47931a § 3 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego;
+
+11) ostateczne stwierdzenie braku podstawy prawnej lub rażącego naruszenia prawa na podstawie art. 81 ust. 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616 oraz z 2025 r. poz. 794).
+
+## Rozdział 3
+
+**Postępowanie**
+
+Art. 7. 1. W terminie 14 dni od dnia wypłaty odszkodowania, o którym mowa w art. 5 pkt 1, kierownik podmiotu odpowiedzialnego, który wypłacił odszkodowanie, albo kierownik jednostki organizacyjnej podmiotu odpowiedzialnego, która wypłaciła odszkodowanie, składa do prokuratora okręgowego właściwego ze względu na siedzibę podmiotu odpowiedzialnego wniosek o przeprowadzenie postępowania wyjaśniającego.
+
+2. Do wniosku, o którym mowa w ust. 1, załącza się:
+
+1) dowód wypłaty odszkodowania, o którym mowa w art. 5 pkt 1, i stanowiące podstawę tej wypłaty orzeczenie lub ugodę;
+
+2) rozstrzygnięcie stwierdzające rażące naruszenie prawa oraz uwierzytelnione kopie posiadanych akt postępowania sądowego lub administracyjnego, w którym zostało wydane to rozstrzygnięcie.
+
+3. Po wpłynięciu wniosku, o którym mowa w ust. 1, prokurator przeprowadza postępowanie wyjaśniające zmierzające do ustalenia przesłanek uzasadniających wytoczenie na rzecz podmiotu odpowiedzialnego powództwa o odszkodowanie przeciwko funkcjonariuszowi publicznemu z tytułu szkody wyrządzonej przy wykonywaniu władzy publicznej z rażącym naruszeniem prawa. Do przeprowadzenia tego postępowania stosuje się odpowiednio przepisy art. 69 ustawy z dnia 28 stycz-nia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390 oraz z 2025 r. poz. 304 i 1178).
+
+4. W przypadku stwierdzenia istnienia podstaw do wytoczenia przeciwko funkcjonariuszowi publicznemu powództwa, o którym mowa w ust. 3, prokurator przed jego wytoczeniem wzywa na piśmie funkcjonariusza publicznego do dobro-wolnego spełnienia świadczenia w określonym terminie, nie krótszym jednak niż 7 dni od dnia otrzymania wezwania, a po bezskutecznym upływie tego terminu wytacza powództwo.
+
+5. Jeżeli brak jest podstaw do wytoczenia powództwa, o którym mowa w ust. 3, prokurator odmawia podjęcia tej czynności.
+
+Art. 8. 1. Postępowanie sądowe w sprawie o odszkodowanie, o którym mowa w art. 7 ust. 3, toczy się według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+
+2. Do złożenia wniosku na podstawie art. 194 lub art. 195 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego nie jest konieczne prowadzenie postępowania wyjaśniającego, o którym mowa w art. 7 ust. 3, w odniesieniu do osoby wskazanej we wniosku.
+
+Art. 9. 1. Odszkodowanie, o którym mowa w art. 7 ust. 3, ustala się w wysokości odszkodowania, o którym mowa w art. 5 pkt 1, jednak nie może ono przewyższać kwoty dwunastokrotności miesięcznego wynagrodzenia przysługującego funkcjonariuszowi publicznemu.
+
+2. Jeżeli kilku funkcjonariuszy publicznych dopuściło się działania lub zaniechania, o których mowa w art. 5 pkt 2, każdy z nich ponosi odpowiedzialność stosownie do przyczynienia się do rażącego naruszenia prawa i stopnia winy. Jeżeli nie jest możliwe ustalenie stopnia winy i przyczynienia się poszczególnych funkcjonariuszy publicznych do rażącego naruszenia prawa, odpowiadają oni w częściach równych.
+
+3. Jeżeli kilku funkcjonariuszy publicznych dopuściło się działania lub zaniechania, o których mowa w art. 5 pkt 2, każdy z nich ponosi odpowiedzialność do kwoty dwunastokrotności miesięcznego wynagrodzenia, o którym mowa w ust. 1. 4. Jeżeli funkcjonariusz publiczny dopuścił się działania lub zaniechania, o których mowa w art. 5 pkt 2, z winy umyślnej, odpowiada on do wysokości odszkodowania, o którym mowa w art. 5 pkt 1.
+
+5. Jeżeli kilku funkcjonariuszy publicznych dopuściło się działania lub zaniechania, o których mowa w art. 5 pkt 2, z winy umyślnej, odpowiadają oni solidarnie.
+
+6. Wynagrodzenie przysługujące funkcjonariuszowi publicznemu, o którym mowa w ust. 1, określa się na dzień działania lub na koniec okresu zaniechania, które spowodowało rażące naruszenie prawa. W przypadku gdy zgodnie ze zdaniem poprzedzającym wynagrodzenie może być określone w różnej wysokości, przyjmuje się wysokość najwyższą. Jeżeli ustalenie wynagrodzenia według zasad określonych w zdaniach poprzedzających nie jest możliwe, wynagrodzenie przysługujące funkcjonariuszowi publicznemu określa się na dzień stwierdzenia rażącego naruszenia prawa, o którym mowa w art. 5 pkt 3, a jeżeli w tym dniu osobie odpowiedzialnej nie przysługuje już wynagrodzenie jako funkcjonariuszowi publicznemu, wynagrodzenie określa się na ostatni dzień, w którym jej ono przysługiwało.
+
+## Rozdział 4
+
+**Przepisy karne**
+
+Art. 10. 1. Kto, będąc kierownikiem podmiotu odpowiedzialnego lub jednostki organizacyjnej takiego podmiotu, nie wykonuje obowiązku określonego w art. 7 ust. 1,
+
+podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
+
+2. Jeżeli sprawca czynu określonego w ust. 1 działa nieumyślnie,
+
+podlega grzywnie albo karze ograniczenia wolności.
+
+## Rozdział 5
+
+Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+Art. 11–15. (pominięte)
+
+Art. 16. Przepisy ustawy stosuje się do działań i zaniechań funkcjonariuszy publicznych, które nastąpiły od dnia wejścia w życie ustawy.
+
+Art. 17. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia[^2].
+
+---
+
+## Przypisy
+
+[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 497, 621, 622, 769, 820, 1203 i 1235.
+
+[^2]: Ustawa została ogłoszona w dniu 16 lutego 2011 r.
