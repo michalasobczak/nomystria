@@ -6,7 +6,6 @@
 - dwa niezależne przebiegi AI (A: Claude Opus, B: Claude Sonnet), które nie widziały swoich wyników
   (pliki wejściowe: --a, --b).
 Scalanie: walidacja cytatów (S006 G1) i przepisów (G2), dopasowanie znalezisk A↔B (weryfikacja krzyżowa, G4).
-Werdykt autora (G5) wpisuje autor w kontrole/x002/znaleziska.json (pole werdykt_autora).
 
 Użycie: .venv/bin/python eksperymenty/x002-analiza-fundacja-rodzinna/x002.py --a A.json --b B.json
 """
@@ -206,7 +205,7 @@ def main() -> int:
         rec = {"id": f"x002-{i:03d}", "eli": ELI, "kategoria": f["kategoria"], "przepisy": f.get("przepisy", []),
                "cytaty": f["cytaty"], "opis": f.get("opis", ""), "uzasadnienie": f.get("uzasadnienie", ""),
                "waga": f.get("waga", ""), "zrodla_wykrycia": f["zrodla_wykrycia"],
-               "weryfikacja_krzyzowa": f["weryfikacja_krzyzowa"], "werdykt_autora": "brak", "komentarz_autora": ""}
+               "weryfikacja_krzyzowa": f["weryfikacja_krzyzowa"]}
         if f.get("opis_drugiego_przebiegu"):
             rec["opis_drugiego_przebiegu"] = f["opis_drugiego_przebiegu"]
             rec["kategoria_drugiego_przebiegu"] = f["kategoria_drugiego_przebiegu"]

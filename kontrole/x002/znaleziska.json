@@ -35,8 +35,6 @@
     "Claude Sonnet (przebieg B)"
    ],
    "weryfikacja_krzyzowa": true,
-   "werdykt_autora": "brak",
-   "komentarz_autora": "",
    "opis_drugiego_przebiegu": "Tryb awaryjnego zwołania zgromadzenia beneficjentów dotyczy wyłącznie śmierci członka zarządu (i rezygnacji w ust. 2), a mandat wygasa także z innych przyczyn.",
    "kategoria_drugiego_przebiegu": "luka"
   },
@@ -64,8 +62,6 @@
     "Claude Sonnet (przebieg B)"
    ],
    "weryfikacja_krzyzowa": true,
-   "werdykt_autora": "brak",
-   "komentarz_autora": "",
    "opis_drugiego_przebiegu": "Definicja z art. 19 ust. 1 stosuje się do określenia mienia wniesionego we wszystkich przepisach ustawy i ustala wartość na dzień wniesienia, a art. 9 (i art. 104 ust. 2) każą liczyć wartość według cen z chwili zaspokojenia wierzyciela.",
    "kategoria_drugiego_przebiegu": "niespojnosc"
   },
@@ -96,8 +92,6 @@
     "Claude Sonnet (przebieg B)"
    ],
    "weryfikacja_krzyzowa": true,
-   "werdykt_autora": "brak",
-   "komentarz_autora": "",
    "opis_drugiego_przebiegu": "Katalog wpisów do rejestru obejmuje kuratora, zarząd komisaryczny, zarządcę i zarządcę komisarycznego, instytucje, których ustawa o fundacji rodzinnej nie reguluje. | Art. 105 ust. 1 pkt 3 odwołuje się do postępowania przymuszającego, którego ustawa nie wprowadza dla rejestru fundacji rodzinnych.",
    "kategoria_drugiego_przebiegu": "wada"
   },
@@ -127,8 +121,6 @@
     "Claude Sonnet (przebieg B)"
    ],
    "weryfikacja_krzyzowa": true,
-   "werdykt_autora": "brak",
-   "komentarz_autora": "",
    "opis_drugiego_przebiegu": "Art. 85 wiąże rozwiązanie fundacji w organizacji z samym upływem terminu lub prawomocną odmową rejestracji, a art. 91 ust. 3 odracza rozwiązanie do zatwierdzenia sprawozdania likwidacyjnego.",
    "kategoria_drugiego_przebiegu": "sprzecznosc"
   },
@@ -156,8 +148,6 @@
     "Claude Sonnet (przebieg B)"
    ],
    "weryfikacja_krzyzowa": true,
-   "werdykt_autora": "brak",
-   "komentarz_autora": "",
    "opis_drugiego_przebiegu": "Ustawa nakłada obowiązki, np. okresowego audytu (art. 79), rady nadzorczej przy ponad 25 beneficjentach (art. 64 ust. 2) czy zgłoszeń do rejestru (art. 122), ale jedyny przepis karny obejmuje wyłącznie obowiązek z art. 84.",
    "kategoria_drugiego_przebiegu": "zaniechanie"
   },
@@ -182,9 +172,7 @@
    "zrodla_wykrycia": [
     "Claude Opus (przebieg A)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   },
   {
    "id": "x002-007",
@@ -206,9 +194,7 @@
    "zrodla_wykrycia": [
     "Claude Opus (przebieg A)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   },
   {
    "id": "x002-008",
@@ -231,9 +217,7 @@
    "zrodla_wykrycia": [
     "Claude Opus (przebieg A)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   },
   {
    "id": "x002-009",
@@ -255,9 +239,7 @@
    "zrodla_wykrycia": [
     "Claude Opus (przebieg A)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   },
   {
    "id": "x002-010",
@@ -279,9 +261,7 @@
    "zrodla_wykrycia": [
     "Claude Opus (przebieg A)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   },
   {
    "id": "x002-011",
@@ -307,9 +287,7 @@
    "zrodla_wykrycia": [
     "Claude Opus (przebieg A)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   },
   {
    "id": "x002-012",
@@ -332,9 +310,7 @@
    "zrodla_wykrycia": [
     "Claude Opus (przebieg A)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   },
   {
    "id": "x002-013",
@@ -354,9 +330,7 @@
    "zrodla_wykrycia": [
     "Claude Sonnet (przebieg B)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   },
   {
    "id": "x002-014",
@@ -374,9 +348,7 @@
    "zrodla_wykrycia": [
     "Claude Sonnet (przebieg B)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   },
   {
    "id": "x002-015",
@@ -395,9 +367,7 @@
    "zrodla_wykrycia": [
     "Claude Sonnet (przebieg B)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   },
   {
    "id": "x002-016",
@@ -417,9 +387,7 @@
    "zrodla_wykrycia": [
     "Claude Sonnet (przebieg B)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   },
   {
    "id": "x002-017",
@@ -440,9 +408,7 @@
    "zrodla_wykrycia": [
     "Claude Sonnet (przebieg B)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   },
   {
    "id": "x002-018",
@@ -462,9 +428,7 @@
    "zrodla_wykrycia": [
     "Claude Sonnet (przebieg B)"
    ],
-   "weryfikacja_krzyzowa": false,
-   "werdykt_autora": "brak",
-   "komentarz_autora": ""
+   "weryfikacja_krzyzowa": false
   }
  ]
 }

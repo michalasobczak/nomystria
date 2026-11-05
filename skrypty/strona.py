@@ -21,7 +21,6 @@ WERDYKTY = ("zgodny", "rozbiezny", "niezweryfikowany")
 # Najgorszy werdykt decyduje o statusie ustawy.
 PRIORYTET = {"rozbiezny": 3, "niezweryfikowany": 2, "zgodny": 1}
 KATEGORIE = ("sprzecznosc", "niespojnosc", "luka", "wada", "brak_sciezki_alternatywnej", "zaniechanie")
-WERDYKTY_AUTORA = ("potwierdzone", "odrzucone", "do_dyskusji", "brak")
 BRZMIENIE = {"ujednolicone": "U", "jednolite": "J", "pierwotne": "P", "pierwotne (zmieniana)": "PZ"}
 
 
@@ -60,12 +59,9 @@ def load_kontrole(kontrole_dir: Path, known: set[str]) -> tuple[list[dict], dict
                 else:
                     if item.get("kategoria") not in KATEGORIE:
                         raise BladKontroli(f"{where}: kategoria {item.get('kategoria')!r} spoza {KATEGORIE}")
-                    wa = item.get("werdykt_autora") or "brak"
-                    if wa not in WERDYKTY_AUTORA:
-                        raise BladKontroli(f"{where}: werdykt_autora {wa!r} spoza {WERDYKTY_AUTORA}")
                     znaleziska.setdefault(eli, []).append({"k": kid, **{x: item.get(x) for x in (
                         "id", "kategoria", "przepisy", "cytaty", "opis", "uzasadnienie", "waga",
-                        "zrodla_wykrycia", "weryfikacja_krzyzowa", "komentarz_autora")}, "werdykt_autora": wa})
+                        "zrodla_wykrycia", "weryfikacja_krzyzowa")}})
     return meta, wyniki, znaleziska
 
 

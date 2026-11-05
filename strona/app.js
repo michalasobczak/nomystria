@@ -10,14 +10,13 @@
     sprzecznosc: "sprzeczność", niespojnosc: "niespójność", luka: "luka", wada: "wada legislacyjna",
     brak_sciezki_alternatywnej: "brak ścieżki alternatywnej", zaniechanie: "zaniechanie",
   };
-  const WERDYKT_OPIS = { potwierdzone: "potwierdzone", odrzucone: "odrzucone", do_dyskusji: "do dyskusji", brak: "bez werdyktu" };
   const DOMYSLNE_SORT = { k: "data", dir: -1 };
-  const ADV = ["rokOd", "rokDo", "zmOd", "zmDo", "tj", "poTj", "kontrola", "werdykt"];
+  const ADV = ["rokOd", "rokDo", "zmOd", "zmDo", "tj", "poTj", "kontrola"];
 
   const $ = (id) => document.getElementById(id);
   const el = {
     q: $("q"), tylkoZnal: $("tylkoZnal"), rokOd: $("rokOd"), rokDo: $("rokDo"), zmOd: $("zmOd"), zmDo: $("zmDo"),
-    tj: $("tj"), poTj: $("poTj"), kontrola: $("kontrola"), werdykt: $("werdykt"),
+    tj: $("tj"), poTj: $("poTj"), kontrola: $("kontrola"),
     br: Array.from(document.querySelectorAll('input[name="br"]')),
     adv: $("zaawansowane"), advActive: $("advActive"),
     rows: $("wiersze"), summary: $("summary"), dialog: $("szczegoly"), dlg: $("szTresc"),
@@ -71,7 +70,6 @@
     tj: (u, st) => !st.tj || (st.tj === "jest" ? !!u.tj : !u.tj),
     poTj: (u, st) => !st.poTj || (st.poTj === "1" ? u.poTj > 0 : !!u.tj && u.poTj === 0),
     kontrola: (u, st) => !st.kontrola || u.kontrola === st.kontrola,
-    werdykt: (u, st) => !st.werdykt || u.znaleziska.some((z) => z.werdykt_autora === st.werdykt),
   };
   const matchesExcept = (u, st, skip) => Object.entries(FILTRY).every(([k, f]) => k === skip || f(u, st));
 
@@ -81,7 +79,7 @@
     const set = (key, n) => document.querySelectorAll(`[data-cnt="${key}"]`).forEach((e) => (e.textContent = `(${n})`));
     set("tylkoZnal", count("tylkoZnal", { tylkoZnal: "1" }));
     for (const b of BR_ALL.split(",")) set("br:" + b, count("br", { br: b }));
-    const opts = { tj: "tj", poTj: "poTj", kontrola: "kontrola", werdykt: "werdykt" };
+    const opts = { tj: "tj", poTj: "poTj", kontrola: "kontrola" };
     for (const [id, f] of Object.entries(opts)) {
       for (const o of el[id].options) {
         if (!o.dataset.label) o.dataset.label = o.textContent;
@@ -141,14 +139,12 @@
           <span class="badge zn-kat">${esc(KATEGORIA_OPIS[z.kategoria] || z.kategoria)}</span>
           <strong>${esc((z.przepisy || []).join(", "))}</strong>
           <span class="zn-meta">waga: ${esc(WAGA_OPIS[z.waga] || z.waga || "—")}
-            · ${z.weryfikacja_krzyzowa ? "potwierdzone krzyżowo" : "jedno źródło"}
-            · werdykt autora: <span class="zn-w zn-w-${esc(z.werdykt_autora)}">${esc(WERDYKT_OPIS[z.werdykt_autora] || z.werdykt_autora)}</span></span>
+            · ${z.weryfikacja_krzyzowa ? "potwierdzone krzyżowo" : "jedno źródło"}</span>
         </div>
         <p>${esc(z.opis)}</p>
         ${(z.cytaty || []).slice(0, 2).map((c) => `<blockquote>${esc(c)}</blockquote>`).join("")}
         <details><summary>Uzasadnienie i źródła</summary>
           <p>${esc(z.uzasadnienie)}</p>
-          ${z.komentarz_autora ? `<p><em>Komentarz autora:</em> ${esc(z.komentarz_autora)}</p>` : ""}
           <p class="eli">${esc(z.id)} · wykryto: ${esc((z.zrodla_wykrycia || []).join(", "))}</p>
         </details>
       </li>`).join("");
@@ -169,12 +165,10 @@
           <div class="znal">
             <strong>${esc(KATEGORIA_OPIS[z.kategoria] || z.kategoria)}</strong>
             · ${esc((z.przepisy || []).join(", "))} · waga: ${esc(z.waga || "—")}
-            · werdykt autora: <strong>${esc(WERDYKT_OPIS[z.werdykt_autora] || z.werdykt_autora)}</strong>
             ${z.weryfikacja_krzyzowa ? " · potwierdzone krzyżowo" : " · niepotwierdzone krzyżowo"}
             ${(z.cytaty || []).map((c) => `<blockquote>${esc(c)}</blockquote>`).join("")}
             <p>${esc(z.opis)}</p>
             ${z.uzasadnienie ? `<p><em>Uzasadnienie:</em> ${esc(z.uzasadnienie)}</p>` : ""}
-            ${z.komentarz_autora ? `<p><em>Komentarz autora:</em> ${esc(z.komentarz_autora)}</p>` : ""}
             <p class="eli">${esc(z.id)} (${esc(z.k)}) · wykryto: ${esc((z.zrodla_wykrycia || []).join(", "))}</p>
           </div>`).join("")
       : "<p>Brak znalezisk.</p>";
@@ -209,7 +203,7 @@
   let t;
   const debounced = () => { clearTimeout(t); t = setTimeout(render, 120); };
   [el.q, el.rokOd, el.rokDo, el.zmOd, el.zmDo].forEach((i) => i.addEventListener("input", debounced));
-  [el.tylkoZnal, el.tj, el.poTj, el.kontrola, el.werdykt, ...el.br].forEach((i) => i.addEventListener("change", render));
+  [el.tylkoZnal, el.tj, el.poTj, el.kontrola, ...el.br].forEach((i) => i.addEventListener("change", render));
   $("reset").addEventListener("click", () => { history.replaceState(null, "", location.pathname); applyHash(); render(); });
   document.querySelectorAll("th[data-k]").forEach((th) => th.addEventListener("click", () => {
     const k = th.dataset.k;

@@ -9,7 +9,7 @@
   - surowe przebiegi [A](przebiegi/A-opus.json) i [B](przebiegi/B-sonnet.json);
   - [`kontrole_mechaniczne.json`](kontrole_mechaniczne.json);
   - [`odrzucone.json`](odrzucone.json).
-- **Status:** czeka na werdykt autora (G5). Wszystkie znaleziska mają `werdykt_autora: brak`.
+- **Status:** zakończona. Znaleziska są opublikowane bez werdyktów.
 
 ## Metoda
 
@@ -52,13 +52,9 @@
 
 Pozostałe 13 znalezisk ma jedno źródło: 7 z przebiegu A i 6 z B. Pełna lista z cytatami i uzasadnieniami jest w `znaleziska.json` i na stronie.
 
-## Ocena metody (wstępna, przed werdyktem autora)
+## Ocena metody
 
 - **Wymóg dosłownego cytatu działa.** Wszystkie 63 cytaty z obu przebiegów występują w tekście, więc nie ma zmyślonych przepisów.
 - **Zgodność przebiegów jest umiarkowana:** 5 wspólnych tematów na 18. Przebiegi częściej się uzupełniają, niż powtarzają. Weryfikacja krzyżowa podnosi wiarygodność tych 5 znalezisk, ale nie oznacza, że pozostałe są błędne.
 - **Kategorie się nakładają,** np. luka a brak ścieżki alternatywnej albo niespójność a sprzeczność. Przy scalaniu decyduje kategoria z przebiegu A, a kategoria B jest zapisana obok.
-- **Precyzja jest nieznana** do czasu werdyktów autora. To jest główny wynik, którego potrzebuje decyzja o dalszej metodzie (S006, sekcja 3).
 
-## Następny krok
-
-Autor wpisuje `werdykt_autora` (`potwierdzone` / `odrzucone` / `do_dyskusji`) i ewentualnie `komentarz_autora` w `znaleziska.json`. Strona pokaże werdykty po kolejnym pushu.

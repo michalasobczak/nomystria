@@ -1,6 +1,6 @@
 # S006 — Eksperymentalna analiza jednej ustawy pod kątem wad legislacyjnych
 
-- **Status:** wykonana, czeka na werdykt autora (G5). Ustawa: o fundacji rodzinnej (DU/2023/326), wynik: [`kontrole/x002/RAPORT.md`](../kontrole/x002/RAPORT.md)
+- **Status:** dostarczona. Ustawa: o fundacji rodzinnej (DU/2023/326), wynik: [`kontrole/x002/RAPORT.md`](../kontrole/x002/RAPORT.md)
 - **Data:** 2026-11-05
 - **Powiązane:** S002 (korpus), S005 (wiarygodność danych), S007 (strona z wynikami kontroli)
 
@@ -15,7 +15,7 @@ Eksperyment na jednej wybranej ustawie z korpusu sprawdza, czy zautomatyzowana a
 - brak ścieżek alternatywnych,
 - zaniechania.
 
-Wynik to raport ze znaleziskami. Każde znalezisko cytuje dosłownie przepis, ma kategorię i uzasadnienie oraz werdykt autora: potwierdzone albo odrzucone.
+Wynik to raport ze znaleziskami. Każde znalezisko cytuje dosłownie przepis, ma kategorię, uzasadnienie i informację, czy potwierdziły je oba przebiegi. Znaleziska publikujemy bez werdyktów (decyzja właściciela).
 
 ## 2. Abstract
 
@@ -25,7 +25,7 @@ Modele AI chętnie potwierdzają hipotezy, więc samo „znalazłem sprzecznoś�
 
 - definicje kategorii;
 - wymóg dosłownego cytatu, który da się mechanicznie sprawdzić w tekście;
-- weryfikacja drugim, niezależnym narzędziem i ocena autora.
+- weryfikacja drugim, niezależnym narzędziem.
 
 Eksperyment na jednej ustawie ma ustalić metodę i realny odsetek trafnych znalezisk, zanim rozszerzymy analizę na więcej aktów.
 
@@ -48,7 +48,7 @@ Eksperyment na jednej ustawie ma ustalić metodę i realny odsetek trafnych znal
   - więcej niż jedna ustawa.
 - **Kryteria sukcesu:**
   - każde znalezisko przechodzi bramki G1–G3;
-  - znamy precyzję, czyli odsetek znalezisk potwierdzonych przez autora;
+  - znamy zgodność przebiegów, czyli odsetek znalezisk wskazanych niezależnie przez oba narzędzia;
   - autor decyduje: kontynuować metodę, zmienić ją albo porzucić.
 
 ## 4. Artefact Inventory
@@ -60,7 +60,6 @@ Eksperyment na jednej ustawie ma ustalić metodę i realny odsetek trafnych znal
 | `eksperymenty/x002-analiza-<ustawa>/` (prompty, skrypty kontroli mechanicznych) | kod | do utworzenia |
 | `kontrole/x002/znaleziska.json` + `RAPORT.md` | dane i dokument | do utworzenia |
 | dwa narzędzia AI do analizy krzyżowej | zewnętrzne | [DO USTALENIA] |
-| przegląd autora | organizacja | istnieje |
 
 ## 5. Functional Domain Changes
 
@@ -76,15 +75,13 @@ Eksperyment na jednej ustawie ma ustalić metodę i realny odsetek trafnych znal
 - `waga` (niska / średnia / wysoka)
 - `zrodla_wykrycia` (które narzędzie lub kontrola)
 - `weryfikacja_krzyzowa` (czy drugie narzędzie potwierdziło)
-- `werdykt_autora` (potwierdzone / odrzucone / do dyskusji)
-- `komentarz_autora`
 
 Ten sam format posłuży kolejnym analizom.
 
 **Reguły:**
 
 - Znalezisko bez dosłownego cytatu obecnego w pliku ustawy jest odrzucane automatycznie.
-- Znalezisko wskazane tylko przez jedno narzędzie trafia do autora z oznaczeniem „niepotwierdzone krzyżowo”.
+- Znalezisko wskazane tylko przez jedno narzędzie jest publikowane z oznaczeniem „jedno źródło”.
 - Treść przepisów jest wyłącznie cytowana, nigdy przeredagowywana (MANIFEST M2).
 
 ## 6. Critical Path
@@ -95,10 +92,9 @@ Ten sam format posłuży kolejnym analizom.
 4. Przebieg A (narzędzie 1).
 5. Przebieg B (narzędzie 2), bez dostępu do wyników A.
 6. Scalenie i automatyczna walidacja cytatów.
-7. Przegląd autora i werdykty.
 8. Raport i decyzja o dalszej metodzie.
 
-Warunek ukończenia: wszystkie znaleziska mają werdykt autora, a raport ma wyliczoną precyzję.
+Warunek ukończenia: znaleziska przeszły walidację (G1–G3), mają zapisany wynik weryfikacji krzyżowej (G4) i są opublikowane w raporcie i na stronie.
 
 ## 7. Control Gates
 
@@ -108,28 +104,28 @@ Warunek ukończenia: wszystkie znaleziska mają werdykt autora, a raport ma wyli
 | G2 | Istniejące przepisy | każda jednostka w `przepisy` istnieje w tekście ustawy | skrypt walidacji | raport |
 | G3 | Kategoria | każde znalezisko ma kategorię z listy z sekcji 3 | walidacja schematu JSON | raport |
 | G4 | Weryfikacja krzyżowa | dla każdego znaleziska zapisano wynik obu przebiegów | raport | zamknięcie S006 |
-| G5 | Werdykt autora | 100% znalezisk ma `werdykt_autora` | raport | zamknięcie S006 |
 | G6 (negatywna) | Brak treści zmyślonej | 0 znalezisk powołujących się na przepisy spoza ustawy bez źródła | G1 + G2 | raport |
 | G7 (negatywna) | Brak „porady prawnej” | raport nie formułuje rozstrzygnięć indywidualnych spraw; dotyczy wyłącznie tekstu ustawy | przegląd autora | publikację |
 
 ## 8. Expected Outcome
 
 - **Efekt bezpośredni:** lista ocenionych znalezisk dla jednej ustawy i opis metody.
-- **Efekt mierzalny:** precyzja (potwierdzone / wszystkie), liczba znalezisk według kategorii, zgodność między narzędziami.
+- **Efekt mierzalny:** liczba znalezisk według kategorii i zgodność między narzędziami (potwierdzone krzyżowo / wszystkie).
 - **Skutki uboczne:** potwierdzone znaleziska mogą stać się kandydatami na pierwsze propozycje inicjatyw ustawodawczych.
 - **Wycofanie:** nie dotyczy, bo eksperyment nie zmienia danych korpusu.
 
 ## 9. Additional Information
 
 - **Kryteria wyboru ustawy (propozycja):**
-  - średnia wielkość, np. 20–80 stron, żeby przegląd autora był wykonalny;
+  - średnia wielkość, np. 20–80 stron, żeby wyniki dało się przejrzeć;
   - brzmienie ujednolicone (●) i wiele nowelizacji, bo więcej zmian zwiększa ryzyko niespójności;
   - istnieją akty wykonawcze, co pozwala sprawdzić zaniechania;
   - dziedzina bliska autorowi.
 
   Kandydaci do decyzji autora: ustawa o fundacji rodzinnej (2023, 4 akty wykonawcze, mała), ustawa o funduszu sołeckim (2014), ustawa o systemach sztucznej inteligencji (2026, ○, nowa).
-- **Odrzucone alternatywy:** analiza całego korpusu od razu, bo nieznana precyzja grozi zalewem szumu. Odrzucona też analiza jednym narzędziem bez weryfikacji krzyżowej.
-- **Ryzyka:** AI chętnie zgadza się z hipotezą („znajdź sprzeczności” daje sprzeczności). Dlatego wymagamy cytatu, drugiego przebiegu i werdyktu autora.
+- **Odrzucone alternatywy:** analiza całego korpusu od razu, bo bez sprawdzenia metody na jednej ustawie grozi zalew szumu. Odrzucona też analiza jednym narzędziem bez weryfikacji krzyżowej.
+- **Ryzyka:** AI chętnie zgadza się z hipotezą („znajdź sprzeczności” daje sprzeczności). Dlatego wymagamy dosłownego cytatu i drugiego, niezależnego przebiegu.
+- **Decyzja właściciela:** znaleziska publikujemy tak po prostu, bez werdyktów autora. Bramkę G5 i pola `werdykt_autora`/`komentarz_autora` usunięto.
 - **Decyzje z realizacji:** ustawę o fundacji rodzinnej wybrano spośród kandydatów, gdy właściciel poprosił o kontrolę jednej ustawy jako danych testowych dla strony. Narzędzia to dwa przebiegi AI (Claude Opus i Claude Sonnet) bez dostępu do wyników drugiego oraz kontrole mechaniczne M1 i M2.
 - **Otwarte pytania:**
   - Którą ustawę wybrać? (rozstrzygnięte w realizacji)

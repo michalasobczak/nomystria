@@ -129,9 +129,6 @@ tr.znal-row > td { background: var(--row-hover); padding: 8px 12px 12px; }
 .zn-head { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: baseline; }
 .zn-kat { color: var(--accent); }
 .zn-meta { color: var(--muted); font-size: 12px; }
-.zn-w-potwierdzone { color: var(--ok); font-weight: 600; }
-.zn-w-odrzucone { color: var(--bad); }
-.zn-w-do_dyskusji { color: var(--unk); }
 .zn p { margin: 6px 0; }
 .zn blockquote { margin: 6px 0; padding-left: 10px; border-left: 3px solid var(--line); color: var(--muted); font-size: 13px; }
 .zn details summary { cursor: pointer; color: var(--accent); font-size: 13px; }

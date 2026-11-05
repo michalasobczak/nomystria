@@ -40,7 +40,7 @@ class TestGenerator(unittest.TestCase):
                     {"eli": eli, "parametr": "liczba_ustaw_zmieniajacych", "werdykt": "rozbiezny", "wyjasnienie": "test"},
                 ]},
                 "x002/znaleziska.json": {"id": "x002", "spec": "S006", "znaleziska": [
-                    {"id": "x002-001", "eli": eli, "kategoria": "luka", "cytaty": ["…"], "werdykt_autora": "potwierdzone"},
+                    {"id": "x002-001", "eli": eli, "kategoria": "luka", "cytaty": ["…"]},
                 ]},
             })
             data = build(root)

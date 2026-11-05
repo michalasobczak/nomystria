@@ -53,9 +53,7 @@ Brak danych w źródle kontrolnym daje `niezweryfikowany`, nigdy `zgodny`.
       "uzasadnienie": "…",
       "waga": "srednia",
       "zrodla_wykrycia": ["narzędzie A", "narzędzie B"],
-      "weryfikacja_krzyzowa": true,
-      "werdykt_autora": "potwierdzone",
-      "komentarz_autora": "…"
+      "weryfikacja_krzyzowa": true
     }
   ]
 }
@@ -67,4 +65,3 @@ Dopuszczalne wartości pól:
 | --- | --- |
 | `kategoria` | `sprzecznosc`, `niespojnosc`, `luka`, `wada`, `brak_sciezki_alternatywnej`, `zaniechanie` |
 | `waga` | `niska`, `srednia`, `wysoka` |
-| `werdykt_autora` | `potwierdzone`, `odrzucone`, `do_dyskusji`, `brak` |

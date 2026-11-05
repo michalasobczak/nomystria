@@ -25,10 +25,11 @@ Repozytorium jest publiczne, więc GitHub Pages jest bezpłatne i nie wymaga ser
     - czy jest tekst jednolity;
     - czy są zmiany po t.j.;
     - wynik kontroli S005 (zgodny / rozbieżny / niezweryfikowany / brak kontroli);
-    - liczba znalezisk S006 według kategorii i werdyktu.
+    - obecność znalezisk S006 (przełącznik w wyszukiwaniu podstawowym).
   - Sortowanie po kolumnach i licznik wyników.
-  - Szczegóły ustawy: metadane, wyniki kontroli z wyjaśnieniami, znaleziska z cytatami i werdyktem autora, linki do pliku Markdown w repozytorium, PDF-u źródłowego i ISAP.
+  - Szczegóły ustawy: metadane, wyniki kontroli z wyjaśnieniami, znaleziska z cytatami, linki do pliku Markdown w repozytorium, PDF-u źródłowego i ISAP.
   - Wyszukiwanie podstawowe: pole tekstowe i przełącznik „Tylko ustawy ze znaleziskami”, domyślnie wyłączony. Pozostałe filtry są w zwijanej sekcji „Wyszukiwanie zaawansowane”. Rozwija się sama, gdy adres zawiera filtry zaawansowane.
+  - Kliknięcie liczby znalezisk rozwija listę znalezisk pod wierszem ustawy.
   - Liczby w nawiasach przy opcjach pokazują, ile ustaw da dana opcja przy pozostałych ustawionych filtrach.
   - Domyślne sortowanie: od najnowszej ustawy (data ustawy malejąco).
   - Stopka zawiera tylko link do repozytorium. Ostrzeżenie i informacja o autorze są w README (decyzja właściciela).

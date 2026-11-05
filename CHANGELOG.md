@@ -4,6 +4,10 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### S006: znaleziska bez werdyktów
+
+- Decyzja właściciela: znaleziska publikujemy tak po prostu, bez werdyktów autora. Usunięto pola `werdykt_autora` i `komentarz_autora` (dane, generator strony, format `kontrole/`), filtr „Werdykt autora” i oznaczenia werdyktu na stronie oraz bramkę S006 G5. S006 ma status „dostarczona”.
+
 ### S007: rozwijana lista znalezisk
 
 - Na stronie liczba znalezisk w tabeli jest przyciskiem. Kliknięcie rozwija pod wierszem ustawy listę znalezisk: kategorię, przepisy, wagę, informację o weryfikacji krzyżowej, werdykt autora, opis, cytaty oraz uzasadnienie i źródła w zwijanym bloku. Kliknięcie w liście nie otwiera okna szczegółów.

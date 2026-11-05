@@ -40,7 +40,7 @@ class TestX002(unittest.TestCase):
         for z in self.doc["znaleziska"]:
             self.assertIn(z["kategoria"], kat)
             self.assertIsInstance(z["weryfikacja_krzyzowa"], bool)
-            self.assertIn(z["werdykt_autora"], {"potwierdzone", "odrzucone", "do_dyskusji", "brak"})
+            self.assertNotIn("werdykt_autora", z)  # znaleziska bez werdyktów (decyzja właściciela)
             if z["weryfikacja_krzyzowa"]:
                 self.assertGreaterEqual(len(z["zrodla_wykrycia"]), 2, z["id"])
 
