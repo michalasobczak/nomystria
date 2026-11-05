@@ -58,7 +58,7 @@
     },
     "k_zgromadzenie": {
       "typ": "krok",
-      "tekst": "Nowy zarząd powołuje zgromadzenie beneficjentów, ale zgromadzenie zwołuje zarząd, którego nie ma. Kto w takim razie może zwołać zgromadzenie?",
+      "tekst": "Błędne koło: nowy zarząd może powołać tylko zgromadzenie beneficjentów, a zgromadzenie zwołuje zarząd, czyli organ, którego właśnie brakuje. Kto więc może zwołać zgromadzenie?",
       "przepisy": ["art. 61 ust. 3", "art. 71 ust. 1"],
       "cytaty": [
         "W przypadku śmierci fundatora i braku rady nadzorczej powołania i odwołania członka zarządu dokonuje zgromadzenie beneficjentów.",

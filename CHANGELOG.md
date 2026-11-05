@@ -15,7 +15,7 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 - **W trakcie:**
   - zwykły układ drzewa był za szeroki (2134 px), więc zastąpiła go „drabina decyzji”;
   - etykiety wachlarza odpowiedzi nachodziły na siebie i przeniesiono je nad węzły docelowe;
-  - tekst kroku miał odwróconą relację („zarząd powołuje zgromadzenie”) i został poprawiony.
+  - tekst kroku miał odwróconą relację („zarząd powołuje zgromadzenie”). Pierwsza poprawka („Nowy zarząd powołuje zgromadzenie…”) nadal była niejasna, co zgłosił właściciel. Obecny tekst opisuje wprost błędne koło: zarząd powołuje zgromadzenie, a zgromadzenie zwołuje zarząd, którego brak.
 - Testy `tests/test_sciezki.py` sprawdzają dosłowne cytaty, poprawne przepisy, strukturę drzewa, brak cykli i powiązanie ze znaleziskiem.
 
 ### S006: znaleziska bez werdyktów

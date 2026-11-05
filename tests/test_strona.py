@@ -2,6 +2,7 @@
 
 import csv
 import json
+import re
 import tempfile
 import unittest
 from pathlib import Path
@@ -80,7 +81,15 @@ class TestStrona(unittest.TestCase):
 
     def test_strona_czyta_dane_json(self):
         js = (ROOT / "strona" / "app.js").read_text(encoding="utf-8")
-        self.assertIn('fetch("dane.json")', js)
+        self.assertIn('fetch("dane.json?v="', js)
+
+    def test_wersjonowanie_zasobow(self):
+        # workflow podmienia __WERSJA__ na skrót commita, żeby przeglądarka nie trzymała starych plików
+        for name in ("index.html", "sciezki.html"):
+            html = (ROOT / "strona" / name).read_text(encoding="utf-8")
+            self.assertIn('<meta name="wersja" content="__WERSJA__">', html)
+            for src in re.findall(r'(?:src|href)="([^"]+\.(?:js|css)[^"]*)"', html):
+                self.assertIn("?v=__WERSJA__", src, f"{name}: {src}")
 
 
 if __name__ == "__main__":
