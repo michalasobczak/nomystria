@@ -20,7 +20,7 @@ Projekt prowadzimy według metodyki [Rondo + Context-Driven-Development](https:/
 
 ## Stan
 
-Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Strona z filtrami i wynikami kontroli (S007) działa pod adresem **https://michalasobczak.github.io/nomystria/**. Jej kod jest w [`strona/`](strona/). Wyniki kontroli trafiają do [`kontrole/`](kontrole/). Kolejne etapy to weryfikacja danych (S005) i pierwsza próbna analiza ustawy (S006).
+Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Strona z filtrami i wynikami kontroli (S007) działa pod adresem **https://michalasobczak.github.io/nomystria/**. Jej kod jest w [`strona/`](strona/). Wyniki kontroli trafiają do [`kontrole/`](kontrole/). Weryfikacja danych (S005) potwierdziła bilans i parametry na próbie 100 ustaw. Wykryła też 12 ustaw z tekstem ujednoliconym starszym niż ostatni t.j. i 29 ustaw z nieczytelnym tekstem ([raport](kontrole/x001/RAPORT.md)). Kolejny etap to pierwsza próbna analiza ustawy (S006).
 
 | Spec | Tytuł | Status |
 | --- | --- | --- |
@@ -28,7 +28,7 @@ Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucj
 | [S002](specs/S002-korpus-ustaw.md) | Korpus: Konstytucja i obowiązujące ustawy w aktualnym brzmieniu | dostarczona |
 | [S003](specs/S003-konwersja-pdf-md.md) | Konwersja PDF → Markdown | dostarczona |
 | [S004](specs/S004-tabela-ustaw.md) | Tabela ustaw: zmiany, tekst jednolity i tekst ujednolicony | dostarczona |
-| [S005](specs/S005-weryfikacja-ilosciowa.md) | Weryfikacja ilościowa korpusu i klasyfikacji: jednorazowy test na próbie 100 ustaw | proponowana |
+| [S005](specs/S005-weryfikacja-ilosciowa.md) | Weryfikacja ilościowa korpusu i klasyfikacji: jednorazowy test na próbie 100 ustaw ([raport](kontrole/x001/RAPORT.md)) | dostarczona, czeka na przegląd autora |
 | [S006](specs/S006-analiza-jednej-ustawy.md) | Eksperymentalna analiza jednej ustawy: niespójności, braki, wady, sprzeczności, brak ścieżek alternatywnych, zaniechania | proponowana |
 | [S007](specs/S007-strona-gh-pages.md) | Strona na GitHub Pages: przeglądarka ustaw z filtrami i wynikami kontroli | dostarczona |
 

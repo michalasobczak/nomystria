@@ -1,0 +1,4527 @@
+{
+ "id": "x001",
+ "spec": "S005",
+ "tytul": "Weryfikacja ilościowa: próba 100 ustaw + kontrole całego korpusu",
+ "data": "2026-11-05",
+ "ziarno": 20261105,
+ "probka": [
+  "DU/1956/57",
+  "DU/1971/114",
+  "DU/1971/156",
+  "DU/1974/117",
+  "DU/1982/214",
+  "DU/1982/230",
+  "DU/1984/191",
+  "DU/1984/268",
+  "DU/1989/155",
+  "DU/1989/178",
+  "DU/1991/335",
+  "DU/1992/428",
+  "DU/1992/451",
+  "DU/1993/226",
+  "DU/1994/396",
+  "DU/1994/398",
+  "DU/1995/713",
+  "DU/1996/491",
+  "DU/1996/777",
+  "DU/1997/24",
+  "DU/1997/483",
+  "DU/1997/553",
+  "DU/1997/554",
+  "DU/1997/556",
+  "DU/1999/548",
+  "DU/1999/728",
+  "DU/1999/1255",
+  "DU/2001/18",
+  "DU/2001/812",
+  "DU/2001/1149",
+  "DU/2001/1371",
+  "DU/2002/1360",
+  "DU/2003/363",
+  "DU/2004/95",
+  "DU/2004/144",
+  "DU/2004/535",
+  "DU/2005/684",
+  "DU/2005/1414",
+  "DU/2005/1539",
+  "DU/2006/127",
+  "DU/2006/1043",
+  "DU/2006/1353",
+  "DU/2006/1844",
+  "DU/2007/135",
+  "DU/2007/343",
+  "DU/2007/590",
+  "DU/2007/850",
+  "DU/2007/1206",
+  "DU/2008/1055",
+  "DU/2008/1656",
+  "DU/2009/417",
+  "DU/2010/601",
+  "DU/2010/675",
+  "DU/2010/707",
+  "DU/2011/151",
+  "DU/2011/322",
+  "DU/2011/622",
+  "DU/2012/855",
+  "DU/2012/915",
+  "DU/2013/455",
+  "DU/2013/1304",
+  "DU/2014/40",
+  "DU/2014/932",
+  "DU/2015/222",
+  "DU/2015/1688",
+  "DU/2015/1916",
+  "DU/2016/868",
+  "DU/2016/927",
+  "DU/2016/2259",
+  "DU/2017/599",
+  "DU/2017/624",
+  "DU/2017/2383",
+  "DU/2017/2486",
+  "DU/2018/648",
+  "DU/2018/729",
+  "DU/2018/770",
+  "DU/2018/1540",
+  "DU/2018/1546",
+  "DU/2019/1401",
+  "DU/2019/1532",
+  "DU/2019/1924",
+  "DU/2019/2197",
+  "DU/2020/1262",
+  "DU/2021/223",
+  "DU/2021/2262",
+  "DU/2021/2389",
+  "DU/2022/655",
+  "DU/2022/1370",
+  "DU/2022/2731",
+  "DU/2023/180",
+  "DU/2023/412",
+  "DU/2023/1030",
+  "DU/2023/1537",
+  "DU/2024/731",
+  "DU/2024/928",
+  "DU/2024/1221",
+  "DU/2024/1222",
+  "DU/2025/368",
+  "DU/2025/1088",
+  "DU/2026/971"
+ ],
+ "korpus": {
+  "K1_sprawdzono": 813,
+  "K1_rozbiezne": 12,
+  "K2_sprawdzono": 1177,
+  "K2_rozbiezne": 29
+ },
+ "wyniki": [
+  {
+   "eli": "DU/1956/57",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1956/57",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1956/57",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1971/114",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1971/114",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "117",
+   "wartosc_zrodlo": "117",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1971/114",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/1372",
+   "wartosc_zrodlo": "DU/2025/734",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext)",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "tekst ujednolicony opracowano na podstawie innego (wcześniejszego?) t.j."
+  },
+  {
+   "eli": "DU/1971/114",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "4 w ramce",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext)",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "w ramce, a nie wśród aktów zmieniających: DU/2025/1676, DU/2025/1814, DU/2025/1818, DU/2025/1872"
+  },
+  {
+   "eli": "DU/1971/114",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-05-05",
+   "wartosc_zrodlo": "2026-05-05",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1971/156",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1971/156",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1971/156",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1974/117",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1974/117",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "47",
+   "wartosc_zrodlo": "47",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1974/117",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/195",
+   "wartosc_zrodlo": "DU/2025/195",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1974/117",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1974/117",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-04-17",
+   "wartosc_zrodlo": "2026-04-17",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1982/214",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1982/214",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "72",
+   "wartosc_zrodlo": "72",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1982/214",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/1459",
+   "wartosc_zrodlo": "DU/2025/1459",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1982/214",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "2 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1982/214",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-04-21",
+   "wartosc_zrodlo": "2026-04-21",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1982/230",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1982/230",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "72",
+   "wartosc_zrodlo": "72",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1982/230",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2023/2151",
+   "wartosc_zrodlo": "DU/2023/2151",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1982/230",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1982/230",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-07-23",
+   "wartosc_zrodlo": "2026-07-23",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1984/191",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1984/191",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1984/191",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1984/268",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1984/268",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "51",
+   "wartosc_zrodlo": "51",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1984/268",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/1344",
+   "wartosc_zrodlo": "DU/2025/1344",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1984/268",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1984/268",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-07-23",
+   "wartosc_zrodlo": "2026-07-23",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1989/155",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1989/155",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "18",
+   "wartosc_zrodlo": "18",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1989/155",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2023/265",
+   "wartosc_zrodlo": "DU/2023/265",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1989/155",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1989/155",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2023-02-20",
+   "wartosc_zrodlo": "2023-02-20",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1989/178",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne (zmieniana)",
+   "wartosc_zrodlo": "pierwotne (zmieniana)",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1989/178",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "14",
+   "wartosc_zrodlo": "14",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1989/178",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1991/335",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1991/335",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "74",
+   "wartosc_zrodlo": "74",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1991/335",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2024/425",
+   "wartosc_zrodlo": "DU/2024/425",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1991/335",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "2 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1991/335",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-09-11",
+   "wartosc_zrodlo": "2026-09-11",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1992/428",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1992/428",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "29",
+   "wartosc_zrodlo": "29",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1992/428",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/7",
+   "wartosc_zrodlo": "DU/2025/7",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1992/428",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1992/428",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2025-01-20",
+   "wartosc_zrodlo": "2025-01-20",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1992/451",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1992/451",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1992/451",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI} + ramka PDF",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1992/451",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "",
+   "wartosc_zrodlo": "",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "niezweryfikowany",
+   "wyjasnienie": "pdftotext nie odczytał daty ze stopki"
+  },
+  {
+   "eli": "DU/1993/226",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1993/226",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1993/226",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1994/396",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1994/396",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1994/396",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1994/396",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2005-08-23",
+   "wartosc_zrodlo": "",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "niezweryfikowany",
+   "wyjasnienie": "pdftotext nie odczytał daty ze stopki"
+  },
+  {
+   "eli": "DU/1994/398",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1994/398",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "19",
+   "wartosc_zrodlo": "19",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1994/398",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/146",
+   "wartosc_zrodlo": "DU/2026/146",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1994/398",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1994/398",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-02-17",
+   "wartosc_zrodlo": "2026-02-17",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1995/713",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1995/713",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "47",
+   "wartosc_zrodlo": "47",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1995/713",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/539",
+   "wartosc_zrodlo": "DU/2025/539",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1995/713",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1995/713",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-03-30",
+   "wartosc_zrodlo": "2026-03-30",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1996/491",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1996/491",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "24",
+   "wartosc_zrodlo": "24",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1996/491",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/529",
+   "wartosc_zrodlo": "DU/2025/529",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1996/491",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1996/491",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-11-02",
+   "wartosc_zrodlo": "2026-11-02",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1996/777",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1996/777",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "5",
+   "wartosc_zrodlo": "5",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1996/777",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2020/720",
+   "wartosc_zrodlo": "DU/2020/720",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1996/777",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1996/777",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2020-05-07",
+   "wartosc_zrodlo": "2020-05-07",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/24",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/24",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "19",
+   "wartosc_zrodlo": "19",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/24",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2022/385",
+   "wartosc_zrodlo": "DU/2022/385",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/24",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1997/24",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2022-02-18",
+   "wartosc_zrodlo": "2022-02-18",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/483",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/483",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/483",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI} + ramka PDF",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/483",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2015-01-07",
+   "wartosc_zrodlo": "2015-01-07",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/553",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/553",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "122",
+   "wartosc_zrodlo": "122",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/553",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/1342",
+   "wartosc_zrodlo": "DU/2026/1342",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/553",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1997/553",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-10-29",
+   "wartosc_zrodlo": "2026-10-29",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/554",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/554",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "27",
+   "wartosc_zrodlo": "27",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/554",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI} + ramka PDF",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/554",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2024-01-24",
+   "wartosc_zrodlo": "2024-01-24",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/556",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/556",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "7",
+   "wartosc_zrodlo": "7",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/556",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1997/556",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2008-01-07",
+   "wartosc_zrodlo": "2008-01-07",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1999/548",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1999/548",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "9",
+   "wartosc_zrodlo": "9",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1999/548",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2018/2349",
+   "wartosc_zrodlo": "DU/2018/2349",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1999/548",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": "brak ramki PDF do porównania"
+  },
+  {
+   "eli": "DU/1999/548",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2019-02-08",
+   "wartosc_zrodlo": "2019-02-08",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1999/728",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1999/728",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1999/728",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1999/1255",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1999/1255",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "48",
+   "wartosc_zrodlo": "48",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1999/1255",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2024/1356",
+   "wartosc_zrodlo": "DU/2024/1356",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1999/1255",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/1999/1255",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2024-09-20",
+   "wartosc_zrodlo": "2024-09-20",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/18",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/18",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "51",
+   "wartosc_zrodlo": "51",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/18",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/1",
+   "wartosc_zrodlo": "DU/2026/1",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/18",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2001/18",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-08-26",
+   "wartosc_zrodlo": "2026-08-26",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/812",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/812",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/812",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2018/359",
+   "wartosc_zrodlo": "DU/2018/359",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/812",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": "brak ramki PDF do porównania"
+  },
+  {
+   "eli": "DU/2001/812",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2018-02-26",
+   "wartosc_zrodlo": "2018-02-26",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/1149",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/1149",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/1149",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/1149",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "",
+   "wartosc_zrodlo": "",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "niezweryfikowany",
+   "wyjasnienie": "pdftotext nie odczytał daty ze stopki"
+  },
+  {
+   "eli": "DU/2001/1371",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/1371",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "109",
+   "wartosc_zrodlo": "109",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/1371",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/1490",
+   "wartosc_zrodlo": "DU/2025/1490",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2001/1371",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "5",
+   "wartosc_zrodlo": "5",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "5 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2001/1371",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-08-19",
+   "wartosc_zrodlo": "2026-08-19",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2002/1360",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2002/1360",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "41",
+   "wartosc_zrodlo": "41",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2002/1360",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2023/215",
+   "wartosc_zrodlo": "DU/2023/215",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2002/1360",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2002/1360",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2025-12-30",
+   "wartosc_zrodlo": "2025-12-30",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2003/363",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2003/363",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2003/363",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI} + ramka PDF",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2003/363",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2016-09-13",
+   "wartosc_zrodlo": "2016-09-13",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2004/95",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2004/95",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "8",
+   "wartosc_zrodlo": "8",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2004/95",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2019/24",
+   "wartosc_zrodlo": "DU/2019/24",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2004/95",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": "brak ramki PDF do porównania"
+  },
+  {
+   "eli": "DU/2004/95",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-03-30",
+   "wartosc_zrodlo": "2026-03-30",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2004/144",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2004/144",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2004/144",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2004/535",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2004/535",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "118",
+   "wartosc_zrodlo": "118",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2004/535",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/1263",
+   "wartosc_zrodlo": "DU/2026/1263",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2004/535",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym; 1 ogłoszone po dacie tekstu ujednoliconego (2026-10-16): DU/2026/1446"
+  },
+  {
+   "eli": "DU/2004/535",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-10-16",
+   "wartosc_zrodlo": "2026-10-16",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2005/684",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2005/684",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "10",
+   "wartosc_zrodlo": "10",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2005/684",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2018/164",
+   "wartosc_zrodlo": "DU/2018/164",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2005/684",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2005/684",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2018-02-06",
+   "wartosc_zrodlo": "2018-02-06",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2005/1414",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2005/1414",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "6",
+   "wartosc_zrodlo": "6",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2005/1414",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/936",
+   "wartosc_zrodlo": "DU/2026/936",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2005/1414",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2005/1414",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-07-23",
+   "wartosc_zrodlo": "2026-07-23",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2005/1539",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2005/1539",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "37",
+   "wartosc_zrodlo": "37",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2005/1539",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/592",
+   "wartosc_zrodlo": "DU/2025/592",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2005/1539",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "5",
+   "wartosc_zrodlo": "5",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "5 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2005/1539",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-10-09",
+   "wartosc_zrodlo": "2026-10-09",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/127",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/127",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "19",
+   "wartosc_zrodlo": "19",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/127",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/981",
+   "wartosc_zrodlo": "DU/2026/981",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/127",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2006/127",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-07-29",
+   "wartosc_zrodlo": "2026-07-29",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/1043",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/1043",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "16",
+   "wartosc_zrodlo": "16",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/1043",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/1065",
+   "wartosc_zrodlo": "DU/2026/1065",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/1043",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2006/1043",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-08-21",
+   "wartosc_zrodlo": "2026-08-21",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/1353",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/1353",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "10",
+   "wartosc_zrodlo": "10",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/1353",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2021/985",
+   "wartosc_zrodlo": "DU/2021/985",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/1353",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2006/1353",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-09-10",
+   "wartosc_zrodlo": "2026-09-10",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/1844",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/1844",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "19",
+   "wartosc_zrodlo": "19",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/1844",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/511",
+   "wartosc_zrodlo": "DU/2026/511",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2006/1844",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2006/1844",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-07-29",
+   "wartosc_zrodlo": "2026-07-29",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/135",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/135",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/135",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/343",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/343",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "33",
+   "wartosc_zrodlo": "33",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/343",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/599",
+   "wartosc_zrodlo": "DU/2026/599",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/343",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2007/343",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-07-27",
+   "wartosc_zrodlo": "2026-07-27",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/590",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/590",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "35",
+   "wartosc_zrodlo": "35",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/590",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/574",
+   "wartosc_zrodlo": "DU/2026/574",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/590",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "2 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2007/590",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-10-08",
+   "wartosc_zrodlo": "2026-10-08",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/850",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/850",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "14",
+   "wartosc_zrodlo": "14",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/850",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2022/1007",
+   "wartosc_zrodlo": "DU/2022/1007",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/850",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2007/850",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2022-05-23",
+   "wartosc_zrodlo": "2022-05-23",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/1206",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/1206",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "5",
+   "wartosc_zrodlo": "5",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/1206",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2023/845",
+   "wartosc_zrodlo": "DU/2023/845",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2007/1206",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": "brak ramki PDF do porównania"
+  },
+  {
+   "eli": "DU/2007/1206",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-10-29",
+   "wartosc_zrodlo": "2026-10-29",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2008/1055",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2008/1055",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "9",
+   "wartosc_zrodlo": "9",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2008/1055",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2024/597",
+   "wartosc_zrodlo": "DU/2024/597",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2008/1055",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2008/1055",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-07-07",
+   "wartosc_zrodlo": "2026-07-07",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2008/1656",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2008/1656",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "13",
+   "wartosc_zrodlo": "13",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2008/1656",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2024/1696",
+   "wartosc_zrodlo": "DU/2024/1696",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2008/1656",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2008/1656",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2025-01-21",
+   "wartosc_zrodlo": "2025-01-21",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2009/417",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2009/417",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "37",
+   "wartosc_zrodlo": "37",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2009/417",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2024/581",
+   "wartosc_zrodlo": "DU/2024/581",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2009/417",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "2 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2009/417",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-07-02",
+   "wartosc_zrodlo": "2026-07-02",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2010/601",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2010/601",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2010/601",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2010/675",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2010/675",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "28",
+   "wartosc_zrodlo": "28",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2010/675",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/562",
+   "wartosc_zrodlo": "DU/2026/562",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2010/675",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2010/675",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-07-07",
+   "wartosc_zrodlo": "2026-07-07",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2010/707",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2010/707",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2010/707",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2011/151",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2011/151",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "67",
+   "wartosc_zrodlo": "67",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2011/151",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/1226",
+   "wartosc_zrodlo": "DU/2025/1226",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2011/151",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "5",
+   "wartosc_zrodlo": "5",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "5 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2011/151",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-10-01",
+   "wartosc_zrodlo": "2026-10-01",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2011/322",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2011/322",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "10",
+   "wartosc_zrodlo": "10",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2011/322",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2022/1816",
+   "wartosc_zrodlo": "DU/2022/1816",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2011/322",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2011/322",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2022-09-12",
+   "wartosc_zrodlo": "2022-09-12",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2011/622",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2011/622",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "3",
+   "wartosc_zrodlo": "3",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2011/622",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2011/622",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2015-04-22",
+   "wartosc_zrodlo": "2015-04-22",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2012/855",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2012/855",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "74",
+   "wartosc_zrodlo": "74",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2012/855",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/595",
+   "wartosc_zrodlo": "DU/2026/595",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2012/855",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2012/855",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-10-08",
+   "wartosc_zrodlo": "2026-10-08",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2012/915",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2012/915",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2012/915",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2013/455",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2013/455",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "16",
+   "wartosc_zrodlo": "16",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2013/455",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/624",
+   "wartosc_zrodlo": "DU/2026/624",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2013/455",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2013/455",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-05-18",
+   "wartosc_zrodlo": "2026-05-18",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2013/1304",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2013/1304",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "7",
+   "wartosc_zrodlo": "7",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2013/1304",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2022/2628",
+   "wartosc_zrodlo": "DU/2022/2628",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2013/1304",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2013/1304",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2023-01-03",
+   "wartosc_zrodlo": "2023-01-03",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2014/40",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2014/40",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "3",
+   "wartosc_zrodlo": "3",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2014/40",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2021/1073",
+   "wartosc_zrodlo": "DU/2021/1073",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2014/40",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2014/40",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2021-06-25",
+   "wartosc_zrodlo": "2021-06-25",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2014/932",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2014/932",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "5",
+   "wartosc_zrodlo": "5",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2014/932",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2022/1218",
+   "wartosc_zrodlo": "DU/2022/1218",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2014/932",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2014/932",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2022-06-13",
+   "wartosc_zrodlo": "2022-06-13",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2015/222",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2015/222",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "15",
+   "wartosc_zrodlo": "15",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2015/222",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/590",
+   "wartosc_zrodlo": "DU/2025/590",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2015/222",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2015/222",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2025-05-19",
+   "wartosc_zrodlo": "2025-05-19",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2015/1688",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2015/1688",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "12",
+   "wartosc_zrodlo": "12",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2015/1688",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2024/573",
+   "wartosc_zrodlo": "DU/2024/573",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2015/1688",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2015/1688",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-03-05",
+   "wartosc_zrodlo": "2026-03-05",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2015/1916",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2015/1916",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "13",
+   "wartosc_zrodlo": "13",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2015/1916",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/149",
+   "wartosc_zrodlo": "DU/2026/149",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2015/1916",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2015/1916",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-08-19",
+   "wartosc_zrodlo": "2026-08-19",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2016/868",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2016/868",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "6",
+   "wartosc_zrodlo": "6",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2016/868",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/1682",
+   "wartosc_zrodlo": "DU/2025/1682",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2016/868",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2016/868",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2025-12-12",
+   "wartosc_zrodlo": "2025-12-12",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2016/927",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2016/927",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2016/927",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2016/2259",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2016/2259",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "36",
+   "wartosc_zrodlo": "36",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2016/2259",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/373",
+   "wartosc_zrodlo": "DU/2026/373",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2016/2259",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2016/2259",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-04-02",
+   "wartosc_zrodlo": "2026-04-02",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/599",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/599",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "8",
+   "wartosc_zrodlo": "8",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/599",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/342",
+   "wartosc_zrodlo": "DU/2025/342",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/599",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2017/599",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2025-04-02",
+   "wartosc_zrodlo": "2025-04-02",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/624",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne (zmieniana)",
+   "wartosc_zrodlo": "pierwotne (zmieniana)",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/624",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/624",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/2383",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/2383",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/2383",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/2486",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/2486",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "10",
+   "wartosc_zrodlo": "10",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/2486",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/12",
+   "wartosc_zrodlo": "DU/2026/12",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2017/2486",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2017/2486",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-06-03",
+   "wartosc_zrodlo": "2026-06-03",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/648",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/648",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/648",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/461",
+   "wartosc_zrodlo": "DU/2026/461",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/648",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2018/648",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-04-09",
+   "wartosc_zrodlo": "2026-04-09",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/729",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/729",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "13",
+   "wartosc_zrodlo": "13",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/729",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/607",
+   "wartosc_zrodlo": "DU/2025/607",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/729",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "2 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2018/729",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-09-16",
+   "wartosc_zrodlo": "2026-09-16",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/770",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/770",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "7",
+   "wartosc_zrodlo": "7",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/770",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2024/377",
+   "wartosc_zrodlo": "DU/2024/377",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/770",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2018/770",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2024-03-21",
+   "wartosc_zrodlo": "2024-03-21",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/1540",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/1540",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "7",
+   "wartosc_zrodlo": "7",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/1540",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2024/506",
+   "wartosc_zrodlo": "DU/2024/506",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/1540",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2018/1540",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2024-04-10",
+   "wartosc_zrodlo": "2024-04-10",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/1546",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/1546",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/1546",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2020/865",
+   "wartosc_zrodlo": "DU/2020/865",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2018/1546",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2018/1546",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2020-05-28",
+   "wartosc_zrodlo": "2020-05-28",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/1401",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/1401",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/1401",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2021/763",
+   "wartosc_zrodlo": "DU/2021/763",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/1401",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2019/1401",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2021-04-29",
+   "wartosc_zrodlo": "2021-04-29",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/1532",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/1532",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "10",
+   "wartosc_zrodlo": "10",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/1532",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/807",
+   "wartosc_zrodlo": "DU/2026/807",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/1532",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2019/1532",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-06-29",
+   "wartosc_zrodlo": "2026-06-29",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/1924",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/1924",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "7",
+   "wartosc_zrodlo": "7",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/1924",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/1063",
+   "wartosc_zrodlo": "DU/2026/1063",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/1924",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2019/1924",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-08-21",
+   "wartosc_zrodlo": "2026-08-21",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/2197",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/2197",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/2197",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/1463",
+   "wartosc_zrodlo": "DU/2025/1463",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2019/2197",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2019/2197",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2025-10-29",
+   "wartosc_zrodlo": "2025-10-29",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2020/1262",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2020/1262",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "7",
+   "wartosc_zrodlo": "7",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2020/1262",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2026/759",
+   "wartosc_zrodlo": "DU/2026/759",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2020/1262",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2020/1262",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-06-18",
+   "wartosc_zrodlo": "2026-06-18",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2021/223",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2021/223",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2021/223",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2023/1525",
+   "wartosc_zrodlo": "DU/2023/1525",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2021/223",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2021/223",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2023-08-08",
+   "wartosc_zrodlo": "2023-08-08",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2021/2262",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2021/2262",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2021/2262",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2023/1773",
+   "wartosc_zrodlo": "DU/2023/1773",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2021/2262",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2021/2262",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2023-09-22",
+   "wartosc_zrodlo": "2023-09-22",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2021/2389",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2021/2389",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "3",
+   "wartosc_zrodlo": "3",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2021/2389",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2024/75",
+   "wartosc_zrodlo": "DU/2024/75",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2021/2389",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2021/2389",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2024-02-02",
+   "wartosc_zrodlo": "2024-02-02",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2022/655",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2022/655",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "24",
+   "wartosc_zrodlo": "24",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2022/655",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/825",
+   "wartosc_zrodlo": "DU/2025/825",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2022/655",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "7",
+   "wartosc_zrodlo": "7",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "7 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2022/655",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-09-16",
+   "wartosc_zrodlo": "2026-09-16",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2022/1370",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2022/1370",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2022/1370",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2023/1235",
+   "wartosc_zrodlo": "DU/2023/1235",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2022/1370",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2022/1370",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2023-07-10",
+   "wartosc_zrodlo": "2023-07-10",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2022/2731",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2022/2731",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2022/2731",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2025/447",
+   "wartosc_zrodlo": "DU/2025/447",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2022/2731",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "1 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2022/2731",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-02-27",
+   "wartosc_zrodlo": "2026-02-27",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/180",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/180",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/180",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI} + ramka PDF",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/180",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-10-08",
+   "wartosc_zrodlo": "2026-10-08",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/412",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/412",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "4",
+   "wartosc_zrodlo": "4",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/412",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2024/1741",
+   "wartosc_zrodlo": "DU/2024/1741",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/412",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "2",
+   "wartosc_zrodlo": "2",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "2 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2023/412",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-10-08",
+   "wartosc_zrodlo": "2026-10-08",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/1030",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/1030",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/1030",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "DU/2024/548",
+   "wartosc_zrodlo": "DU/2024/548",
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/1030",
+   "parametr": "zmian_po_tekscie_jednolitym",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext) + daty ogłoszenia",
+   "werdykt": "zgodny",
+   "wyjasnienie": "0 uwzględnione w tekście ujednoliconym"
+  },
+  {
+   "eli": "DU/2023/1030",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2024-04-22",
+   "wartosc_zrodlo": "2024-04-22",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/1537",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/1537",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2023/1537",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/731",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/731",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/731",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/928",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/928",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/928",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/1221",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/1221",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "5",
+   "wartosc_zrodlo": "5",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/1221",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI} + ramka PDF",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/1221",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-10-16",
+   "wartosc_zrodlo": "2026-10-16",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/1222",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "ujednolicone",
+   "wartosc_zrodlo": "ujednolicone",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/1222",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "1",
+   "wartosc_zrodlo": "1",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/1222",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI} + ramka PDF",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2024/1222",
+   "parametr": "tekst_ujednolicony_z_dnia",
+   "wartosc_zbior": "2026-03-24",
+   "wartosc_zrodlo": "2026-03-24",
+   "zrodlo": "stopka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2025/368",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2025/368",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2025/368",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2025/1088",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2025/1088",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2025/1088",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2026/971",
+   "parametr": "brzmienie",
+   "wartosc_zbior": "pierwotne",
+   "wartosc_zrodlo": "pierwotne",
+   "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2026/971",
+   "parametr": "liczba_ustaw_zmieniajacych",
+   "wartosc_zbior": "0",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI} + relacja odwrotna „Akty zmienione”",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/2026/971",
+   "parametr": "tekst_jednolity",
+   "wartosc_zbior": "—",
+   "wartosc_zrodlo": "—",
+   "zrodlo": "GET /acts/{ELI}",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
+  },
+  {
+   "eli": "DU/1950/270",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "1209 znaków sterujących, 13% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1964/60",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "5464 znaków sterujących, 9% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1964/297",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "7049 znaków sterujących, 13% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1971/114",
+   "parametr": "aktualnosc_tekstu_ujednoliconego",
+   "wartosc_zbior": "t.u. z 2026-05-05 na podstawie DU/2025/734",
+   "wartosc_zrodlo": "ostatni t.j. DU/2026/1372 z 2026-10-02",
+   "zrodlo": "ramka PDF + GET /acts/{ELI}",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
+  },
+  {
+   "eli": "DU/1971/115",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "7147 znaków sterujących, 14% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1981/101",
+   "parametr": "aktualnosc_tekstu_ujednoliconego",
+   "wartosc_zbior": "t.u. z 2023-03-03 na podstawie DU/2022/1215",
+   "wartosc_zrodlo": "ostatni t.j. DU/2023/624 z 2023-03-10",
+   "zrodlo": "ramka PDF + GET /acts/{ELI}",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
+  },
+  {
+   "eli": "DU/1989/14",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "103 znaków sterujących, 47% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1989/36",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "239 znaków sterujących, 27% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1989/179",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "2457 znaków sterujących, 7% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1989/184",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "187 znaków sterujących, 28% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1989/185",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "211 znaków sterujących, 27% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1989/386",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "188 znaków sterujących, 26% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1989/388",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "383 znaków sterujących, 21% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1989/390",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "5683 znaków sterujących, 4% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1989/406",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "2783 znaków sterujących, 9% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1990/89",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "1580 znaków sterujących, 12% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1990/159",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "227 znaków sterujących, 31% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1990/160",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "259 znaków sterujących, 25% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1990/256",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "769 znaków sterujących, 15% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1990/306",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "13239 znaków sterujących, 10% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1990/310",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "1546 znaków sterujących, 19% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1991/373",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "6920 znaków sterujących, 6% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1992/451",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "4499 znaków sterujących, 12% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1993/226",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "318 znaków sterujących, 34% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1994/225",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "2126 znaków sterujących, 17% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1996/176",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "540 znaków sterujących, 22% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1996/464",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "115 znaków sterujących, 49% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1996/776",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "2870 znaków sterujących, 10% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1997/165",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "547 znaków sterujących, 23% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1997/494",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "1778 znaków sterujących, 11% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/1997/642",
+   "parametr": "czytelnosc_tekstu",
+   "wartosc_zbior": "tekst w zbiorze",
+   "wartosc_zrodlo": "1494 znaków sterujących, 15% liter",
+   "zrodlo": "analiza pliku Markdown",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
+  },
+  {
+   "eli": "DU/2001/627",
+   "parametr": "aktualnosc_tekstu_ujednoliconego",
+   "wartosc_zbior": "t.u. z 2026-09-11 na podstawie DU/2025/647",
+   "wartosc_zrodlo": "ostatni t.j. DU/2026/1453 z 2026-10-22",
+   "zrodlo": "ramka PDF + GET /acts/{ELI}",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
+  },
+  {
+   "eli": "DU/2006/1354",
+   "parametr": "aktualnosc_tekstu_ujednoliconego",
+   "wartosc_zbior": "t.u. z 2023-07-18 na podstawie DU/2023/1296",
+   "wartosc_zrodlo": "ostatni t.j. DU/2021/403 z 2021-02-23",
+   "zrodlo": "ramka PDF + GET /acts/{ELI}",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
+  },
+  {
+   "eli": "DU/2006/1658",
+   "parametr": "aktualnosc_tekstu_ujednoliconego",
+   "wartosc_zbior": "t.u. z 2026-11-02 na podstawie DU/2026/1366",
+   "wartosc_zrodlo": "ostatni t.j. DU/2025/198 z 2025-02-05",
+   "zrodlo": "ramka PDF + GET /acts/{ELI}",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
+  },
+  {
+   "eli": "DU/2009/1240",
+   "parametr": "aktualnosc_tekstu_ujednoliconego",
+   "wartosc_zbior": "t.u. z 2026-08-03 na podstawie DU/2025/1483",
+   "wartosc_zrodlo": "ostatni t.j. DU/2026/1447 z 2026-10-02",
+   "zrodlo": "ramka PDF + GET /acts/{ELI}",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
+  },
+  {
+   "eli": "DU/2010/44",
+   "parametr": "aktualnosc_tekstu_ujednoliconego",
+   "wartosc_zbior": "t.u. z 2024-09-04 na podstawie DU/2023/1212",
+   "wartosc_zrodlo": "ostatni t.j. DU/2024/1485 z 2024-09-30",
+   "zrodlo": "ramka PDF + GET /acts/{ELI}",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
+  },
+  {
+   "eli": "DU/2010/835",
+   "parametr": "aktualnosc_tekstu_ujednoliconego",
+   "wartosc_zbior": "t.u. z 2025-06-13 na podstawie ?",
+   "wartosc_zrodlo": "ostatni t.j. DU/2026/1374 z 2026-10-02",
+   "zrodlo": "ramka PDF + GET /acts/{ELI}",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
+  },
+  {
+   "eli": "DU/2011/814",
+   "parametr": "aktualnosc_tekstu_ujednoliconego",
+   "wartosc_zbior": "t.u. z 2026-06-29 na podstawie DU/2026/804",
+   "wartosc_zrodlo": "ostatni t.j. DU/2026/803 z 2026-05-27",
+   "zrodlo": "ramka PDF + GET /acts/{ELI}",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
+  },
+  {
+   "eli": "DU/2012/769",
+   "parametr": "aktualnosc_tekstu_ujednoliconego",
+   "wartosc_zbior": "t.u. z 2025-06-04 na podstawie DU/2021/1745",
+   "wartosc_zrodlo": "ostatni t.j. DU/2025/1567 z 2025-11-07",
+   "zrodlo": "ramka PDF + GET /acts/{ELI}",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
+  },
+  {
+   "eli": "DU/2014/575",
+   "parametr": "aktualnosc_tekstu_ujednoliconego",
+   "wartosc_zbior": "t.u. z 2016-02-09 na podstawie ?",
+   "wartosc_zrodlo": "ostatni t.j. DU/2016/861 z 2016-06-09",
+   "zrodlo": "ramka PDF + GET /acts/{ELI}",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
+  },
+  {
+   "eli": "DU/2018/771",
+   "parametr": "aktualnosc_tekstu_ujednoliconego",
+   "wartosc_zbior": "t.u. z 2026-07-14 na podstawie DU/2026/882",
+   "wartosc_zrodlo": "ostatni t.j. DU/2026/881 z 2026-06-12",
+   "zrodlo": "ramka PDF + GET /acts/{ELI}",
+   "werdykt": "rozbiezny",
+   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
+  }
+ ]
+}

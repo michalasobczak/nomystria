@@ -1,6 +1,6 @@
 # S005 — Weryfikacja ilościowa korpusu i klasyfikacji (próba 100 ustaw)
 
-- **Status:** proponowana
+- **Status:** dostarczona, czeka na przegląd autora (wynik: [`kontrole/x001/RAPORT.md`](../kontrole/x001/RAPORT.md))
 - **Data:** 2026-11-05
 - **Powiązane:** S002 (korpus), S004 (tabela), S007 (strona z wynikami kontroli)
 
@@ -97,3 +97,7 @@ Progi G3 i G4 są propozycją do zatwierdzenia przez autora.
   - Kto lub co jest drugim narzędziem weryfikacji: inny model AI, przegląd ręczny czy oba?
   - Czy definicję „zmian po t.j.” zmienić na „zmiany ogłoszone po t.j. i nieuwzględnione w tekście ujednoliconym”?
 - **Źródła:** ISAP, API ELI, art. 16 ustawy o ogłaszaniu aktów normatywnych (teksty jednolite).
+- **Zmiany w trakcie realizacji:**
+  - Strony ISAP `DocDetails` blokują automatyczne zapytania (HTTP 403), więc ich nie użyliśmy. Drugim źródłem były listowanie roczne API, szczegóły aktu, relacje odwrotne, ramka PDF odczytana przez pdftotext oraz treść aktów.
+  - Drugim narzędziem są deterministyczne kontrole (inne ścieżki API, inny parser PDF). Modelu AI nie użyto, bo nie był potrzebny.
+  - Rozbieżności z próby (Kodeks wykroczeń, DU/1992/451) doprowadziły do dwóch kontroli całego korpusu: K1 (aktualność tekstu ujednoliconego) i K2 (czytelność tekstu).

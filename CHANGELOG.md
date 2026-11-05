@@ -4,6 +4,29 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### S005: weryfikacja ilościowa (x001)
+
+- Skrypt `eksperymenty/x001-weryfikacja-100/x001.py` zapisał wyniki do `kontrole/x001/`: `wyniki.json` (widoczne na stronie), `bilans.json`, `wykluczenia.json` i `RAPORT.md`.
+- Wynik:
+  - **G1:** bilans 6092 = 6092. Listowanie roczne uzgodnione: +1237 aktów „bez statusu”, −4 akty z `inForce=1` i statusem „uchylony”.
+  - **G2:** brzmienie 100/100.
+  - **G3:** t.j. 99/100.
+  - **G4:** liczba zmian 100/100 (z relacją odwrotną).
+  - **G5:** wszystkie różnice w zmianach po t.j. wyjaśnione.
+  - **G6:** 69/70 wykluczeń potwierdzonych treścią, 1 nieczytelne, 0 fałszywych.
+- **Wykryte problemy korpusu:**
+  - K1: 12 ustaw ma tekst ujednolicony starszy niż ostatni t.j., np. Kodeks wykroczeń i ustawa o finansach publicznych;
+  - K2: 29 ustaw ma nieczytelny tekst (uszkodzone kodowanie czcionek w PDF-ach z ISAP).
+
+  Danych nie poprawiano (poza zakresem S005), a ustawy są oznaczone na stronie.
+- **Poprawki narzędzia kontrolnego w trakcie:**
+  - pdftotext gubił spacje w ramce („z2026”);
+  - stopka jest teraz odczytywana według położenia słów (`-bbox`);
+  - HTML bywa samą strukturą bez treści;
+  - rozszerzono zwroty nowelizujące;
+  - nieczytelny tekst daje „niezweryfikowany”, a nie „rozbieżny”.
+- Strony ISAP blokują automatyczne zapytania (403), więc zastąpiliśmy je innymi ścieżkami API i relacjami odwrotnymi.
+
 ### S007: poprawki strony po uwagach właściciela
 
 - **Błąd:** opcje filtra „Zmiany po t.j.” miały w nawiasach progi „(> 0)” i „(0)”, które wyglądały jak liczniki. Teraz każda opcja (brzmienie, tekst jednolity, zmiany po t.j., weryfikacja, werdykt, przełącznik znalezisk) pokazuje prawdziwą liczbę ustaw, uwzględniającą pozostałe filtry. Pierwsza wersja liczników też była błędna, bo pomijała filtr, dla którego liczyła, i wszędzie pokazywała 1177. Wykryło to sprawdzenie w przeglądarce.
