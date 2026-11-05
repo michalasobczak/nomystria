@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nomystria — ścieżki</title>
+  <meta name="description" content="Diagram ścieżek przepisów dla znaleziska: przetestuj, dokąd prowadzi tekst ustawy.">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="sciezki.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1><a href="./">Nomystria</a> <span class="crumb">› diagram ścieżek</span></h1>
+      <p class="tagline" id="tytul">Wczytywanie…</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <p id="opis" class="sc-opis"></p>
+    <p class="sc-legend">
+      <span class="lg lg-pytanie">pytanie</span>
+      <span class="lg lg-krok">krok</span>
+      <span class="lg lg-ok">ścieżka istnieje</span>
+      <span class="lg lg-luka">luka: brak ścieżki</span>
+      <span class="lg lg-statut">rozstrzyga statut</span>
+    </p>
+
+    <div class="sc-grid">
+      <section class="sc-diagram" aria-label="Diagram ścieżek">
+        <div class="sc-svg-wrap"><svg id="svg" role="img" aria-label="Diagram ścieżek"></svg></div>
+      </section>
+
+      <section class="sc-sim" aria-label="Symulator ścieżki">
+        <h2>Przejdź ścieżkę</h2>
+        <ol id="trasa" class="sc-trasa"></ol>
+        <div id="krok" class="sc-krok"></div>
+        <div class="sc-akcje">
+          <button type="button" id="cofnij">← Cofnij</button>
+          <button type="button" id="restart">Od początku</button>
+        </div>
+      </section>
+    </div>
+
+    <section class="sc-wszystkie">
+      <h2>Wszystkie ścieżki <span id="podsum" class="cnt"></span></h2>
+      <table class="sc-tab">
+        <thead><tr><th class="num">#</th><th>Odpowiedzi po kolei</th><th>Wynik</th><th>Przepisy na ścieżce</th></tr></thead>
+        <tbody id="lista"></tbody>
+      </table>
+    </section>
+
+    <p class="foot-links"><a id="powrot" href="./">← wróć do listy ustaw</a> · <a id="zrodlo" href="#">dane diagramu (JSON)</a></p>
+  </main>
+
+  <footer class="wrap foot">
+    <p><a href="https://github.com/michalasobczak/nomystria">github.com/michalasobczak/nomystria</a></p>
+  </footer>
+  <script src="sciezki.js"></script>
+</body>
+</html>

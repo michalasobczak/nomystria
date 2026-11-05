@@ -1,0 +1,142 @@
+{
+  "id": "x002-001",
+  "eli": "DU/2023/326",
+  "tytul": "Kto zwoła zgromadzenie beneficjentów, gdy zarząd fundacji rodzinnej jest pusty?",
+  "opis": "Diagram ścieżek dla znaleziska x002-001. Każdy węzeł wskazuje przepis i cytuje go dosłownie. Wynik „ścieżka istnieje” oznacza, że ustawa wskazuje, kto i jak przywróci zarząd. „Luka” oznacza, że ustawa nie wskazuje nikogo uprawnionego do zwołania zgromadzenia, które ma powołać zarząd.",
+  "start": "q_statut",
+  "wezly": {
+    "q_statut": {
+      "typ": "pytanie",
+      "tekst": "Czy statut określa inny sposób zwoływania zgromadzenia beneficjentów albo powoływania zarządu?",
+      "przepisy": ["art. 71 ust. 1", "art. 61 ust. 3"],
+      "cytaty": ["Zgromadzenie beneficjentów jest zwoływane przez zarząd, chyba że statut stanowi inaczej."],
+      "odpowiedzi": [
+        {"etykieta": "Tak", "do": "w_statut"},
+        {"etykieta": "Nie (reguły ustawowe)", "do": "q_fundator"}
+      ]
+    },
+    "w_statut": {
+      "typ": "wynik",
+      "wynik": "statut",
+      "tekst": "Ścieżkę wyznacza statut. Ustawa zostawia to fundatorowi, a wynik zależy od treści konkretnego statutu.",
+      "przepisy": ["art. 26 ust. 2 pkt 9"],
+      "cytaty": ["zasady powoływania i odwoływania oraz uprawnienia i obowiązki członków organów fundacji rodzinnej"]
+    },
+    "q_fundator": {
+      "typ": "pytanie",
+      "tekst": "Czy fundator żyje i jest uprawniony do powołania zarządu?",
+      "przepisy": ["art. 61 ust. 3"],
+      "cytaty": ["powołania i odwołania członka zarządu dokonuje fundator, a po śmierci fundatora – rada nadzorcza, jeżeli została ustanowiona"],
+      "odpowiedzi": [
+        {"etykieta": "Tak", "do": "w_fundator"},
+        {"etykieta": "Nie (zmarł albo nie jest uprawniony)", "do": "q_rada"}
+      ]
+    },
+    "w_fundator": {
+      "typ": "wynik",
+      "wynik": "ok",
+      "tekst": "Fundator powołuje nowy zarząd. Zgromadzenie nie jest potrzebne.",
+      "przepisy": ["art. 61 ust. 3"],
+      "cytaty": ["O ile statut nie stanowi inaczej, powołania i odwołania członka zarządu dokonuje fundator"]
+    },
+    "q_rada": {
+      "typ": "pytanie",
+      "tekst": "Czy w fundacji ustanowiono radę nadzorczą? Jest obowiązkowa przy ponad 25 beneficjentach.",
+      "przepisy": ["art. 64 ust. 1", "art. 64 ust. 2"],
+      "cytaty": ["Fundator w statucie może ustanowić radę nadzorczą.", "Jeżeli liczba beneficjentów przekracza dwadzieścia pięć osób, ustanowienie rady nadzorczej jest obowiązkowe."],
+      "odpowiedzi": [
+        {"etykieta": "Tak", "do": "w_rada"},
+        {"etykieta": "Nie", "do": "k_zgromadzenie"}
+      ]
+    },
+    "w_rada": {
+      "typ": "wynik",
+      "wynik": "ok",
+      "tekst": "Rada nadzorcza powołuje nowy zarząd.",
+      "przepisy": ["art. 61 ust. 3"],
+      "cytaty": ["a po śmierci fundatora – rada nadzorcza, jeżeli została ustanowiona"]
+    },
+    "k_zgromadzenie": {
+      "typ": "krok",
+      "tekst": "Nowy zarząd powołuje zgromadzenie beneficjentów, ale zgromadzenie zwołuje zarząd, którego nie ma. Kto w takim razie może zwołać zgromadzenie?",
+      "przepisy": ["art. 61 ust. 3", "art. 71 ust. 1"],
+      "cytaty": [
+        "W przypadku śmierci fundatora i braku rady nadzorczej powołania i odwołania członka zarządu dokonuje zgromadzenie beneficjentów.",
+        "Zgromadzenie beneficjentów jest zwoływane przez zarząd, chyba że statut stanowi inaczej."
+      ],
+      "dalej": "q_przyczyna"
+    },
+    "q_przyczyna": {
+      "typ": "pytanie",
+      "tekst": "Dlaczego żaden mandat w zarządzie nie jest obsadzony?",
+      "przepisy": ["art. 61 ust. 4", "art. 61 ust. 5"],
+      "cytaty": ["Mandat członka zarządu wygasa z chwilą:"],
+      "odpowiedzi": [
+        {"etykieta": "Rezygnacja ostatniego członka", "do": "w_rezygnacja"},
+        {"etykieta": "Śmierć ostatniego członka", "do": "w_smierc"},
+        {"etykieta": "Upływ kadencji", "do": "w_kadencja"},
+        {"etykieta": "Odwołanie wszystkich członków", "do": "q_odwolanie"},
+        {"etykieta": "Fundacja z testamentu: osoba wskazana nie obejmuje funkcji", "do": "w_testament"}
+      ]
+    },
+    "w_rezygnacja": {
+      "typ": "wynik",
+      "wynik": "ok",
+      "tekst": "Rezygnujący członek zarządu zwołuje zgromadzenie razem z rezygnacją. Rezygnacja jest skuteczna dzień po zgromadzeniu, więc zarząd nie jest pusty w chwili zwołania.",
+      "przepisy": ["art. 71 ust. 2"],
+      "cytaty": ["członek zarządu składa rezygnację członkom zgromadzenia beneficjentów, zwołując jednocześnie zgromadzenie beneficjentów, jeżeli z powodu rezygnacji żaden mandat w zarządzie nie byłby obsadzony"]
+    },
+    "w_smierc": {
+      "typ": "wynik",
+      "wynik": "ok",
+      "tekst": "Każdy beneficjent może zwołać zgromadzenie, które powoła nowy zarząd.",
+      "przepisy": ["art. 71 ust. 3"],
+      "cytaty": ["każdy z beneficjentów może zwołać zgromadzenie beneficjentów, jeżeli w wyniku śmierci członka zarządu żaden mandat w zarządzie nie byłby obsadzony"]
+    },
+    "w_kadencja": {
+      "typ": "wynik",
+      "wynik": "luka",
+      "tekst": "Ustawa nie wskazuje nikogo uprawnionego do zwołania zgromadzenia. Szczególne tryby z art. 71 ust. 2 i 3 dotyczą tylko rezygnacji i śmierci. Tryb sądowy z art. 71 ust. 6 wymaga żądania skierowanego do zarządu, a zarządu nie ma. Kadencja trwa domyślnie 3 lata, więc to zwykła sytuacja, a nie wyjątek.",
+      "przepisy": ["art. 61 ust. 1", "art. 61 ust. 5 pkt 1", "art. 71 ust. 6"],
+      "cytaty": [
+        "Członka zarządu powołuje się na trzyletnią kadencję, chyba że statut stanowi inaczej.",
+        "upływu kadencji, na jaką został powołany",
+        "Jeżeli w terminie dwóch tygodni od dnia przedstawienia zarządowi żądania, o którym mowa w ust. 4"
+      ]
+    },
+    "q_odwolanie": {
+      "typ": "pytanie",
+      "tekst": "Czy zgromadzenie, odwołując zarząd, powołało od razu nowy na tym samym posiedzeniu?",
+      "przepisy": ["art. 61 ust. 7"],
+      "cytaty": ["Członek zarządu może być odwołany w każdym czasie."],
+      "odpowiedzi": [
+        {"etykieta": "Tak", "do": "w_odwolanie_ok"},
+        {"etykieta": "Nie", "do": "w_odwolanie_luka"}
+      ]
+    },
+    "w_odwolanie_ok": {
+      "typ": "wynik",
+      "wynik": "ok",
+      "tekst": "Zarząd jest od razu obsadzony, więc problem nie powstaje.",
+      "przepisy": ["art. 61 ust. 3"],
+      "cytaty": ["W przypadku śmierci fundatora i braku rady nadzorczej powołania i odwołania członka zarządu dokonuje zgromadzenie beneficjentów."]
+    },
+    "w_odwolanie_luka": {
+      "typ": "wynik",
+      "wynik": "luka",
+      "tekst": "Po zamknięciu posiedzenia nikt nie może zwołać kolejnego. Tryb z art. 71 ust. 3 dotyczy tylko śmierci członka zarządu.",
+      "przepisy": ["art. 71 ust. 1", "art. 71 ust. 3"],
+      "cytaty": ["jeżeli w wyniku śmierci członka zarządu żaden mandat w zarządzie nie byłby obsadzony"]
+    },
+    "w_testament": {
+      "typ": "wynik",
+      "wynik": "luka",
+      "tekst": "Fundator wskazuje skład pierwszego zarządu w testamencie, a fundację do rejestru zgłasza zarząd. Gdy wskazana osoba nie obejmie funkcji, nie ma zarządu ani nikogo, kto mógłby go powołać lub zgłosić fundację.",
+      "przepisy": ["art. 61 ust. 4", "art. 114 ust. 2"],
+      "cytaty": [
+        "fundator określa w nim osobę albo osoby, które zostaną powołane do pełnienia funkcji członka albo członków pierwszego zarządu",
+        "zgłoszenia fundacji rodzinnej do rejestru fundacji rodzinnych dokonuje zarząd"
+      ]
+    }
+  }
+}

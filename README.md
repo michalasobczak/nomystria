@@ -20,7 +20,7 @@ Projekt prowadzimy według metodyki [Rondo + Context-Driven-Development](https:/
 
 ## Stan
 
-Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Strona z filtrami i wynikami kontroli (S007) działa pod adresem **https://michalasobczak.github.io/nomystria/**. Jej kod jest w [`strona/`](strona/). Wyniki kontroli trafiają do [`kontrole/`](kontrole/). Weryfikacja danych (S005) potwierdziła bilans i parametry na próbie 100 ustaw. Wykryła też 12 ustaw z tekstem ujednoliconym starszym niż ostatni t.j. i 29 ustaw z nieczytelnym tekstem ([raport](kontrole/x001/RAPORT.md)). Oba problemy naprawiła S008. Pierwsza próbna analiza ustawy (S006, ustawa o fundacji rodzinnej) dała 18 znalezisk, z czego 5 potwierdziły niezależnie dwa przebiegi AI ([raport](kontrole/x002/RAPORT.md)).
+Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Strona z filtrami i wynikami kontroli (S007) działa pod adresem **https://michalasobczak.github.io/nomystria/**. Jej kod jest w [`strona/`](strona/). Wyniki kontroli trafiają do [`kontrole/`](kontrole/). Weryfikacja danych (S005) potwierdziła bilans i parametry na próbie 100 ustaw. Wykryła też 12 ustaw z tekstem ujednoliconym starszym niż ostatni t.j. i 29 ustaw z nieczytelnym tekstem ([raport](kontrole/x001/RAPORT.md)). Oba problemy naprawiła S008. Pierwsza próbna analiza ustawy (S006, ustawa o fundacji rodzinnej) dała 18 znalezisk, z czego 5 potwierdziły niezależnie dwa przebiegi AI ([raport](kontrole/x002/RAPORT.md)). Pierwsze znalezisko ma [interaktywny diagram ścieżek](https://michalasobczak.github.io/nomystria/sciezki.html?id=x002-001) (S009): na 9 ścieżek 3 kończą się luką.
 
 | Spec | Tytuł | Status |
 | --- | --- | --- |
@@ -32,6 +32,7 @@ Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucj
 | [S006](specs/S006-analiza-jednej-ustawy.md) | Eksperymentalna analiza jednej ustawy: niespójności, braki, wady, sprzeczności, brak ścieżek alternatywnych, zaniechania ([raport](kontrole/x002/RAPORT.md)) | dostarczona |
 | [S007](specs/S007-strona-gh-pages.md) | Strona na GitHub Pages: przeglądarka ustaw z filtrami i wynikami kontroli | dostarczona |
 | [S008](specs/S008-aktualnosc-i-czytelnosc.md) | Aktualność i czytelność tekstów: tekst jednolity zamiast starszego ujednoliconego, HTML/OCR zamiast nieczytelnego PDF | dostarczona |
+| [S009](specs/S009-diagram-sciezek.md) | Diagram ścieżek przepisów dla znaleziska ([przykład](https://michalasobczak.github.io/nomystria/sciezki.html?id=x002-001)) | dostarczona |
 
 ## Glosariusz
 

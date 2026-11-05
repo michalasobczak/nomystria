@@ -1,0 +1,77 @@
+:root {
+  --n-pytanie: #e8eef8; --n-pytanie-line: #1f4e8c;
+  --n-krok: #f1eee6; --n-krok-line: #8a7a55;
+  --n-ok: #e3f3e8; --n-ok-line: #1e7b45;
+  --n-luka: #fbe6e4; --n-luka-line: #b3261e;
+  --n-statut: #eeeeee; --n-statut-line: #6b6b6b;
+  --edge: #b9b4a8; --hl: #e08a00;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --n-pytanie: #1d2a3d; --n-pytanie-line: #8ab4f8;
+    --n-krok: #2a2720; --n-krok-line: #c9b48a;
+    --n-ok: #17301f; --n-ok-line: #6fcf97;
+    --n-luka: #3a1d1b; --n-luka-line: #f28b82;
+    --n-statut: #2a2a2a; --n-statut-line: #a3a6ab;
+    --edge: #4a4c52; --hl: #ffb74d;
+  }
+}
+.crumb { font-weight: 400; color: var(--muted); font-size: 18px; }
+.sc-opis { color: var(--muted); margin: 14px 0 6px; max-width: 900px; }
+.sc-legend { display: flex; flex-wrap: wrap; gap: 8px; margin: 6px 0 12px; font-size: 12px; }
+.lg { padding: 2px 8px; border-radius: 6px; border: 1.5px solid; }
+.lg-pytanie { background: var(--n-pytanie); border-color: var(--n-pytanie-line); }
+.lg-krok { background: var(--n-krok); border-color: var(--n-krok-line); }
+.lg-ok { background: var(--n-ok); border-color: var(--n-ok-line); }
+.lg-luka { background: var(--n-luka); border-color: var(--n-luka-line); }
+.lg-statut { background: var(--n-statut); border-color: var(--n-statut-line); }
+
+.sc-grid { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 16px; align-items: start; }
+@media (max-width: 960px) { .sc-grid { grid-template-columns: 1fr; } }
+.sc-diagram, .sc-sim, .sc-wszystkie { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; }
+.sc-svg-wrap { overflow: auto; max-height: 78vh; padding: 8px; }
+#svg { display: block; }
+#svg .node rect { stroke-width: 1.5; cursor: pointer; }
+#svg .node text { font: 12px/1.3 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; fill: var(--fg); pointer-events: none; }
+#svg .node .prz { fill: var(--muted); font-size: 10.5px; }
+#svg .node.t-pytanie rect { fill: var(--n-pytanie); stroke: var(--n-pytanie-line); }
+#svg .node.t-krok rect { fill: var(--n-krok); stroke: var(--n-krok-line); }
+#svg .node.w-ok rect { fill: var(--n-ok); stroke: var(--n-ok-line); }
+#svg .node.w-luka rect { fill: var(--n-luka); stroke: var(--n-luka-line); }
+#svg .node.w-statut rect { fill: var(--n-statut); stroke: var(--n-statut-line); }
+#svg .node.on rect { stroke: var(--hl); stroke-width: 3.5; }
+#svg .node.cur rect { stroke: var(--hl); stroke-width: 4; stroke-dasharray: 6 3; }
+#svg .edge { fill: none; stroke: var(--edge); stroke-width: 1.6; }
+#svg .edge.on { stroke: var(--hl); stroke-width: 3; }
+#svg .elab { font: 11px system-ui, sans-serif; fill: var(--muted); }
+#svg .elab.on { fill: var(--hl); font-weight: 700; }
+#svg .elab-bg { fill: var(--panel); }
+
+.sc-sim { padding: 12px 14px; position: sticky; top: 8px; }
+.sc-sim h2, .sc-wszystkie h2 { font-size: 16px; margin: 0 0 8px; }
+.sc-trasa { margin: 0 0 10px; padding-left: 20px; font-size: 13px; color: var(--muted); }
+.sc-trasa li { margin: 2px 0; }
+.sc-trasa b { color: var(--fg); }
+.sc-krok .q { font-weight: 600; margin: 4px 0 8px; }
+.sc-krok .prz { font-size: 12px; color: var(--muted); }
+.sc-krok blockquote { margin: 6px 0; padding-left: 10px; border-left: 3px solid var(--line); color: var(--muted); font-size: 13px; }
+.sc-odp { display: grid; gap: 6px; margin: 10px 0; }
+.sc-odp button { text-align: left; }
+.wynik { border-radius: 8px; padding: 8px 10px; margin: 8px 0; border: 1.5px solid; }
+.wynik.w-ok { background: var(--n-ok); border-color: var(--n-ok-line); }
+.wynik.w-luka { background: var(--n-luka); border-color: var(--n-luka-line); }
+.wynik.w-statut { background: var(--n-statut); border-color: var(--n-statut-line); }
+.sc-akcje { display: flex; gap: 8px; }
+.sc-akcje button { width: auto; }
+
+.sc-wszystkie { margin: 16px 0; padding: 12px 14px; overflow-x: auto; }
+.sc-tab { width: 100%; border-collapse: collapse; font-size: 13px; }
+.sc-tab td, .sc-tab th { padding: 6px 8px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+.sc-tab tbody tr { cursor: pointer; }
+.sc-tab tbody tr:hover { background: var(--row-hover); }
+.sc-tab tr.on { outline: 2px solid var(--hl); outline-offset: -2px; }
+.pill { display: inline-block; padding: 1px 8px; border-radius: 10px; border: 1.5px solid; font-size: 12px; white-space: nowrap; }
+.pill.w-ok { background: var(--n-ok); border-color: var(--n-ok-line); }
+.pill.w-luka { background: var(--n-luka); border-color: var(--n-luka-line); }
+.pill.w-statut { background: var(--n-statut); border-color: var(--n-statut-line); }
+.foot-links { font-size: 13px; }

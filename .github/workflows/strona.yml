@@ -32,7 +32,7 @@ jobs:
       - name: Zbuduj _site
         run: |
           mkdir -p _site
-          cp strona/index.html strona/app.js strona/style.css _site/
+          cp strona/*.html strona/*.js strona/*.css _site/
           python skrypty/strona.py --out _site/dane.json
       - uses: actions/upload-pages-artifact@v3
         with:

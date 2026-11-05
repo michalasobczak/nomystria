@@ -4,6 +4,16 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### S009: diagram ścieżek i numeracja znalezisk
+
+- Znaleziska mają ciągłą numerację (1–18) w liście pod wierszem i w oknie szczegółów.
+- Nowa strona `sciezki.html` pokazuje diagram drzewa decyzyjnego w układzie „drabiny decyzji”, symulator przechodzenia ścieżki z cytatami przepisów i tabelę wszystkich ścieżek. Pierwszy diagram: `kontrole/x002/sciezki/x002-001.json` (pusty zarząd fundacji rodzinnej, art. 26, 61, 64, 71 i 114). Ma 15 węzłów i 9 ścieżek: 5 istnieje, 3 luki, 1 zależy od statutu. Link do diagramu jest przy znalezisku.
+- **W trakcie:**
+  - zwykły układ drzewa był za szeroki (2134 px), więc zastąpiła go „drabina decyzji”;
+  - etykiety wachlarza odpowiedzi nachodziły na siebie i przeniesiono je nad węzły docelowe;
+  - tekst kroku miał odwróconą relację („zarząd powołuje zgromadzenie”) i został poprawiony.
+- Testy `tests/test_sciezki.py` sprawdzają dosłowne cytaty, poprawne przepisy, strukturę drzewa, brak cykli i powiązanie ze znaleziskiem.
+
 ### S006: znaleziska bez werdyktów
 
 - Decyzja właściciela: znaleziska publikujemy tak po prostu, bez werdyktów autora. Usunięto pola `werdykt_autora` i `komentarz_autora` (dane, generator strony, format `kontrole/`), filtr „Werdykt autora” i oznaczenia werdyktu na stronie oraz bramkę S006 G5. S006 ma status „dostarczona”.

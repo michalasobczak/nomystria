@@ -133,15 +133,17 @@
   const rozwiniete = new Set();
   const WAGA_OPIS = { wysoka: "wysoka", srednia: "średnia", niska: "niska" };
   function znaleziskaRow(u) {
-    const items = u.znaleziska.map((z) => `
+    const items = u.znaleziska.map((z, i) => `
       <li class="zn">
         <div class="zn-head">
+          <span class="zn-nr">${i + 1}.</span>
           <span class="badge zn-kat">${esc(KATEGORIA_OPIS[z.kategoria] || z.kategoria)}</span>
           <strong>${esc((z.przepisy || []).join(", "))}</strong>
           <span class="zn-meta">waga: ${esc(WAGA_OPIS[z.waga] || z.waga || "—")}
             · ${z.weryfikacja_krzyzowa ? "potwierdzone krzyżowo" : "jedno źródło"}</span>
         </div>
         <p>${esc(z.opis)}</p>
+        ${z.diagram ? `<p><a class="zn-diag" href="sciezki.html?id=${encodeURIComponent(z.diagram)}">Diagram ścieżek: przetestuj przepisy →</a></p>` : ""}
         ${(z.cytaty || []).slice(0, 2).map((c) => `<blockquote>${esc(c)}</blockquote>`).join("")}
         <details><summary>Uzasadnienie i źródła</summary>
           <p>${esc(z.uzasadnienie)}</p>
@@ -161,13 +163,14 @@
         }</tbody></table>`
       : `<p>${badge("brak")} Metadanych tej ustawy nie sprawdzano jeszcze w niezależnym źródle.</p>`;
     const znal = u.znaleziska.length
-      ? u.znaleziska.map((z) => `
+      ? u.znaleziska.map((z, i) => `
           <div class="znal">
-            <strong>${esc(KATEGORIA_OPIS[z.kategoria] || z.kategoria)}</strong>
+            <strong>${i + 1}. ${esc(KATEGORIA_OPIS[z.kategoria] || z.kategoria)}</strong>
             · ${esc((z.przepisy || []).join(", "))} · waga: ${esc(z.waga || "—")}
             ${z.weryfikacja_krzyzowa ? " · potwierdzone krzyżowo" : " · niepotwierdzone krzyżowo"}
             ${(z.cytaty || []).map((c) => `<blockquote>${esc(c)}</blockquote>`).join("")}
             <p>${esc(z.opis)}</p>
+            ${z.diagram ? `<p><a href="sciezki.html?id=${encodeURIComponent(z.diagram)}">Diagram ścieżek →</a></p>` : ""}
             ${z.uzasadnienie ? `<p><em>Uzasadnienie:</em> ${esc(z.uzasadnienie)}</p>` : ""}
             <p class="eli">${esc(z.id)} (${esc(z.k)}) · wykryto: ${esc((z.zrodla_wykrycia || []).join(", "))}</p>
           </div>`).join("")
