@@ -6,7 +6,7 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ### S004: symbole brzmienia w tabeli
 
-- Kolumna „Brzmienie” w tabeli README zastąpiona wąską kolumną „Br.” z symbolami ● / ○ / ◐ i legendą. Na prośbę właściciela, bo tabela się rozjeżdżała.
+- Kolumna „Brzmienie” w tabeli README zastąpiona wąską kolumną „Br.” z legendą. Na prośbę właściciela, bo tabela się rozjeżdżała. Pierwsza wersja z symbolami graficznymi ● / ○ / ◐ została zastąpiona, również na prośbę właściciela, symbolami tekstowymi U / P / PZ.
 
 ### Metodyka CDD (backfill)
 
