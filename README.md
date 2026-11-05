@@ -7,6 +7,8 @@
 > [!WARNING]
 > **To projekt eksploracyjny.** Teksty aktów prawnych są wyszukiwane, dobierane i konwertowane automatycznie, więc dane mogą zawierać błędy i nieścisłości. Każdy przypadek należy rozpatrywać indywidualnie i porównywać z tekstem ogłoszonym w Dzienniku Ustaw. Nie jest to źródło prawa ani porada prawna.
 
+**Autor i sposób pracy.** Autorem inicjatywy jest [Michał Sobczak](https://michalasobczak.com) ([@michalasobczak](https://github.com/michalasobczak)). Ustala wytyczne, szablon i schemat działania oraz kontroluje wyniki. Prace są prowadzone automatycznie, z wykorzystaniem sztucznej inteligencji.
+
 Projekt prowadzimy według metodyki [Rondo + Context-Driven-Development](https://workwithrondo.com). Artefakty:
 
 - ten README (stan „tu i teraz”),

@@ -4,6 +4,10 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### README: autor i sposób pracy
+
+- Dodano informację o autorze inicjatywy (Michał Sobczak): ustala wytyczne, szablon i schemat działania oraz kontroluje wyniki. Prace są prowadzone automatycznie, z wykorzystaniem sztucznej inteligencji.
+
 ### README: adnotacja o charakterze projektu
 
 - Na początku README dodano ostrzeżenie: projekt jest eksploracyjny, teksty są dobierane i konwertowane automatycznie i mogą zawierać błędy oraz nieścisłości, a każdy przypadek trzeba rozpatrywać indywidualnie (MANIFEST M4).
