@@ -1,0 +1,485 @@
+{
+ "model": "Claude Sonnet (10 niezależnych przebiegów, po jednej paczce ustaw)",
+ "oceny": [
+  {
+   "eli": "DU/1994/396",
+   "nr": "45",
+   "przepis": "",
+   "kontekst_skryptu": "których mowa w art. 45 ust. 2 i art. 46, w roku 1994.",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Cytowany ust. 3 jest wprowadzany do art. 50 ustawy o ustroju miasta stołecznego Warszawy; art. 45 ust. 2 i art. 46 to przepisy tamtej ustawy. Ustawa ma tylko art. 3 i 4.",
+   "cytat": "W ustawie z dnia 25 marca 1994 r. o ustroju miasta stołecznego Warszawy (Dz.U. Nr 48, poz. 195) w art. 50 dodaje się ust. 3 w brzmieniu:",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2019/1516",
+   "nr": "127",
+   "przepis": "art. 2",
+   "kontekst_skryptu": "Art. 2. Przepis art. 1 nie ma zastosowania do przepisów, które stanowią wdrożenie odstępstw wymienionych w art. 127 ust. 1, 4, 5 i 7 Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej z Unii Europejskiej",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 127 ust. 1, 4, 5 i 7 dotyczy Umowy o wystąpieniu Zjednoczonego Królestwa z UE, nie tej ustawy (ma tylko art. 1-4).",
+   "cytat": "Art. 2. Przepis art. 1 nie ma zastosowania do przepisów, które stanowią wdrożenie odstępstw wymienionych w art. 127 ust. 1, 4, 5 i 7 Umowy o wystąpieniu Zjednoczonego Królestwa Wielkiej Brytanii i Irlandii Północnej",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/1993/648",
+   "nr": "12",
+   "przepis": "",
+   "kontekst_skryptu": "stosuje się normę określoną w art. 12 ust. 1, przy czym kwota wynosząca 8,5% odnosi się do wynagrodzeń obciążających koszty działalności w 1993",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 12 ust. 1 to przepis ustawy z 22 grudnia 1990 r. o opodatkowaniu wzrostu wynagrodzeń (wymienionej w art. 1), której zasady stosuje się w okresie przejściowym; ustawa ma tylko art. 1-4.",
+   "cytat": "W okresie od dnia 1 stycznia do dnia 31 marca 1994 r. podatnicy podatku od wzrostu wynagrodzeń obowiązani są do obliczania i wpłaty podatku na zasadach określonych w ustawie wymienionej w art. 1, z tym że:",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2006/319",
+   "nr": "231",
+   "przepis": "",
+   "kontekst_skryptu": "Przepisy art. 231",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 231 § 4 dotyczy Kodeksu pracy (art. 23(1) KP, indeks górny zapisany jako 231), nie tej ustawy.",
+   "cytat": "§ 4 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.[^7]) stosuje się odpowiednio.",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2005/852",
+   "nr": "12",
+   "przepis": "art. 20",
+   "kontekst_skryptu": "3. W 2005 r. termin wyznaczony na złożenie oświadczenia, o którym mowa w art. 11, oraz wniosku, o którym mowa w art. 12, upływa w dniu 31 lipca tego roku. 4. Osobom, które złożą oświadczenia lub wnioski do dnia 30 czerwca 2005 r., wy-płaca",
+   "werdykt": "artykul_istnieje",
+   "uzasadnienie": "Art. 12 istnieje w ustawie, lecz został uchylony w zakresie zbiorczym \"Art. 11-16 (uchylone)\"; odesłanie w art. 23 ust. 3 dotyczy jednostki uchylonej, nie nieistniejącej.",
+   "cytat": "Art. 11-16.(uchylone).",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2006/1537",
+   "nr": "510",
+   "przepis": "art. 6933",
+   "kontekst_skryptu": "Przepis art. 510 § 2 stosuje się odpowiednio.",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 510 § 2 to przepis Kodeksu postępowania cywilnego; fragment pochodzi z art. 6933 § 3 KPC wprowadzanego art. 11 ustawy.",
+   "cytat": "§ 3. Jeżeli wierzyciel lub jego miejsce zamieszkania nie są znane, sąd ustanawia kuratora. Przepis art. 510 § 2 stosuje się odpowiednio.",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2000/306",
+   "nr": "19",
+   "przepis": "art. 30",
+   "kontekst_skryptu": ". 10 i 11, które wchodzą w życie z dniem 1 stycznia 2001 r., oraz art. 18 w zakresie zmian określonych w pkt 3, a także art. 19, 20, 23 i 24, które wchodzą w życie pierwszego dnia miesiąca następującego po upływie 3 miesięcy od dnia ogłoszenia.",
+   "werdykt": "artykul_istnieje",
+   "uzasadnienie": "Art. 19 mieści się w zakresie pominiętych artykułów \"Art. 16-29a (pominięte)\" (zmiany w innych ustawach); odesłanie dotyczy wejścia w życie tych artykułów.",
+   "cytat": "Art. 16–29a. (pominięte)",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2020/694",
+   "nr": "44",
+   "przepis": "art. 16",
+   "kontekst_skryptu": "celu ograniczenia negatywnego wpływu wystąpienia COVID-19 na realizację zadań komisji oceny projektów, o której mowa w art. 44 ust. 1, oraz komitetów monitorujących:",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Ustawa ma 35 artykułów i nie zawiera art. 44; art. 44 ust. 1 dotyczy komisji oceny projektów z ustawy wdrożeniowej (ustawy z 11 lipca 2014 r.), do której ustawa wielokrotnie odsyła (art. 40, 43, 47 itd.).",
+   "cytat": "komisji oceny projektów, o której mowa w art. 44 ust. 1, oraz komitetów monitorujących:",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/1999/412",
+   "nr": "36",
+   "przepis": "art. 5",
+   "kontekst_skryptu": "Przepisu art. 36 ust. 1 pkt 3 nie stosuje się.",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 36 ust. 1 pkt 3 to przepis ustawy z 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, wskazanej w poprzednim zdaniu art. 5 ust. 3.",
+   "cytat": "3. W przypadku uchwalenia miejscowego planu zagospodarowania przestrzennego, o którym mowa w ust. 1, lub jego zmiany przepis art. 36 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/1991/92",
+   "nr": "4",
+   "przepis": "",
+   "kontekst_skryptu": "(ścisłe: „art. 4 … niniejszej ustawy”)",
+   "werdykt": "artykul_istnieje",
+   "uzasadnienie": "Art. 4 istnieje w ustawie (\"Art. 4. Do państwowych biur notarialnych...\"); odesłanie \"z zastrzeżeniem art. 4 niniejszej ustawy\" w art. 2 odnosi się do tego artykułu.",
+   "cytat": "Z zastrzeżeniem art. 4 niniejszej ustawy traci moc ustawa z dnia 24 maja 1989 r. - Prawo o notariacie",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2025/368",
+   "nr": "5a",
+   "przepis": "art. 10",
+   "kontekst_skryptu": "z uwzględnieniem planu wyboru gospodarstw przekazujących dane, o którym mowa w art. 5a ust. 1 zdanie pierwsze",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 5a ust. 1 zdanie pierwsze dotyczy rozporządzenia Rady (WE) nr 1217/2009 (\"rozporządzenie nr 1217/2009\"); ustawa ma art. 1-30 bez art. 5a.",
+   "cytat": "z uwzględnieniem planu wyboru gospodarstw przekazujących dane, o którym mowa w art. 5a ust. 1 zdanie pierwsze",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2008/976",
+   "nr": "22",
+   "przepis": "art. 24",
+   "kontekst_skryptu": "2. W przypadku, o którym mowa w art. 22 ust. 3, wojewódzki inspektor Inspekcji Handlowej pobiera od kontrolowanego zaliczkę",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Cytowany art. 24 jest wprowadzany do ustawy z 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (art. 13 pkt 5 ustawy); art. 22 ust. 3 to jej przepis.",
+   "cytat": "2. W przypadku, o którym mowa w art. 22 ust. 3, wojewódzki inspektor Inspekcji Handlowej pobiera od kontrolowanego zaliczkę",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/1985/174",
+   "nr": "29a",
+   "przepis": "art. 29f",
+   "kontekst_skryptu": "rym mowa w art. 29a ust. 2 pkt 2.",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 29a-29h są dodawane jako rozdział 3a do ustawy z 26 lutego 1982 r. o opodatkowaniu jednostek gospodarki uspołecznionej (art. 2 pkt 5); odesłanie do art. 29a dotyczy tamtej ustawy (tekst pliku to zniekształcony skan OCR).",
+   "cytat": "rym mowa w art. 29a ust. 2 pkt 2.",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2003/874",
+   "nr": "13",
+   "przepis": "",
+   "kontekst_skryptu": "(ścisłe: „art. 13 … niniejszej ustawy”)",
+   "werdykt": "artykul_istnieje",
+   "uzasadnienie": "Art. 13 istnieje w ustawie (zmiany w ustawie o KRS), a art. 22 odsyła do \"art. 13 pkt 3 niniejszej ustawy\".",
+   "cytat": "W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz.U. z 2001 r. Nr 17, poz. 209, z późn. zm.)7) wprowadza się następujące zmiany:",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2003/874",
+   "nr": "1",
+   "przepis": "",
+   "kontekst_skryptu": "(ścisłe: „art. 1 … niniejszej ustawy”)",
+   "werdykt": "artykul_istnieje",
+   "uzasadnienie": "Art. 1 istnieje w ustawie (wejście w życie ustawy o pożytku publicznym); art. 23 ust. 2 odsyła do \"art. 1 niniejszej ustawy\" i ten artykuł jest w tekście.",
+   "cytat": "Ustawa z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolonta-riacie (Dz.U. Nr 96, poz. 873) wchodzi w życie po upływie 30 dni od dnia ogłosze-nia",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2001/907",
+   "nr": "88",
+   "przepis": "",
+   "kontekst_skryptu": "łalności, o której mowa w art. 88 pkt 1-7a, oraz na:",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 88 pkt 1-7a to przepis ustawy z 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska; cytowany art. 88j jest nadawany jej brzmienia w art. 30 ustawy.",
+   "cytat": "W ustawie z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz.U. z 1994 r. Nr 49, poz. 196",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2009/619",
+   "nr": "38",
+   "przepis": "art. 3",
+   "kontekst_skryptu": "realizowane operacje w zakresie określonym w art. 38 ust. 1",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 38 ust. 1 dotyczy rozporządzenia Rady (WE) nr 1198/2006 (\"operacje w zakresie określonym w art. 38 ust. 1 i 2 rozporządzenia nr 1198/2006\"), nie tej ustawy (art. 38 brak).",
+   "cytat": "b) ochrona i rozwój fauny i flory wodnej, w ramach którego mogą być",
+   "paczka": 1
+  },
+  {
+   "eli": "DU/2005/2258",
+   "nr": "38",
+   "przepis": "art. 35a",
+   "kontekst_skryptu": "i na kolejny okres możliwa jest wyłącznie, gdy w stosunku do nadawcy za-chodzi którakolwiek z okoliczności wskazanych w art. 38 ust. 1 lub 2.",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 35a jest wprowadzany przez art. 6 ustawy zmieniającej do ustawy o radiofonii i telewizji (zmiany w art. 26, 34, 36, 37 tej ustawy), więc art. 38 ust. 1 lub 2 to przepis ustawy o radiofonii i telewizji, a nie ustawy przekształceniowej (która kończy się na art. 24).",
+   "cytat": "6) po art. 35 dodaje się art. 35a w brzmieniu:",
+   "paczka": 2
+  },
+  {
+   "eli": "DU/2008/730",
+   "nr": "14",
+   "przepis": "art. 38",
+   "kontekst_skryptu": "Art. 38. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^3], z wyjątkiem art. 14–16 oraz art. 29–31, które wchodzą w życie z dniem 1 stycznia 2009 r.",
+   "werdykt": "artykul_istnieje",
+   "uzasadnienie": "Odesłanie w art. 38 (wejście w życie art. 14–16) dotyczy artykułów tej ustawy, które w tekście jednolitym nie mają nagłówków, bo między art. 13 a art. 17 znajduje się cały uchylony Rozdział 3 (oznaczony „(uchylony)”). Jednostki istnieją więc w ustawie, lecz zostały uchylone, a nie jest to martwe odesłanie.",
+   "cytat": "Art. 38. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^3], z wyjątkiem art. 14–16 oraz art. 29–31, które wchodzą w życie z dniem 1 stycznia 2009 r.",
+   "paczka": 2
+  },
+  {
+   "eli": "DU/2024/123",
+   "nr": "28a",
+   "przepis": "art. 70w",
+   "kontekst_skryptu": "o na rok 2024 ustala się w wysokości 3 231 000 tys. zł. Do podziału części rozwojowej subwencji ogólnej nie stosuje się art. 28a, z wyjątkiem ust. 6. 2. Kwota części rozwojowej subwencji ogólnej wymieniona w ust. 1 podlega podziałowi na części przy",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 70w to przepis dodawany przez art. 34 ustawy do ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego; art. 28a jest przepisem tamtej ustawy. Ustawa budżetowa okołobudżetowa 2024 ma art. 1–42 i art. 31a, bez art. 28a.",
+   "cytat": "Art. 34. W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2022 r. poz. 2267 oraz z 2023 r. poz. 1586 i 2005) po art. 70u dodaje się art. 70v i art. 70w w brzmieniu:",
+   "paczka": 2
+  },
+  {
+   "eli": "DU/2015/1358",
+   "nr": "41",
+   "przepis": "art. 3",
+   "kontekst_skryptu": "inwestycje na statkach rybackich, o których mowa w art. 41 ust. 1 lit. a",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "W art. 3 ust. 1 lit. n i o odesłanie „art. 41 ust. 1 lit. a” kończy się słowami „rozporządzenia nr 508/2014” (rozporządzenie PE i Rady o EFMR), a ustawa ma w ogóle art. 1–39.",
+   "cytat": "art. 41 ust. 2 rozporządzenia nr 508/2014,",
+   "paczka": 2
+  },
+  {
+   "eli": "DU/2004/625",
+   "nr": "107",
+   "przepis": "art. 53",
+   "kontekst_skryptu": "stosowania środków przeciwdrobnoustrojowych, – informację o zastosowaniu tego produktu zgodnie z art. 107 ust. 3",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 53 odsyła do art. 107 ust. 3 albo 4, art. 113 albo art. 114 rozporządzenia 2019/6 (rozporządzenie PE i Rady (UE) 2019/6 o weterynaryjnych produktach leczniczych). Ustawa kończy się na art. 95.",
+   "cytat": "albo 4, art. 113 albo art. 114 rozporządzenia 2019/6 – w przypadku takiego zastosowania tego produktu,",
+   "paczka": 2
+  },
+  {
+   "eli": "DU/2013/1304",
+   "nr": "47",
+   "przepis": "art. 14",
+   "kontekst_skryptu": "zbycia prawa własności lub współwłasności tego mieszkania, z wyłączeniem rozszerzenia wspólności ustawowej na podstawie art. 47",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 14 ust. 1 pkt 1 odsyła do art. 47 § 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (rozszerzenie wspólności ustawowej); ustawa ma art. 1–39.",
+   "cytat": "§ 1 ustawy z dnia 25 lutego 1964 r. – Kodeks rodzinny i opiekuńczy (Dz. U. z 2020 r. poz. 1359 oraz z 2022 r. poz. 2140),",
+   "paczka": 2
+  },
+  {
+   "eli": "DU/2015/378",
+   "nr": "33",
+   "przepis": "art. 17",
+   "kontekst_skryptu": "decyzji w sprawie wyboru operacji, określonego w art. 33 ust. 3 lit. b",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Odesłanie „art. 33 ust. 3 lit. b” w art. 17 jest zakończone słowami „rozporządzenia 2021/1060”, czyli dotyczy rozporządzenia PE i Rady (UE) 2021/1060 (wspólne przepisy EFRR itd.). Ustawa ma art. 1–27.",
+   "cytat": "decyzji w sprawie wyboru operacji, określonego w art. 33 ust. 3 lit. b",
+   "paczka": 2
+  },
+  {
+   "eli": "DU/2007/427",
+   "nr": "82",
+   "przepis": "art. 7",
+   "kontekst_skryptu": "żające zadań instytucji zarządzającej, w szczególności niezbędne do sporządzania rocznego sprawozdania, o którym mowa w art. 82 roz-porządzenia nr 1698/2005, oraz inne dane, niezbędne do właściwego monitorowania realizacji programu, w szczególnośc",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Odesłanie dotyczy art. 82 rozporządzenia nr 1698/2005 (rozporządzenie UE), a nie artykułu ustawy.",
+   "cytat": "dane niezbędne do sporządzania rocznego sprawozdania, o którym mowa w art. 82 rozporządzenia nr 1698/2005;",
+   "paczka": 3
+  },
+  {
+   "eli": "DU/2021/2133",
+   "nr": "13",
+   "przepis": "art. 18",
+   "kontekst_skryptu": "Art. 18. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia[^3], z wyjątkiem art. 11 i art. 13–15, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.",
+   "werdykt": "artykul_istnieje",
+   "uzasadnienie": "Art. 13 istnieje jako część pominiętego zakresu 'Art. 12‒14. (pominięte)'; wyliczenie w art. 18 odnosi się do zakresu art. 13–15 w tej ustawie.",
+   "cytat": "Art. 18. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia[^3], z wyjątkiem art. 11 i art. 13–15, które wchodzą w życie",
+   "paczka": 3
+  },
+  {
+   "eli": "DU/1994/627",
+   "nr": "9",
+   "przepis": "art. 37ab",
+   "kontekst_skryptu": "6. Właściwy podmiot nie udostępnia na podstawie ust. 1 i 3 danych osobowych, o których mowa w art. 9 ust. 1 roz-porządzenia 2016/679, chyba że podmiot, o którym mowa w ust. 1, jest ustawowo upoważniony do przetwarzania t",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Odesłanie dotyczy art. 9 ust. 1 rozporządzenia 2016/679 (RODO), nie ustawy.",
+   "cytat": "danych osobowych, o których mowa w art. 9 ust. 1 roz-porządzenia 2016/679, chyba że podmiot, o którym mowa w ust. 1",
+   "paczka": 3
+  },
+  {
+   "eli": "DU/2000/580",
+   "nr": "35",
+   "przepis": "art. 4",
+   "kontekst_skryptu": "ych w decyzji Komisji państw, informacji o późniejszych zmianach dotyczących wyroków skazujących Europejskiej zgodnie z art. 35 lub o usunięciu informacji o wyrokach skazujących, które zostały zgromadzone",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Odesłanie dotyczy art. 35 ust. 4 rozporządzenia (UE) 2019/816 Parlamentu Europejskiego i Rady (ECRIS-TCN); tekst jest poprzeplatany kolumnami, ale 'art. 35' występuje obok słów 'ust. 4 rozporządzenia' i 'Parlamentu Europejskiego'. Ustawa kończy się na art. 32.",
+   "cytat": "informacji o późniejszych zmianach dotyczących wyroków skazujących Europejskiej zgodnie z art. 35 lub o usunięciu informacji o wyrokach skazujących",
+   "paczka": 3
+  },
+  {
+   "eli": "DU/2000/1252",
+   "nr": "22s",
+   "przepis": "art. 35a",
+   "kontekst_skryptu": "7. Przekazane środki przeznacza się w całości na tworzenie funduszy pomocowych, o których mowa w art. 22g ust. 1 i art. 22s ust. 1.",
+   "werdykt": "martwe_odeslanie",
+   "uzasadnienie": "Art. 35a ust. 7 odsyła do art. 22s ust. 1 tej ustawy, ale rozdział o systemie ochrony kończy się na art. 22n, po którym następuje art. 23; art. 22s nie występuje w żadnej postaci.",
+   "cytat": "7. Przekazane środki przeznacza się w całości na tworzenie funduszy pomocowych, o których mowa w art. 22g ust. 1 i art. 22s ust. 1.",
+   "paczka": 3
+  },
+  {
+   "eli": "DU/2007/1170",
+   "nr": "607w",
+   "przepis": "art. 3",
+   "kontekst_skryptu": "popełnionych przestępstw, pozwala przypuszczać, że osoba ta może w przyszłości popełnić przestępstwo, o którym mowa w art. 607w",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 607w dotyczy Kodeksu postępowania karnego; w art. 3 ust. 1 pkt 11 lit. a pełny tekst odsyła do art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego, a fragment kandydata jest tylko skróconym powtórzeniem tego odesłania (ten sam odnośnik występuje też w art. 7 ust. 1 pkt 1). Ustawa schengeńska ma tylko art. 1–46.",
+   "cytat": "wykrywania lub ścigania przestępstw wymienionych w art. 607w ustawy z dnia 6 czerwca 1997 r. – Kodeks postępowania karnego;",
+   "paczka": 4
+  },
+  {
+   "eli": "DU/2023/180",
+   "nr": "59",
+   "przepis": "art. 70b",
+   "kontekst_skryptu": "Art. 70b. 1. W sprawach o udostępnianie, za pomocą urządzeń teletransmisji danych, informacji, o których mowa w art. 59, organ właściwy w sprawach Rejestru:",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 70b jest nowym przepisem wprowadzanym przez art. 43 pkt 2 ustawy o SInF do ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu. Odesłanie do art. 59 dotyczy więc ustawy o przeciwdziałaniu praniu pieniędzy (nie istnieje ono w ustawie o SInF, która ma art. 1–50), nie tej ustawy.",
+   "cytat": "2) po art. 70 dodaje się art. 70a–70c w brzmieniu:",
+   "paczka": 4
+  },
+  {
+   "eli": "DU/2022/202",
+   "nr": "62b",
+   "przepis": "art. 62bb",
+   "kontekst_skryptu": "Art. 62bb. 1. Odbiorca paliw gazowych, o którym mowa w art. 62b ust. 1 pkt 2 lit. d, przed zawarciem ze sprzedawcą paliw gazowych umowy sprzedaży paliwa gazowego lub umowy kompleksowe",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 62bb jest przepisem wprowadzanym przez art. 1 do ustawy – Prawo energetyczne (art. 62ba–62be dodawane po art. 62b). Odesłanie do art. 62b ust. 1 pkt 2 lit. d dotyczy Prawa energetycznego, a nie artykułów samej ustawy zmieniającej (która ma art. 1–22).",
+   "cytat": "W ustawie z dnia 10 kwietnia 1997 r. – Prawo energetyczne (Dz. U. z 2021 r. poz. 716, z późn. zm.[^2]) wprowadza się następujące zmiany:",
+   "paczka": 4
+  },
+  {
+   "eli": "DU/1990/198",
+   "nr": "52",
+   "przepis": "art. 1",
+   "kontekst_skryptu": "terytorialnego, w tym w razie klęski żywiołowej (art. 52 i 53);",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Wiersz „(art. 52 i 53)” stoi w art. 1 pkt 13 lit. C, w wyliczeniu zadań z ustawy z 10 kwietnia 1974 r. – Prawo lokalowe, więc odsyła do artykułów Prawa lokalowego (przydziały lokali w razie klęski żywiołowej). Ustawa kompetencyjna ma tylko art. 1–47.",
+   "cytat": "z ustawy z dnia 10 kwietnia 1974 r. - Prawo lokalowe (Dz. U. z 1987 r. Nr 30, poz. 165",
+   "paczka": 4
+  },
+  {
+   "eli": "DU/2002/804",
+   "nr": "33",
+   "przepis": "art. 11g",
+   "kontekst_skryptu": "rym mowa w art. 33 ust. 1-3, Generalny Inspektor Kontroli Skarbowej lub dyrektor urzędu kontroli skarbowej może wystąpić również w związku",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 11g jest cytowany w ramach zmian ustawy z 28 września 1991 r. o kontroli skarbowej; art. 33 to przepis tej zmienianej ustawy (zmiana 29 dotyczy 'w art. 33'), nie ustawy zmieniającej.",
+   "cytat": "W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz.U. z 1999 r. Nr 54, poz. 572",
+   "paczka": 5
+  },
+  {
+   "eli": "DU/1999/999",
+   "nr": "74",
+   "przepis": "art. 8",
+   "kontekst_skryptu": "z naruszeniem ust. 1 stosuje się odpowiednio art. 74 § 1 zdanie pierwsze oraz art. 74",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 8 ust. 1c i nast. odsyła do art. 74 Kodeksu cywilnego (forma pisemna czynności prawnej), co potwierdza tekst przepisu.",
+   "cytat": "art. 74 § 2 Kodeksu cywilnego.",
+   "paczka": 5
+  },
+  {
+   "eli": "DU/2017/708",
+   "nr": "28b",
+   "przepis": "art. 4",
+   "kontekst_skryptu": "rzeczy oraz zgłoszenia stosuje się od dn. 1.01.2025 r. (Dz. wykonywania przewozu kabotażowego rzeczy, o których mowa w art. 28b U. z 2024 r. poz.",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 28b dotyczy przewozu kabotażowego i międzynarodowego w ustawie z 6 września 2001 r. o transporcie drogowym; ustawa ta kończy się na art. 28.",
+   "cytat": "o którym mowa w art. 28b ust. 1 ustawy z dnia 6 września 2001 r.",
+   "paczka": 5
+  },
+  {
+   "eli": "DU/2014/1662",
+   "nr": "43",
+   "przepis": "art. 46d",
+   "kontekst_skryptu": "o administratora danych będącego adresatem decyzji, o której mowa w ust. 2, nie stosuje się zwolnienia, o którym mowa w art. 43 ust. 1a.",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 46d jest cytowany w art. 9 zmieniającym ustawę z 29 sierpnia 1997 r. o ochronie danych osobowych; art. 43 ust. 1a to przepis tamtej ustawy.",
+   "cytat": "Art. 9. W ustawie z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2014 r. poz. 1182) wprowadza się następujące zmiany:",
+   "paczka": 5
+  },
+  {
+   "eli": "DU/2019/2200",
+   "nr": "20zs",
+   "przepis": "art. 85",
+   "kontekst_skryptu": "ch przedmiotem wniosku o wydanie porozumienia inwestycyjnego lub zawartego porozumienia inwestycyjnego, o którym mowa w art. 20zs",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 85 pkt 3 odsyła do art. 20zs, po którym w tekście następuje „§ 1 Ordynacji podatkowej”; paragrafy i artykuł z literowym indeksem to jednostki Ordynacji podatkowej (zdefiniowanej w ustawie jako ustawa z 29 sierpnia 1997 r.), nie tej ustawy.",
+   "cytat": "3) będących przedmiotem wniosku o wydanie porozumienia inwestycyjnego lub zawartego porozumienia inwestycyjnego, o którym mowa w art. 20zs",
+   "paczka": 6
+  },
+  {
+   "eli": "DU/2018/1480",
+   "nr": "89",
+   "przepis": "art. 55",
+   "kontekst_skryptu": "podmiotów uprawnionych do kontroli na podstawie art. 89 ust. 1 pkt 1–",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Odesłanie do art. 89 ust. 1 pkt 1–4 i 6 dotyczy ustawy o transporcie drogowym (podmioty uprawnione do kontroli), co wynika z tekstu przepisu; ustawa o tachografach nie ma art. 89.",
+   "cytat": "udostępniać je na żądanie Prezesa GUM lub podmiotów uprawnionych do kontroli na podstawie art. 89 ust. 1 pkt 1–4 i 6 ustawy o transporcie drogowym.",
+   "paczka": 6
+  },
+  {
+   "eli": "DU/2001/1085",
+   "nr": "19b",
+   "przepis": "art. 22",
+   "kontekst_skryptu": "minister określi wymagane wartości poszczególnych wskaźników zanieczyszczeń oraz marginesy tolerancji, o których mowa w art. 19b ust. 1 pkt 4 i 5, uwzględniając potrzebę stopniowego, systematycznego uzyskiwania",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 22 jest przepisem zmieniającym ustawę Prawo wodne (art. 45 zmienia ustawę z 24 października 1974 r.); art. 19b ust. 1 pkt 4 i 5 to przepis Prawa wodnego dodawany tą zmianą (w art. 19b), nie artykuł tej ustawy.",
+   "cytat": "W ustawie z dnia 24 października 1974 r. – Prawo wodne (Dz. U. Nr 38, poz. 230, z 1980 r. Nr 3, poz. 6",
+   "paczka": 6
+  },
+  {
+   "eli": "DU/2020/2320",
+   "nr": "100a",
+   "przepis": "art. 159",
+   "kontekst_skryptu": "Art. 159. Tworzy się system teleinformatyczny, o którym mowa w art. 100a",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 159 (przepis przejściowy) odsyła do art. 100a dodawanego w ustawie zmienianej w art. 82 (ustawa zmieniana w art. 82, wg przypisu 10), a nie do artykułu tej ustawy; art. 100a jest wprost wskazany jako dodawany przez art. 82 pkt 1, 2. Rozbity tekst (łamanie kolumn) potwierdza: „na podstawie art. 166 pkt 10”.",
+   "cytat": "art. 82 pkt 1, 2, w zakresie dodawanego art. 100a, i pkt 3–21, art. 93, art. 96 pkt 1–17 i 19, art. 105 oraz art. 162",
+   "paczka": 7
+  },
+  {
+   "eli": "DU/2023/1963",
+   "nr": "99",
+   "przepis": "art. 251i",
+   "kontekst_skryptu": "określone w przepisach wydanych na podstawie art. 99 ust. 1.",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Odesłanie „art. 99 ust. 1” występuje w tekście zmian wprowadzanych w art. 13 do ustawy z dnia 20 lipca 2017 r. – Prawo wodne (zmieniany art. 270), więc dotyczy art. 99 Prawa wodnego. Ustawa o rewitalizacji Odry ma tylko art. 1–13 w numeracji własnej i nie zawiera art. 99.",
+   "cytat": "określone w przepisach wydanych na podstawie art. 99 ust. 1.",
+   "paczka": 7
+  },
+  {
+   "eli": "DU/1991/24",
+   "nr": "95a",
+   "przepis": "art. 33a",
+   "kontekst_skryptu": "Przepis art. 95a ust. 8 przepisów emerytalnych stosuje się odpowiednio.",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Odesłanie dotyczy art. 95a ust. 8 „przepisów emerytalnych”, czyli ustawy z 17 grudnia 1998 r. o emeryturach i rentach z FUS, a nie ustawy o ubezpieczeniu społecznym rolników (w której art. 92–99 są pominięte).",
+   "cytat": "6) przepisach emerytalnych – rozumie się przepisy ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych",
+   "paczka": 8
+  },
+  {
+   "eli": "DU/2026/203",
+   "nr": "68",
+   "przepis": "art. 112c",
+   "kontekst_skryptu": "8. W postępowaniu o wydanie zaświadczenia, o którym mowa w ust. 4 pkt 2, przepisy art. 68 ust. 3–5 stosuje się",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 112c jest przepisem dodawanym przez art. 4 do ustawy z 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium RP, więc „art. 68” odnosi się do tamtej ustawy (zmienianej), a nie do ustawy wygaszającej.",
+   "cytat": "Art. 4. W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej",
+   "paczka": 8
+  },
+  {
+   "eli": "DU/2024/1222",
+   "nr": "29q",
+   "przepis": "",
+   "kontekst_skryptu": "(ścisłe: „art. 29q … niniejszej ustawy”)",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Odesłanie znajduje się w nowym brzmieniu przepisu zmienianej w art. 39 ustawy z dnia 7 maja 2010 r. o wspieraniu rozwoju usług i sieci telekomunikacyjnych; „niniejsza ustawa” oznacza w tym brzmieniu ustawę zmienianą, a nie ustawę wprowadzającą. Art. 29q tej ustawy zmienianej istnieje (pkt 31 dodaje do niego ust. 3).",
+   "cytat": "31) w art. 29q dodaje się ust. 3 w brzmieniu:",
+   "paczka": 9
+  },
+  {
+   "eli": "DU/2012/855",
+   "nr": "83",
+   "przepis": "art. 93",
+   "kontekst_skryptu": "upływie 18 miesięcy od dnia ogłoszenia, art. 24 ust. 6, który wchodzi w życie po upływie 9 miesięcy od dnia ogłoszenia, art. 83 pkt 1 i 2, które wchodzą w życie po upływie 18 miesięcy od dnia ogłoszenia.",
+   "werdykt": "artykul_istnieje",
+   "uzasadnienie": "Art. 83 mieści się w zakresie „Art. 80a–85d. (pominięte)”, więc istnieje w ustawie (jako pominięty); art. 93 odsyła do niego w przepisie o wejściu w życie.",
+   "cytat": "Art. 80a–85d. (pominięte)",
+   "paczka": 9
+  },
+  {
+   "eli": "DU/2006/710",
+   "nr": "1891",
+   "przepis": "art. 53",
+   "kontekst_skryptu": "Przepis art. 1891 stosuje się odpowiednio.",
+   "werdykt": "inny_akt",
+   "uzasadnienie": "Art. 53 odsyła do Kodeksu pracy (uprawnienia pracownika związane z rodzicielstwem; w tym samym zdaniu art. 1867 to przepis Kodeksu pracy). Odesłanie do art. 189 indeks 1 dotyczy więc Kodeksu pracy, a w ustawie nie ma takiego artykułu.",
+   "cytat": "Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 1867, jeżeli przepisy niniejszej ustawy nie stanowią inaczej. Przepis art. 1891 stosuje się odpowiednio.",
+   "paczka": 10
+  },
+  {
+   "eli": "DU/2022/1967",
+   "nr": "4a",
+   "przepis": "art. 30",
+   "kontekst_skryptu": "4c. Wojewoda może nieczęściej niż raz w miesiącu złożyć korektę wniosku, o którym mowa w art. 4a. Minister właściwy do spraw energii przekazuje środki wojewodzie w terminie do 30 dni od dnia otrzymania korekty wniosk",
+   "werdykt": "martwe_odeslanie",
+   "uzasadnienie": "Art. 30 ust. 4c literalnie odsyła do 'art. 4a', a ustawa nie zawiera art. 4a (po art. 4 jest art. 5). Z treści wynika, że chodziło o ust. 4a tego samego art. 30 (wniosek wojewody), więc to najpewniej błąd redakcyjny, ale odesłanie do artykułu jest martwe.",
+   "cytat": "4c. Wojewoda może nieczęściej niż raz w miesiącu złożyć korektę wniosku, o którym mowa w art. 4a.",
+   "paczka": 10
+  }
+ ]
+}

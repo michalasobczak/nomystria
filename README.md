@@ -20,7 +20,7 @@ Projekt prowadzimy według metodyki [Rondo + Context-Driven-Development](https:/
 
 ## Stan
 
-Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Strona z filtrami i wynikami kontroli (S007) działa pod adresem **https://michalasobczak.github.io/nomystria/**. Jej kod jest w [`strona/`](strona/). Wyniki kontroli trafiają do [`kontrole/`](kontrole/). Weryfikacja danych (S005) potwierdziła bilans i parametry na próbie 100 ustaw. Wykryła też 12 ustaw z tekstem ujednoliconym starszym niż ostatni t.j. i 29 ustaw z nieczytelnym tekstem ([raport](kontrole/x001/RAPORT.md)). Oba problemy naprawiła S008. Próbną analizę jednej ustawy (S006) i diagram ścieżek (S009) wycofano. Analiza pominęła art. 42 Kodeksu cywilnego, więc dalej sprawdzamy jedną prostą regułę naraz na wielu ustawach (MANIFEST M12).
+Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Strona z filtrami i wynikami kontroli (S007) działa pod adresem **https://michalasobczak.github.io/nomystria/**. Jej kod jest w [`strona/`](strona/). Wyniki kontroli trafiają do [`kontrole/`](kontrole/). Weryfikacja danych (S005) potwierdziła bilans i parametry na próbie 100 ustaw. Wykryła też 12 ustaw z tekstem ujednoliconym starszym niż ostatni t.j. i 29 ustaw z nieczytelnym tekstem ([raport](kontrole/x001/RAPORT.md)). Oba problemy naprawiła S008. Próbną analizę jednej ustawy (S006) i diagram ścieżek (S009) wycofano. Analiza pominęła art. 42 Kodeksu cywilnego, więc dalej sprawdzamy jedną prostą regułę naraz na wielu ustawach (MANIFEST M12). Pierwsza reguła, R1 (martwe odesłania wewnętrzne, S010), sprawdziła 1112 ustaw w trzech etapach: skrypt, filtr zgrubny i ocena modelem z tekstem ustawy. Wynik to 2 potwierdzone martwe odesłania ([raport](kontrole/x003/RAPORT.md)).
 
 | Spec | Tytuł | Status |
 | --- | --- | --- |
@@ -33,6 +33,7 @@ Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucj
 | [S007](specs/S007-strona-gh-pages.md) | Strona na GitHub Pages: przeglądarka ustaw z filtrami i wynikami kontroli | dostarczona |
 | [S008](specs/S008-aktualnosc-i-czytelnosc.md) | Aktualność i czytelność tekstów: tekst jednolity zamiast starszego ujednoliconego, HTML/OCR zamiast nieczytelnego PDF | dostarczona |
 | [S009](specs/S009-diagram-sciezek.md) | Diagram ścieżek przepisów dla znaleziska | wycofana |
+| [S010](specs/S010-martwe-odeslania-wewnetrzne.md) | Reguła R1: martwe odesłania wewnętrzne ([raport](kontrole/x003/RAPORT.md)) | dostarczona |
 
 ## Glosariusz
 

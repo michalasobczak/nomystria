@@ -4,6 +4,26 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### S010: reguła R1, martwe odesłania wewnętrzne (x003)
+
+- Skrypt `eksperymenty/x003-martwe-odeslania/x003.py` sprawdził 1112 ustaw (uchwalonych lub zmienianych od 1989 r., bez „Przepisy wprowadzające”), wyłącznie na wersji tekstowej. Wynik: 531 kandydatów. Filtr zgrubny zawęził ich do 48 w ustawach do 200 KB.
+- 10 niezależnych przebiegów Claude Sonnet oceniło kandydatów: 38 „inny akt”, 8 „artykuł istnieje”, 2 „martwe odesłanie”, 0 „niejasne”. Oba martwe odesłania potwierdzono ręcznie:
+  - ustawa o funkcjonowaniu banków spółdzielczych, art. 35a ust. 7 → nieistniejący art. 22s;
+  - ustawa o niektórych źródłach ciepła (2022), art. 30 ust. 4c → art. 4a zamiast ust. 4a.
+- Na stronie są tylko te 2 znaleziska. Kandydaci i oceny modelu są w `kontrole/x003/`.
+- **W trakcie:** pierwszy przebieg dał 4173 trafienia. Kolejne przeglądy próbek wyeliminowały klasy fałszywych trafień (opisane w S010).
+- **Ograniczenie:** większość przebiegów modelu zamiast czytać ustawy w całości przeszukiwała tekst. Odnotowano to w raporcie.
+
+### S007: pełna szerokość i chowanie kolumn
+
+- Strona zajmuje całą szerokość okna na desktopie. Przy mniejszej szerokości chowają się kolejne kolumny:
+  - przy ≤ 1180 px T. ujednolicony;
+  - przy ≤ 1020 px Weryfikacja;
+  - przy ≤ 860 px Po t.j. i Tekst jednolity;
+  - przy ≤ 600 px Zmian.
+
+  Zawsze widoczne są Ustawa, Data, Br. i Znal. Sprawdzono przy 1440, 768 i 375 px: brak poziomego przewijania strony.
+
 ### S007: przełącznik „ostatnie 5 lat”
 
 - Nowy przełącznik „Tylko uchwalone lub zmieniane w ostatnich 5 latach”: rok ustawy albo rok ostatniej zmiany ≥ bieżący rok − 4, czyli teraz 2022–2026. Obejmuje 767 aktów. Zmiana dotyczy tylko strony i nie wymagała przebudowy danych.

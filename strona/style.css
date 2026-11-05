@@ -33,7 +33,8 @@
 html, body { margin: 0; background: var(--bg); color: var(--fg); }
 body { font: 15px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
 a { color: var(--accent); }
-.wrap { max-width: 1280px; margin: 0 auto; padding: 0 16px; }
+/* Pełna szerokość okna na desktopie; boczne marginesy zależne od szerokości */
+.wrap { max-width: none; margin: 0; padding: 0 clamp(16px, 2vw, 32px); }
 
 .top { border-bottom: 1px solid var(--line); background: var(--panel); padding: 20px 0 16px; }
 .top h1 { margin: 0; font-size: 26px; letter-spacing: .02em; }
@@ -133,3 +134,10 @@ tr.znal-row > td { background: var(--row-hover); padding: 8px 12px 12px; }
 .zn blockquote { margin: 6px 0; padding-left: 10px; border-left: 3px solid var(--line); color: var(--muted); font-size: 13px; }
 .zn details summary { cursor: pointer; color: var(--accent); font-size: 13px; }
 .zn-nr { font-weight: 700; font-variant-numeric: tabular-nums; min-width: 2.2em; }
+
+/* Responsywność tabeli: przy mniejszej szerokości chowamy kolejne kolumny (od najmniej istotnych).
+   Zawsze widoczne: Ustawa, Data, Br., Znal. Pełne dane są w oknie szczegółów. */
+@media (max-width: 1180px) { .c-tu { display: none; } }
+@media (max-width: 1020px) { .c-wer { display: none; } }
+@media (max-width: 860px)  { .c-potj, .c-tj { display: none; } }
+@media (max-width: 600px)  { .c-zm { display: none; } td .eli { font-size: 11px; } }

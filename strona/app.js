@@ -126,11 +126,11 @@
         <td>${esc(u.tytul)}<span class="eli">${esc(u.eli)} · ${esc(u.adres)}</span></td>
         <td class="nowrap">${esc(u.data)}</td>
         <td class="c" title="${esc(BR_OPIS[u.br] || u.br)}">${SYMBOL[u.br] || esc(u.br)}</td>
-        <td class="num">${u.zmian ?? ""}</td>
-        <td class="nowrap">${u.tj ? `${esc(u.tj)}<span class="eli">${esc(u.tjData)}</span>` : "—"}</td>
-        <td class="num">${u.tj ? u.poTj ?? "" : "—"}</td>
-        <td class="nowrap">${esc(u.tu) || "—"}</td>
-        <td>${badge(u.kontrola)}</td>
+        <td class="num c-zm">${u.zmian ?? ""}</td>
+        <td class="nowrap c-tj">${u.tj ? `${esc(u.tj)}<span class="eli">${esc(u.tjData)}</span>` : "—"}</td>
+        <td class="num c-potj">${u.tj ? u.poTj ?? "" : "—"}</td>
+        <td class="nowrap c-tu">${esc(u.tu) || "—"}</td>
+        <td class="c-wer">${badge(u.kontrola)}</td>
         <td class="num">${u.znaleziska.length
           ? `<button type="button" class="znal-btn" data-znal="${esc(u.eli)}" aria-expanded="${rozwiniete.has(u.eli)}" title="Pokaż znaleziska">${u.znaleziska.length} ${rozwiniete.has(u.eli) ? "▴" : "▾"}</button>`
           : ""}</td>

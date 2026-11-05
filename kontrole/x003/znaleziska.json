@@ -1,0 +1,49 @@
+{
+ "id": "x003",
+ "spec": "S010",
+ "tytul": "Reguła R1: martwe odesłania wewnętrzne",
+ "data": "2026-11-05",
+ "zakres": "ustawy uchwalone lub zmieniane od 1989 r. (bez „Przepisy wprowadzające”)",
+ "znaleziska": [
+  {
+   "id": "x003-001",
+   "eli": "DU/2000/1252",
+   "kategoria": "wada",
+   "przepisy": [
+    "art. 35a"
+   ],
+   "cytaty": [
+    "7. Przekazane środki przeznacza się w całości na tworzenie funduszy pomocowych, o których mowa w art. 22g ust. 1 i art. 22s ust. 1."
+   ],
+   "opis": "Odesłanie do art. 22s, którego nie ma w tej ustawie.",
+   "uzasadnienie": "Art. 35a ust. 7 odsyła do art. 22s ust. 1 tej ustawy, ale rozdział o systemie ochrony kończy się na art. 22n, po którym następuje art. 23; art. 22s nie występuje w żadnej postaci. Sprawdzone ręcznie w tekście ustawy (spis nagłówków artykułów).",
+   "waga": "srednia",
+   "zrodla_wykrycia": [
+    "reguła R1 (skrypt, filtr zgrubny)",
+    "ocena modelu z tekstem ustawy (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x003-002",
+   "eli": "DU/2022/1967",
+   "kategoria": "wada",
+   "przepisy": [
+    "art. 30"
+   ],
+   "cytaty": [
+    "4c. Wojewoda może nieczęściej niż raz w miesiącu złożyć korektę wniosku, o którym mowa w art. 4a."
+   ],
+   "opis": "Odesłanie do art. 4a, którego nie ma w tej ustawie.",
+   "uzasadnienie": "Art. 30 ust. 4c literalnie odsyła do 'art. 4a', a ustawa nie zawiera art. 4a (po art. 4 jest art. 5). Z treści wynika, że chodziło o ust. 4a tego samego art. 30 (wniosek wojewody), więc to najpewniej błąd redakcyjny, ale odesłanie do artykułu jest martwe. Sprawdzone ręcznie w tekście ustawy (spis nagłówków artykułów).",
+   "waga": "srednia",
+   "zrodla_wykrycia": [
+    "reguła R1 (skrypt, filtr zgrubny)",
+    "ocena modelu z tekstem ustawy (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ustaw": 1112,
+ "artykulow": 86852,
+ "znalezisk": 531,
+ "ustaw_ze_znaleziskami": 153,
+ "odrzuconych": 367,
+ "kandydaci_skrypt": 531,
+ "po_filtrze_zgrubnym": 134,
+ "jeden_na_ustawe": 73,
+ "oceniane_modelem": 48,
+ "werdykty_modelu": {
+  "martwe_odeslanie": 2,
+  "inny_akt": 38,
+  "artykul_istnieje": 8,
+  "niejasne": 0
+ },
+ "znaleziska": 2
+}
