@@ -1,6 +1,6 @@
 # S007 — Strona na GitHub Pages: przeglądarka ustaw z filtrami i wynikami kontroli
 
-- **Status:** proponowana
+- **Status:** w realizacji (kod gotowy, czeka na włączenie Pages w ustawieniach repozytorium)
 - **Data:** 2026-11-05
 - **Powiązane:** S002, S004, S005, S006
 
@@ -41,7 +41,8 @@ Repozytorium jest publiczne, więc GitHub Pages jest bezpłatne i nie wymaga ser
 | `skrypty/strona.py`: generator `strona/dane.json` z `indeks.csv` i `kontrole/` | kod | do utworzenia |
 | `strona/index.html`, `strona/app.js`, `strona/style.css` (bez frameworka, bez budowania) | kod | do utworzenia |
 | `.github/workflows/strona.yml` (generowanie i `actions/deploy-pages`) | konfiguracja | do utworzenia |
-| ustawienie GitHub Pages: źródło „GitHub Actions” | zewnętrzne (ustawienia repo) | do zmiany, wymaga zgody właściciela |
+| ustawienie GitHub Pages: źródło „GitHub Actions” | zewnętrzne (ustawienia repo) | do zmiany, wymaga zgody właściciela (asystent nie ma uprawnienia) |
+| `kontrole/README.md` (format plików kontroli) | dokument | istnieje |
 | `tests/test_strona.py` | testy | do utworzenia |
 
 ## 5. Functional Domain Changes

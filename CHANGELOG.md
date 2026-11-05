@@ -4,6 +4,15 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### S007: strona na GitHub Pages (w realizacji)
+
+- `strona/` (`index.html`, `app.js`, `style.css`, bez frameworka) to lista ustaw z filtrami: tytuł/ELI, rok, brzmienie, liczba zmian, tekst jednolity, zmiany po t.j., wynik kontroli, znaleziska. Ma sortowanie, filtry zapisane w adresie URL, okno szczegółów z linkami do pliku, PDF i ISAP, tryb ciemny i układ na telefon.
+- `skrypty/strona.py` generuje `dane.json` z `dane/indeks.csv` i `kontrole/`. Waliduje format, a nieznane `eli` przerywa generowanie. Ustawa bez kontroli ma status „brak”, nigdy „zgodny”.
+- `kontrole/README.md` opisuje format `wyniki.json` (S005) i `znaleziska.json` (S006).
+- `.github/workflows/strona.yml` buduje `_site/` i publikuje przez `actions/deploy-pages`.
+- Test lokalny: filtr ● + „zmiany po t.j. > 0” daje 292 rekordy, tyle samo co wyliczenie z CSV (G3). Na szerokości 375 px strona nie przewija się w poziomie. Testy `tests/test_strona.py` wykryły błąd ścieżek w generatorze, który został poprawiony.
+- Do zrobienia: włączenie Pages (Settings → Pages → Source: GitHub Actions) i sprawdzenie opublikowanej strony (G4).
+
 ### Propozycje specyfikacji S005–S007
 
 - Dodano specyfikacje o statusie „proponowana”:

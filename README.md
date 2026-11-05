@@ -18,7 +18,7 @@ Projekt prowadzimy według metodyki [Rondo + Context-Driven-Development](https:/
 
 ## Stan
 
-Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Kolejne etapy to weryfikacja danych (S005), pierwsza próbna analiza ustawy (S006) i strona z wynikami (S007). Na razie są proponowanymi specyfikacjami.
+Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Strona z filtrami i wynikami kontroli (S007) jest gotowa w katalogu [`strona/`](strona/). Wyniki kontroli trafiają do [`kontrole/`](kontrole/). Kolejne etapy to weryfikacja danych (S005) i pierwsza próbna analiza ustawy (S006).
 
 | Spec | Tytuł | Status |
 | --- | --- | --- |
@@ -28,7 +28,7 @@ Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucj
 | [S004](specs/S004-tabela-ustaw.md) | Tabela ustaw: zmiany, tekst jednolity i tekst ujednolicony | dostarczona |
 | [S005](specs/S005-weryfikacja-ilosciowa.md) | Weryfikacja ilościowa korpusu i klasyfikacji: jednorazowy test na próbie 100 ustaw | proponowana |
 | [S006](specs/S006-analiza-jednej-ustawy.md) | Eksperymentalna analiza jednej ustawy: niespójności, braki, wady, sprzeczności, brak ścieżek alternatywnych, zaniechania | proponowana |
-| [S007](specs/S007-strona-gh-pages.md) | Strona na GitHub Pages: przeglądarka ustaw z filtrami i wynikami kontroli | proponowana |
+| [S007](specs/S007-strona-gh-pages.md) | Strona na GitHub Pages: przeglądarka ustaw z filtrami i wynikami kontroli | w realizacji (czeka na włączenie Pages) |
 
 ## Glosariusz
 
@@ -52,6 +52,8 @@ API ELI Sejmu ──► skrypty/pobierz.py ──► .cache/pdf/*.pdf      (poza
    PDF-y U/T/O)      ▼
               skrypty/pdf2md.py (S003) ──► dane/ustawy/<rok>/*.md, dane/konstytucja.md
                                      └──► dane/indeks.csv, README › Lista ustaw
+dane/indeks.csv + kontrole/ (S005, S006) ──► skrypty/strona.py ──► dane.json ─┐
+strona/ (index.html, app.js, style.css) ──────────────────────────────────────┴► GitHub Pages (S007)
 ```
 
 **Ścieżka krytyczna:**

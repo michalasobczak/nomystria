@@ -3,3 +3,6 @@
 .cache/
 .venv/
 __pycache__/
+strona/dane.json
+_site/
+.claude/
