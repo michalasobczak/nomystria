@@ -4,7 +4,15 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
-### S007: strona na GitHub Pages (w realizacji)
+### S007: strona opublikowana
+
+- Za zgodą właściciela włączono GitHub Pages (źródło: GitHub Actions). Strona działa pod adresem https://michalasobczak.github.io/nomystria/.
+- Pierwsze uruchomienie workflow (przed włączeniem Pages) zakończyło się błędem, a ponowne uruchomienie powiodło się.
+- Sprawdzenie opublikowanej strony:
+  - G3: filtr ● + „zmiany po t.j. > 0” daje 292 rekordy, tyle samo co CSV;
+  - G4: 5 losowych ustaw, każda z 3 linkami (repozytorium, PDF, ISAP), wszystkie się otwierają. ISAP odpowiada `curl` przekierowaniem 307, ale w przeglądarce otwiera właściwą ustawę.
+
+### S007: strona na GitHub Pages (kod)
 
 - `strona/` (`index.html`, `app.js`, `style.css`, bez frameworka) to lista ustaw z filtrami: tytuł/ELI, rok, brzmienie, liczba zmian, tekst jednolity, zmiany po t.j., wynik kontroli, znaleziska. Ma sortowanie, filtry zapisane w adresie URL, okno szczegółów z linkami do pliku, PDF i ISAP, tryb ciemny i układ na telefon.
 - `skrypty/strona.py` generuje `dane.json` z `dane/indeks.csv` i `kontrole/`. Waliduje format, a nieznane `eli` przerywa generowanie. Ustawa bez kontroli ma status „brak”, nigdy „zgodny”.
