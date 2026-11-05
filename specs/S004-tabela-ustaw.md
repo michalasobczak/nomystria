@@ -42,7 +42,7 @@ Tabela początkowo była w `dane/LISTA.md`. Na prośbę właściciela przeniesio
 - **Zmian po t.j.:** liczba aktów zmieniających o (rok, pozycja) większym niż ostatni t.j. To przybliżenie: liczy akty ogłoszone po obwieszczeniu, niezależnie od daty wejścia w życie.
 - Gdy ustawa nie ma tekstu jednolitego, kolumny t.j. są puste, a w tabeli pokazują „—”. Dotyczy to np. Konstytucji, której nigdy nie ogłoszono w formie tekstu jednolitego.
 - Dane obwieszczeń trzymamy w cache na stałe, bo obwieszczenie się nie zmienia.
-- Kolumna brzmienia pokazuje symbol, żeby tabela się nie rozjeżdżała: U ujednolicone, P pierwotne, PZ pierwotne (zmieniana). Legenda jest nad tabelą. Pełna nazwa zostaje w `indeks.csv` i w metadanych.
+- Kolumna brzmienia pokazuje symbol, żeby tabela się nie rozjeżdżała: ● ujednolicone, ○ pierwotne, ◐ pierwotne (zmieniana). Legenda jest nad tabelą. Pełna nazwa zostaje w `indeks.csv` i w metadanych.
 - `python skrypty/tabela.py` odświeża tabelę w README z `indeks.csv` bez ponownej konwersji.
 
 ## 6. Critical Path

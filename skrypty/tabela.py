@@ -68,7 +68,7 @@ START, END = "<!-- LISTA:START -->", "<!-- LISTA:END -->"
 
 
 # Symbole brzmienia w tabeli, żeby kolumna była wąska.
-SYMBOLE = {"ujednolicone": "U", "pierwotne": "P", "pierwotne (zmieniana)": "PZ"}
+SYMBOLE = {"ujednolicone": "●", "pierwotne": "○", "pierwotne (zmieniana)": "◐"}
 
 
 def render_list(rows: list[dict]) -> str:
@@ -79,8 +79,8 @@ def render_list(rows: list[dict]) -> str:
         f"Aktów w zbiorze: **{len(rows)}**, w tym Konstytucja. W brzmieniu ujednoliconym: {uj}. "
         f"W brzmieniu pierwotnym: {len(rows) - uj}, w tym {zm} zmienianych bez tekstu ujednoliconego.",
         "",
-        "- **Br.** to brzmienie: **U** ujednolicone (tekst Kancelarii Sejmu), **P** pierwotne (ustawa niezmieniana), "
-        "**PZ** pierwotne, ale ustawa była zmieniana i nie ma tekstu ujednoliconego (tekst może być nieaktualny).",
+        "- **Br.** to brzmienie: ● ujednolicone (tekst Kancelarii Sejmu), ○ pierwotne (ustawa niezmieniana), "
+        "◐ pierwotne, ale ustawa była zmieniana i nie ma tekstu ujednoliconego (tekst może być nieaktualny).",
         "- **Zmian** to liczba ustaw zmieniających według ISAP („Akty zmieniające”).",
         "- **Tekst jednolity** to ostatnie obwieszczenie tekstu jednolitego w Dz. U. z datą obwieszczenia.",
         "- **Zmian po t.j.** to ustawy zmieniające ogłoszone po tym tekście jednolitym. "
