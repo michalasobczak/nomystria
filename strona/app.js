@@ -2,8 +2,9 @@
 (function () {
   "use strict";
 
-  const SYMBOL = { U: "●", P: "○", PZ: "◐" };
-  const BR_OPIS = { U: "ujednolicone", P: "pierwotne", PZ: "pierwotne (zmieniana)" };
+  const SYMBOL = { U: "●", J: "◆", P: "○", PZ: "◐" };
+  const BR_OPIS = { U: "ujednolicone", J: "jednolite (tekst jednolity z Dz. U.)", P: "pierwotne", PZ: "pierwotne (zmieniana)" };
+  const BR_ALL = "U,J,P,PZ";
   const KONTROLA_OPIS = { zgodny: "potwierdzone", rozbiezny: "rozbieżność", niezweryfikowany: "nie dało się potwierdzić", brak: "nie sprawdzano" };
   const KATEGORIA_OPIS = {
     sprzecznosc: "sprzeczność", niespojnosc: "niespójność", luka: "luka", wada: "wada legislacyjna",
@@ -39,7 +40,7 @@
   function writeHash(st) {
     const p = new URLSearchParams();
     for (const [k, v] of Object.entries(st)) {
-      if (k === "br" && v === "U,P,PZ") continue;
+      if (k === "br" && v === BR_ALL) continue;
       if (v) p.set(k, v);
     }
     if (sortStr(sort) !== sortStr(DOMYSLNE_SORT)) p.set("sort", sortStr(sort));
@@ -51,7 +52,7 @@
     el.q.value = p.get("q") || "";
     el.tylkoZnal.checked = p.get("tylkoZnal") === "1";
     for (const k of ADV) el[k].value = p.get(k) || "";
-    const br = (p.get("br") || "U,P,PZ").split(",");
+    const br = (p.get("br") || BR_ALL).split(",");
     el.br.forEach((c) => (c.checked = br.includes(c.value)));
     const s = (p.get("sort") || sortStr(DOMYSLNE_SORT)).split(":");
     sort = { k: s[0], dir: s[1] === "desc" ? -1 : 1 };
@@ -79,7 +80,7 @@
     const count = (_filtr, patch) => { const s = { ...st, ...patch }; let n = 0; for (const u of DATA) if (matchesExcept(u, s, null)) n++; return n; };
     const set = (key, n) => document.querySelectorAll(`[data-cnt="${key}"]`).forEach((e) => (e.textContent = `(${n})`));
     set("tylkoZnal", count("tylkoZnal", { tylkoZnal: "1" }));
-    for (const b of ["U", "P", "PZ"]) set("br:" + b, count("br", { br: b }));
+    for (const b of BR_ALL.split(",")) set("br:" + b, count("br", { br: b }));
     const opts = { tj: "tj", poTj: "poTj", kontrola: "kontrola", werdykt: "werdykt" };
     for (const [id, f] of Object.entries(opts)) {
       for (const o of el[id].options) {
@@ -87,7 +88,7 @@
         o.textContent = o.value ? `${o.dataset.label} (${count(f, { [id]: o.value })})` : o.dataset.label;
       }
     }
-    const n = ADV.filter((k) => st[k]).length + (st.br !== "U,P,PZ" ? 1 : 0);
+    const n = ADV.filter((k) => st[k]).length + (st.br !== BR_ALL ? 1 : 0);
     el.advActive.textContent = n ? `· aktywne: ${n}` : "";
   }
 
@@ -123,9 +124,35 @@
         <td class="num">${u.tj ? u.poTj ?? "" : "—"}</td>
         <td class="nowrap">${esc(u.tu) || "—"}</td>
         <td>${badge(u.kontrola)}</td>
-        <td class="num">${u.znaleziska.length || ""}</td>
-      </tr>`).join("");
+        <td class="num">${u.znaleziska.length
+          ? `<button type="button" class="znal-btn" data-znal="${esc(u.eli)}" aria-expanded="${rozwiniete.has(u.eli)}" title="Pokaż znaleziska">${u.znaleziska.length} ${rozwiniete.has(u.eli) ? "▴" : "▾"}</button>`
+          : ""}</td>
+      </tr>${rozwiniete.has(u.eli) ? znaleziskaRow(u) : ""}`).join("");
     el.rows.innerHTML = html || `<tr><td colspan="9" class="more">Brak ustaw spełniających filtry.</td></tr>`;
+  }
+
+  // ---- podlista znalezisk rozwijana pod wierszem ustawy ----
+  const rozwiniete = new Set();
+  const WAGA_OPIS = { wysoka: "wysoka", srednia: "średnia", niska: "niska" };
+  function znaleziskaRow(u) {
+    const items = u.znaleziska.map((z) => `
+      <li class="zn">
+        <div class="zn-head">
+          <span class="badge zn-kat">${esc(KATEGORIA_OPIS[z.kategoria] || z.kategoria)}</span>
+          <strong>${esc((z.przepisy || []).join(", "))}</strong>
+          <span class="zn-meta">waga: ${esc(WAGA_OPIS[z.waga] || z.waga || "—")}
+            · ${z.weryfikacja_krzyzowa ? "potwierdzone krzyżowo" : "jedno źródło"}
+            · werdykt autora: <span class="zn-w zn-w-${esc(z.werdykt_autora)}">${esc(WERDYKT_OPIS[z.werdykt_autora] || z.werdykt_autora)}</span></span>
+        </div>
+        <p>${esc(z.opis)}</p>
+        ${(z.cytaty || []).slice(0, 2).map((c) => `<blockquote>${esc(c)}</blockquote>`).join("")}
+        <details><summary>Uzasadnienie i źródła</summary>
+          <p>${esc(z.uzasadnienie)}</p>
+          ${z.komentarz_autora ? `<p><em>Komentarz autora:</em> ${esc(z.komentarz_autora)}</p>` : ""}
+          <p class="eli">${esc(z.id)} · wykryto: ${esc((z.zrodla_wykrycia || []).join(", "))}</p>
+        </details>
+      </li>`).join("");
+    return `<tr class="znal-row"><td colspan="9"><ul class="zn-list">${items}</ul></td></tr>`;
   }
 
   // ---- szczegóły ----
@@ -170,6 +197,8 @@
         <dt>Zmian po t.j.</dt><dd>${u.tj ? u.poTj ?? "—" : "—"}</dd>
         <dt>Tekst ujednolicony z dnia</dt><dd>${esc(u.tu) || "—"}</dd>
         <dt>Opracowano na podstawie</dt><dd>${esc(u.podstawa) || "—"}</dd>
+        <dt>Źródło tekstu</dt><dd>${esc(u.zrodloTekstu) || "—"}</dd>
+        ${u.uwagi ? `<dt>Uwagi</dt><dd>${esc(u.uwagi)}</dd>` : ""}
       </dl>
       <h3>Weryfikacja metadanych</h3>${wyniki}
       <h3>Znaleziska</h3>${znal}`;
@@ -187,7 +216,18 @@
     sort = sort.k === k ? { k, dir: -sort.dir } : { k, dir: k === "tytul" ? 1 : -1 };
     render();
   }));
-  el.rows.addEventListener("click", (e) => { const tr = e.target.closest("tr[data-eli]"); if (tr) details(tr.dataset.eli); });
+  el.rows.addEventListener("click", (e) => {
+    const btn = e.target.closest("button[data-znal]");
+    if (btn) {
+      const eli = btn.dataset.znal;
+      rozwiniete.has(eli) ? rozwiniete.delete(eli) : rozwiniete.add(eli);
+      render();
+      return;
+    }
+    if (e.target.closest("tr.znal-row")) return; // klik w podliście nie otwiera okna szczegółów
+    const tr = e.target.closest("tr[data-eli]");
+    if (tr) details(tr.dataset.eli);
+  });
   el.rows.addEventListener("keydown", (e) => { if (e.key === "Enter") { const tr = e.target.closest("tr[data-eli]"); if (tr) details(tr.dataset.eli); } });
   el.dialog.addEventListener("click", (e) => { if (e.target === el.dialog) el.dialog.close(); });
   window.addEventListener("hashchange", () => { applyHash(); render(); });

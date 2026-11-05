@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 34
 tekst_jednolity: "Dz.U. 2024 poz. 1373"
 tekst_jednolity_z_dnia: "2024-09-11"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["celne prawo", "kodeks celny", "umowy międzynarodowe", "dług celny", "dokumenty", "urzędy celne", "kontrola celna", "towar", "wolne obszary celne", "ulgi celne"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2004/622/text/U/D20040622Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040680622"

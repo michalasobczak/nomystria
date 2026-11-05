@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 23
 tekst_jednolity: "Dz.U. 2025 poz. 1224"
 tekst_jednolity_z_dnia: "2025-09-01"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["oprocentowanie", "budownictwo mieszkaniowe", "banki", "kredyty i pożyczki", "stopa procentowa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/1922/text/U/D20021922Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022301922"

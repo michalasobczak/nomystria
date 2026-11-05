@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 18
 tekst_jednolity: "Dz.U. 2024 poz. 1512"
 tekst_jednolity_z_dnia: "2024-10-10"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["dzieci", "pomoc dla rodzin", "finansowanie", "dokumenty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2014/1863/text/U/D20141863Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001863"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2021 poz. 1143"
 tekst_jednolity_z_dnia: "2021-05-21"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["statystyka", "powszechny spis ludności", "ewidencja ludności"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2019/1775/text/U/D20191775Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001775"

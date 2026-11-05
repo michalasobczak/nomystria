@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 137
 tekst_jednolity: "Dz.U. 2025 poz. 1749"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["fundusze", "składki", "świadczenia", "wynagrodzenia", "waloryzacja świadczeń", "renta rodzinna", "zasiłek pogrzebowy", "dokumenty", "ubezpieczenia społeczne", "wskaźnik", "emerytury i renty", "zasiłek pielęgnacyjny"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1998/1118/text/U/D19981118Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981621118"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2023 poz. 1235"
 tekst_jednolity_z_dnia: "2023-05-25"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["jakość wyrobów", "ekologia", "artykuły spożywcze", "nawozy", "owoce i warzywa", "ochrona roślin", "rolnictwo", "produkcja", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/1370/text/U/D20221370Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001370"

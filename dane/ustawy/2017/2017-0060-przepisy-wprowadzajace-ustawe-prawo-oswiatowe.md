@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["szkolnictwo", "nauka", "ewidencja", "kuratoria oświaty i wychowania", "szkolnictwo niepaństwowe", "dokumenty", "szkolnictwo morskie", "młodzież", "obowiązek szkolny", "szkolnictwo rolnicze", "uczniowie i absolwenci szkół", "nauczyciele", "dzieci", "szkolnictwo medyczne", "komisje", "oświata i wychowanie", "szkolenie zawodowe", "szkolnictwo wojskowe", "szkolnictwo artystyczne", "przedszkola", "kodeks pracy", "oświata, nauka i kultura"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2017/60/text/U/D20170060Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000060"

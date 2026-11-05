@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2024 poz. 597"
 tekst_jednolity_z_dnia: "2024-03-21"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["morskie prawo", "porty morskie", "bezpieczeństwo żeglugi i wypadki morskie", "żegluga morska", "statki morskie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2008/1055/text/U/D20081055Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081711055"

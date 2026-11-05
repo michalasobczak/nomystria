@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 20
 tekst_jednolity: "Dz.U. 2023 poz. 1335"
 tekst_jednolity_z_dnia: "2023-07-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["gminy", "podatek rolny", "lokal", "spółdzielczość mieszkaniowa", "wskaźnik", "emerytury i renty", "dodatki mieszkaniowe", "lokalowe prawo", "samorząd terytorialny", "dotacje"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/734/text/U/D20010734Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010710734"

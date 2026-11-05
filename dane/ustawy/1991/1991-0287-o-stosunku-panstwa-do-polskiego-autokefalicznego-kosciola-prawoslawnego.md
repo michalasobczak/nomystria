@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2023 poz. 544"
 tekst_jednolity_z_dnia: "2023-02-09"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["celne prawo", "prawa obywatelskie", "obrona narodowa", "wyznania", "podatki", "ulgi podatkowe", "fundacje", "powszechny obowiązek obrony", "oświata i wychowanie", "grunty rolne i leśne", "naczelne i centralne organy administracji", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1991/287/text/U/D19910287Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910660287"

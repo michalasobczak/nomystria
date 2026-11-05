@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 29
 tekst_jednolity: "Dz.U. 2025 poz. 7"
 tekst_jednolity_z_dnia: "2024-12-23"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["gminy", "finansowa gospodarka", "przepisy karne", "budżet", "izby obrachunkowe", "kontrola finansowa", "komunalna gospodarka", "pracownicy urzędów państwowych", "wykroczenia", "pracownicy samorządowi"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1992/428/text/U/D19920428Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920850428"

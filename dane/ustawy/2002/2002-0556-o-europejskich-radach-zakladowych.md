@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2019 poz. 1832"
 tekst_jednolity_z_dnia: "2019-09-11"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przedsiębiorstwa", "europejskie rady zakładowe", "tajemnica państwowa i służbowa", "związki zawodowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/556/text/U/D20020556Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020620556"

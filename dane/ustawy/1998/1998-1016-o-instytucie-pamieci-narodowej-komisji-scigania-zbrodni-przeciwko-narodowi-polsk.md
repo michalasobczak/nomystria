@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 40
 tekst_jednolity: "Dz.U. 2023 poz. 102"
 tekst_jednolity_z_dnia: "2022-11-24"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["instytuty naukowo-badawcze", "organizacja instytutów", "kodeks postępowania karnego", "dokumenty", "karne postępowanie", "lustracja", "archiwa państwowe", "prokuratura"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1998/1016/text/U/D19981016Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981551016"

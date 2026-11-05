@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2025 poz. 498"
 tekst_jednolity_z_dnia: "2025-03-07"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["budowlane prawo", "energetyka", "administracja morska", "energetyczne prawo", "bezpieczeństwo żeglugi i wypadki morskie", "inwestycje", "nieruchomości", "geologiczne prawo", "odnawialne źródła energii"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2021/234/text/U/D20210234Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000234"

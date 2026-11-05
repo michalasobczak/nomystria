@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2025 poz. 423"
 tekst_jednolity_z_dnia: "2025-03-24"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["organizacje społeczne", "sądy powszechne", "prawo pracy", "rejestry sądowe", "karne prawo", "związki pracodawców"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1991/235/text/U/D19910235Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910550235"

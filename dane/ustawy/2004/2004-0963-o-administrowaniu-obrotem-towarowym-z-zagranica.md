@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2019 poz. 1606"
 tekst_jednolity_z_dnia: "2019-08-01"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["obrót towarowy z zagranicą", "kodeks karny skarbowy", "kontyngenty celne", "kontyngenty taryfowe", "import", "zezwolenia", "eksport", "karne skarbowe prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2004/963/text/U/D20040963Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040970963"

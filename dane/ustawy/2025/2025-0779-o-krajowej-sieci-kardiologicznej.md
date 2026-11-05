@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["świadczenia lecznicze", "pacjenci", "lekarze", "choroby", "ochrona zdrowia", "służba zdrowia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2025/779/text/T/D20250779L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000779"

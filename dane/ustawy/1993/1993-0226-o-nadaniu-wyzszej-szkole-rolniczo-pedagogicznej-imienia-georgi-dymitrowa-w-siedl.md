@@ -12,36 +12,23 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "HTML (API ELI)"
+uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI."]
 slowa_kluczowe: ["szkolnictwo wyższe"]
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1993/226/text/T/D19930226L.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1993/226/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930500226"
 ---
 
 # Ustawa z dnia 7 stycznia 1993 r. o nadaniu Wyższej Szkole Rolniczo-Pedagogicznej imienia Georgi Dymitrowa w Siedlcach nazwy "Wyższa Szkoła Rolniczo-Pedagogiczna w Siedlcach".
 
-**USTAWA z dnia 7 stycznia 1993 r.**
+**USTAWA**
 
- 
-
+z dnia 7 stycznia 1993 r.
 
-**imienia Georgi Dymitrowa w Siedlcach nazwy**
+**o nadaniu Wyższej Szkole Rolniczo-Pedagogicznej imienia Georgi Dymitrowa w Siedlcach nazwy „Wyższa Szkoła Rolniczo-Pedagogiczna w Siedlcach”**
 
- 
- w Siedlcach"
+Art. 1. Wyższej Szkole Rolniczo-Pedagogicznej imienia Georgi Dymitrowa w Siedlcach nadaje się nazwę „Wyższa Szkoła Rolniczo-Pedagogiczna w Siedlcach”.
 
-**Art. 1.**
+Art. 2. Traci moc ustawa z dnia 13 lutego 1984 r. o nadaniu Wyższej Szkole Rolniczo-Pedagogicznej w Siedlcach imienia Georgi Dymitrowa (Dz. U. Nr 10, poz. 39).
 
- 
-        
- 
-
-**Art. 2.**
-
-!  "   #$ " #%&'    "  
-  Pedagogicznej w Siedlcach imienia Georgi Dymitrowa (Dz.U. Nr 10, poz. 39).
-
-**Art. 3.**
-
-()")#'
-
-24-02-99
+Art. 3. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

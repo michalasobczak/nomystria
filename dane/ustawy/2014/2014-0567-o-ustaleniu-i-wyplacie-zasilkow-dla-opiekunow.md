@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2024 poz. 246"
 tekst_jednolity_z_dnia: "2024-02-20"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["zasiłki", "zasiłek pielęgnacyjny"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2014/567/text/U/D20140567Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000567"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2026 poz. 777"
 tekst_jednolity_z_dnia: "2026-05-29"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["fundusz inwestycyjny", "rejestry", "ubezpieczenia majątkowe i osobowe", "emerytury i renty", "pracownicze programy emerytalne", "emerytalne programy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2004/1207/text/U/D20041207Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041161207"

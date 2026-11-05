@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: "Dz.U. 2024 poz. 1192"
 tekst_jednolity_z_dnia: "2024-07-28"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["wynagrodzenia", "podatki", "organizacja i zakres działania", "sądy powszechne", "działalność gospodarcza", "referendarz sądowy", "tajemnica państwowa i służbowa", "notariat", "pracownicy urzędów państwowych", "kodeks postępowania cywilnego", "prokuratura", "księgi wieczyste i hipoteka", "sądy administracyjne", "adwokatura", "dyscyplinarne postępowanie", "komornicy", "kodeks postępowania karnego", "mienie", "sądy wojskowe", "kontrola skarbowa", "radcy prawni", "upadłościowe prawo", "kodeks postępowania administracyjnego"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2016/2261/text/U/D20162261Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002261"

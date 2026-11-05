@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2023 poz. 20"
 tekst_jednolity_z_dnia: "2022-12-01"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["tłumacze", "rehabilitacja zawodowa", "rejestry", "informacje niejawne", "szkolenie zawodowe", "administracja państwowa", "niepełnosprawni", "pomoc finansowa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/1243/text/U/D20111243Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112091243"

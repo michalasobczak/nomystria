@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 22
 tekst_jednolity: "Dz.U. 2026 poz. 558"
 tekst_jednolity_z_dnia: "2026-04-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "sprawozdawczość", "działalność gospodarcza", "kary pieniężne i porządkowe", "finansowanie", "tajemnica państwowa i służbowa", "poczta", "usługi", "znaczki pocztowe", "rachunkowość"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2012/1529/text/U/D20121529Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001529"

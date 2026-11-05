@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2021 poz. 692"
 tekst_jednolity_z_dnia: "2021-03-31"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["radiofonia i telewizja", "podatek dochodowy od osób fizycznych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2016/929/text/U/D20160929Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000929"

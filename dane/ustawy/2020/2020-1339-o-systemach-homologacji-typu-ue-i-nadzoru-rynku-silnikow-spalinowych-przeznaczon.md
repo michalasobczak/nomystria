@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["górnictwo", "nadzór", "techniczne służby", "dozór techniczny", "zezwolenia", "kary pieniężne i porządkowe", "maszyny i urządzenia", "homologacja", "geologiczne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2020/1339/text/T/D20201339L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001339"

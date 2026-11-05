@@ -194,7 +194,8 @@ def probka(indeks: list[dict]) -> list[dict]:
     by = {"ujednolicone": [], "pierwotne": [], "pierwotne (zmieniana)": []}
     for r in indeks:
         if r["eli"] not in STALE:
-            by[r["brzmienie"]].append(r)
+            # „jednolite” (S008) to ustawy z plikiem U, których tekst wzięto z t.j. — losujemy je razem z U
+            by["ujednolicone" if r["brzmienie"] == "jednolite" else r["brzmienie"]].append(r)
     reszta = 100 - len(STALE)
     n_pz = max(2, round(reszta * len(by["pierwotne (zmieniana)"]) / len(indeks)))
     n_p = round(reszta * len(by["pierwotne"]) / len(indeks))
@@ -217,7 +218,7 @@ def check_act(r: dict) -> list[dict]:
 
     # Brzmienie
     if "U" in texts:
-        exp = "ujednolicone"
+        exp = "jednolite" if r["brzmienie"] == "jednolite" else "ujednolicone"  # S008: t.j. zamiast starszego t.u.
     elif zm:
         exp = "pierwotne (zmieniana)"
     else:

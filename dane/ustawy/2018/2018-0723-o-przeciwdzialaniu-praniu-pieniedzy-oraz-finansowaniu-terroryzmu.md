@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 34
 tekst_jednolity: "Dz.U. 2025 poz. 644"
 tekst_jednolity_z_dnia: "2025-05-09"
 zmian_po_tekscie_jednolitym: 3
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "podatki", "stowarzyszenia", "administracja rządowa", "notariat", "papiery wartościowe", "doradztwo podatkowe", "bezpieczeństwo państwa", "bankowe prawo", "mienie", "radcy prawni", "wolontariat", "karne prawo", "spółdzielcze kasy oszczędnościowo-kredytowe", "rzecznicy patentowi", "instrumenty finansowe", "gry losowe i zakłady wzajemne", "rachunki bankowe", "adwokatura", "górnicze prawo", "kontrola finansowa", "fundacje", "restrukturyzacja", "działalność ubezpieczeniowa", "banki", "geologiczne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/723/text/U/D20180723Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000723"

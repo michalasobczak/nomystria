@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["stypendia", "nauka", "szkolnictwo zawodowe", "informatyzacja", "papiery wartościowe", "dotacje", "fundusze", "stopnie i tytuły naukowe", "pracownicy nauki", "dyscyplinarne postępowanie", "szkolnictwo wyższe", "studia w szkołach wyższych", "systemy teleinformatyczne", "kredyty i pożyczki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/1669/text/U/D20181669Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001669"

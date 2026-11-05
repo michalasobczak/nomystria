@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 33
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["sąd rejestrowy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/770/text/U/D19970770Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971210770"

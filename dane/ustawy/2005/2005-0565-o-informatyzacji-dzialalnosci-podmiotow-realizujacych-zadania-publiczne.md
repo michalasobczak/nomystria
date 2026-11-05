@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 40
 tekst_jednolity: "Dz.U. 2026 poz. 1241"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "elektroniczne nośniki informacji", "kontrola", "medyczne wyroby", "świadczenia", "kwalifikacje", "finanse publiczne", "informatyzacja", "podpis elektroniczny", "finansowanie", "dokumenty", "administracja państwowa", "dotacje", "izby obrachunkowe", "muzea", "ubezpieczenia społeczne", "archiwa państwowe", "kodeks postępowania administracyjnego"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2005/565/text/U/D20050565Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050640565"

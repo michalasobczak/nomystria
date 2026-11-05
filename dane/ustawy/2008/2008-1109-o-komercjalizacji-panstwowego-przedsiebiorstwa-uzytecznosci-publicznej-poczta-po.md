@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2020 poz. 2064"
 tekst_jednolity_z_dnia: "2020-11-13"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["komercjalizacja", "poczta", "przedsiębiorstwa państwowe", "spółki akcyjne"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2008/1109/text/U/D20081109Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081801109"

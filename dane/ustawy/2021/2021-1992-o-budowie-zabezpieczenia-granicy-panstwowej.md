@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2023 poz. 1390"
 tekst_jednolity_z_dnia: "2023-07-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ochrona", "inwestycje", "granice państwa", "bezpieczeństwo państwa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2021/1992/text/U/D20211992Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001992"

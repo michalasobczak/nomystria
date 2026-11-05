@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 89
 tekst_jednolity: "Dz.U. 2026 poz. 913"
 tekst_jednolity_z_dnia: "2026-06-12"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przepisy karne", "sądy powszechne", "działalność gospodarcza", "należności państwowe", "papiery wartościowe", "sprzedaż", "spółki", "przedsiębiorstwa", "sądowe koszty i opłaty", "syndyk", "handlowe prawo", "cywilne postępowanie", "układowe postępowanie", "upadłościowe prawo", "banki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2003/535/text/U/D20030535Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030600535"

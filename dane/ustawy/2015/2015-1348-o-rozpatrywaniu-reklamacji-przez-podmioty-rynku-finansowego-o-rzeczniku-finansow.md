@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 28
 tekst_jednolity: "Dz.U. 2026 poz. 823"
 tekst_jednolity_z_dnia: "2026-06-12"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "spółdzielcze kasy oszczędnościowo-kredytowe", "nadzór", "fundusz inwestycyjny", "instrumenty finansowe", "działalność ubezpieczeniowa", "banki", "bankowe prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/1348/text/U/D20151348Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001348"

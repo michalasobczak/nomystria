@@ -12,8 +12,10 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "HTML (API ELI)"
+uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI."]
 slowa_kluczowe: ["górnicze urzędy", "węgiel", "górnicze prawo", "ochrona środowiska", "energetyka", "geodezja i kartografia", "ochrona powierzchni ziemi oraz kopalin", "naczelne i centralne organy administracji"]
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1990/89/text/T/D19900089L.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1990/89/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900140089"
 ---
 
@@ -21,361 +23,46 @@ isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900140089"
 
 **USTAWA**
 
-**z dnia 24 lutego 1990 r.**
+z dnia 24 lutego 1990 r.
 
- 
-  
+**o likwidacji Wspólnoty Węgla Kamiennego i Wspólnoty Energetyki i Węgla Brunatnego oraz o zmianie niektórych ustaw**
 
-**Art. 1.**
+Art. 1. Wspólnota Węgla Kamiennego, utworzona ustawą z dnia 23 października 1987 r. o utworzeniu Wspólnoty Węgla Kamiennego (Dz. U. Nr 33, poz. 183), oraz Wspólnota Energetyki i Węgla Brunatnego, utworzona ustawą z dnia 23 października 1987 r. o utworzeniu Wspólnoty Energetyki i Węgla Brunatnego (Dz. U. Nr 33, poz. 184), zwane dalej „wspólnotami”, przechodzą w stan likwidacji z dniem wejścia w życie ustawy.
 
- 
- 
- 
- 
- 
-
- 
-
-  
-
-
- 
- 
- 
- 
-!"#
-$
-
-
-%&
- 
+Art. 2. Obowiązki i zadania likwidatora wspólnot powierza się Ministrowi Przemysłu.
 
- ' 
-
- 
-( 
- 
- 
-
- 
-
-  
-
-
- 
- 
-' 
-
- 
-( 
+Art. 3. Pozostały po zakończeniu likwidacji nie należący do innych osób prawnych majątek wspólnot przechodzi na własność Skarbu Państwa.
 
-!"#
-$
-
-
-)%
-a- 
- *
-+ ,&
--.
-
- 
- -*
-
-
-*/- 
-
-0 -
-awy.
+Art. 4. 1. Do likwidacji wspólnot stosuje się odpowiednio przepisy o likwidacji przedsiębiorstw państwowych, chyba że ustawa stanowi inaczej.
 
-**Art. 2.**
+2. Rada Ministrów może określić, w drodze rozporządzenia, szczególny tryb likwidacji wspólnot.
 
-12
-
-   
-  
-
- 
-
-3
-4 5
+Art. 5. W okresie postępowania likwidacyjnego wspólnoty i ich organy działają na dotychczasowych zasadach, chyba że ustawa stanowi inaczej.
 
-**Art. 3.**
+Art. 6. Minister Przemysłu w okresie likwidacji może:
 
-4 5 
-
- 6-
+1) powierzyć organom wspólnoty wykonywanie niektórych czynności likwidacyjnych,
 
- -*
-
- 0- 
-
- -.
-2
-  -.
- * 
--.
- 
-5 /7
-8 2
-4 6
+2) ograniczyć zakres zadań organów wspólnoty,
 
-**Art. 4.**
+3) powoływać i odwoływać wszystkich członków rad nadzorczych wspólnot.
 
-1. "
- -*
-
-*
-
-
- 
-
- -*
-- 2
- 6 -.&
--. 2 
-0
-  
- 
- -*
+Art. 7. Minister Przemysłu wyłącza w trakcie postępowania likwidacyjnego poszczególne jednostki organizacyjne ze zgrupowania we wspólnocie.
 
-2. 9  
-3
-0
-/7&
-
-
- &
-- 
- 2
-idacji wspólnot.
+Art. 8. 1. Rada Ministrów może powierzyć, w drodze rozporządzenia, wykonywanie niektórych zadań oraz uprawnień wspólnot naczelnym organom administracji państwowej lub innym organom administracji, mieszczących się w ich ustawowo określonych zakresach działania, a także upoważnić do powierzenia wykonywania tych zadań powołanym przez te organy jednostkom organizacyjnym.
 
-**Art. 5.**
+2. Rada Ministrów określi, w drodze rozporządzenia, szczególne zasady gospodarki finansowej jednostek, o których mowa w ust. 1, a także obowiązki podmiotów gospodarczych prowadzących działalność w dziedzinie górnictwa i energetyki, w zakresie pokrywania kosztów wykonywania zadań tych jednostek.
 
-
-
-  
- - *
- 
-
--.
-  
- 5 *
- 
- -h- -  -.
-   -.&
--. 2 
-0
-  
- 
- -*
+Art. 9. 1. Znosi się Państwową Radę Górnictwa i Państwową Radę Gospodarki Energetycznej.
 
-**Art. 6 .**
+2. W dekrecie z dnia 6 maja 1953 r. - Prawo górnicze (Dz. U. z 1978 r. Nr 4, poz. 12, z 1984 r. Nr 35, poz. 186, z 1987 r. Nr 33, poz. 180, z 1988 r. Nr 41, poz. 324 i z 1989 r. Nr 35, poz. 192) skreśla się art. 147
 
-3
-4 5
-
-
- -*
-0:
+3. W ustawie z dnia 6 kwietnia 1984 r. o gospodarce energetycznej (Dz. U. Nr 21, poz. 96, z 1987 r. Nr 33, poz. 180, z 1988 r. Nr 19, poz. 132 i z 1989 r. Nr 35, poz. 192) skreśla się art. 12.
 
-1)  7
-  
-  
-    
-  -.
- - /-
- acyjnych,
+Art. 10. Z dniem 30 września 1990 r. tracą moc ustawy:
 
-2)  - 7
- 
-  6
- 
- &
+1) z dnia 23 października 1987 r. o utworzeniu Wspólnoty Węgla Kamiennego (Dz. U. Nr 33, poz. 183),
 
-3) 5  7
-
-5  7
- -.
--5
- 
- - -.
-
+2) z dnia 23 października 1987 r. o utworzeniu Wspólnoty Energetyki i Węgla Brunatnego (Dz. U. Nr 33, poz. 184).
 
-05/24/99
-
-**Art. 7.**
-
-3
- 4 5
-  5- 
- 
-  -
-   
-  - *
- - jednostki organizacyjne ze zgrupowanie we wspólnocie
-
-**Art. 8.**
-
-1. 9  
-3
-0
- 7&
-
-
- &
-   
-e-  -.
-  6
- 
- 6
-
- - 
- 
-  -*
- 6- *
- 2
-  
-  
-  -*&
- -- -.
- 
- 
- -.
-   / -.
-  -.
- 5  &
- 
- 0
- 07
-
- 
-  a-  
- -.
-  6
-5  
-
-
-  
-*
-  - *  2. 9  
-3
-/&
-
-
- &
--
-   
-  ; *
-*&
-
- -.
- 
-
-
-&
- 
- 0
-2
-  - -.
- - -.
- 5 /7
-
-
-- 
-
- &
-  
-   
-
-    
-  6
- -.
-*
-
-**Art. 9**
-
-1. <
- 
- 4 6
- 9 
- =- 
- 
- 4 6
- 9 
- = 
- 'etycznej.
-
-2. W dekrecie z dnia 6 maja 1956 r. – Prawo górnicze (Dz.U. z 1978 r. Nr 4, poz. 12, z 1984 r. Nr 35, poz. 186, z 1987 r. Nr 33, poz. 180, z 1988 r. Nr 41, poz. )
-
-
-
-
-$
->&
-
-%
-/ 
-
- 
-)
-
-3. W ustawie z dnia 6 kwietnia 1984 r. o gospodarce energetycznej (Dz.U. Nr 21, poz. 96, z 1987 r. Nr 33, poz. 180, z 1988 r. Nr 19, poz.. 132 i z 1989 r. Nr 35, 
-%
-/ 
-
- 
-
-
-**Art. 10.**
-
-<
-
-?
-/ 
-?
-
- -
--
-  :
-
-%
- 
-  
- 
-   
- 
- 
- 
- 
-  
-  
-   (Dz.U. Nr 33 poz. 183),
-
-%
-
-
- 
-
-  
-
-
-
-
- 
-' 
-
- 
-(unatnego (Dz.U. Nr 33 poz. 184).
-
-**Art. 11.**
-
-\#  
--.
-
-0 -
-
-
-5
-
-05/24/99
+Art. 11. Ustawa wchodzi w życie z dniem ogłoszenia.

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2024 poz. 573"
 tekst_jednolity_z_dnia: "2024-04-02"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["opakowania", "odpady", "działalność gospodarcza", "podatek dochodowy od osób fizycznych", "gminy", "utylizacyjne zakłady", "recykling", "rejestry", "chemiczne wyroby", "czystość i porządek", "elektroniczne urządzenia", "ochrona środowiska", "baterie i akumulatory", "podatek dochodowy od osób prawnych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/1688/text/U/D20151688Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001688"

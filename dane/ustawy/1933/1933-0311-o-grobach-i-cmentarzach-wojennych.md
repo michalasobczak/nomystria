@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2018 poz. 2337"
 tekst_jednolity_z_dnia: "2018-11-21"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przepisy karne", "obrona narodowa", "cmentarze", "wykroczenia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1933/311/text/U/D19330311Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19330390311"

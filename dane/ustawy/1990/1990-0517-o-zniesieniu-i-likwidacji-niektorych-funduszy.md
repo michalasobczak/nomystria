@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["fundusze", "finansowa gospodarka", "budżetowe prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1990/517/text/U/D19900517Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900890517"

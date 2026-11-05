@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2026 poz. 46"
 tekst_jednolity_z_dnia: "2026-01-09"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["rzemiosło", "cechy rzemieślnicze", "działalność gospodarcza", "samorząd zawodowy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/92/text/U/D19890092Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890170092"

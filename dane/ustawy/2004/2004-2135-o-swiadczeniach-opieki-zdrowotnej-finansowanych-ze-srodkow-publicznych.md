@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 240
 tekst_jednolity: "Dz.U. 2025 poz. 1461"
 tekst_jednolity_z_dnia: "2025-09-26"
 zmian_po_tekscie_jednolitym: 8
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ceny", "świadczenia", "finanse publiczne", "finansowanie", "służba wojskowa", "choroby zakaźne", "leki i artykuły sanitarne", "służba zastępcza", "fundusze", "senatorowie", "duchowni", "rolnicy", "apteki", "zakłady opieki zdrowotnej", "ubezpieczenia zdrowotne", "krwiodawstwo", "ubezpieczenia społeczne", "pielęgniarstwo", "upadłościowe prawo", "podatek dochodowy od osób prawnych", "wolontariat", "felczerzy", "lekarze", "wynagrodzenia", "kodeks karny wykonawczy", "pomoc społeczna", "żołnierz zawodowy", "opłaty", "posłowie", "farmaceutyczne środki", "inwalidzi wojenni i wojskowi", "cudzoziemcy", "rehabilitacja lecznicza", "azbest", "ryczałt", "wypadki przy pracy", "szpitale", "opieka zdrowotna", "wścieklizna"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2004/2135/text/U/D20042135Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042102135"

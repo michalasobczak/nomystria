@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2024 poz. 1111"
 tekst_jednolity_z_dnia: "2024-07-17"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["konsumenci", "działalność lombardowa", "kodeks cywilny", "kredyty i pożyczki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2023/1285/text/U/D20231285Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001285"

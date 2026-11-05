@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 30
 tekst_jednolity: "Dz.U. 2026 poz. 590"
 tekst_jednolity_z_dnia: "2026-04-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["służba cywilna", "dyscyplinarne postępowanie", "nagrody jubileuszowe", "kwalifikacje", "organizacja i zakres działania", "dodatki do wynagrodzeń", "szkolenie pracowników"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2008/1505/text/U/D20081505Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082271505"

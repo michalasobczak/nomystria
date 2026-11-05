@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2020 poz. 2065"
 tekst_jednolity_z_dnia: "2020-10-08"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["badania i certyfikacje", "sprawozdawczość", "elektroniczne urządzenia", "ochrona środowiska", "kary pieniężne i porządkowe", "powietrze atmosferyczne", "zanieczyszczenia", "elektroniczne wyroby", "pojazdy mechaniczne", "administracyjne postępowanie", "przeciwpożarowa ochrona"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/881/text/U/D20150881Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000881"

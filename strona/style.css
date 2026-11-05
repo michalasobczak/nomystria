@@ -118,3 +118,20 @@ details.adv[open] > summary { border-bottom: 1px solid var(--line); }
 details.adv .filters { margin: 12px 0 4px; }
 .f-help small { color: var(--muted); font-size: 12px; line-height: 1.35; }
 .hint { color: var(--muted); font-size: 12px; margin: 4px 0 10px; }
+
+/* Podlista znalezisk pod wierszem ustawy */
+.znal-btn { width: auto; padding: 2px 8px; border-radius: 12px; font-weight: 600; border-color: var(--accent); color: var(--accent); }
+tr.znal-row { cursor: default; }
+tr.znal-row:hover { background: transparent; }
+tr.znal-row > td { background: var(--row-hover); padding: 8px 12px 12px; }
+.zn-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.zn { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; }
+.zn-head { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: baseline; }
+.zn-kat { color: var(--accent); }
+.zn-meta { color: var(--muted); font-size: 12px; }
+.zn-w-potwierdzone { color: var(--ok); font-weight: 600; }
+.zn-w-odrzucone { color: var(--bad); }
+.zn-w-do_dyskusji { color: var(--unk); }
+.zn p { margin: 6px 0; }
+.zn blockquote { margin: 6px 0; padding-left: 10px; border-left: 3px solid var(--line); color: var(--muted); font-size: 13px; }
+.zn details summary { cursor: pointer; color: var(--accent); font-size: 13px; }

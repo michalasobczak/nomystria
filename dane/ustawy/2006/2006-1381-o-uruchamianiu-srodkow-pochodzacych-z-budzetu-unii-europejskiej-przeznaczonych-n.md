@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2018 poz. 221"
 tekst_jednolity_z_dnia: "2018-01-11"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["budżet", "finansowanie", "rolnictwo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/1381/text/U/D20061381Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061871381"

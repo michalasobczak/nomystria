@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 67
 tekst_jednolity: "Dz.U. 2026 poz. 143"
 tekst_jednolity_z_dnia: "2026-01-21"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "sądy administracyjne", "koszty i opłaty sądowe", "sędziowie", "orzeczenie", "skargi i wnioski", "dokumenty", "opłaty", "terminy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/1270/text/U/D20021270Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021531270"

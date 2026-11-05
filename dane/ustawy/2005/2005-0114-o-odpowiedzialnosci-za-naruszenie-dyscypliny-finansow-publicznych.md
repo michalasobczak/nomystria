@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 28
 tekst_jednolity: "Dz.U. 2025 poz. 1484"
 tekst_jednolity_z_dnia: "2025-10-20"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["budżet", "finanse publiczne", "kontrola finansowa", "kary pieniężne i porządkowe", "skargi i wnioski", "dotacje"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2005/114/text/U/D20050114Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050140114"

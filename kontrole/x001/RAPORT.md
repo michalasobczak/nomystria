@@ -5,7 +5,24 @@
 - **Skrypt:** [`eksperymenty/x001-weryfikacja-100/x001.py`](../../eksperymenty/x001-weryfikacja-100/x001.py)
 - **Dane:** [`wyniki.json`](wyniki.json) (próba i kontrole korpusu, widoczne na stronie projektu), [`bilans.json`](bilans.json), [`wykluczenia.json`](wykluczenia.json)
 - **Ziarno losowania:** 20261105 dla próby, 20261106 dla wykluczeń
-- **Status:** wykonane, czeka na przegląd autora
+- **Status:** wykonane, czeka na przegląd autora. Problemy K1 i K2 naprawiono w [S008](../../specs/S008-aktualnosc-i-czytelnosc.md), a kontrolę powtórzono (sekcja „Ponowny przebieg po S008”). `wyniki.json` zawiera wyniki ponownego przebiegu.
+
+## Ponowny przebieg po S008
+
+Po naprawie (12 ustaw ma teraz brzmienie ◆ jednolite, a 29 ustaw czytelny tekst z HTML albo OCR) kontrolę uruchomiono ponownie z tym samym ziarnem. Ustawy „jednolite” losowano razem z ujednoliconymi.
+
+| Kontrola | Przed S008 | Po S008 |
+| --- | --- | --- |
+| G2 brzmienie | 100/100 | 100/100 |
+| G3 ostatni t.j. | 99/100 | **100/100** |
+| G4 liczba zmian | 100/100 | 100/100 |
+| G5 zmiany po t.j. | 68 + 1 rozbieżność | **69/69** |
+| data t.u. | 77 + 3 niezweryfikowane | 76 + 3 niezweryfikowane |
+| K1 aktualność t.u. (cały korpus) | 12 rozbieżności | **0** (801 sprawdzonych) |
+| K2 czytelność (cały korpus) | 29 rozbieżności | **0** (1177 sprawdzonych) |
+| G6 wykluczenia | 69 + 1 nieczytelne | 69 + 1 nieczytelne |
+
+Poniżej opisano pierwszy przebieg (przed S008).
 
 ## Podsumowanie
 

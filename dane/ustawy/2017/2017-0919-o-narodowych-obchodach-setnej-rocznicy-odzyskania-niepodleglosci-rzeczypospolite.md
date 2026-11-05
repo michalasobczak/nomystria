@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2020 poz. 866"
 tekst_jednolity_z_dnia: "2020-05-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["rocznice", "komitety"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2017/919/text/U/D20170919Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000919"

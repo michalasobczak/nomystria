@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2023 poz. 714"
 tekst_jednolity_z_dnia: "2023-03-10"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ratownictwo", "finansowanie", "bezpieczeństwo żeglugi i wypadki morskie", "wodne prawo", "prawo o ruchu drogowym", "sport"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/1240/text/U/D20111240Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112081240"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["produkty rolne", "świadczenia", "podatki", "biopaliwa", "grunty", "administracja rządowa", "zakwaterowanie sił zbrojnych", "fundusze", "jakość wyrobów", "obrót towarowy z zagranicą", "dzieci", "mienie", "ubezpieczenia społeczne", "opłata skarbowa", "paliwa i smary", "podatek leśny", "podatek dochodowy od osób prawnych", "nieruchomości", "wino", "ewidencja", "pomoc społeczna", "lasy", "organizacje i grupy producentów", "owoce i warzywa", "mleczarstwo", "alimenty", "księgi wieczyste i hipoteka", "artykuły spożywcze", "podatek rolny", "rolnictwo", "restrukturyzacja"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2017/624/text/T/D20170624L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000624"

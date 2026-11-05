@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["porządkowanie prawa", "kodeks postępowania karnego", "karne postępowanie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/556/text/U/D19970556Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970890556"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: []
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/711/text/U/D20060711Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061040711"

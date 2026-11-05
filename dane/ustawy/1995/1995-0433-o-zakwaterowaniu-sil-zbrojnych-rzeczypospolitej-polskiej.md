@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 54
 tekst_jednolity: "Dz.U. 2024 poz. 1270"
 tekst_jednolity_z_dnia: "2024-08-19"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["obrona narodowa", "ewidencja ludności", "lokal", "administracyjne postępowanie", "lokalowe prawo", "wykroczenia", "zakwaterowanie sił zbrojnych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1995/433/text/U/D19950433Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950860433"

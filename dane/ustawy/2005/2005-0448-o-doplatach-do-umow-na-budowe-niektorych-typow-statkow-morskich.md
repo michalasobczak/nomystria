@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["finansowanie", "statki morskie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2005/448/text/T/D20050448L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050480448"

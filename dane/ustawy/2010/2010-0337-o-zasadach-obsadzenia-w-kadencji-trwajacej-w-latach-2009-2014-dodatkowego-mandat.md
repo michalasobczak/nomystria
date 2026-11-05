@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["mandaty poselskie i senatorskie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2010/337/text/U/D20100337Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100560337"

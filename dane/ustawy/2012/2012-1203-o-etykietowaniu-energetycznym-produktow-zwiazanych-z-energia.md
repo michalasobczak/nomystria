@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2020 poz. 378"
 tekst_jednolity_z_dnia: "2020-02-13"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["energetyczna gospodarka", "energetyka", "energetyczne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2012/1203/text/U/D20121203Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001203"

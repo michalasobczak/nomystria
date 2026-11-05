@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 40
 tekst_jednolity: "Dz.U. 2026 poz. 1231"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["transport zbiorowy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/13/text/U/D20110013Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110050013"

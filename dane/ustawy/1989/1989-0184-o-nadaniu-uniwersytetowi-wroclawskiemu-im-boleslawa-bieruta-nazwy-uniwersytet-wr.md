@@ -12,43 +12,21 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "HTML (API ELI)"
+uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI."]
 slowa_kluczowe: ["szkolnictwo wyższe"]
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/184/text/T/D19890184L.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/184/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890340184"
 ---
 
 # Ustawa z dnia 29 maja 1989 r. o nadaniu Uniwersytetowi Wrocławskiemu im. Bolesława Bieruta nazwy "Uniwersytet Wrocławski".
 
-**Dz.U. 1989 Nr poz. 184**
-
 **USTAWA**
 
-**z dnia 29 maja 1989 r.**
+z dnia 29 maja 1989 r.
 
- 
-
-  
-
- 
-
+**o nadaniu Uniwersytetowi Wrocławskiemu im. Bolesława Bieruta nazwy „Uniwersytet Wrocławski”**
 
-„Uni 
-
- 
+Art. 1. Uniwersytetowi Wrocławskiemu im. Bolesława Bieruta nadaje się nazwę „Uniwersytet Wrocławski”.
 
-**Art.1.**
-
-  
-
-
- r-   
-
-
-**Art. 2.**
-
- 
-
-
-
-
-06/09/99
+Art. 2. Ustawa wchodzi w życie z dniem ogłoszenia.

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2023 poz. 1524"
 tekst_jednolity_z_dnia: "2023-06-16"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["informacja publiczna", "statystyka", "informatyzacja", "geodezja i kartografia", "muzea", "prawo o ruchu drogowym", "archiwa państwowe", "pełnomocnik rządu"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2021/1641/text/U/D20211641Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001641"

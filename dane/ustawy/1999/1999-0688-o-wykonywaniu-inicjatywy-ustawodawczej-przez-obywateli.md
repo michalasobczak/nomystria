@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2018 poz. 2120"
 tekst_jednolity_z_dnia: "2018-10-25"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["prawa obywatelskie", "tworzenie prawa", "konstytucja"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1999/688/text/U/D19990688Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990620688"

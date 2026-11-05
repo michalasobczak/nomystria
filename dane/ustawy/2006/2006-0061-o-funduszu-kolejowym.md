@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 22
 tekst_jednolity: "Dz.U. 2024 poz. 1133"
 tekst_jednolity_z_dnia: "2024-07-24"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["prywatyzacja", "finansowanie", "inwestycje", "transport kolejowy", "koleje", "papiery wartościowe", "remonty", "kredyty i pożyczki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/61/text/U/D20060061Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060120061"

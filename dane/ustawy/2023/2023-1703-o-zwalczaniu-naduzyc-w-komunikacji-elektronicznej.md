@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2024 poz. 1803"
 tekst_jednolity_z_dnia: "2024-11-27"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["cyfryzacja", "elektroniczne nośniki informacji", "telekomunikacja", "komunikacja", "internet"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2023/1703/text/U/D20231703Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001703"

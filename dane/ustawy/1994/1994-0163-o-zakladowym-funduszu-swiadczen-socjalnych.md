@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 44
 tekst_jednolity: "Dz.U. 2024 poz. 288"
 tekst_jednolity_z_dnia: "2024-02-26"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["wypoczynek i rekreacja", "badawczo-rozwojowe jednostki", "socjalna działalność", "wynagrodzenia", "budżet", "darowizny", "podatek dochodowy od osób fizycznych", "bankowe prawo", "zakładowy fundusz świadczeń socjalnych", "nauczyciele", "szkolnictwo wyższe", "związki zawodowe", "podatek dochodowy od osób prawnych", "kredyty i pożyczki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1994/163/text/U/D19940163Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940430163"

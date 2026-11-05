@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 28
 tekst_jednolity: "Dz.U. 2023 poz. 1604"
 tekst_jednolity_z_dnia: "2023-07-07"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "przetargi", "podatki", "handel zagraniczny", "budowlane prawo", "działalność gospodarcza", "terenowe organy administracji rządowej", "koncesje", "administracyjne postępowanie", "papiery wartościowe", "podatek dochodowy od osób fizycznych", "wykroczenia", "gminy", "spółki", "użytkowanie wieczyste", "cudzoziemcy", "specjalna strefa ekonomiczna", "ulgi podatkowe", "inwestycje", "eksport", "podatek dochodowy od osób prawnych", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1994/600/text/U/D19940600Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941230600"

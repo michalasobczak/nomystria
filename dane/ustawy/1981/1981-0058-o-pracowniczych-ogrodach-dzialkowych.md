@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 16
 tekst_jednolity: "Dz.U. 1996 nr 85 poz. 390"
 tekst_jednolity_z_dnia: "1996-07-12"
 zmian_po_tekscie_jednolitym: 11
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ogrody działkowe", "socjalna działalność", "organizacje społeczne", "pracownicze ogrody działkowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1981/58/text/U/D19810058Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810120058"

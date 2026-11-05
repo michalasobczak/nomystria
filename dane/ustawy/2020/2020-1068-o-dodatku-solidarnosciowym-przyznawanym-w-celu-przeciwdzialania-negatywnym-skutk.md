@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2022 poz. 93"
 tekst_jednolity_z_dnia: "2021-11-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["składki", "wynagrodzenia", "budżet", "dodatki do wynagrodzeń", "finansowanie", "choroby zakaźne", "ubezpieczenia społeczne", "oświadczenie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2020/1068/text/U/D20201068Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001068"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2026 poz. 873"
 tekst_jednolity_z_dnia: "2026-06-19"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["świadczenia", "zasiłki", "pomoc dla rodzin", "finanse publiczne", "żołnierz zawodowy", "emerytury i renty", "zatrudnianie", "kodeks postępowania cywilnego", "prokuratura", "podatek dochodowy od osób fizycznych", "niepełnosprawni", "postępowanie egzekucyjne w administracji", "alimenty", "rolnicy", "dzieci", "ubezpieczenia społeczne", "świadczenie wspierające", "opieka zdrowotna"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2023/1429/text/U/D20231429Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001429"

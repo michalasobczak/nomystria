@@ -1,6 +1,6 @@
 # S006 — Eksperymentalna analiza jednej ustawy pod kątem wad legislacyjnych
 
-- **Status:** proponowana
+- **Status:** wykonana, czeka na werdykt autora (G5). Ustawa: o fundacji rodzinnej (DU/2023/326), wynik: [`kontrole/x002/RAPORT.md`](../kontrole/x002/RAPORT.md)
 - **Data:** 2026-11-05
 - **Powiązane:** S002 (korpus), S005 (wiarygodność danych), S007 (strona z wynikami kontroli)
 
@@ -130,7 +130,8 @@ Warunek ukończenia: wszystkie znaleziska mają werdykt autora, a raport ma wyli
   Kandydaci do decyzji autora: ustawa o fundacji rodzinnej (2023, 4 akty wykonawcze, mała), ustawa o funduszu sołeckim (2014), ustawa o systemach sztucznej inteligencji (2026, ○, nowa).
 - **Odrzucone alternatywy:** analiza całego korpusu od razu, bo nieznana precyzja grozi zalewem szumu. Odrzucona też analiza jednym narzędziem bez weryfikacji krzyżowej.
 - **Ryzyka:** AI chętnie zgadza się z hipotezą („znajdź sprzeczności” daje sprzeczności). Dlatego wymagamy cytatu, drugiego przebiegu i werdyktu autora.
+- **Decyzje z realizacji:** ustawę o fundacji rodzinnej wybrano spośród kandydatów, gdy właściciel poprosił o kontrolę jednej ustawy jako danych testowych dla strony. Narzędzia to dwa przebiegi AI (Claude Opus i Claude Sonnet) bez dostępu do wyników drugiego oraz kontrole mechaniczne M1 i M2.
 - **Otwarte pytania:**
-  - Którą ustawę wybrać?
+  - Którą ustawę wybrać? (rozstrzygnięte w realizacji)
   - Jakich dwóch narzędzi AI użyć?
   - Czy kategorie należy uzupełnić, np. o niezgodność z Konstytucją albo z prawem UE? Zostawiamy to na później, bo wymaga szerszego kontekstu.

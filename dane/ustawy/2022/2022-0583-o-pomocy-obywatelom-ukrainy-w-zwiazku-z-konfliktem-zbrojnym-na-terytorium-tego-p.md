@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 33
 tekst_jednolity: "Dz.U. 2026 poz. 1293"
 tekst_jednolity_z_dnia: "2026-09-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["dowody osobiste", "lekarze", "nauka", "pomoc dla dzieci i młodzieży", "pomoc dla rodzin", "pomoc społeczna", "ewidencja ludności", "wizy", "finanse publiczne", "leki i artykuły sanitarne", "podatek dochodowy od osób fizycznych", "pomoc finansowa", "pomoc publiczna", "cudzoziemcy", "położne", "lekarze dentyści", "szkolnictwo wyższe", "oświata i wychowanie", "refundacja", "opieka zdrowotna", "paszporty", "pielęgniarstwo", "samorząd terytorialny", "podatek dochodowy od osób prawnych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/583/text/U/D20220583Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000583"

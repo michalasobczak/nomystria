@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2021 poz. 1818"
 tekst_jednolity_z_dnia: "2021-09-16"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["praca przymusowa", "świadczenia pieniężne", "kombatanci", "deportowani", "emerytury i renty", "administracyjne postępowanie", "podatek dochodowy od osób fizycznych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1996/395/text/U/D19960395Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960870395"

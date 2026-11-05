@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2024 poz. 622"
 tekst_jednolity_z_dnia: "2024-04-02"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["urlopy dodatkowe", "nagrody jubileuszowe", "wynagrodzenia", "organizacja i zakres działania", "sądy powszechne", "dodatki do wynagrodzeń", "skargi i wnioski", "tajemnica państwowa i służbowa", "obowiązki służbowe", "kodeks postępowania cywilnego", "prokuratura", "sędziowie", "dyscyplinarne postępowanie", "ławnicy", "kodeks postępowania w sprawach o wykroczenia", "kodeks postępowania karnego", "sądy wojskowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/5/text/U/D20180005Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000005"

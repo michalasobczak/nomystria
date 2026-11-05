@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2025 poz. 469"
 tekst_jednolity_z_dnia: "2025-03-24"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["specjalna strefa ekonomiczna", "ulgi podatkowe", "inwestycje", "podatek dochodowy od osób fizycznych", "podatek dochodowy od osób prawnych", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/1162/text/U/D20181162Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001162"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2023 poz. 47"
 tekst_jednolity_z_dnia: "2022-12-14"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["wyznania", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/253/text/U/D19970253Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970410253"

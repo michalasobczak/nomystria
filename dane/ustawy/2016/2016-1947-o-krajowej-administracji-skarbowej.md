@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 93
 tekst_jednolity: "Dz.U. 2025 poz. 1131"
 tekst_jednolity_z_dnia: "2025-08-05"
 zmian_po_tekscie_jednolitym: 8
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["administracja skarbowa", "celne prawo", "kontrola", "finanse publiczne", "informatyzacja", "funkcjonariusz publiczny", "urzędy i izby skarbowe", "szkolenie zawodowe", "administracja rządowa", "kontrola skarbowa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2016/1947/text/U/D20161947Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001947"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: "Dz.U. 2020 poz. 823"
 tekst_jednolity_z_dnia: "2020-03-26"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["dyscyplinarne postępowanie", "adwokatura", "dokumenty", "samorząd zawodowy", "cywilne postępowanie", "radcy prawni", "pomoc prawna", "oświadczenie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/1069/text/U/D20021069Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021261069"

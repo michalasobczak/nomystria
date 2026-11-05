@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 18
 tekst_jednolity: "Dz.U. 2020 poz. 2056"
 tekst_jednolity_z_dnia: "2020-10-27"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przepisy karne", "odpady", "eksploatacja", "ochrona środowiska", "pojazdy mechaniczne", "transport", "prawo o ruchu drogowym", "ochrona zdrowia", "opłaty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2005/202/text/U/D20050202Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050250202"

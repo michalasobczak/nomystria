@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 40
 tekst_jednolity: "Dz.U. 2026 poz. 1282"
 tekst_jednolity_z_dnia: "2026-09-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["pracodawca", "budżet", "prawo pracy", "działalność gospodarcza", "regulamin organizacyjny", "terenowe organy administracji rządowej", "tajemnica państwowa i służbowa", "emerytury i renty", "podróże służbowe", "papiery wartościowe", "gminy", "senatorowie", "zakładowy fundusz świadczeń socjalnych", "zakłady opieki zdrowotnej", "urlopy bezpłatne", "sejmiki samorządowe", "wynagrodzenia", "mandaty poselskie i senatorskie", "zatrudnianie", "przywileje i immunitety", "posłowie", "nagrody", "nauczyciele", "ślubowanie", "samorząd terytorialny"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1996/350/text/U/D19960350Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960730350"

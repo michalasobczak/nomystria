@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2016 poz. 325"
 tekst_jednolity_z_dnia: "2016-02-29"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["odszkodowania", "dokumenty", "karne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2005/1415/text/U/D20051415Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051691415"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 79
 tekst_jednolity: "Dz.U. 2026 poz. 218"
 tekst_jednolity_z_dnia: "2026-02-20"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["budżet", "podatki", "budowlane prawo", "działalność gospodarcza", "koncesje", "administracyjne postępowanie", "bankowe prawo", "fundusze", "gminy", "ratownictwo", "ochrona środowiska", "przejęcie mienia na własność państwa", "podatek dochodowy od osób prawnych", "budowa i utrzymanie dróg", "wywłaszczenia", "przetargi", "wynagrodzenia", "dokumenty", "spółki", "scalanie i wymiana gruntów", "użytkowanie wieczyste", "opłaty administracyjne", "ulgi podatkowe", "drogi publiczne", "inwestycje", "grunty rolne i leśne", "samorząd terytorialny", "kredyty i pożyczki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1994/627/text/U/D19940627Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941270627"

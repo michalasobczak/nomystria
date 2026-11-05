@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 99
 tekst_jednolity: "Dz.U. 2026 poz. 515"
 tekst_jednolity_z_dnia: "2026-03-12"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["urlopy pracownicze", "fundusze zakładowe: nagród, mieszkaniowy i socjalny", "socjalna działalność", "czas pracy", "wynagrodzenia", "nagrody jubileuszowe", "biblioteki", "szkolnictwo zawodowe", "szczególne uprawnienia do urlopów", "nauczyciele akademiccy", "ordery, odznaczenia i odznaki", "emerytury i renty", "lokalowe prawo", "bony oszczędnościowe", "nauczyciele", "dyscyplinarne postępowanie", "mieszkania funkcyjne", "podatek od wynagrodzeń", "odprawy", "pracownicy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1982/19/text/U/D19820019Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820030019"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "cło", "kontrola", "nadzór", "przymus bezpośredni", "urzędy i izby skarbowe", "karne skarbowe prawo", "kontrola skarbowa", "broń palna", "inspekcja", "karne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/804/text/U/D20020804Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020890804"

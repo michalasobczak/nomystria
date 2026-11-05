@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2022 poz. 1529"
 tekst_jednolity_z_dnia: "2022-07-07"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["felczerzy", "przepisy karne", "ochrona zdrowia", "pracownicy", "wykroczenia", "służba zdrowia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1950/336/text/U/D19500336Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500360336"

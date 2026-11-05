@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["prawo pracy", "szczególne uprawnienia do urlopów", "łączność", "kultura fizyczna", "kodeks pracy", "nieruchomości", "wywłaszczenia", "obrona narodowa", "kodeks cywilny", "sądy powszechne", "służba wojskowa żołnierzy", "dyscyplina pracy", "lokalowe prawo", "wykroczenia", "cywilne prawo", "ławnicy", "leśnictwo", "sądy wojskowe", "grunty rolne i leśne", "koleje", "związki zawodowe", "przeciwpożarowa ochrona", "samorząd terytorialny", "kolegia do spraw wykroczeń", "państwowe gospodarstwo leśne", "terenowe organy administracji rządowej", "komunalna gospodarka", "pracownicy urzędów państwowych", "morskie urzędy", "podróże służbowe", "ochrona zdrowia", "obsługa prawna", "sędziowie", "granice państwa", "pracownicy", "wybory", "urlopy pracownicze", "klęski żywiołowe", "przedawnienie", "zatrudnianie", "prokuratura", "więziennictwo", "górnicze urzędy", "obrót między jgu", "turystyka", "materialna odpowiedzialność pracowników", "komunikacja", "opieka zdrowotna", "sport"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1974/142/text/U/D19740142Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240142"

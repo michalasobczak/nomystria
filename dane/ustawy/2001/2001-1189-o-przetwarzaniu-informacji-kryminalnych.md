@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 38
 tekst_jednolity: "Dz.U. 2025 poz. 1759"
 tekst_jednolity_z_dnia: "2025-12-05"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "dowody osobiste", "przepisy karne", "kodeks celny", "obrona narodowa", "podatki", "ewidencja", "ewidencja ludności", "informacje niejawne", "geodezja i kartografia", "papiery wartościowe", "prokuratura", "naczelne i centralne organy administracji", "księgi wieczyste i hipoteka", "łowieckie prawo", "akta stanu cywilnego", "fundusze emerytalne", "urzędy i izby skarbowe", "ubezpieczenia społeczne", "kontrola skarbowa", "prawo o ruchu drogowym", "działalność ubezpieczeniowa", "ochrona przyrody", "karne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/1189/text/U/D20011189Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011101189"

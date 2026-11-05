@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2026 poz. 1232"
 tekst_jednolity_z_dnia: "2026-09-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["dowody osobiste", "fizjoterapeuci", "kodeks karny", "informatyzacja", "energetyka", "kierowcy", "farmaceuci", "kodeks wykroczeń", "ochrona zdrowia", "niepełnosprawni", "paliwa", "ratownictwo", "świadczenia lecznicze", "położne", "lekarze dentyści", "szkolnictwo wyższe", "energetyczna gospodarka", "oświata i wychowanie", "pielęgniarstwo", "prawo o ruchu drogowym", "transport zbiorowy", "lekarze", "mandaty poselskie i senatorskie", "dokumenty", "ordynacja podatkowa", "izby lekarskie", "systemy teleinformatyczne"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2023/1234/text/U/D20231234Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001234"

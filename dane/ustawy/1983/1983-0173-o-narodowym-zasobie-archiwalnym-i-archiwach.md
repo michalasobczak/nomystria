@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 46
 tekst_jednolity: "Dz.U. 2020 poz. 164"
 tekst_jednolity_z_dnia: "2019-12-13"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["wywłaszczenia", "celne prawo", "przepisy karne", "kultura i sztuka", "biblioteki", "handel zagraniczny", "budowlane prawo", "zabytki", "ordery, odznaczenia i odznaki", "remonty", "wykroczenia", "naczelne i centralne organy administracji", "księgi wieczyste i hipoteka", "twórczość artystyczna i literacka", "urbanistyka i architektura", "inwestycje", "muzea", "taryfy celne, wywóz i przywóz", "wywóz dóbr kultury za granicę", "eksport", "archiwa państwowe", "karne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1983/173/text/U/D19830173Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830380173"

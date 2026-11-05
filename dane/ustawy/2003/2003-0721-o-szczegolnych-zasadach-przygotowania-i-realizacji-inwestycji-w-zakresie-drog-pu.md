@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 29
 tekst_jednolity: "Dz.U. 2024 poz. 311"
 tekst_jednolity_z_dnia: "2024-02-26"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["drogi publiczne", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2003/721/text/U/D20030721Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030800721"

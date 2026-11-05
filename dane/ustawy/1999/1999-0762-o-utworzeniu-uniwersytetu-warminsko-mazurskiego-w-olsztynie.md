@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2019 poz. 1284"
 tekst_jednolity_z_dnia: "2019-06-12"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["szkolnictwo wyższe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1999/762/text/U/D19990762Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990690762"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2024 poz. 643"
 tekst_jednolity_z_dnia: "2024-03-21"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["towary niebezpieczne", "żegluga śródlądowa", "umowy międzynarodowe", "transport wodny", "transport kolejowy", "transport", "koleje", "transport drogowy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/1367/text/U/D20111367Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112271367"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 50
 tekst_jednolity: "Dz.U. 2026 poz. 68"
 tekst_jednolity_z_dnia: "2025-12-04"
 zmian_po_tekscie_jednolitym: 4
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ceny", "działalność gospodarcza", "energetyka", "giełdy", "biopaliwa", "podatek dochodowy od osób fizycznych", "gwarancja", "dozór techniczny", "ochrona środowiska", "energetyczna gospodarka", "kary pieniężne i porządkowe", "akredytacja", "inwestycje", "zamówienia publiczne", "odnawialne źródła energii", "oferty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/478/text/U/D20150478Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000478"

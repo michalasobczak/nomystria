@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2015 poz. 567"
 tekst_jednolity_z_dnia: "2015-04-13"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przepisy karne", "wynagrodzenia", "prawo pracy", "kontrola społeczna", "związki zawodowe", "wykroczenia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1983/163/text/U/D19830163Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830350163"

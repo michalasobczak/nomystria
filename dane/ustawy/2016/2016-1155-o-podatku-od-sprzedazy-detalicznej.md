@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2023 poz. 148"
 tekst_jednolity_z_dnia: "2023-01-11"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["podatki", "sprzedaż"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2016/1155/text/U/D20161155Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001155"

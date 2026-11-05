@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2021 poz. 1820"
 tekst_jednolity_z_dnia: "2021-09-17"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["inwalidzi wojenni i wojskowi", "świadczenia", "niewidomi"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/1824/text/U/D20061824Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062491824"

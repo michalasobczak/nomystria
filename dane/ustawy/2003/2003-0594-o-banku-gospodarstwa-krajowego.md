@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 32
 tekst_jednolity: "Dz.U. 2026 poz. 195"
 tekst_jednolity_z_dnia: "2026-02-13"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["budżet", "regiony", "statut", "banki", "bankowe prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2003/594/text/U/D20030594Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030650594"

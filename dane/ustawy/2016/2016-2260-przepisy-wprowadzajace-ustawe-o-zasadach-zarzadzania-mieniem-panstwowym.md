@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["służba cywilna", "działalność gospodarcza", "jednostki budżetowe", "komercjalizacja", "emerytury i renty", "bankowe prawo", "bezpieczeństwo państwa", "nadzór", "prywatyzacja", "upadłościowe prawo", "autostrady", "nieruchomości", "zwierzęta hodowlane", "lasy", "kodeks postępowania cywilnego", "spółki akcyjne", "spółki kapitałowe", "dewizowe prawo", "instytuty naukowo-badawcze", "górnictwo", "specjalna strefa ekonomiczna", "węgiel", "kodeks spółek handlowych", "samorząd terytorialny", "zamówienia publiczne", "nauka", "finansowanie", "administracja rządowa", "komunalna gospodarka", "uzdrowiska", "osobowość prawna", "papiery wartościowe", "dotacje", "naczelne i centralne organy administracji", "przewozowe prawo", "likwidacja", "radiofonia i telewizja", "szkolnictwo wyższe", "działalność lecznicza", "mienie", "ochrona środowiska", "zakłady opieki zdrowotnej", "energetyczne prawo", "przedsiębiorstwa państwowe", "ogrody działkowe", "ewidencja", "wodne prawo", "zatrudnianie", "spółki", "związek metropolitalny", "fundacje", "gazy techniczne", "ochrona przyrody", "odnawialne źródła energii"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2016/2260/text/U/D20162260Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002260"

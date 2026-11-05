@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2025 poz. 720"
 tekst_jednolity_z_dnia: "2025-05-21"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "konsumenci", "nadzór", "działalność gospodarcza", "bankowe prawo", "kredyty i pożyczki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2017/819/text/U/D20170819Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000819"

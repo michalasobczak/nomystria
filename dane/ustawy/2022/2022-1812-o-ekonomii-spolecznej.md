@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2025 poz. 806"
 tekst_jednolity_z_dnia: "2025-06-13"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["socjalna działalność", "praca", "rehabilitacja zawodowa", "pomoc społeczna", "społeczna polityka", "przedsiębiorstwa społeczne", "spółdzielnie socjalne", "przedsiębiorstwa", "regiony", "działalność pożytku publicznego", "zamówienia publiczne", "podatek dochodowy od osób prawnych", "wolontariat"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/1812/text/U/D20221812Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001812"

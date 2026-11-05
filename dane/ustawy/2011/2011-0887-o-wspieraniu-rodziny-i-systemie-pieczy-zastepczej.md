@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 44
 tekst_jednolity: "Dz.U. 2026 poz. 980"
 tekst_jednolity_z_dnia: "2026-07-16"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kwalifikacje", "pomoc społeczna", "pomoc dla rodzin", "nieletni", "świadczenia pieniężne", "administracja rządowa", "placówka opiekuńczo-wychowawcza", "kodeks postępowania cywilnego", "pomoc finansowa", "świadczenia socjalne", "rodzinne i opiekuńcze prawo", "dzieci", "oświata i wychowanie", "ubezpieczenia społeczne", "kodeks pracy", "samorząd terytorialny", "wolontariat", "kodeks rodzinny i opiekuńczy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/887/text/U/D20110887Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111490887"

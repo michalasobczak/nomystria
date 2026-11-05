@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2020 poz. 2183"
 tekst_jednolity_z_dnia: "2020-11-18"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przedsiębiorstwa", "ulgi podatkowe", "działalność gospodarcza", "restrukturyzacja", "podatek akcyzowy", "podatek od towarów i usług", "zaległości podatkowe", "podatek dochodowy od osób fizycznych", "podatek dochodowy od osób prawnych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/1287/text/U/D20021287Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021551287"

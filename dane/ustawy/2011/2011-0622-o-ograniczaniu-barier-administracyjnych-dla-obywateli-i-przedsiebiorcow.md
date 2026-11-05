@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["umowa leasingu", "podatki", "działalność gospodarcza", "dokumenty", "administracja rządowa", "zaświadczenia", "oświadczenie", "opłaty", "administracja państwowa", "licencje", "spółki", "przedsiębiorstwa", "rejestry", "archiwa państwowe", "kodeks postępowania administracyjnego"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/622/text/U/D20110622Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111060622"

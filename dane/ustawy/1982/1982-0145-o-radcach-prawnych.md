@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 64
 tekst_jednolity: "Dz.U. 2024 poz. 499"
 tekst_jednolity_z_dnia: "2024-03-21"
 zmian_po_tekscie_jednolitym: 4
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["urlopy pracownicze", "sądy powszechne", "aplikacja", "ogólne warunki umów", "samorząd zawodowy", "sądy gospodarcze", "zatrudnianie", "obsługa prawna", "dyscyplinarne postępowanie", "świadczenia pieniężne w razie choroby i macierzyństwa", "ubezpieczenia społeczne", "przedsiębiorstwa państwowe", "radcy prawni", "wybory"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1982/145/text/U/D19820145Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820190145"

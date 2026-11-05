@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2024 poz. 1207"
 tekst_jednolity_z_dnia: "2024-08-01"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["pomoc społeczna", "finanse publiczne", "energetyka", "kodeks postępowania cywilnego", "podatek dochodowy od osób fizycznych", "bankowe prawo", "gminy", "paliwa", "pomoc publiczna", "postępowanie egzekucyjne w administracji", "węgiel", "dodatek osłonowy", "energetyczna gospodarka"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/1692/text/U/D20221692Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001692"

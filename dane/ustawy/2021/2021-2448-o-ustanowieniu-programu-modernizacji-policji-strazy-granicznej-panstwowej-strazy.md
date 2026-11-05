@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2024 poz. 86"
 tekst_jednolity_z_dnia: "2024-01-16"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["nadzór", "ordery, odznaczenia i odznaki", "pracownicy urzędów państwowych", "emerytury i renty", "świadczenia odszkodowawcze"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2021/2448/text/U/D20212448Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002448"

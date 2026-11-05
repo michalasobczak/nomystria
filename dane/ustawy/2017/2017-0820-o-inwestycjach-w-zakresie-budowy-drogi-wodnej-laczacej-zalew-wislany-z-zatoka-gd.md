@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2024 poz. 285"
 tekst_jednolity_z_dnia: "2024-02-20"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["drogi publiczne", "porty morskie", "inwestycje", "wody", "zamówienia publiczne", "budowa i utrzymanie dróg", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2017/820/text/U/D20170820Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000820"

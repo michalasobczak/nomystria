@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF O"
+uwagi: []
 slowa_kluczowe: ["stan wojenny", "wydawnictwa i publikacje", "kierownicze stanowiska państwowe", "pracownicy urzędów państwowych", "planowanie przestrzenne", "budżetowe prawo", "naczelne i centralne organy administracji"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/178/text/O/D19890178.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890340178"

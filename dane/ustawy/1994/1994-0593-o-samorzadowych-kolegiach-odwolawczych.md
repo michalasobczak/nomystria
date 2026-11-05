@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2018 poz. 570"
 tekst_jednolity_z_dnia: "2018-03-01"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["gminy", "sądy administracyjne", "dyscyplinarne postępowanie", "wynagrodzenia", "konkursy", "dokumenty", "wypadki przy pracy", "emerytury i renty", "administracyjne postępowanie", "samorząd terytorialny", "sejmiki samorządowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1994/593/text/U/D19940593Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19941220593"

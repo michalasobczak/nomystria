@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 111
 tekst_jednolity: "Dz.U. 2026 poz. 37"
 tekst_jednolity_z_dnia: "2025-12-04"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["cudzoziemcy", "lekarze", "przepisy karne", "świadczenia lecznicze", "kwalifikacje", "samorząd zawodowy", "prawo wykonywania zawodu", "izby lekarskie", "ochrona zdrowia", "praktyka lekarska", "specjalizacja zawodowa", "lekarze stomatolodzy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/152/text/U/D19970152Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970280152"

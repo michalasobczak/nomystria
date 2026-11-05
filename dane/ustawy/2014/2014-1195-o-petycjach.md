@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2018 poz. 870"
 tekst_jednolity_z_dnia: "2018-04-13"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["skargi i wnioski", "petycje", "kodeks postępowania administracyjnego"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2014/1195/text/U/D20141195Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001195"

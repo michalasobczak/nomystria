@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2023 poz. 465"
 tekst_jednolity_z_dnia: "2023-01-27"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["badawczo-rozwojowe jednostki", "kontrola", "nauka", "kary pieniężne i porządkowe", "zwierzęta", "komisje", "ochrona zwierząt"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/266/text/U/D20150266Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000266"

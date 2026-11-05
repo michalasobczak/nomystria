@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 18
 tekst_jednolity: "Dz.U. 2023 poz. 1105"
 tekst_jednolity_z_dnia: "2023-04-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["lasy", "szkolenie zawodowe", "rolnictwo", "restrukturyzacja", "rozwój obszarów wiejskich", "pomoc finansowa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2007/427/text/U/D20070427Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070640427"

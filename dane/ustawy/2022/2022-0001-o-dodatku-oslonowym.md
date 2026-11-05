@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2026 poz. 77"
 tekst_jednolity_z_dnia: "2026-01-21"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["postępowanie egzekucyjne w administracji", "dodatek osłonowy", "pomoc społeczna", "energetyczne prawo", "kodeks postępowania cywilnego", "podatek dochodowy od osób fizycznych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/1/text/U/D20220001Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000001"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2025 poz. 180"
 tekst_jednolity_z_dnia: "2025-02-05"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["dokumenty", "maszyny i urządzenia", "produkcja", "elektromagnetyczne pola"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2007/556/text/U/D20070556Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070820556"

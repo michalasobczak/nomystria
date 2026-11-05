@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2019 poz. 24"
 tekst_jednolity_z_dnia: "2018-12-05"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["nadzór", "kodeks postępowania w sprawach o wykroczenia", "weterynaryjna służba", "zwierzęta hodowlane", "lekarze weterynarii", "zwierzęta", "kodeks wykroczeń", "usługi", "wykroczenia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2004/95/text/U/D20040095Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040110095"

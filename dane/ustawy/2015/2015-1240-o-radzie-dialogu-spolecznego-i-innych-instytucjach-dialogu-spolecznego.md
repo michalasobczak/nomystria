@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2026 poz. 836"
 tekst_jednolity_z_dnia: "2026-06-12"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["pracodawca", "rehabilitacja zawodowa", "wynagrodzenia", "spory zbiorowe", "ubezpieczenia społeczne", "emerytury i renty", "kodeks pracy", "zatrudnianie", "kodeks postępowania cywilnego", "pracownicy", "związki zawodowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/1240/text/U/D20151240Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001240"

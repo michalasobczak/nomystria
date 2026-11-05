@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2022 poz. 437"
 tekst_jednolity_z_dnia: "2022-01-13"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["lekarze", "budżet", "zakłady opieki zdrowotnej", "dokumenty", "służba medycyny pracy", "opieka zdrowotna", "pielęgniarstwo", "ochrona zdrowia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/593/text/U/D19970593Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970960593"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 20
 tekst_jednolity: "Dz.U. 2026 poz. 168"
 tekst_jednolity_z_dnia: "2026-02-05"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "dyscyplinarne postępowanie", "organizacja i zakres działania", "mienie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2010/619/text/U/D20100619Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100960619"

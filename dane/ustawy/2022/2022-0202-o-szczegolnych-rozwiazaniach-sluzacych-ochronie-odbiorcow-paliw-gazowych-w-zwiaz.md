@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["paliwa", "dodatek osłonowy", "energetyczne prawo", "sektor naftowy", "podatek akcyzowy", "rezerwy strategiczne"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/202/text/U/D20220202Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000202"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2025 poz. 1585"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["radiofonia i telewizja", "opłaty", "ulgi"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2005/728/text/U/D20050728Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050850728"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2020 poz. 2187"
 tekst_jednolity_z_dnia: "2020-11-18"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["odpady", "czystość i porządek", "ochrona środowiska", "zanieczyszczenia", "wodne prawo", "bezpieczeństwo produktów", "ochrona roślin", "towar", "ochrona przyrody", "transport drogowy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2007/493/text/U/D20070493Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070750493"

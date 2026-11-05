@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["radiofonia i telewizja", "kontrola", "telekomunikacja", "informacje niejawne", "zezwolenia", "informatyzacja", "łączność", "akredytacja", "usługi", "komunikacja i łączność", "karne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2024/1221/text/U/D20241221Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001221"

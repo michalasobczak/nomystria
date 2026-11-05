@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2024 poz. 100"
 tekst_jednolity_z_dnia: "2024-01-24"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["muzea"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2019/1589/text/U/D20191589Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001589"

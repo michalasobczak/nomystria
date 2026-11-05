@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["hurtownie", "farmaceutyczne środki", "lekarze", "medyczne wyroby", "zezwolenia", "apteki", "zakłady opieki zdrowotnej", "dokumenty", "ubezpieczenia zdrowotne", "administracja rządowa", "inspekcja sanitarna", "produkty biobójcze"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/1382/text/U/D20011382Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011261382"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 46
 tekst_jednolity: "Dz.U. 2025 poz. 1675"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 3
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["świadczenia lecznicze", "nadzór", "choroby zakaźne", "opieka zdrowotna", "badania lekarskie", "zwalczanie chorób wenerycznych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2008/1570/text/U/D20081570Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341570"

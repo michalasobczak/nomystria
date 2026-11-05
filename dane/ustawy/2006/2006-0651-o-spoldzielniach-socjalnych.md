@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2026 poz. 48"
 tekst_jednolity_z_dnia: "2026-01-09"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["fundusze", "spółdzielnie socjalne", "socjalna działalność", "spółdzielczość", "zatrudnianie", "niepełnosprawni"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/651/text/U/D20060651Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060940651"

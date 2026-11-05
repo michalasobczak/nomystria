@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2026 poz. 20"
 tekst_jednolity_z_dnia: "2025-12-29"
 zmian_po_tekscie_jednolitym: 4
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "nadzór", "informatyzacja", "cyberbezpieczeństwo", "bezpieczeństwo państwa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/1560/text/U/D20181560Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001560"

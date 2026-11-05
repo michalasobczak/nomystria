@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2026 poz. 1433"
 tekst_jednolity_z_dnia: "2026-10-02"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["spółki", "porty lotnicze", "inwestycje", "lotnictwo cywilne"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/1089/text/U/D20181089Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001089"

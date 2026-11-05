@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 72
 tekst_jednolity: "Dz.U. 2023 poz. 2151"
 tekst_jednolity_z_dnia: "2023-09-04"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przeciwdziałanie alkoholizmowi", "przepisy karne", "terenowe organy administracji rządowej", "alkohol", "cywilne postępowanie", "wykroczenia", "handel wewnętrzny", "karne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1982/230/text/U/D19820230Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820350230"

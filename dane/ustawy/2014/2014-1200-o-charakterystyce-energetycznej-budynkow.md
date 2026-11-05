@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2024 poz. 101"
 tekst_jednolity_z_dnia: "2024-01-24"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["budownictwo", "budowlane prawo", "energetyka", "budownictwo mieszkaniowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2014/1200/text/U/D20141200Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001200"

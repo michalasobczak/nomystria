@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2025 poz. 294"
 tekst_jednolity_z_dnia: "2025-03-06"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["fundusze", "finanse publiczne", "rolnictwo", "osobowość prawna"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2017/623/text/U/D20170623Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000623"

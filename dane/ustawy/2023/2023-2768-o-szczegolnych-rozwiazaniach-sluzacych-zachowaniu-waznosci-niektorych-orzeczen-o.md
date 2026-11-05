@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["orzeczenie", "inwalidzi", "niepełnosprawni"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2023/2768/text/T/D20232768L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002768"

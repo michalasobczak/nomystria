@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2023 poz. 948"
 tekst_jednolity_z_dnia: "2023-04-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["arbitraż", "unikanie podwójnego opodatkowania", "podatki", "finanse publiczne"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2019/2200/text/U/D20192200Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190002200"

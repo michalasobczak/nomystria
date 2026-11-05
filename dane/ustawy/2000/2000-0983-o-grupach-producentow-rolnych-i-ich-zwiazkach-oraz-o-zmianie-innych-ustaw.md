@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2023 poz. 1145"
 tekst_jednolity_z_dnia: "2023-05-11"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["gospodarstwa rolne", "produkty rolne", "rolnicy", "rolnictwo", "kredyty i pożyczki", "pomoc finansowa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2000/983/text/U/D20000983Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000880983"

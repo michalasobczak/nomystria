@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2022 poz. 1689"
 tekst_jednolity_z_dnia: "2022-07-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["zakłady karne", "przymus bezpośredni", "działalność lecznicza", "kodeks karny wykonawczy", "ochrona zdrowia", "ochrona zdrowia psychicznego"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2014/24/text/U/D20140024Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000024"

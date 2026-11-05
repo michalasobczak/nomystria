@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 136
 tekst_jednolity: "Dz.U. 2026 poz. 399"
 tekst_jednolity_z_dnia: "2026-03-12"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["wywłaszczenia", "przepisy karne", "przetargi", "kodeks cywilny", "geodezja i kartografia", "grunty", "rzeczoznawcy", "opłaty", "naczelne i centralne organy administracji", "sprzedaż", "gminy", "licencje", "odszkodowania", "użytkowanie wieczyste", "cywilne prawo", "ceny i stawki taryfowe", "stawki", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/741/text/U/D19970741Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971150741"

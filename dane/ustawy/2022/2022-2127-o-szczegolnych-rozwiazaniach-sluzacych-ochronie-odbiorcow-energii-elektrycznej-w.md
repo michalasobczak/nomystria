@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2024 poz. 1288"
 tekst_jednolity_z_dnia: "2024-08-19"
 zmian_po_tekscie_jednolitym: 4
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["paliwa", "postępowanie egzekucyjne w administracji", "odpady", "ochrona środowiska", "energetyczna gospodarka", "energetyka", "energetyczne prawo", "kodeks postępowania cywilnego", "podatek dochodowy od osób fizycznych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/2127/text/U/D20222127Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002127"

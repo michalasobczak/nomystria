@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 78
 tekst_jednolity: "Dz.U. 2025 poz. 764"
 tekst_jednolity_z_dnia: "2025-05-21"
 zmian_po_tekscie_jednolitym: 5
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["farmaceutyczne prawo", "świadczenia lecznicze", "telekomunikacja", "finanse publiczne", "powszechny obowiązek obrony", "finansowanie", "oświata i wychowanie", "choroby zakaźne", "hotele", "samorząd terytorialny", "inspekcja sanitarna"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2020/374/text/U/D20200374Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000374"

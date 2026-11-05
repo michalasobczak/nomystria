@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["szkolnictwo", "lekarze dentyści", "dzieci", "oświata i wychowanie", "młodzież", "opieka zdrowotna", "pielęgniarstwo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2019/1078/text/T/D20191078L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001078"

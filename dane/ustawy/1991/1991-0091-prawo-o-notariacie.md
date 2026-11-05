@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 72
 tekst_jednolity: "Dz.U. 2026 poz. 614"
 tekst_jednolity_z_dnia: "2026-04-30"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["dyscyplinarne postępowanie", "opłaty notarialne", "aplikacja", "samorząd zawodowy", "notariat", "izby notarialne", "naczelne i centralne organy administracji"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1991/91/text/U/D19910091Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910220091"

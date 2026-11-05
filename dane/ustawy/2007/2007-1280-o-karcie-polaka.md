@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 16
 tekst_jednolity: "Dz.U. 2026 poz. 76"
 tekst_jednolity_z_dnia: "2026-01-21"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["język państwowy", "repatrianci"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2007/1280/text/U/D20071280Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071801280"

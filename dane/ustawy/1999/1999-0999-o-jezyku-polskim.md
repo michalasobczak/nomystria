@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 18
 tekst_jednolity: "Dz.U. 2026 poz. 81"
 tekst_jednolity_z_dnia: "2026-01-21"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kultura i sztuka", "język polski", "ochrona", "język państwowy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1999/999/text/U/D19990999Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990900999"

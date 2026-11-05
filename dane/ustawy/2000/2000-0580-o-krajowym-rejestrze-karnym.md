@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 44
 tekst_jednolity: "Dz.U. 2024 poz. 276"
 tekst_jednolity_z_dnia: "2024-02-20"
 zmian_po_tekscie_jednolitym: 4
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "sądy powszechne", "kodeks karny wykonawczy", "karne prawo wykonawcze", "karne skarbowe prawo", "rejestry sądowe", "karne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2000/580/text/U/D20000580Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000500580"

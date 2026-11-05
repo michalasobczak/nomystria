@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 30
 tekst_jednolity: "Dz.U. 2026 poz. 920"
 tekst_jednolity_z_dnia: "2026-07-03"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["premie", "energetyczna gospodarka", "termomodernizacja", "energetyka", "remonty", "kredyty i pożyczki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2008/1459/text/U/D20081459Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082231459"

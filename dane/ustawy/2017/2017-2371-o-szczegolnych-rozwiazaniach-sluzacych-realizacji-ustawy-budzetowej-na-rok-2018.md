@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["zakładowy fundusz świadczeń socjalnych", "lekarze", "lekarze dentyści", "wynagrodzenia", "łowieckie prawo", "budżet", "kierownicze stanowiska państwowe", "opieka zdrowotna", "zatrudnianie", "budżetowe prawo", "transport drogowy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2017/2371/text/U/D20172371Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002371"

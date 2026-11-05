@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2022 poz. 2628"
 tekst_jednolity_z_dnia: "2022-11-04"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "pomoc dla rodzin", "lokal", "budowlane materiały", "budownictwo mieszkaniowe", "karne skarbowe prawo", "podatek dochodowy od osób fizycznych", "kredyty i pożyczki", "pomoc finansowa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2013/1304/text/U/D20131304Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001304"

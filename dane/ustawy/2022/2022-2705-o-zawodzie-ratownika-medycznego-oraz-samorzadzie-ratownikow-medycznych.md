@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2026 poz. 1422"
 tekst_jednolity_z_dnia: "2026-10-09"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ratownictwo", "działalność lecznicza", "ochrona zdrowia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/2705/text/U/D20222705Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002705"

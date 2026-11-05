@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2023 poz. 2009"
 tekst_jednolity_z_dnia: "2023-08-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["cło", "celne prawo", "podatki", "celne postępowanie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2013/1289/text/U/D20131289Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001289"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 50
 tekst_jednolity: "Dz.U. 2026 poz. 1304"
 tekst_jednolity_z_dnia: "2026-09-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["rejestry medyczne", "elektroniczne nośniki informacji", "informatyzacja", "dokumenty", "ochrona zdrowia", "systemy teleinformatyczne", "dokumentacja medyczna"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/657/text/U/D20110657Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111130657"

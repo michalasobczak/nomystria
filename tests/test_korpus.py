@@ -35,8 +35,36 @@ class TestKorpus(unittest.TestCase):
     def test_tytuly_jednowierszowe(self):
         self.assertEqual([r["eli"] for r in indeks() if re.search(r"\s{2,}|[\n\r\t]", r["tytul"])], [])
 
+    def test_s008_g1_aktualnosc(self):
+        from pobierz import tj_z_ramki
+        bad = []
+        for r in indeks():
+            if r["brzmienie"] != "ujednolicone" or not r["tekst_jednolity_eli"]:
+                continue
+            ramka = tj_z_ramki(r["opracowano_na_podstawie"])
+            if (ramka and ramka != r["tekst_jednolity_eli"]) or (
+                    r["tekst_ujednolicony_z_dnia"] and r["tekst_ujednolicony_z_dnia"] < r["tekst_jednolity_z_dnia"]):
+                bad.append(r["eli"])
+        self.assertEqual(bad, [])
+
+    def test_s008_g2_czytelnosc(self):
+        from pobierz import nieczytelny
+        bad = [r["eli"] for r in indeks() if nieczytelny((ROOT / r["plik"]).read_text(encoding="utf-8").split("---", 2)[2])]
+        self.assertEqual(bad, [])
+
+    def test_s008_g3_zrodlo_tekstu(self):
+        for r in indeks():
+            self.assertTrue(r["zrodlo_tekstu"], r["eli"])
+            if r["zrodlo_tekstu"].startswith(("HTML", "OCR")) or r["brzmienie"] == "jednolite":
+                self.assertTrue(r["uwagi"], r["eli"])
+
+    def test_s008_g4_g5_przyklady(self):
+        self.assertEqual(wiersz("DU/1971/114")["brzmienie"], "jednolite")
+        self.assertIn("Dz.U. 2026 poz. 1372", wiersz("DU/1971/114")["opracowano_na_podstawie"])
+        self.assertIn("Art. 1. 1. W sprawach o przestępstwa i przestępstwa skarbowe", tresc("DU/1989/390"))
+
     def test_brzmienie_ma_dozwolone_wartosci(self):
-        self.assertEqual({r["brzmienie"] for r in indeks()} - {"ujednolicone", "pierwotne", "pierwotne (zmieniana)"}, set())
+        self.assertEqual({r["brzmienie"] for r in indeks()} - {"ujednolicone", "jednolite", "pierwotne", "pierwotne (zmieniana)"}, set())
 
     def test_s003_g5_g6_brak_smieci(self):
         naglowek = re.compile(r"^(©\s*Kancelaria Sejmu|s\.\s*\d+\s*/\s*\d+)\s*$", re.M)

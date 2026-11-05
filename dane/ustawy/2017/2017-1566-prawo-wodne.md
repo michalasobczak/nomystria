@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 44
 tekst_jednolity: "Dz.U. 2026 poz. 1335"
 tekst_jednolity_z_dnia: "2026-09-17"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["morza", "telekomunikacja", "odpady", "podatki", "energetyka", "geodezja i kartografia", "nawozy", "administracja rządowa", "planowanie przestrzenne", "hydrologia i hydrografia", "ekologia", "gazociągi i sieci gazowe", "nadzór", "ochrona środowiska", "zanieczyszczenia", "energetyczne prawo", "wody", "opłata skarbowa", "podatek dochodowy od osób prawnych", "nieruchomości", "budownictwo wodne", "kontrola", "żegluga śródlądowa", "klęski żywiołowe", "rybactwo śródlądowe", "województwa", "ścieki", "wodne prawo", "melioracje wodne", "transport kolejowy", "monitoring", "odszkodowania", "spółki", "utylizacyjne zakłady", "finansowa gospodarka", "scalanie i wymiana gruntów", "górnictwo", "zaopatrzenie w wodę", "drogi publiczne", "lotnictwo cywilne", "powodzie", "rybołówstwo morskie", "usługi", "kąpieliska", "inspekcja sanitarna", "systemy teleinformatyczne", "geologiczne prawo", "ochrona wód"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2017/1566/text/U/D20171566Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001566"

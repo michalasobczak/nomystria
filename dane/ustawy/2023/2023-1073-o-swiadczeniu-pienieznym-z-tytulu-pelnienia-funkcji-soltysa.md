@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2024 poz. 1650"
 tekst_jednolity_z_dnia: "2024-11-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["gminy", "świadczenia pieniężne", "sołtysi"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2023/1073/text/U/D20231073Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001073"

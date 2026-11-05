@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2023 poz. 2045"
 tekst_jednolity_z_dnia: "2023-08-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "rybne przetwórstwo", "rejestry", "działalność gospodarcza", "organizacje i grupy producentów", "rybołówstwo morskie", "ryby", "pomoc finansowa", "skup i kontraktacja", "sprzedaż"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/168/text/U/D20110168Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110340168"

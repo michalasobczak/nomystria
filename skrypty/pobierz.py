@@ -27,6 +27,7 @@ from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor, as_compl
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from html2md import convert_html  # noqa: E402
 from pdf2md import convert  # noqa: E402
 from tabela import change_info, fetch_tj_meta, update_readme  # noqa: E402
 
@@ -152,24 +153,115 @@ def yaml_str(v) -> str:
     return json.dumps(v, ensure_ascii=False)
 
 
+def nieczytelny(md: str) -> bool:
+    """S008 K2: tekst z uszkodzonym kodowaniem czcionek PDF (znaki sterujące zamiast liter)."""
+    body = md.split("\n## Przypisy", 1)[0]
+    ctrl = len(re.findall(r"[\x01-\x08\x0b\x0c\x0e-\x1f]", body))
+    litery = len(re.findall(r"[A-Za-ząćęłńóśźżĄĆĘŁŃÓŚŹŻ]", body)) / max(len(body), 1)
+    return ctrl > 20 or litery < 0.3
+
+
+def _ctrl(t: str) -> bool:
+    return bool(re.search(r"[\x01-\x08\x0b\x0c\x0e-\x1f]", t or ""))
+
+
+def tj_z_ramki(basis: str) -> str | None:
+    m = re.match(r"t\.j\. Dz\. U\. z (\d{4}) r\.(?: Nr \d+,)? poz\. (\d+)", basis or "")
+    return f"DU/{m.group(1)}/{int(m.group(2))}" if m else None
+
+
+def _cached(url: str, dest: Path) -> Path | None:
+    if not dest.exists():
+        data = get(url)
+        if not data:
+            return None
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        tmp = dest.with_suffix(dest.suffix + ".part")
+        tmp.write_bytes(data)
+        tmp.replace(dest)
+    return dest
+
+
+def fetch_tj(tj_eli: str, cache: Path) -> tuple[Path, str, str] | None:
+    """PDF obwieszczenia tekstu jednolitego: T (skład Kancelarii Sejmu), a w razie braku O (Dz. U.)."""
+    d = json.loads(get(f"{API}/acts/{tj_eli}"))
+    texts = {t["type"]: t["fileName"] for t in d.get("texts", [])}
+    for kind in ("T", "O"):
+        if kind in texts:
+            url = f"{API}/acts/{tj_eli}/text/{kind}/{texts[kind]}"
+            p = _cached(url, cache / f"{tj_eli.replace('/', '_')}_TJ_{kind}.pdf")
+            if p:
+                return p, url, kind
+    return None
+
+
 def render(act: dict, pdf: str) -> dict:
-    res = convert(pdf, dehyphenate=act["_text"][0] != "U")
+    kind = act["_text"][0]
+    cache = Path(pdf).parent
+    res = convert(pdf, dehyphenate=kind != "U")
+    md, pages, basis = res.markdown, res.pages, res.basis
+    tu_date = res.footer_date if kind == "U" else None
+    br = brzmienie(act)
+    zrodlo_tekstu = f"PDF {kind}"
+    src_url = pdf_url(act)
+    uwagi: list[str] = []
+    zm = act["_zm"]
+
+    # S008 K1: tekst ujednolicony starszy niż ostatni tekst jednolity → tekst jednolity z obwieszczenia
+    if kind == "U" and zm["tekst_jednolity_eli"]:
+        ramka = tj_z_ramki(basis)
+        starszy = bool(tu_date and zm["tekst_jednolity_z_dnia"] and tu_date < zm["tekst_jednolity_z_dnia"])
+        if (ramka and ramka != zm["tekst_jednolity_eli"]) or starszy:
+            tj = fetch_tj(zm["tekst_jednolity_eli"], cache)
+            if tj:
+                r2 = convert(str(tj[0]), dehyphenate=True)
+                md, pages = r2.markdown, r2.pages
+                uwagi.append(
+                    f"Tekst ujednolicony ISAP (z {tu_date or '?'}, na podstawie {ramka or basis or '?'}) był starszy niż ostatni "
+                    f"tekst jednolity {zm['tekst_jednolity']} z {zm['tekst_jednolity_z_dnia']}; użyto tekstu jednolitego z Dz. U.")
+                br, zrodlo_tekstu, src_url = "jednolite", f"tekst jednolity, PDF {tj[2]}", tj[1]
+                tu_date, basis = None, zm["tekst_jednolity"]
+
+    # S008 K2: nieczytelna warstwa tekstowa PDF → OCR (tekst ujednolicony) albo HTML (tekst pierwotny)
+    if nieczytelny(md):
+        if br == "ujednolicone":
+            from ocr import convert_ocr
+
+            md, f2, b2 = convert_ocr(pdf)
+            tu_date, basis = tu_date or f2, basis if basis and not _ctrl(basis) else b2
+            zrodlo_tekstu = "OCR (tesseract) PDF U"
+            uwagi.append("Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); "
+                         "tekst odczytano przez OCR i może zawierać błędy rozpoznania.")
+        else:
+            url = f"{API}/acts/{act['ELI']}/text.html"
+            h = _cached(url, cache.parent / "html" / f"{act['ELI'].replace('/', '_')}.html")
+            if h:
+                md = convert_html(h.read_text(encoding="utf-8", errors="replace"))
+                zrodlo_tekstu, src_url = "HTML (API ELI)", url
+                uwagi.append("Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI.")
+        if nieczytelny(md):
+            uwagi.append("Tekst nadal może być nieczytelny — porównaj z PDF-em.")
+    if basis and _ctrl(basis):  # ramka to głównie cyfry, więc sprawdzamy tylko znaki sterujące
+        basis = None
+
     fm = {
         "tytul": act["title"],
         "eli": act["ELI"],
         "adres_publikacyjny": act["displayAddress"],
         "status": act["status"],
-        "brzmienie": brzmienie(act),
+        "brzmienie": br,
         "data_aktu": act.get("announcementDate"),
         "data_wejscia_w_zycie": act.get("entryIntoForce"),
-        "tekst_ujednolicony_z_dnia": res.footer_date if act["_text"][0] == "U" else None,
-        "opracowano_na_podstawie": res.basis,
-        "liczba_ustaw_zmieniajacych": act["_zm"]["liczba_ustaw_zmieniajacych"],
-        "tekst_jednolity": act["_zm"]["tekst_jednolity"] or None,
-        "tekst_jednolity_z_dnia": act["_zm"]["tekst_jednolity_z_dnia"] or None,
-        "zmian_po_tekscie_jednolitym": act["_zm"]["zmian_po_tekscie_jednolitym"] if act["_zm"]["tekst_jednolity"] else None,
+        "tekst_ujednolicony_z_dnia": tu_date,
+        "opracowano_na_podstawie": basis,
+        "liczba_ustaw_zmieniajacych": zm["liczba_ustaw_zmieniajacych"],
+        "tekst_jednolity": zm["tekst_jednolity"] or None,
+        "tekst_jednolity_z_dnia": zm["tekst_jednolity_z_dnia"] or None,
+        "zmian_po_tekscie_jednolitym": zm["zmian_po_tekscie_jednolitym"] if zm["tekst_jednolity"] else None,
+        "zrodlo_tekstu": zrodlo_tekstu,
+        "uwagi": uwagi,
         "slowa_kluczowe": act.get("keywords", []),
-        "zrodlo_pdf": pdf_url(act),
+        "zrodlo_pdf": src_url,
         "isap": isap_url(act),
     }
     lines = ["---"]
@@ -181,7 +273,7 @@ def render(act: dict, pdf: str) -> dict:
     lines.append("")
     path = out_path(act)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text("\n".join(lines) + "\n" + res.markdown, encoding="utf-8")
+    path.write_text("\n".join(lines) + "\n" + md, encoding="utf-8")
     return {
         "eli": act["ELI"],
         "rok": act["year"],
@@ -189,15 +281,17 @@ def render(act: dict, pdf: str) -> dict:
         "tytul": act["title"],
         "adres_publikacyjny": act["displayAddress"],
         "status": act["status"],
-        "brzmienie": brzmienie(act),
+        "brzmienie": br,
         "data_aktu": act.get("announcementDate") or "",
         "data_wejscia_w_zycie": act.get("entryIntoForce") or "",
-        "tekst_ujednolicony_z_dnia": (res.footer_date or "") if act["_text"][0] == "U" else "",
-        "opracowano_na_podstawie": res.basis or "",
-        **act["_zm"],
-        "strony_pdf": res.pages,
+        "tekst_ujednolicony_z_dnia": tu_date or "",
+        "opracowano_na_podstawie": basis or "",
+        **zm,
+        "zrodlo_tekstu": zrodlo_tekstu,
+        "uwagi": " ".join(uwagi),
+        "strony_pdf": pages,
         "plik": str(path.relative_to(ROOT)),
-        "zrodlo_pdf": pdf_url(act),
+        "zrodlo_pdf": src_url,
         "isap": isap_url(act),
     }
 

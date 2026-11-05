@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["służba cywilna", "kodeks postępowania w sprawach o wykroczenia", "spory zbiorowe", "kodeks pracy", "układy zbiorowe pracy", "kodeks postępowania cywilnego", "związki zawodowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2025/1661/text/T/D20251661L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001661"

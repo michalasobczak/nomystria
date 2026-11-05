@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2021 poz. 612"
 tekst_jednolity_z_dnia: "2021-03-01"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["morskie prawo", "badania i certyfikacje", "zezwolenia", "bezpieczeństwo żeglugi i wypadki morskie", "dokumenty", "bhp", "ochrona zdrowia", "nurkowie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2003/1936/text/U/D20031936Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031991936"

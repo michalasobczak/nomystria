@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2024 poz. 1665"
 tekst_jednolity_z_dnia: "2024-11-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["licencje", "ochrona danych osobowych", "nadzór", "zezwolenia", "działalność gospodarcza", "opłata skarbowa", "koszty sądowe w sprawach cywilnych", "autorskie prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/1293/text/U/D20181293Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001293"

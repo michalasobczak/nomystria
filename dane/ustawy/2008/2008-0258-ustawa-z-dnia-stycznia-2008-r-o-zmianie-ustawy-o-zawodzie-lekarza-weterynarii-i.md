@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF O"
+uwagi: []
 slowa_kluczowe: ["izby lekarsko-weterynaryjne", "weterynaryjna służba", "zwierzęta", "identyfikatory"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2008/258/text/O/D20080258.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080430258"

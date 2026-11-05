@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2025 poz. 1156"
 tekst_jednolity_z_dnia: "2025-08-05"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["odszkodowania", "promieniowanie", "odpady", "energetyczna gospodarka", "energetyczne prawo", "inwestycje", "paliwa i smary", "administracyjne postępowanie", "zamówienia publiczne", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/789/text/U/D20110789Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111350789"

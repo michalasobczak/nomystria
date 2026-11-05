@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2023 poz. 2015"
 tekst_jednolity_z_dnia: "2023-08-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["świadczenia", "choroby zawodowe", "wypadki w związku z pełnieniem służby", "świadczenia odszkodowawcze"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2014/616/text/U/D20140616Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000616"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 80
 tekst_jednolity: "Dz.U. 2025 poz. 1691"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["opłaty administracyjne", "organizacje społeczne", "podatki", "prawa i obowiązki", "skargi i wnioski", "terenowe organy administracji rządowej", "zaświadczenia", "prasowe prawo", "administracyjne postępowanie", "prokuratura", "kodeks postępowania administracyjnego"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1960/168/text/U/D19600168Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19600300168"

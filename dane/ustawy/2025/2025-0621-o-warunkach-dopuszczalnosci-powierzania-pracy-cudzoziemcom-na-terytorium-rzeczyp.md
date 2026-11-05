@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przedsiębiorstwa", "cudzoziemcy", "szkolnictwo wyższe", "ordynacja podatkowa", "rolnicy", "kodeks karny wykonawczy", "kodeks postępowania w sprawach o wykroczenia", "ubezpieczenia społeczne", "zatrudnianie", "usługi"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2025/621/text/U/D20250621Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000621"

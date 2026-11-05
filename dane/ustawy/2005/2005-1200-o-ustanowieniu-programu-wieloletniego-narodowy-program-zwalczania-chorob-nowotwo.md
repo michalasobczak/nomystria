@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["finansowanie", "programy wieloletnie", "wskaźnik", "choroby", "ochrona zdrowia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2005/1200/text/U/D20051200Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051431200"

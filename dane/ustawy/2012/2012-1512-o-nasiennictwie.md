@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2021 poz. 129"
 tekst_jednolity_z_dnia: "2020-12-08"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "rejestry", "nasiennictwo i szkółkarstwo", "ochrona roślin", "owoce i warzywa", "rośliny", "opłaty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2012/1512/text/U/D20121512Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001512"

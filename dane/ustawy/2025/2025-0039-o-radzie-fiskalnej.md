@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2026 poz. 1234"
 tekst_jednolity_z_dnia: "2026-09-04"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["budżet", "sprawozdawczość", "opinie", "budżetowe prawo", "planowanie społeczno-gospodarcze"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2025/39/text/U/D20250039Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000039"

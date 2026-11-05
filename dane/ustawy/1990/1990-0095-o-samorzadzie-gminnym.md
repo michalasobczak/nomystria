@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 105
 tekst_jednolity: "Dz.U. 2026 poz. 662"
 tekst_jednolity_z_dnia: "2026-05-15"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["administracyjny podział kraju", "gminy", "mienie komunalne", "sołtysi", "zadania własne", "terenowe organy administracji rządowej", "zadania zlecone", "związki i porozumienia komunalne", "samorząd terytorialny", "sejmiki samorządowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1990/95/text/U/D19900095Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900160095"

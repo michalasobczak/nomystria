@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 34
 tekst_jednolity: "Dz.U. 2026 poz. 457"
 tekst_jednolity_z_dnia: "2026-03-27"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["imprezy artystyczne", "działalność kulturalna", "czas pracy", "wynagrodzenia", "biblioteki", "kultura i sztuka", "działalność gospodarcza", "ordery, odznaczenia i odznaki", "kinematografia", "naczelne i centralne organy administracji", "instytucje artystyczne", "finansowa gospodarka", "likwidacja", "rejestry", "muzea", "pracownicy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1991/493/text/U/D19910493Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911140493"

@@ -12,146 +12,101 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "HTML (API ELI)"
+uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI."]
 slowa_kluczowe: []
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/406/text/T/D19890406L.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/406/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890670406"
 ---
 
 # Ustawa z dnia 30 listopada 1989 r. o Funduszu Daru Narodowego.
 
-**Dz.U. 1989 Nr 67 poz. 406**
+**USTAWA**
 
-**USTAWA z dnia 30 listopada 1989 r.**
+z dnia 30 listopada 1989 r.
 
-**o Funduszu Daru Narodowego.**
+**o Funduszu Daru Narodowego**
 
-**Art. 1.**
+Art. 1. 1. Tworzy się Fundusz Daru Narodowego, zwany dalej „Funduszem”.
 
-1.  
-
+2. Fundusz gromadzi środki pochodzące od Polaków i przyjaciół Polski w kraju i za granicą.
 
-2.    !"  "#!    
+Art. 2. 1. Środki Funduszu przeznacza się na finansowanie potrzeb przedstawianych przez rząd, kościoły, związki wyznaniowe, organizacje społeczne, a w szczególności na wspieranie ochrony zdrowia i pomocy społecznej, ochrony środowiska oraz oświaty, nauki i kultury.
 
-**Art. 2.**
+2. Środki dewizowe Funduszu mogą być przeznaczone również na zmniejszenie zadłużenia zagranicznego.
 
-1. $  
-%  &'&    #    #"      #  &  & 2. $   '(" )  #)  zagranicznego.
+Art. 3. 1. Dochodami Funduszu są dary składane indywidualnie lub zbiorowo w postaci:
 
-**Art. 3.**
+1) wpłat pieniężnych oraz obligacji i akcji emitowanych na obszarze Polskiej Rzeczypospolitej Ludowej,
 
-1.   #   '' & *
+2) wartości dewizowych, w tym walut obcych, wystawionych w walutach obcych akcji, świadectw udziałowych, obligacji, książeczek i innych dowodów oszczędnościowych, certyfikatów i kwitów depozytowych, czeków, czeków podróżnych, weksli, akredytyw, poleceń wypłat oraz innych dokumentów bankowych i finansowych podlegających wymianie na waluty obce,
 
-1) #&  
-)'     &'! +ospolitej Ludowej,
+3) darów rzeczowych (ruchomości), a w szczególności biżuterii, złota, platyny, srebra, dzieł sztuki.
 
-2) &  &&'& &' 
+2. Zarząd Funduszu może przyjąć dary w innej postaci niż wymienione w ust. 1.
 
- & #'   )  "
-  &% &"  &"&""") y- &,#& &"' %  -
+Art. 4. Darczyńca może zastrzec szczególne przeznaczenie daru lub szczególny sposób jego wykorzystania, a także swoją anonimowość.
 
-cych wymianie na waluty obce,
+Art. 5. 1. Darczyńca zwolniony jest od opłat pocztowych, bankowych, notarialnych, sądowych, skarbowych i innych, wiążących się z darowizną na rzecz Funduszu.
 
-3) "  - .   "  ' )&  #& & '  #& 
+2. Opłaty wymienione w ust. 1 ponosi Skarb Państwa.
 
-/0 ) ( &  )  &1
+Art. 6. 1. Dary na rzecz Funduszu zwolnione są od podatku od spadków i darowizn.
 
-**Art. 4.**
+2. Wartość darowizny odlicza się w pełnej wysokości od podstawy opodatkowania podatkiem dochodowym, podatkiem wyrównawczym oraz podatkiem rolnym obliczanym od działów specjalnych, na zasadach określonych odrębnymi przepisami.
 
-,)&" '""'o- & &)  (.
+3. Dokonywanie przez Fundusz obrotu wartościami dewizowymi nie wymaga zezwolenia dewizowego.
 
-**Art. 5.**
+Art. 7. Organami Funduszu są Rada Nadzorcza oraz Zarząd.
 
-1. , &#&&'&   '   )  
-  
+Art. 8. Rada Nadzorcza liczy 11 osób w składzie: przewodniczący oraz członkowie, powoływani i odwoływani wspólną uchwałą Prezydiów Sejmu i Senatu.
 
-2. 2#&  &1 3'!,&
+Art. 9. 1. Rada Nadzorcza określa zasady gromadzenia i przechowywania środków Funduszu oraz nadzoruje jego działanie.
 
-**Art. 6.**
+2. Do Rady Nadzorczej należy w szczególności:
 
-1.   &"  
+1) powoływanie i odwoływanie członków Zarządu,
 
-05/21/99 2. 4&(   
-# && tkiem dochodowym, podatkiem wyrównawczym oraz podatkiem rolnym obliczanym od  #"
-'   
+2) zatwierdzanie regulaminu prac Zarządu,
 
-3.  %'&&       dewizowego.
+3) udzielanie pełnomocnictw ogólnych,
 
-**Art. 7.**
+4) określanie zasad wyceny i sprzedaży darów rzeczowych,
 
-2  +0 
+5) określanie kierunków wydatkowania środków Funduszu,
 
-**Art. 8.**
+6) składanie okresowych sprawozdań z wykorzystania środków Funduszu Prezydiom Sejmu i Senatu oraz ich publikowanie,
 
-+ 11"'# *  # #  # "# ! "3 3&
+7) ustalenie sposobu i terminu zakończenia działalności Funduszu.
 
-**Art. 9.**
+Art. 10. Rada Nadzorcza określi zasady prowadzenia Księgi Darów, do której będą wpisywani darczyńcy.
 
-1. +    "  # 
+Art. 11. 1. Zarząd Funduszu stanowią: prezes i dwóch jego zastępców oraz dwóch członków.
 
-2. +)" *
+2. Zarząd kieruje działalnością Funduszu.
 
-1) #  # #"0 
+3. Do zadań Zarządu należy w szczególności:
 
-2) &   0 
+1) ewidencjonowanie wpływu darów i wydatkowania środków,
 
-3)   # &"
+2) zakładanie kont bankowych i podawanie do publicznej wiadomości danych o tych kontach,
 
-4)   )"
+3) dysponowanie środkami Funduszu,
 
-5)   "& "
+4) podawanie do wiadomości publicznej listy darczyńców,
 
-6) #   ,  &  "  !  Sejmu i Senatu oraz ich publikowanie,
+5) prowadzenie Księgi Darów.
 
-7) & ' & ,  # 
+4. Do składania oświadczeń woli upoważnionych jest dwóch członków Zarządu lub członek Zarządu i pełnomocnik.
 
-**Art. 10.**
+Art. 12. 1. Dary w postaci biżuterii, złota, platyny, srebra i inne dary rzeczowe o szczególnej wartości oraz papiery wartościowe przechowywane są w formie depozytu w Narodowym Banku Polskim.
 
-+  5 
- "&"'
-   r- ,
+2. Dzieła sztuki przechowywane są w muzeach i bibliotekach, których wykaz ustali Minister Kultury i Sztuki, oraz w archiwach, których wykaz ustali Minister Edukacji Narodowej.
 
-**Art. 11.**
+Art. 13. 1. Obsługę administracyjną i techniczno-organizacyjną Funduszu zapewniają Kancelaria Sejmu i Kancelaria Senatu.
 
-1. 0 & * "&
-""#" 2. 0   # 
+2. Koszty związane z działalnością Funduszu pokrywane są z budżetu centralnego, w częściach dotyczących Kancelarii Sejmu i Kancelarii Senatu.
 
-3. ,)"
+Art. 14. Dary mogą być składane do dnia 11 listopada 1990 r.
 
-1)   #" & "
-
-2) #  & '     '       & kontach,
-
-3)   
-
-4)    '  &,"
-
-5)  5 
- "
-
-6#  , ) &"#"0 '# 0  # 
-
-05/21/99
-
-**Art. 12.**
-
-1. & ' )& #&&'  "&  &  % &7 Polskim.
-
-2.  #&   ' ' &&"& 8  & Kultury i Sztuki oraz w archiwach, których wykaz ustali Minister Edukacji Narodowej.
-
-**Art. 13.**
-
-1. 2'#
-  &  & 9  %  5  Sejmu i Kancelaria Senatu.
-
-2. 5&  #  ')&&
--  & 5 3 5 3&
-
-**Art. 14.**
-
- '(# 11 &1::;
-
-**Art. 15.**
-
-<& )  # .
-
-05/21/99
+Art. 15. Ustawa wchodzi w życie z dniem ogłoszenia.

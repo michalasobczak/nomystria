@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2024 poz. 105"
 tekst_jednolity_z_dnia: "2024-01-24"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["opakowania", "badania i certyfikacje", "celne prawo", "kontrola", "nadzór", "rolnicy", "nawozy", "rośliny", "rolnictwo", "opłaty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2007/1033/text/U/D20071033Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071471033"

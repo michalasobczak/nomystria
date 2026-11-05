@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 28
 tekst_jednolity: "Dz.U. 2026 poz. 562"
 tekst_jednolity_z_dnia: "2026-04-17"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["elektroniczne nośniki informacji", "telekomunikacja", "finanse publiczne", "energetyka", "inwestycje", "usługi", "samorząd terytorialny"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2010/675/text/U/D20100675Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101060675"

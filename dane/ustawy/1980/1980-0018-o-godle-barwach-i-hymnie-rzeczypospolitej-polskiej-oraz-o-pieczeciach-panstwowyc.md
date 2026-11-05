@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 21
 tekst_jednolity: "Dz.U. 2025 poz. 299"
 tekst_jednolity_z_dnia: "2025-03-06"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["bandery", "przepisy karne", "hymn", "statki powietrzne", "pieczęcie urzędowe", "dyplomatyczne przedstawicielstwa", "godło i barwy państwa", "polskie przedstawicielstwa za granicą", "statki morskie", "karne prawo", "naczelne i centralne organy administracji"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1980/18/text/U/D19800018Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19800070018"

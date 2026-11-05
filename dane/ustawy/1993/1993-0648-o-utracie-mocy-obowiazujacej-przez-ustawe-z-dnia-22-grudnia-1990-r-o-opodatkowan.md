@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["dewizowe prawo", "premie", "nagrody", "porządkowanie prawa", "podatki", "terenowe organy administracji rządowej", "urzędy i izby skarbowe", "opodatkowanie wzrostu wynagrodzeń", "bilanse", "usługi"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1993/648/text/U/D19930648Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19931340648"

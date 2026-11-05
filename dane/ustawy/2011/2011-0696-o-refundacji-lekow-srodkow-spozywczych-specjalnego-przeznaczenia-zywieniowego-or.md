@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 40
 tekst_jednolity: "Dz.U. 2026 poz. 253"
 tekst_jednolity_z_dnia: "2026-02-20"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ceny", "medyczne wyroby", "ceny detaliczne", "kary pieniężne i porządkowe", "apteki", "ceny urzędowe", "finansowanie", "żywność i żywienie", "refundacja", "leki i artykuły sanitarne", "marże", "administracyjne postępowanie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/696/text/U/D20110696Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111220696"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2015 poz. 1160"
 tekst_jednolity_z_dnia: "2015-07-30"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["artykuły spożywcze", "rybactwo śródlądowe", "rynek wewnętrzny", "leśnictwo", "działalność gospodarcza", "zwierzęta hodowlane", "owoce i warzywa", "rolnictwo", "ryby"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/471/text/U/D20010471Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010420471"

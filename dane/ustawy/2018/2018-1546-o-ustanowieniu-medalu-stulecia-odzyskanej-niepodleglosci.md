@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2020 poz. 865"
 tekst_jednolity_z_dnia: "2020-05-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ordery, odznaczenia i odznaki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/1546/text/U/D20181546Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001546"

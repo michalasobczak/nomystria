@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2021 poz. 2205"
 tekst_jednolity_z_dnia: "2021-10-29"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "nadzór", "finanse publiczne", "finansowanie", "dokumenty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/1411/text/U/D20061411Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061911411"

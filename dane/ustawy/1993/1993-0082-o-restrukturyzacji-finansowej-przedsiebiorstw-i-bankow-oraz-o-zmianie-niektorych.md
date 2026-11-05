@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2018 poz. 1439"
 tekst_jednolity_z_dnia: "2018-07-05"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["podatki", "kodeks cywilny", "sądy gospodarcze", "bilanse", "administracyjne postępowanie", "papiery wartościowe", "bankowe prawo", "spółki", "fundusze", "postępowanie egzekucyjne w administracji", "finansowa gospodarka", "cywilne prawo", "prywatyzacja", "cywilne postępowanie", "przedsiębiorstwa państwowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1993/82/text/U/D19930082Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930180082"

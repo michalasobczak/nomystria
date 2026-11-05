@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["stan wyjątkowy", "obrona cywilna", "odpady", "finanse publiczne", "zabytki", "energetyka", "administracja rządowa", "planowanie przestrzenne", "bezpieczeństwo państwa", "gminy", "nadzór", "atomowe prawo", "godło i barwy państwa", "wybory", "karne prawo", "rezerwy strategiczne", "praca", "obrona narodowa", "ochrona osób i mienia", "sądy powszechne", "lasy", "wykroczenia", "ochotnicza straż pożarna", "drogi publiczne", "samorząd terytorialny", "referendum"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2024/1907/text/U/D20241907Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001907"

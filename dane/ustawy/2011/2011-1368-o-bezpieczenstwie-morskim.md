@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 28
 tekst_jednolity: "Dz.U. 2026 poz. 529"
 tekst_jednolity_z_dnia: "2026-03-27"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kodeks morski", "kwalifikacje", "statki rybackie", "wody morskie", "administracja morska", "transport morski", "morskie urzędy", "inspekcja", "izby morskie", "morskie prawo", "ratownictwo", "ochrona środowiska morskiego", "bandery", "powszechny obowiązek obrony", "porty morskie", "bezpieczeństwo żeglugi i wypadki morskie", "statki morskie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/1368/text/U/D20111368Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112281368"

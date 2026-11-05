@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 18
 tekst_jednolity: "Dz.U. 2025 poz. 472"
 tekst_jednolity_z_dnia: "2025-03-24"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["gminy", "sądy okręgowe", "zbiórki publiczne", "samorząd terytorialny", "wybory", "referendum"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2000/985/text/U/D20000985Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000880985"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2021 poz. 1365"
 tekst_jednolity_z_dnia: "2021-07-21"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kościół katolicki", "szkolnictwo wyższe", "studia w szkołach wyższych", "kościoły"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2000/440/text/U/D20000440Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000390440"

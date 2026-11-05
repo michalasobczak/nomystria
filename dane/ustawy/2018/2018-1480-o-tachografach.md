@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2024 poz. 1037"
 tekst_jednolity_z_dnia: "2024-06-28"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["tachografy", "ewidencja", "zezwolenia", "kary pieniężne i porządkowe", "kierowcy", "prawo o ruchu drogowym", "opłaty", "homologacja", "transport drogowy", "miary i narzędzia pomiarowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/1480/text/U/D20181480Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001480"

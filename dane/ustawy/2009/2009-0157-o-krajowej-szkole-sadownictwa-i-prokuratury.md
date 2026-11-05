@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 24
 tekst_jednolity: "Dz.U. 2022 poz. 217"
 tekst_jednolity_z_dnia: "2021-12-02"
 zmian_po_tekscie_jednolitym: 3
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["sędziowie", "aplikacja", "prokuratura"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2009/157/text/U/D20090157Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090260157"

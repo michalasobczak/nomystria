@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2020 poz. 720"
 tekst_jednolity_z_dnia: "2020-04-16"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["instytuty naukowo-badawcze", "badawczo-rozwojowe jednostki", "budżet", "statut", "dotacje"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1996/777/text/U/D19960777Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961560777"

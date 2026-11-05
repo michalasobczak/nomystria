@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2018 poz. 1156"
 tekst_jednolity_z_dnia: "2018-05-10"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["socjalna działalność", "cudzoziemcy", "zezwolenia", "opieka zdrowotna", "administracyjne postępowanie", "ekwiwalent pieniężny"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/1133/text/U/D20111133Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111911133"

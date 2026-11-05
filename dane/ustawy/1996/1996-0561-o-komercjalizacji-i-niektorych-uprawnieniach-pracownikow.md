@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 67
 tekst_jednolity: "Dz.U. 2026 poz. 809"
 tekst_jednolity_z_dnia: "2026-06-12"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["fundusze", "spółki", "budżet", "rejestry", "prywatyzacja", "tajemnica państwowa i służbowa", "komercjalizacja", "ubezpieczenia społeczne", "bilanse", "przedsiębiorstwa państwowe", "papiery wartościowe", "kredyty i pożyczki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1996/561/text/U/D19960561Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961180561"

@@ -3,21 +3,51 @@ tytul: "Ustawa z dnia 4 kwietnia 2014 r. o europejskiej inicjatywie obywatelskie
 eli: "DU/2014/575"
 adres_publikacyjny: "Dz.U. 2014 poz. 575"
 status: "akt posiada tekst jednolity"
-brzmienie: "ujednolicone"
+brzmienie: "jednolite"
 data_aktu: "2014-04-04"
 data_wejscia_w_zycie: "2014-05-21"
-tekst_ujednolicony_z_dnia: "2016-02-09"
-opracowano_na_podstawie: "Dz. U. z 2014 r. poz. 575, z 2015 r. poz. 2281."
+tekst_ujednolicony_z_dnia: null
+opracowano_na_podstawie: "Dz.U. 2016 poz. 861"
 liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2016 poz. 861"
 tekst_jednolity_z_dnia: "2016-06-09"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "tekst jednolity, PDF T"
+uwagi: ["Tekst ujednolicony ISAP (z 2016-02-09, na podstawie Dz. U. z 2014 r. poz. 575, z 2015 r. poz. 2281.) był starszy niż ostatni tekst jednolity Dz.U. 2016 poz. 861 z 2016-06-09; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["tworzenie prawa"]
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2014/575/text/U/D20140575Lj.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2016/861/text/T/D20160861L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000575"
 ---
 
 # Ustawa z dnia 4 kwietnia 2014 r. o europejskiej inicjatywie obywatelskiej
+
+**Dz.U. 2016 poz. 861**
+
+**OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ**
+
+z dnia 9 czerwca 2016 r.
+
+**w sprawie ogłoszenia jednolitego tekstu ustawy o europejskiej inicjatywie obywatelskiej**
+
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2016 r. poz. 296) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 kwietnia 2014 r. o europejskiej inicjatywie obywatelskiej (Dz. U. poz. 575), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 22 grudnia 2015 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 2281)
+
+oraz zmian wynikających z przepisów ogłoszonych przed dniem 8 czerwca 2016 r.
+
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 39 ust. 1 i art. 45 ustawy z dnia 22 grudnia 2015 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 2281), które stanowią:
+
+Art. 39. „1. Postępowania administracyjne wszczęte i prowadzone przed dniem wejścia w życie niniejszej
+
+ustawy przed ministrem właściwym do spraw łączności oraz przed ministrem właściwym do spraw wewnętrznych w sprawach, w których właściwy na mocy przepisów niniejszej ustawy staje się minister właściwy do spraw informatyzacji, są prowadzone na podstawie przepisów dotychczasowych przez ministra właściwego do spraw informatyzacji.” „Art. 45. Ustawa wchodzi w życie z dniem 1 stycznia 2016 r., z wyjątkiem:
+
+1) art. 43 ust. 2, który wchodzi w życie z dniem ogłoszenia;
+
+2) art. 29 pkt 6, który wchodzi w życie z dniem 1 stycznia 2017 r.;
+
+3) art. 12 pkt 1 lit. a tiret pierwsze w zakresie pkt 1 lit. c, który wchodzi w życie z dniem 1 stycznia 2018 r.”.
+
+Marszałek Sejmu: M. Kuchciński
+
+Załącznik do obwieszczenia Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 9 czerwca 2016 r. (poz. 861)
 
 **USTAWA**
 
@@ -33,7 +63,7 @@ Art. 1. 1. Ustawa określa:
 
 2. Ilekroć w ustawie jest mowa o europejskiej inicjatywie obywatelskiej, należy przez to rozumieć inicjatywę obywatelską w rozumieniu przepisów rozporządzenia (UE) nr 211/2011.
 
-Art. 2. Minister właściwy do spraw informatyzacji jest organem właściwym w sprawach:
+Art. 2. Minister właściwy do spraw informatyzacji jest organem właściwym w sprawach:[^2]
 
 1) wydawania certyfikatu, o którym mowa w art. 6 ust. 3 rozporządzenia (UE) nr 211/2011;
 
@@ -55,10 +85,14 @@ Art. 4. Organizator, w rozumieniu przepisów rozporządzenia (UE) nr 211/2011, k
 
 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
 
-Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^3].
 
 ---
 
 ## Przypisy
 
 [^1]: Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 211/2011 z dnia 16 lutego 2011 r. w sprawie inicjatywy obywatelskiej (Dz. Urz. UE L 65 z 11.03.2011, str. 1).
+
+[^2]: Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 33 ustawy z dnia 22 grudnia 2015 r. o zmianie ustawy o działach administracji rządowej oraz niektórych innych ustaw (Dz. U. poz. 2281), która weszła w życie z dniem 1 stycznia 2016 r.
+
+[^3]: Ustawa została ogłoszona w dniu 6 maja 2014 r.

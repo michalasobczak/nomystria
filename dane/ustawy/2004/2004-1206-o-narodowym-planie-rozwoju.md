@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: "Dz.U. 2022 poz. 260"
 tekst_jednolity_z_dnia: "2021-11-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["sprawozdawczość", "finansowanie", "regiony", "organizacje międzynarodowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2004/1206/text/U/D20041206Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041161206"

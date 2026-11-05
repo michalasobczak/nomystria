@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2021 poz. 24"
 tekst_jednolity_z_dnia: "2020-12-02"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["opakowania", "nadzór", "rejestry", "chemiczne wyroby", "ochrona środowiska", "reklama", "ochrona zwierząt", "ochrona zdrowia", "klasyfikacja", "produkty biobójcze"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/1926/text/U/D20151926Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001926"

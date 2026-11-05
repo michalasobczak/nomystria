@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 63
 tekst_jednolity: "Dz.U. 2026 poz. 720"
 tekst_jednolity_z_dnia: "2026-05-27"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "województwa", "organizacja i zakres działania", "mienie", "współpraca zagraniczna", "samorząd terytorialny", "prawo miejscowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1998/576/text/U/D19980576Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980910576"

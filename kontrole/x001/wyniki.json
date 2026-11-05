@@ -107,10 +107,10 @@
   "DU/2026/971"
  ],
  "korpus": {
-  "K1_sprawdzono": 813,
-  "K1_rozbiezne": 12,
+  "K1_sprawdzono": 801,
+  "K1_rozbiezne": 0,
   "K2_sprawdzono": 1177,
-  "K2_rozbiezne": 29
+  "K2_rozbiezne": 0
  },
  "wyniki": [
   {
@@ -143,8 +143,8 @@
   {
    "eli": "DU/1971/114",
    "parametr": "brzmienie",
-   "wartosc_zbior": "ujednolicone",
-   "wartosc_zrodlo": "ujednolicone",
+   "wartosc_zbior": "jednolite",
+   "wartosc_zrodlo": "jednolite",
    "zrodlo": "GET /acts/{ELI}: texts + Akty zmieniające",
    "werdykt": "zgodny",
    "wyjasnienie": ""
@@ -163,25 +163,16 @@
    "parametr": "tekst_jednolity",
    "wartosc_zbior": "DU/2026/1372",
    "wartosc_zrodlo": "DU/2025/734",
-   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext)",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "tekst ujednolicony opracowano na podstawie innego (wcześniejszego?) t.j."
+   "zrodlo": "GET /acts/{ELI} + obwieszczenie + ramka PDF (pdftotext)",
+   "werdykt": "zgodny",
+   "wyjasnienie": ""
   },
   {
    "eli": "DU/1971/114",
    "parametr": "zmian_po_tekscie_jednolitym",
    "wartosc_zbior": "0",
-   "wartosc_zrodlo": "4 w ramce",
-   "zrodlo": "ramka „Opracowano na podstawie” (pdftotext)",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "w ramce, a nie wśród aktów zmieniających: DU/2025/1676, DU/2025/1814, DU/2025/1818, DU/2025/1872"
-  },
-  {
-   "eli": "DU/1971/114",
-   "parametr": "tekst_ujednolicony_z_dnia",
-   "wartosc_zbior": "2026-05-05",
-   "wartosc_zrodlo": "2026-05-05",
-   "zrodlo": "stopka PDF (pdftotext)",
+   "wartosc_zrodlo": "0",
+   "zrodlo": "GET /acts/{ELI}",
    "werdykt": "zgodny",
    "wyjasnienie": ""
   },
@@ -4153,375 +4144,6 @@
    "zrodlo": "GET /acts/{ELI}",
    "werdykt": "zgodny",
    "wyjasnienie": ""
-  },
-  {
-   "eli": "DU/1950/270",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "1209 znaków sterujących, 13% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1964/60",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "5464 znaków sterujących, 9% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1964/297",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "7049 znaków sterujących, 13% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1971/114",
-   "parametr": "aktualnosc_tekstu_ujednoliconego",
-   "wartosc_zbior": "t.u. z 2026-05-05 na podstawie DU/2025/734",
-   "wartosc_zrodlo": "ostatni t.j. DU/2026/1372 z 2026-10-02",
-   "zrodlo": "ramka PDF + GET /acts/{ELI}",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
-  },
-  {
-   "eli": "DU/1971/115",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "7147 znaków sterujących, 14% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1981/101",
-   "parametr": "aktualnosc_tekstu_ujednoliconego",
-   "wartosc_zbior": "t.u. z 2023-03-03 na podstawie DU/2022/1215",
-   "wartosc_zrodlo": "ostatni t.j. DU/2023/624 z 2023-03-10",
-   "zrodlo": "ramka PDF + GET /acts/{ELI}",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
-  },
-  {
-   "eli": "DU/1989/14",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "103 znaków sterujących, 47% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1989/36",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "239 znaków sterujących, 27% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1989/179",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "2457 znaków sterujących, 7% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1989/184",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "187 znaków sterujących, 28% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1989/185",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "211 znaków sterujących, 27% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1989/386",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "188 znaków sterujących, 26% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1989/388",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "383 znaków sterujących, 21% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1989/390",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "5683 znaków sterujących, 4% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1989/406",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "2783 znaków sterujących, 9% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1990/89",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "1580 znaków sterujących, 12% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1990/159",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "227 znaków sterujących, 31% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1990/160",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "259 znaków sterujących, 25% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1990/256",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "769 znaków sterujących, 15% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1990/306",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "13239 znaków sterujących, 10% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1990/310",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "1546 znaków sterujących, 19% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1991/373",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "6920 znaków sterujących, 6% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1992/451",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "4499 znaków sterujących, 12% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1993/226",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "318 znaków sterujących, 34% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1994/225",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "2126 znaków sterujących, 17% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1996/176",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "540 znaków sterujących, 22% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1996/464",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "115 znaków sterujących, 49% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1996/776",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "2870 znaków sterujących, 10% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1997/165",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "547 znaków sterujących, 23% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1997/494",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "1778 znaków sterujących, 11% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/1997/642",
-   "parametr": "czytelnosc_tekstu",
-   "wartosc_zbior": "tekst w zbiorze",
-   "wartosc_zrodlo": "1494 znaków sterujących, 15% liter",
-   "zrodlo": "analiza pliku Markdown",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "PDF ma uszkodzone kodowanie czcionek; tekst w zbiorze jest nieczytelny i wymaga innego źródła (HTML, PDF O, OCR)"
-  },
-  {
-   "eli": "DU/2001/627",
-   "parametr": "aktualnosc_tekstu_ujednoliconego",
-   "wartosc_zbior": "t.u. z 2026-09-11 na podstawie DU/2025/647",
-   "wartosc_zrodlo": "ostatni t.j. DU/2026/1453 z 2026-10-22",
-   "zrodlo": "ramka PDF + GET /acts/{ELI}",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
-  },
-  {
-   "eli": "DU/2006/1354",
-   "parametr": "aktualnosc_tekstu_ujednoliconego",
-   "wartosc_zbior": "t.u. z 2023-07-18 na podstawie DU/2023/1296",
-   "wartosc_zrodlo": "ostatni t.j. DU/2021/403 z 2021-02-23",
-   "zrodlo": "ramka PDF + GET /acts/{ELI}",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
-  },
-  {
-   "eli": "DU/2006/1658",
-   "parametr": "aktualnosc_tekstu_ujednoliconego",
-   "wartosc_zbior": "t.u. z 2026-11-02 na podstawie DU/2026/1366",
-   "wartosc_zrodlo": "ostatni t.j. DU/2025/198 z 2025-02-05",
-   "zrodlo": "ramka PDF + GET /acts/{ELI}",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
-  },
-  {
-   "eli": "DU/2009/1240",
-   "parametr": "aktualnosc_tekstu_ujednoliconego",
-   "wartosc_zbior": "t.u. z 2026-08-03 na podstawie DU/2025/1483",
-   "wartosc_zrodlo": "ostatni t.j. DU/2026/1447 z 2026-10-02",
-   "zrodlo": "ramka PDF + GET /acts/{ELI}",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
-  },
-  {
-   "eli": "DU/2010/44",
-   "parametr": "aktualnosc_tekstu_ujednoliconego",
-   "wartosc_zbior": "t.u. z 2024-09-04 na podstawie DU/2023/1212",
-   "wartosc_zrodlo": "ostatni t.j. DU/2024/1485 z 2024-09-30",
-   "zrodlo": "ramka PDF + GET /acts/{ELI}",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
-  },
-  {
-   "eli": "DU/2010/835",
-   "parametr": "aktualnosc_tekstu_ujednoliconego",
-   "wartosc_zbior": "t.u. z 2025-06-13 na podstawie ?",
-   "wartosc_zrodlo": "ostatni t.j. DU/2026/1374 z 2026-10-02",
-   "zrodlo": "ramka PDF + GET /acts/{ELI}",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
-  },
-  {
-   "eli": "DU/2011/814",
-   "parametr": "aktualnosc_tekstu_ujednoliconego",
-   "wartosc_zbior": "t.u. z 2026-06-29 na podstawie DU/2026/804",
-   "wartosc_zrodlo": "ostatni t.j. DU/2026/803 z 2026-05-27",
-   "zrodlo": "ramka PDF + GET /acts/{ELI}",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
-  },
-  {
-   "eli": "DU/2012/769",
-   "parametr": "aktualnosc_tekstu_ujednoliconego",
-   "wartosc_zbior": "t.u. z 2025-06-04 na podstawie DU/2021/1745",
-   "wartosc_zrodlo": "ostatni t.j. DU/2025/1567 z 2025-11-07",
-   "zrodlo": "ramka PDF + GET /acts/{ELI}",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
-  },
-  {
-   "eli": "DU/2014/575",
-   "parametr": "aktualnosc_tekstu_ujednoliconego",
-   "wartosc_zbior": "t.u. z 2016-02-09 na podstawie ?",
-   "wartosc_zrodlo": "ostatni t.j. DU/2016/861 z 2016-06-09",
-   "zrodlo": "ramka PDF + GET /acts/{ELI}",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
-  },
-  {
-   "eli": "DU/2018/771",
-   "parametr": "aktualnosc_tekstu_ujednoliconego",
-   "wartosc_zbior": "t.u. z 2026-07-14 na podstawie DU/2026/882",
-   "wartosc_zrodlo": "ostatni t.j. DU/2026/881 z 2026-06-12",
-   "zrodlo": "ramka PDF + GET /acts/{ELI}",
-   "werdykt": "rozbiezny",
-   "wyjasnienie": "ISAP nie zaktualizował jeszcze tekstu ujednoliconego po ostatnim obwieszczeniu; urzędowy tekst jednolity jest aktualniejszy niż tekst w zbiorze"
   }
  ]
 }

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2017 poz. 1881"
 tekst_jednolity_z_dnia: "2017-09-28"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "biblioteki", "budżet", "kultura i sztuka", "działalność gospodarcza", "geodezja i kartografia", "zabytki", "administracyjne postępowanie", "opłaty", "znaki towarowe", "finansowa gospodarka", "użytkowanie wieczyste", "sądy administracyjne", "cywilne prawo", "rejestry", "wydawnictwa i publikacje", "fundacje", "przedsiębiorstwa państwowe", "numizmatyka", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1995/121/text/U/D19950121Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950230121"

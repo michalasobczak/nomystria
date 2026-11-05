@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2023 poz. 301"
 tekst_jednolity_z_dnia: "2023-01-11"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przedsiębiorstwa", "choroby roślin", "kary pieniężne i porządkowe", "dokumenty", "rośliny", "ochrona roślin", "nasiennictwo i szkółkarstwo", "opłata skarbowa", "opłaty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2020/424/text/U/D20200424Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000424"

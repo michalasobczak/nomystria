@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 71
 tekst_jednolity: "Dz.U. 2024 poz. 416"
 tekst_jednolity_z_dnia: "2024-03-11"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przepisy karne", "gastronomiczne zakłady", "handel zagraniczny", "terenowe organy administracji rządowej", "żywność i żywienie", "choroby zakaźne", "morskie urzędy", "ochrona zdrowia", "wykroczenia", "naczelne i centralne organy administracji", "warunki zdrowotne", "karne prawo", "handel wewnętrzny"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1985/49/text/U/D19850049Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850120049"

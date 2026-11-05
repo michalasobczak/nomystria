@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2020 poz. 2008"
 tekst_jednolity_z_dnia: "2020-10-08"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["spółki", "budżet", "budownictwo", "budowlane prawo", "drogi publiczne", "porty lotnicze", "finansowanie", "inwestycje", "remonty", "sport", "administracyjne postępowanie", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2007/1219/text/U/D20071219Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071731219"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 39
 tekst_jednolity: "Dz.U. 2026 poz. 623"
 tekst_jednolity_z_dnia: "2026-04-17"
 zmian_po_tekscie_jednolitym: 3
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "nadzór", "sprawozdawczość", "elektroniczny instrument płatniczy", "działalność gospodarcza", "waluta", "agencje płatnicze", "usługi", "rachunkowość", "banki", "bankowe prawo", "stopa procentowa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/1175/text/U/D20111175Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111991175"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 142
 tekst_jednolity: "Dz.U. 2026 poz. 524"
 tekst_jednolity_z_dnia: "2026-03-27"
 zmian_po_tekscie_jednolitym: 4
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["badania i certyfikacje", "budowlane prawo", "energetyka", "geodezja i kartografia", "terenowe organy administracji rządowej", "zabytki", "budowlano-montażowe przedsiębiorstwa", "planowanie przestrzenne", "administracyjne postępowanie", "hydrologia i hydrografia", "naczelne i centralne organy administracji", "rzeczoznawstwo", "rejestry", "ochrona środowiska", "urbanistyka i architektura", "pracownicy", "karne prawo", "kontrola", "przepisy karne", "techniczne służby", "dokumenty", "normalizacja", "remonty", "wykroczenia", "cywilne prawo", "dyscyplinarne postępowanie", "transport drogowy i spedycja", "górnicze prawo", "leśnictwo", "budownictwo", "inwestycje", "urządzenia energetyczne", "przeciwpożarowa ochrona", "przygotowanie i projektowanie", "rejestr skazanych", "roboty budowlane"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1994/414/text/U/D19940414Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940890414"

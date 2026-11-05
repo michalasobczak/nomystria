@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 22
 tekst_jednolity: "Dz.U. 2018 poz. 2017"
 tekst_jednolity_z_dnia: "2018-10-03"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["zastaw rejestrowy", "kodeks cywilny", "fundusze powiernicze", "rejestr zastawów", "dokumenty", "sądy gospodarcze", "opłaty", "papiery wartościowe", "bankowe prawo", "cywilne prawo", "formularze", "rejestry", "upadłościowe prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1996/703/text/U/D19960703Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961490703"

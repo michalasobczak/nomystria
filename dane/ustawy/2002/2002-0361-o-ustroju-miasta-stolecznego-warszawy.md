@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2018 poz. 1817"
 tekst_jednolity_z_dnia: "2018-09-14"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["herby miast i województw", "podatki", "radni", "administracja rządowa", "komunalna gospodarka", "planowanie przestrzenne", "ochrona zdrowia", "miasta", "gminy", "finansowa gospodarka", "podatek rolny", "podatek od nieruchomości", "opłaty lokalne", "inwestycje", "oświata i wychowanie", "podatek leśny", "samorząd terytorialny", "statut", "wybory"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/361/text/U/D20020361Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020410361"

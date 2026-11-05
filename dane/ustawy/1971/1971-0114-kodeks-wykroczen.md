@@ -3,23 +3,75 @@ tytul: "Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń."
 eli: "DU/1971/114"
 adres_publikacyjny: "Dz.U. 1971 nr 12 poz. 114"
 status: "akt posiada tekst jednolity"
-brzmienie: "ujednolicone"
+brzmienie: "jednolite"
 data_aktu: "1971-05-20"
 data_wejscia_w_zycie: "1972-01-01"
-tekst_ujednolicony_z_dnia: "2026-05-05"
-opracowano_na_podstawie: "t.j. Dz. U. z 2025 r. poz. 734, 1676, 1814, 1818, 1872."
+tekst_ujednolicony_z_dnia: null
+opracowano_na_podstawie: "Dz.U. 2026 poz. 1372"
 liczba_ustaw_zmieniajacych: 117
 tekst_jednolity: "Dz.U. 2026 poz. 1372"
 tekst_jednolity_z_dnia: "2026-10-02"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "tekst jednolity, PDF T"
+uwagi: ["Tekst ujednolicony ISAP (z 2026-05-05, na podstawie DU/2025/734) był starszy niż ostatni tekst jednolity Dz.U. 2026 poz. 1372 z 2026-10-02; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["kodeks wykroczeń", "wykroczenia"]
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1971/114/text/U/D19710114Lj.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2026/1372/text/T/D20261372L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710120114"
 ---
 
 # Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń.
 
-**Dz. U. 1971 Nr 12 poz. 114**
+**Dz. U. 2026 poz. 1372**
+
+**OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ**
+
+z dnia 2 października 2026 r.
+
+**w sprawie ogłoszenia jednolitego tekstu ustawy – Kodeks wykroczeń**
+
+1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461 oraz z 2026 r. poz. 912) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 maja 1971 r. – Kodeks wykroczeń (Dz. U. z 2025 r. poz. 734), z uwzględnieniem stanu prawnego na dzień 23 września 2026 r. oraz zmian wprowadzonych:
+
+1) ustawą z dnia 17 października 2025 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1676);
+
+2) ustawą z dnia 7 listopada 2025 r. o zmianie ustawy – Kodeks wykroczeń oraz ustawy – Kodeks postępowania w sprawach o wykroczenia (Dz. U. poz. 1814);
+
+3) ustawą z dnia 7 listopada 2025 r. o zmianie ustawy – Kodeks karny, ustawy – Kodeks wykroczeń oraz ustawy – Kodeks postępowania w sprawach o wykroczenia (Dz. U. poz. 1818);
+
+4) ustawą z dnia 4 grudnia 2025 r. o zmianie niektórych ustaw w celu poprawy bezpieczeństwa ruchu drogowego (Dz. U. poz. 1872).
+
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+
+1) art. 22 ustawy z dnia 17 października 2025 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1676), który stanowi:
+
+„Art. 22. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
+
+1) art. 1 pkt 6 i 16 oraz art. 4 pkt 11 i 13, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+2) art. 1 pkt 3, pkt 7 lit. b, pkt 8 i 15, art. 3 pkt 2–7, art. 4 pkt 4 lit. b, pkt 8, pkt 17 i 19, art. 6, art. 10 oraz art. 11, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
+
+3) art. 1 pkt 4, art. 2, art. 4 pkt 1 i 18 oraz art. 8, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia;
+
+4) art. 1 pkt 7 lit. a, pkt 9, pkt 12 lit. a tiret drugie, pkt 13 lit. a tiret pierwsze podwójne tiret drugie i pkt 14, art. 3
+
+pkt 1, art. 4 pkt 6 i pkt 7 lit. a i b, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”;
+
+2) art. 3 ustawy z dnia 7 listopada 2025 r. o zmianie ustawy – Kodeks wykroczeń oraz ustawy – Kodeks postępowania w sprawach o wykroczenia (Dz. U. poz. 1814), który stanowi:
+
+„Art. 3. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+
+3) art. 5 ustawy z dnia 7 listopada 2025 r. o zmianie ustawy – Kodeks karny, ustawy – Kodeks wykroczeń oraz ustawy – Kodeks postępowania w sprawach o wykroczenia (Dz. U. poz. 1818), który stanowi:
+
+„Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+
+4) art. 9 ustawy z dnia 4 grudnia 2025 r. o zmianie niektórych ustaw w celu poprawy bezpieczeństwa ruchu drogowego (Dz. U. poz. 1872), który stanowi:
+
+„Art. 9. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 4 pkt 1, 3 i 4 oraz art. 6,
+
+które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia.”.
+
+Marszałek Sejmu: W. Czarzasty
+
+Załącznik do obwieszczenia Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 2 października 2026 r. (Dz. U. poz. 1372)
 
 **USTAWA**
 
@@ -165,7 +217,7 @@ Art. 23. § 1. Jeżeli ukarany uchyla się od odbywania kary ograniczenia wolno�
 
 Art. 24. § 1. Grzywnę wymierza się w wysokości od 20 do 5000 złotych, chyba że ustawa stanowi inaczej.
 
-§ 1a. Za wykroczenia określone w art. 82 § 1–3, 4 i 5, art. 86 § 1, 1a i 2, art. 86b § 1, art. 86c, art. 87 § 1, art. 92 § 1 i 2, art. 92a § 2, art. 92b, art. 93 § 1, art. 94 § 1, art. 96 § 3 lub art. 97a grzywnę wymierza się w wysokości do 30 000 złotych.
+§ 1a.[^1] Za wykroczenia określone w art. 82 § 1–3, 4 i 5, art. 86 § 1, 1a i 2, art. 86b § 1, art. 86c, art. 87 § 1, art. 92 § 1 i 2, art. 92a § 2, art. 92b, art. 93 § 1, art. 94 § 1, art. 96 § 3 lub art. 97a grzywnę wymierza się w wysokości do 30 000 złotych.
 
 § 2. Jeżeli za wykroczenie popełnione w celu osiągnięcia korzyści majątkowej wymierzono karę aresztu, orzeka się obok tej kary również grzywnę, chyba że orzeczenie grzywny nie byłoby celowe.
 
@@ -285,7 +337,7 @@ Art. 37a. (uchylony)
 
 Art. 38. § 1. Ukaranemu co najmniej dwukrotnie za podobne wykroczenia umyślne, który w ciągu dwóch lat od ostatniego ukarania popełnia ponownie podobne wykroczenie umyślne, można wymierzyć karę aresztu, choćby było zagrożone karą łagodniejszą.
 
-§ 2. Kierującemu pojazdem mechanicznym ukaranemu za wykroczenie określone w art. 86 § 1a i 2, art. 86b § 1, art. 86c, art. 87 § 1, art. 92 § 2, art. 92a § 2, art. 92b, art. 94 § 1 albo art. 97a, który w ciągu dwóch lat od ostatniego prawomocnego ukarania popełnia to samo wykroczenie, wymierza się karę grzywny w wysokości nie niższej niż dwukrotność dolnej granicy ustawowego zagrożenia.
+§ 2.[^2] Kierującemu pojazdem mechanicznym ukaranemu za wykroczenie określone w art. 86 § 1a i 2, art. 86b § 1, art. 86c, art. 87 § 1, art. 92 § 2, art. 92a § 2, art. 92b, art. 94 § 1 albo art. 97a, który w ciągu dwóch lat od ostatniego prawomocnego ukarania popełnia to samo wykroczenie, wymierza się karę grzywny w wysokości nieniższej niż dwukrotność dolnej granicy ustawowego zagrożenia.
 
 Art. 39. § 1. W wypadkach zasługujących na szczególne uwzględnienie można – biorąc pod uwagę charakter i okoliczności czynu lub właściwości i warunki osobiste sprawcy – zastosować nadzwyczajne złagodzenie kary albo odstąpić od wymierzenia kary lub środka karnego.
 
@@ -381,7 +433,9 @@ Art. 48. Przepisy części ogólnej Kodeksu wykroczeń stosuje się do wykrocze�
 
 **Wykroczenia przeciwko porządkowi i spokojowi publicznemu**
 
-Art. 49. § 1. Kto w miejscu publicznym demonstracyjnie okazuje lekceważenie Narodowi Polskiemu, Rzeczypospolitej Polskiej lub jej konstytucyjnym organom, podlega karze aresztu albo grzywny.
+Art. 49. § 1. Kto w miejscu publicznym demonstracyjnie okazuje lekceważenie Narodowi Polskiemu, Rzeczypospolitej Polskiej lub jej konstytucyjnym organom,
+
+podlega karze aresztu albo grzywny.
 
 § 2. Tej samej karze podlega, kto narusza przepisy o godle, barwach i hymnie Rzeczypospolitej Polskiej.
 
@@ -395,7 +449,7 @@ podlega karze aresztu albo grzywny.
 
 Art. 50a. § 1. Kto w miejscu publicznym posiada nóż, maczetę lub inny podobnie niebezpieczny przedmiot, a okoliczności jego posiadania wskazują na zamiar użycia go w celu popełnienia przestępstwa,
 
-podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 3000 zł.
+podlega karze aresztu, ograniczenia wolności albo grzywny nieniższej niż 3000 zł.
 
 § 1a. Tej samej karze podlega, kto będąc uczestnikiem przejazdu zorganizowanej grupy uczestników masowej imprezy sportowej, posiada przedmioty określone w § 1 lub wyroby pirotechniczne.
 
@@ -405,11 +459,11 @@ Art. 51. § 1. Kto krzykiem, hałasem, alarmem lub innym wybrykiem zakłóca spo
 
 podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-§ 2. Jeżeli czyn określony w § 1 ma charakter chuligański lub sprawca dopuszcza się go, będąc pod wpływem alkoholu, środka odurzającego lub innej podobnie działającej substancji lub środka,
+§ 2.[^3] Jeżeli czyn określony w § 1 ma charakter chuligański lub sprawca dopuszcza się go, będąc pod wpływem alkoholu, środka odurzającego lub innej podobnie działającej substancji lub środka,
 
-podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 złotych
+podlega karze aresztu, ograniczenia wolności albo grzywny nieniższej niż 1000 złotych.
 
-§ 2a. Tej samej karze podlega, kto dopuszcza się czynu określonego w § 1 w zakładzie leczniczym w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211) lub w trakcie akcji medycznej w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637), lub w siedzibie organu administracji rządowej, innego organu państwowego lub samorządu terytorialnego.
+§ 2a.[^4] Tej samej karze podlega, kto dopuszcza się czynu określonego w § 1 w zakładzie leczniczym w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2026 r. poz. 156 i 972) lub w trakcie akcji medycznej w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2026 r. poz. 141), lub w siedzibie organu administracji rządowej, innego organu państwowego lub samorządu terytorialnego.
 
 § 3. Podżeganie i pomocnictwo są karalne.
 
@@ -453,7 +507,7 @@ jeżeli zasięg czynu albo jego skutki nie były znaczne
 
 – podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-Art. 52aa. § 1. Kto organizuje spotkanie, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm.[^1]), bez wymaganego zawiadomienia lub przewodniczy takiemu spotkaniu, podlega karze ograniczenia wolności albo grzywny nie niższej niż 2000 złotych.
+Art. 52aa.[^5] § 1. Kto organizuje spotkanie, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm.[^6]), bez wymaganego zawiadomienia lub przewodniczy takiemu spotkaniu, podlega karze ograniczenia wolności albo grzywny nieniższej niż 2000 złotych.
 
 § 2. Kto umyślnie uczestniczy w spotkaniu, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zorganizowanym bez wymaganego zawiadomienia,
 
@@ -509,13 +563,15 @@ Art. 58. § 1. Kto, mając środki egzystencji lub będąc zdolny do pracy, żeb
 
 podlega karze ograniczenia wolności, grzywny do 1500 złotych albo karze nagany.
 
-§ 2. Kto żebrze w miejscu publicznym w sposób natarczywy lub oszukańczy, podlega karze aresztu albo ograniczenia wolności.
+§ 2. Kto żebrze w miejscu publicznym w sposób natarczywy lub oszukańczy,
+
+podlega karze aresztu albo ograniczenia wolności.
 
 Art. 59. (uchylony)
 
 Art. 60. (uchylony)
 
-Art. 601. § 1. Kto wykonuje działalność gospodarczą bez wymaganego zgłoszenia do ewidencji działalności gospodarczej, wpisu do rejestru działalności regulowanej lub bez wymaganej koncesji albo zezwolenia, podlega karze ograniczenia wolności albo grzywny.
+Art. 60[1]. § 1. Kto wykonuje działalność gospodarczą bez wymaganego zgłoszenia do ewidencji działalności gospodarczej, wpisu do rejestru działalności regulowanej lub bez wymaganej koncesji albo zezwolenia, podlega karze ograniczenia wolności albo grzywny.
 
 § 2. Tej samej karze podlega, kto nie dopełnia obowiązku zgłaszania do ewidencji działalności gospodarczej zmian danych objętych wpisem.
 
@@ -535,9 +591,7 @@ Art. 601. § 1. Kto wykonuje działalność gospodarczą bez wymaganego zgłosze
 
 4) świadczy usługi hotelarskie wbrew decyzji nakazującej wstrzymanie ich świadczenia,
 
-5) nie zawiadamia organu prowadzącego rejestr organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych o zawieszeniu wykonywania działalności w terminie 7 dni od dnia tego zawie-szenia
-
-– podlega karze ograniczenia wolności albo grzywny.
+5) nie zawiadamia organu prowadzącego rejestr organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych o zawieszeniu wykonywania działalności w terminie 7 dni od dnia tego zawieszenia – podlega karze ograniczenia wolności albo grzywny.
 
 § 5. (uchylony)
 
@@ -545,9 +599,9 @@ Art. 601. § 1. Kto wykonuje działalność gospodarczą bez wymaganego zgłosze
 
 § 7. (uchylony)
 
-Art. 602. (uchylony)
+Art. 60[2]. (uchylony)
 
-Art. 603. § 1. Kto prowadzi sprzedaż na terenie należącym do gminy lub będącym w jej zarządzie poza miejscem do tego wyznaczonym przez właściwe organy gminy,
+Art. 60[3]. § 1. Kto prowadzi sprzedaż na terenie należącym do gminy lub będącym w jej zarządzie poza miejscem do tego wyznaczonym przez właściwe organy gminy,
 
 podlega karze grzywny.
 
@@ -557,13 +611,17 @@ Art. 61. § 1. Kto przywłaszcza sobie stanowisko, tytuł lub stopień albo publ
 
 podlega karze grzywny do 1000 złotych albo karze nagany.
 
-§ 2. Kto ustanawia, wytwarza, rozpowszechnia publicznie, używa lub nosi: godło, chorągiew albo inną odznakę lub mundur, co do których został wydany zakaz, albo odznakę lub mundur organizacji prawnie nieistniejącej, albo odznakę lub mundur, na których ustanowienie lub noszenie nie uzyskano wymaganego zezwolenia, podlega karze aresztu albo grzywny.
+§ 2. Kto ustanawia, wytwarza, rozpowszechnia publicznie, używa lub nosi: godło, chorągiew albo inną odznakę lub mundur, co do których został wydany zakaz, albo odznakę lub mundur organizacji prawnie nieistniejącej, albo odznakę lub mundur, na których ustanowienie lub noszenie nie uzyskano wymaganego zezwolenia,
+
+podlega karze aresztu albo grzywny.
 
 § 3. W razie popełnienia wykroczenia określonego w § 1 można orzec, a w razie popełnienia wykroczenia określonego w § 2 orzeka się przepadek wymienionych w tych przepisach przedmiotów, jak również innych przedmiotów służących do popełnienia wykroczenia, takich jak pieczęcie, stemple, papier firmowy lub bilety wizytowe, choćby nie stanowiły własności sprawcy.
 
 Art. 62. (uchylony)
 
-Art. 63. § 1. Kto bez złożenia pisemnego wniosku o dokonanie wpisu do rejestru przedsiębiorców telekomunikacyjnych wykonuje działalność telekomunikacyjną, podlega karze aresztu, ograniczenia wolności lub grzywny.
+Art. 63. § 1. Kto bez złożenia pisemnego wniosku o dokonanie wpisu do rejestru przedsiębiorców telekomunikacyjnych wykonuje działalność telekomunikacyjną,
+
+podlega karze aresztu, ograniczenia wolności lub grzywny.
 
 § 2. (uchylony)
 
@@ -573,17 +631,13 @@ podlega karze grzywny.
 
 § 4. (uchylony)
 
-Art. 63a. § 1. Kto umieszcza w miejscu publicznym do tego nieprzeznaczonym ogłoszenie, plakat, afisz, apel, ulotkę, napis lub rysunek albo wystawia je na widok publiczny w innym miejscu bez zgody zarządzającego tym miejscem,
-
-podlega karze ograniczenia wolności albo grzywny.
+Art. 63a. § 1. Kto umieszcza w miejscu publicznym do tego nieprzeznaczonym ogłoszenie, plakat, afisz, apel, ulotkę, napis lub rysunek albo wystawia je na widok publiczny w innym miejscu bez zgody zarządzającego tym miejscem, podlega karze ograniczenia wolności albo grzywny.
 
 § 1a. Podżeganie i pomocnictwo są karalne.
 
 § 2. W razie popełnienia wykroczenia można orzec przepadek przedmiotów służących lub przeznaczonych do popełnienia wykroczenia, choćby nie stanowiły własności sprawcy, oraz nawiązkę w wysokości do 1500 złotych lub obowiązek przywrócenia do stanu poprzedniego.
 
-Art. 63b. § 1. Kto umieszcza reklamę, o której mowa w art. 4 pkt 23 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2024 r. poz. 320 i 1222 oraz z 2025 r. poz. 641) z naruszeniem warunków jej sytuowania określonych w art. 42a tej ustawy, o gabarytach większych niż dopuszczalne lub wykonane z wyrobów innych niż dopuszczalne,
-
-podlega karze ograniczenia wolności albo grzywny.
+Art. 63b. § 1. Kto umieszcza reklamę, o której mowa w art. 4 pkt 23 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2025 r. poz. 889 oraz z 2026 r. poz. 815 i 982) z naruszeniem warunków jej sytuowania określonych w art. 42a tej ustawy, o gabarytach większych niż dopuszczalne lub wykonane z wyrobów innych niż dopuszczalne, podlega karze ograniczenia wolności albo grzywny.
 
 § 2. Podżeganie i pomocnictwo są karalne.
 
@@ -599,7 +653,9 @@ Art. 65. § 1. Kto umyślnie wprowadza w błąd organ państwowy lub instytucję
 
 1) co do tożsamości własnej lub innej osoby,
 
-2) co do swego obywatelstwa, zawodu, miejsca zatrudnienia lub zamieszkania, podlega karze ograniczenia wolności albo grzywny.
+2) co do swego obywatelstwa, zawodu, miejsca zatrudnienia lub zamieszkania,
+
+podlega karze ograniczenia wolności albo grzywny.
 
 § 2. Tej samej karze podlega, kto wbrew obowiązkowi nie udziela właściwemu organowi państwowemu lub instytucji, upoważnionej z mocy ustawy do legitymowania, wiadomości lub dokumentów co do okoliczności wymienionych w § 1.
 
@@ -611,7 +667,9 @@ Art. 66. § 1. Kto:
 
 1) chcąc wywołać niepotrzebną czynność, fałszywą informacją lub w inny sposób wprowadza w błąd instytucję użyteczności publicznej albo organ ochrony bezpieczeństwa, porządku publicznego lub zdrowia,
 
-2) umyślnie, bez uzasadnionej przyczyny, blokuje telefoniczny numer alarmowy, utrudniając prawidłowe funkcjonowanie centrum powiadamiania ratunkowego – podlega karze aresztu, ograniczenia wolności albo grzywny do 1500 zł.
+2) umyślnie, bez uzasadnionej przyczyny, blokuje telefoniczny numer alarmowy, utrudniając prawidłowe funkcjonowanie centrum powiadamiania ratunkowego
+
+– podlega karze aresztu, ograniczenia wolności albo grzywny do 1500 zł.
 
 § 2. Jeżeli wykroczenie spowodowało niepotrzebną czynność, można orzec nawiązkę do wysokości 1000 złotych.
 
@@ -619,7 +677,7 @@ Art. 66a. Osoba, wobec której wykonuje się karę, środek karny lub środek za
 
 Art. 66b. § 1. Kto nie stosuje się do wydanego przez:
 
-1) Policję, na podstawie art. 15aa ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636), albo Żandarmerię Wojskową, na podstawie art. 18a ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r. poz. 12 i 179), nakazu natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia,
+1) Policję, na podstawie art. 15aa ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, z późn. zm.[^7]), albo Żandarmerię Wojskową, na podstawie art. 18a ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2026 r. poz. 159 i 815), nakazu natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia,
 
 2) Policję, na podstawie art. 15aaa ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, albo Żandarmerię Wojskową, na podstawie art. 18aa ust. 2 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, gdy osoba doznająca przemocy domowej przebywa na ich terenie,
 
@@ -627,13 +685,13 @@ Art. 66b. § 1. Kto nie stosuje się do wydanego przez:
 
 a) przedłużenie obowiązywania nakazu i zakazu lub zakazów, o których mowa w pkt 1 i 2,
 
-b) zobowiązanie osoby stosującej przemoc domową do opuszczenia wspólnie
+b) zobowiązanie osoby stosującej przemoc domową do opuszczenia wspólnie zajmowanego mieszkania i jego bez-
 
-zajmowanego mieszkania i jego bezpośredniego otoczenia lub wydanie zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie, o których mowa w art. 11a ust. 1 i art. 11aa ust. 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej (Dz. U. z 2024 r. poz. 1673),
+pośredniego otoczenia lub wydanie zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie, o których mowa w art. 11a ust. 1 i art. 11aa ust. 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domo-
 
-4) sąd postanowienia o zobowiązaniu osoby stosującej przemoc domową do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub o zakazie zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, lub o zakazie wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie, o których mowa w art. 11a ust. 1 i art. 11aa ust. 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej
+wej (Dz. U. z 2024 r. poz. 1673 oraz z 2026 r. poz. 160),
 
-– podlega karze aresztu, ograniczenia wolności albo grzywny.
+4) sąd postanowienia o zobowiązaniu osoby stosującej przemoc domową do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub o zakazie zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, lub o zakazie wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie, o których mowa w art. 11a ust. 1 i art. 11aa ust. 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej – podlega karze aresztu, ograniczenia wolności albo grzywny.
 
 § 2. Tej samej karze podlega, kto umyślnie nie stosuje się do wydanego przez:
 
@@ -643,9 +701,11 @@ zajmowanego mieszkania i jego bezpośredniego otoczenia lub wydanie zakazu zbli�
 
 a) przedłużenie obowiązywania zakazów, o których mowa w pkt 1,
 
-b) wydanie zakazu zbliżania się do osoby doznającej przemocy domowej na
+b) wydanie zakazu zbliżania się do osoby doznającej przemocy domowej na wyrażoną w metrach odległość lub za-
 
-wyrażoną w metrach odległość lub zakazu kontaktowania się z osobą doznającą przemocy domowej, o których mowa w art. 11aa ust. 1 i 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej;
+kazu kontaktowania się z osobą doznającą przemocy domowej, o których mowa w art. 11aa ust. 1 i 2 ustawy z dnia
+
+29 lipca 2005 r. o przeciwdziałaniu przemocy domowej;
 
 3) sąd postanowienia o zakazie zbliżania się do osoby doznającej przemocy domowej na wyrażoną w metrach odległość lub o zakazie kontaktowania się z osobą doznającą przemocy domowej, o których mowa w art. 11aa ust. 1 i 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej.
 
@@ -653,7 +713,9 @@ Art. 66c. Kto uporczywie nie stosuje się do obowiązków określonych w art. 4 
 
 Art. 67. § 1. Kto umyślnie uszkadza lub usuwa ogłoszenie wystawione publicznie przez instytucję państwową, samorządową albo organizację społeczną lub też w inny sposób umyślnie uniemożliwia zaznajomienie się z takim ogłoszeniem, podlega karze aresztu albo grzywny.
 
-§ 2. Kto umyślnie uszkadza lub usuwa ogłoszenie, afisz lub plakat wystawiony publicznie przez instytucję artystyczną, rozrywkową lub sportową albo w inny sposób umyślnie uniemożliwia zaznajomienie się z takim ogłoszeniem, afiszem lub plakatem, podlega karze grzywny do 1000 złotych albo karze nagany.
+§ 2. Kto umyślnie uszkadza lub usuwa ogłoszenie, afisz lub plakat wystawiony publicznie przez instytucję artystyczną, rozrywkową lub sportową albo w inny sposób umyślnie uniemożliwia zaznajomienie się z takim ogłoszeniem, afiszem lub plakatem,
+
+podlega karze grzywny do 1000 złotych albo karze nagany.
 
 Art. 68. § 1. Kto bez właściwego zamówienia wyrabia pieczęć, godło lub znak instytucji państwowej, samorządowej albo organizacji społecznej lub też taką pieczęć, godło lub znak wydaje osobie nieupoważnionej do odbioru,
 
@@ -693,9 +755,7 @@ Art. 74. § 1. Kto niszczy, uszkadza, usuwa lub czyni nieczytelnymi znaki lub na
 
 § 2. W razie popełnienia wykroczenia można orzec obowiązek zapłaty równowartości zniszczonego lub uszkodzonego przedmiotu albo obowiązek przywrócenia do stanu poprzedniego, a także orzec podanie orzeczenia o ukaraniu do publicznej wiadomości w szczególny sposób.
 
-Art. 75. § 1. Kto bez zachowania należytej ostrożności wystawia lub wywiesza ciężkie przedmioty albo nimi rzuca, wylewa płyny, wyrzuca nieczystości albo doprowadza do wypadania takich przedmiotów lub wylewania się płynów,
-
-podlega karze grzywny do 500 złotych albo karze nagany.
+Art. 75. § 1. Kto bez zachowania należytej ostrożności wystawia lub wywiesza ciężkie przedmioty albo nimi rzuca, wylewa płyny, wyrzuca nieczystości albo doprowadza do wypadania takich przedmiotów lub wylewania się płynów, podlega karze grzywny do 500 złotych albo karze nagany.
 
 § 2. Jeżeli sprawca dopuszcza się czynu określonego w § 1 ze złośliwości lub swawoli,
 
@@ -705,11 +765,11 @@ Art. 76. Kto rzuca kamieniami lub innymi przedmiotami w pojazd mechaniczny będ�
 
 podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-Art. 77. § 1. Kto nie zachowuje zwykłych lub nakazanych środków ostrożności przy trzymaniu zwierzęcia,
+Art. 77. § 1. Kto nie zachowuje zwykłych lub nakazanych środków ostrożności przy trzymaniu zwierzęcia, podlega karze ograniczenia wolności, grzywny do 1000 złotych albo karze nagany.
 
-podlega karze ograniczenia wolności, grzywny do 1000 złotych albo karze nagany.
+§ 2. Kto dopuszcza się czynu określonego w § 1 przy trzymaniu zwierzęcia, które swoim zachowaniem stwarza niebezpieczeństwo dla życia lub zdrowia człowieka,
 
-§ 2. Kto dopuszcza się czynu określonego w § 1 przy trzymaniu zwierzęcia, które swoim zachowaniem stwarza niebezpieczeństwo dla życia lub zdrowia człowieka, podlega karze ograniczenia wolności, grzywny albo karze nagany.
+podlega karze ograniczenia wolności, grzywny albo karze nagany.
 
 Art. 78. Kto przez drażnienie lub płoszenie doprowadza zwierzę do tego, że staje się niebezpieczne,
 
@@ -747,7 +807,7 @@ Art. 81. Kto niszczy lub uszkadza urządzenia służące do ochrony brzegów wó
 
 podlega karze grzywny do 1000 złotych albo karze nagany.
 
-Art. 82. § 1. Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na:
+Art. 82. § 1.[^8] Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na:
 
 1) niedozwolonym używaniu otwartego ognia, paleniu tytoniu i stosowaniu innych czynników mogących zainicjować zapłon materiałów palnych,
 
@@ -773,7 +833,7 @@ Art. 82. § 1. Kto dokonuje czynności, które mogą spowodować pożar, jego ro
 
 podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-§ 2. Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na:
+§ 2.[^8] Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na:
 
 1) zapewnieniu osobom przebywającym w obiekcie lub na terenie odpowiednich warunków ewakuacji,
 
@@ -797,17 +857,17 @@ podlega karze aresztu, ograniczenia wolności albo grzywny.
 
 podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-§ 3. Kto na terenie lasu, na terenach śródleśnych, na obszarze łąk, torfowisk i wrzosowisk, jak również w odległości do 100 m od nich roznieca ogień poza miejscami wyznaczonymi do tego celu albo pali tytoń, z wyjątkiem miejsc na drogach utwardzonych i miejsc wyznaczonych do pobytu ludzi,
+§ 3.[^9] Kto na terenie lasu, na terenach śródleśnych, na obszarze łąk, torfowisk i wrzosowisk, jak również w odległości do 100 m od nich roznieca ogień poza miejscami wyznaczonymi do tego celu albo pali tytoń, z wyjątkiem miejsc na drogach utwardzonych i miejsc wyznaczonych do pobytu ludzi,
 
 podlega karze aresztu, ograniczenia wolności albo grzywny.
 
 § 3a. W razie popełnienia wykroczenia określonego w § 3 można orzec obowiązek przywrócenia do stanu poprzedniego.
 
-§ 4. Kto wypala trawy, słomę lub pozostałości roślinne na polach w odległości mniejszej niż 100 m od zabudowań, lasów, zboża na pniu i miejsc ustawienia stert lub stogów bądź w sposób powodujący zakłócenia w ruchu drogowym, a także bez zapewnienia stałego nadzoru miejsca wypalania,
+§ 4.8) Kto wypala trawy, słomę lub pozostałości roślinne na polach w odległości mniejszej niż 100 m od zabudowań, lasów, zboża na pniu i miejsc ustawienia stert lub stogów bądź w sposób powodujący zakłócenia w ruchu drogowym, a także bez zapewnienia stałego nadzoru miejsca wypalania,
 
 podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-§ 5. Kto w inny sposób nieostrożnie obchodzi się z ogniem,
+§ 5.8) Kto w inny sposób nieostrożnie obchodzi się z ogniem,
 
 podlega karze aresztu, ograniczenia wolności albo grzywny.
 
@@ -827,15 +887,17 @@ podlega karze aresztu, grzywny albo karze nagany.
 
 § 2. Tej samej karze podlega, kto utrudnia prowadzenie działań ratowniczych, a w szczególności utrudnia dojazd do obiektów zagrożonych jednostkom ochrony przeciwpożarowej, prowadzącym działania ratownicze.
 
-§ 3. Kto uniemożliwia lub utrudnia przeprowadzenie czynności kontrolno- -rozpoznawczych z zakresu ochrony przeciw-pożarowej przez uprawnionego strażaka Państwowej Straży Pożarnej,
+§ 3. Kto uniemożliwia lub utrudnia przeprowadzenie czynności kontrolno-rozpoznawczych z zakresu ochrony przeciwpożarowej przez uprawnionego strażaka Państwowej Straży Pożarnej,
 
 podlega karze aresztu, ograniczenia wolności albo grzywny.
 
 Art. 82b. Kto:
 
-1) będąc właścicielem, użytkownikiem wieczystym albo zarządcą obiektu zbiorowej ochrony, nie dopełnia obowiązków określonych w art. 96 ust. 1 pkt 1 i 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), w zakresie utrzymania lub udostępnienia obiektu zbiorowej ochrony do użycia,
+1) będąc właścicielem, użytkownikiem wieczystym albo zarządcą obiektu zbiorowej ochrony, nie dopełnia obowiązków określonych w art. 96 ust. 1 pkt 1 i 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907, z 2025 r. poz. 1705 oraz z 2026 r. poz. 646 i 815), w zakresie utrzymania lub udostępnienia obiektu zbiorowej ochrony do użycia,
 
-2) nie wykonuje nakazu przystosowania, udostępnienia nieruchomości albo wykonania miejsc doraźnego schronienia, o których mowa w art. 102 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej, podlega karze aresztu, ograniczenia wolności albo grzywny.
+2) nie wykonuje nakazu przystosowania, udostępnienia nieruchomości albo wykonania miejsc doraźnego schronienia, o których mowa w art. 102 ust. 2 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej,
+
+podlega karze aresztu, ograniczenia wolności albo grzywny.
 
 Art. 83. § 1. Kto nieostrożnie obchodzi się z materiałami wybuchowymi, łatwo zapalnymi lub substancjami promieniotwórczymi albo wykracza przeciwko przepisom o wyrobie, sprzedaży, przechowywaniu, używaniu lub przewożeniu takich materiałów,
 
@@ -845,11 +907,9 @@ podlega karze aresztu, grzywny albo karze nagany.
 
 ## Rozdział XI
 
-Wykroczenia przeciwko bezpieczeństwu i porządkowi w komunikacji
+**Wykroczenia przeciwko bezpieczeństwu i porządkowi w komunikacji**
 
-Art. 84. Kto wbrew obowiązkowi nie oznacza w sposób odpowiadający wymaganiom i łatwo dostrzegalny, zarówno w dzień, jak i w porze nocnej, jakiejkolwiek przeszkody w ruchu drogowym, urządzenia lub przedmiotu znajdujących się na drodze lub też miejsca prowadzonych robót, jeżeli to może zagrozić bezpieczeństwu ruchu albo utrudnić ruch na drodze,
-
-podlega karze aresztu albo grzywny.
+Art. 84. Kto wbrew obowiązkowi nie oznacza w sposób odpowiadający wymaganiom i łatwo dostrzegalny, zarówno w dzień, jak i w porze nocnej, jakiejkolwiek przeszkody w ruchu drogowym, urządzenia lub przedmiotu znajdujących się na drodze lub też miejsca prowadzonych robót, jeżeli to może zagrozić bezpieczeństwu ruchu albo utrudnić ruch na drodze, podlega karze aresztu albo grzywny.
 
 Art. 85. § 1. Kto samowolnie ustawia, niszczy, uszkadza, usuwa, włącza lub wyłącza znak, sygnał, urządzenie ostrzegawcze lub zabezpieczające albo zmienia ich położenie, zasłania je lub czyni niewidocznymi,
 
@@ -869,11 +929,11 @@ podlega karze grzywny.
 
 § 1a. Jeżeli następstwem wykroczenia, o którym mowa w § 1, jest spowodowanie naruszenia czynności narządu ciała lub rozstrój zdrowia innej osoby, sprawca
 
-podlega karze grzywny w wysokości nie niższej niż 1500 złotych.
+podlega karze grzywny w wysokości nieniższej niż 1500 złotych.
 
 § 2. Kto dopuszcza się wykroczenia określonego w § 1, znajdując się w stanie po użyciu alkoholu lub podobnie działającego środka,
 
-podlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nie niższej niż 2500 złotych.
+podlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nieniższej niż 2500 złotych.
 
 § 3. W razie popełnienia wykroczenia określonego w § 1 przez osobę prowadzącą pojazd można orzec zakaz prowadzenia pojazdów.
 
@@ -891,29 +951,29 @@ Art. 86b. § 1. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruc
 
 4) omija pojazd, który jechał w tym samym kierunku, lecz zatrzymał się w celu ustąpienia pierwszeństwa pieszemu,
 
-5) narusza zakaz jazdy wzdłuż po drodze dla pieszych lub przejściu dla pieszych, podlega karze grzywny nie niższej niż 1500 złotych.
+5) narusza zakaz jazdy wzdłuż po drodze dla pieszych lub przejściu dla pieszych,
 
-§ 2. Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd niż określony w tym przepisie,
+podlega karze grzywny nieniższej niż 1500 złotych.
 
-podlega karze grzywny albo karze nagany.
+§ 2. Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd niż określony w tym przepisie, podlega karze grzywny albo karze nagany.
 
 § 3. W razie popełnienia wykroczenia określonego w § 1 można orzec zakaz prowadzenia pojazdów, w szczególności, jeżeli sprawca wykroczenia spowodował zagrożenie bezpieczeństwa pieszego.
 
-Art. 86c. § 1. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd mechaniczny, celowo wprowadzając go w poślizg lub doprowadzając do utraty styczności z nawierzchnią chociażby jednego z kół pojazdu, podlega karze grzywny nie niższej niż 1500 złotych.
+Art. 86c.[^10] § 1. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd mechaniczny, celowo wprowadzając go w poślizg lub doprowadzając do utraty styczności z nawierzchnią chociażby jednego z kół pojazdu, podlega karze grzywny nieniższej niż 1500 złotych.
 
 § 2. Jeżeli następstwem wykroczenia określonego w § 1 jest spowodowanie zagrożenia bezpieczeństwa w ruchu drogowym, sprawca
 
-podlega karze grzywny nie niższej niż 2500 złotych.
+podlega karze grzywny nieniższej niż 2500 złotych.
 
 Art. 87. § 1. Kto, znajdując się w stanie po użyciu alkoholu lub podobnie działającego środka, prowadzi pojazd mechaniczny w ruchu lądowym, wodnym lub powietrznym,
 
-podlega karze aresztu albo grzywny nie niższej niż 2500 złotych.
+podlega karze aresztu albo grzywny nieniższej niż 2500 złotych.
 
 § 1a. Tej samej karze podlega, kto, znajdując się w stanie nietrzeźwości lub pod wpływem podobnie działającego środka, prowadzi na drodze publicznej, w strefie zamieszkania lub w strefie ruchu inny pojazd niż określony w § 1.
 
 § 2. Kto, znajdując się w stanie po użyciu alkoholu lub podobnie działającego środka, prowadzi na drodze publicznej, w strefie zamieszkania lub strefie ruchu inny pojazd niż określony w § 1,
 
-podlega karze aresztu albo karze grzywny nie niższej niż 1000 złotych.
+podlega karze aresztu albo karze grzywny nieniższej niż 1000 złotych.
 
 § 3. W razie popełnienia wykroczenia określonego w § 1 orzeka się zakaz prowadzenia pojazdów.
 
@@ -927,11 +987,11 @@ Art. 89. Kto, mając obowiązek opieki lub nadzoru nad małoletnim do lat 7, dop
 
 podlega karze grzywny albo karze nagany.
 
-<Art. 89a. § 1. Kto, mając obowiązek opieki lub nadzoru nad osobą, która Dodany art. 89a nie ukończyła 16 roku życia, dopuszcza do kierowania przez nią rowerem, wejdzie w życie z dn. 3.06.2026 r. hulajnogą elektryczną lub urządzeniem transportu osobistego, jeżeli osoba ta (Dz. U. z 2025 r. poz. 1676). wbrew obowiązkowi nie używa kasku ochronnego odpowiadającego właściwym warunkom technicznym,
+Art. 89a.[^11] § 1. Kto, mając obowiązek opieki lub nadzoru nad osobą, która nie ukończyła 16 roku życia, dopuszcza do kierowania przez nią rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego, jeżeli osoba ta wbrew obowiązkowi nie używa kasku ochronnego odpowiadającego właściwym warunkom technicznym,
 
 podlega karze grzywny do 100 złotych.
 
-§ 2. Tej samej karze podlega ten, kto, mając obowiązek opieki lub nadzoru nad osobą, która nie ukończyła 17 roku życia, dopuszcza do przewożenia przez nią dziecka w wieku do lat 7 na rowerze albo na rowerze z napędem, o którym mowa w art. 4 ust. 2 lit. a pkt (i) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, z późn. zm.2)), jeżeli wbrew obowiązkowi przewozi to dziecko:
+§ 2. Tej samej karze podlega ten, kto, mając obowiązek opieki lub nadzoru nad osobą, która nie ukończyła 17 roku życia, dopuszcza do przewożenia przez nią dziecka w wieku do lat 7 na rowerze albo na rowerze z napędem, o którym mowa w art. 4 ust. 2 lit. a pkt (i) rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 168/2013 z dnia 15 stycznia 2013 r. w sprawie homologacji i nadzoru rynku pojazdów dwu- lub trzykołowych oraz czterokołowców (Dz. Urz. UE L 60 z 02.03.2013, str. 52, z późn. zm.[^12]), jeżeli wbrew obowiązkowi przewozi to dziecko:
 
 1) bez kasku ochronnego odpowiadającego właściwym warunkom technicznym, lub
 
@@ -941,9 +1001,7 @@ podlega karze grzywny do 100 złotych.
 
 4) niezgodnie ze sposobem, o którym mowa w art. 63 ust. 3 pkt 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, lub
 
-5) w sposób, o którym mowa w art. 33 ust. 2d ustawy z dnia 20 czerwca 1997 r.
-
-– Prawo o ruchu drogowym.
+5) w sposób, o którym mowa w art. 33 ust. 2d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
 § 3. Tej samej karze podlega ten, kto, mając obowiązek opieki lub nadzoru nad osobą, która nie ukończyła 17 roku życia, dopuszcza do przewożenia przez nią dziecka wózkiem rowerowym, jeżeli wbrew obowiązkowi przewozi to dziecko:
 
@@ -951,27 +1009,19 @@ podlega karze grzywny do 100 złotych.
 
 2) niezgodnie ze sposobem, o którym mowa w art. 63 ust. 3 pkt 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, lub
 
-3) w sposób, o którym mowa w art. 33 ust. 2d ustawy z dnia 20 czerwca 1997 r.
+3) w sposób, o którym mowa w art. 33 ust. 2d ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
 
-– Prawo o ruchu drogowym.>
-
-Art. 90. § 1. Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu,
-
-podlega karze ograniczenia wolności albo grzywny.
+Art. 90.[^13] § 1. Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu, podlega karze ograniczenia wolności albo grzywny.
 
 § 2. Jeżeli wykroczenia określonego w § 1 dopuszcza się prowadzący pojazd mechaniczny,
 
-podlega karze ograniczenia wolności albo grzywny nie niższej niż 500 złotych.
+podlega karze ograniczenia wolności albo grzywny nieniższej niż 500 złotych.
 
-§ 3. Jeżeli wykroczenia określonego w § 1 dopuszcza się osoba uczestnicząca w spotkaniu, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zorganizowanym bez wymaganego zawiadomienia,
-
-podlega karze grzywny nie niższej niż 1000 złotych.
+§ 3. Jeżeli wykroczenia określonego w § 1 dopuszcza się osoba uczestnicząca w spotkaniu, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zorganizowanym bez wymaganego zawiadomienia, podlega karze grzywny nieniższej niż 1000 złotych.
 
 § 4. Jeżeli wykroczenie określone w § 1–3 spowodowało poważne zakłócenie ruchu drogowego, można orzec nawiązkę w wysokości do 1500 złotych na cel społeczny wskazany przez organ orzekający.
 
-Art. 91. Kto zanieczyszcza drogę publiczną lub na tej drodze pozostawia pojazd lub inny przedmiot albo zwierzę w okolicznościach, w których może to spowodować niebezpieczeństwo lub stanowić utrudnienie w ruchu drogowym,
-
-podlega karze grzywny do 1500 złotych albo karze nagany.
+Art. 91. Kto zanieczyszcza drogę publiczną lub na tej drodze pozostawia pojazd lub inny przedmiot albo zwierzę w okolicznościach, w których może to spowodować niebezpieczeństwo lub stanowić utrudnienie w ruchu drogowym, podlega karze grzywny do 1500 złotych albo karze nagany.
 
 Art. 92. § 1. Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego,
 
@@ -987,11 +1037,11 @@ Art. 92a. § 1. Kto, prowadząc pojazd, nie stosuje się do ograniczenia prędko
 
 § 2. Kto, prowadząc pojazd mechaniczny, nie stosuje się do ograniczenia prędkości określonego ustawą lub znakiem drogowym, przekraczając je o ponad 30 km/h,
 
-podlega karze grzywny nie niższej niż 800 złotych.
+podlega karze grzywny nieniższej niż 800 złotych.
 
 Art. 92b. Kto, prowadząc pojazd mechaniczny, nie stosuje się do zakazu wyprzedzania określonego ustawą lub znakiem drogowym,
 
-podlega karze grzywny nie niższej niż 1000 złotych.
+podlega karze grzywny nieniższej niż 1000 złotych.
 
 Art. 93. § 1. Prowadzący pojazd, który, uczestnicząc w wypadku drogowym, nie udziela niezwłocznej pomocy ofierze wypadku,
 
@@ -1001,7 +1051,7 @@ podlega karze aresztu albo grzywny.
 
 Art. 94. § 1. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd mechaniczny, nie mając do tego uprawnienia,
 
-podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1500 złotych.
+podlega karze aresztu, ograniczenia wolności albo grzywny nieniższej niż 1500 złotych.
 
 § 1a. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd inny niż mechaniczny, nie mając do tego uprawnienia,
 
@@ -1015,11 +1065,11 @@ Art. 95. § 1. Kto prowadzi na drodze publicznej, w strefie zamieszkania lub str
 
 podlega karze grzywny do 250 złotych albo karze nagany.
 
-§ 2. Tej samej karze podlega, kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd mechaniczny pomimo upływu okresu ważności tymczasowego elektronicznego prawa jazdy, o którym mowa w art. 4 ust. 1a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2024 r. poz. 1210 i 1544), a przed wydaniem prawa jazdy.
+§ 2. Tej samej karze podlega, kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd mechaniczny pomimo upływu okresu ważności tymczasowego elektronicznego prawa jazdy, o którym mowa w art. 4 ust. 1a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2025 r. poz. 1226, 1676 i 1872 oraz z 2026 r. poz. 180, 187 i 982), a przed wydaniem prawa jazdy.
 
-Art. 95a. Kto posługuje się dowodem rejestracyjnym zawierającym dane o spełnieniu przez pojazd wymagań technicznych określonych w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911 oraz z 2025 r. poz. 222) niezgodne ze stanem faktycznym, podlega karze grzywny do 500 zł.
+Art. 95a. Kto posługuje się dowodem rejestracyjnym zawierającym dane o spełnieniu przez pojazd wymagań technicznych określonych w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, z późn. zm.[^14]) niezgodne ze stanem faktycznym, podlega karze grzywny do 500 zł.
 
-Art. 96. § 1. Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na drodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza:
+Art. 96. § 1.[^15] Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na drodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza:
 
 1) do prowadzenia pojazdu osobę niemającą sprawności fizycznej lub psychicznej w stopniu umożliwiającym należyte prowadzenie pojazdu,
 
@@ -1033,11 +1083,11 @@ Art. 96. § 1. Właściciel, posiadacz, użytkownik lub prowadzący pojazd, któ
 
 6) do korzystania z pojazdu samochodowego w sposób niezgodny z jego przeznaczeniem,
 
-podlega karze ograniczenia wolności albo grzywny nie niższej niż 1000 złotych.
+podlega karze ograniczenia wolności albo grzywny nieniższej niż 1000 złotych.
 
 § 2. Tej samej karze za czyny określone w § 1 pkt 1, 3–6 oraz za nieumyślne dopuszczenie do prowadzenia pojazdu na drodze publicznej przez osobę niemającą wymaganych uprawnień podlega dyspozytor pojazdu lub osoba, do której obowiązków należą jego czynności, a jeżeli takiej osoby nie wyznaczono – kierownik jednostki dysponującej pojazdem.
 
-§ 3. Kto wbrew obowiązkowi nie wskaże na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie,
+§ 3.[^16] Kto wbrew obowiązkowi nie wskaże na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie,
 
 podlega karze grzywny.
 
@@ -1051,7 +1101,7 @@ podlega karze aresztu do 14 dni albo grzywny.
 
 § 3. Urządzenia lub elementy oznakowania, o których mowa w § 1 i 2, podlegają przepadkowi, choćby nie stanowiły własności sprawcy.
 
-Art. 96b. Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową, o której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251),
+Art. 96b. Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową, o której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251, z późn. zm.[^17]),
 
 podlega karze grzywny do 2000 złotych.
 
@@ -1069,7 +1119,7 @@ Art. 97a. Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, 
 
 2) wjeżdżania na przejazd kolejowy, jeśli po jego drugiej stronie nie ma miejsca do kontynuowania jazdy,
 
-podlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nie niższej niż 2000 złotych.
+podlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nieniższej niż 2000 złotych.
 
 Art. 98. Kto, prowadząc pojazd poza drogą publiczną, strefą zamieszkania lub strefą ruchu, nie zachowuje należytej ostrożności, czym zagraża bezpieczeństwu innej osoby,
 
@@ -1135,13 +1185,11 @@ Art. 106. Kto, mając obowiązek opieki lub nadzoru nad małoletnim do lat 7 alb
 
 podlega karze grzywny albo karze nagany.
 
-Art. 107. Kto w celu dokuczenia innej osobie złośliwie wprowadza ją w błąd lub w inny sposób złośliwie niepokoi,
+Art. 107. Kto w celu dokuczenia innej osobie złośliwie wprowadza ją w błąd lub w inny sposób złośliwie niepokoi, podlega karze ograniczenia wolności, grzywny albo karze nagany.
 
-podlega karze ograniczenia wolności, grzywny albo karze nagany.
+Art. 107a. § 1. Kto, włączając się bez uprawnienia w transmisję danych prowadzoną przy użyciu systemu teleinformatycznego, umyślnie udaremnia lub utrudnia użytkownikowi tego systemu przekazywanie lub odbiór informacji, podlega karze ograniczenia wolności albo grzywny nieniższej niż 1000 złotych.
 
-Art. 107a. § 1. Kto, włączając się bez uprawnienia w transmisję danych prowadzoną przy użyciu systemu teleinformatycznego, umyślnie udaremnia lub utrudnia użytkownikowi tego systemu przekazywanie lub odbiór informacji, podlega karze ograniczenia wolności albo grzywny nie niższej niż 1000 złotych.
-
-§ 2. Jeżeli sprawca czynu określonego w § 1 używa słów powszechnie uznanych za obelżywe lub w inny sposób dopuszcza się nieobyczajnego wybryku, podlega karze aresztu, ograniczenia wolności albo karze grzywny nie niższej niż 3000 złotych.
+§ 2. Jeżeli sprawca czynu określonego w § 1 używa słów powszechnie uznanych za obelżywe lub w inny sposób dopuszcza się nieobyczajnego wybryku, podlega karze aresztu, ograniczenia wolności albo karze grzywny nieniższej niż 3000 złotych.
 
 Art. 108. Kto szczuje psem człowieka,
 
@@ -1187,11 +1235,11 @@ Art. 113. Kto nie zachowuje należytej czystości przy świadczeniu usług w zak
 
 podlega karze grzywny.
 
-Art. 114. Kto odmawia udzielenia organowi służby zdrowia wyjaśnień mogących mieć znaczenie dla wykrycia gruźlicy, choroby wenerycznej lub innej choroby zakaźnej lub źródła zakażenia albo dla zapobiegania szerzeniu się takich chorób,
+Art. 114. Kto odmawia udzielenia organowi służby zdrowia wyjaśnień mogących mieć znaczenie dla wykrycia gruźlicy, choroby wenerycznej lub innej choroby zakaźnej lub źródła zakażenia albo dla zapobiegania szerzeniu się takich chorób, podlega karze grzywny albo karze nagany.
 
-podlega karze grzywny albo karze nagany.
+Art. 115. § 1. Kto, pomimo zastosowania środków egzekucji administracyjnej, nie poddaje się obowiązkowemu szczepieniu ochronnemu przeciwko gruźlicy lub innej chorobie zakaźnej albo obowiązkowemu badaniu stanu zdrowia, mającemu na celu wykrycie lub leczenie gruźlicy, choroby wenerycznej lub innej choroby zakaźnej,
 
-Art. 115. § 1. Kto, pomimo zastosowania środków egzekucji administracyjnej, nie poddaje się obowiązkowemu szczepieniu ochronnemu przeciwko gruźlicy lub innej chorobie zakaźnej albo obowiązkowemu badaniu stanu zdrowia, mającemu na celu wykrycie lub leczenie gruźlicy, choroby wenerycznej lub innej choroby zakaźnej, podlega karze grzywny do 1500 złotych albo karze nagany.
+podlega karze grzywny do 1500 złotych albo karze nagany.
 
 § 2. Tej samej karze podlega, kto, sprawując pieczę nad osobą małoletnią lub bezradną, pomimo zastosowania środków egzekucji administracyjnej, nie poddaje jej określonemu w § 1 szczepieniu ochronnemu lub badaniu.
 
@@ -1201,7 +1249,9 @@ Art. 116. § 1. Kto, wiedząc o tym, że:
 
 2) styka się z chorym na chorobę określoną w pkt 1 lub z podejrzanym o to, że jest chory na gruźlicę lub inną chorobę zakaźną,
 
-3) jest nosicielem choroby określonej w pkt 1 lub podejrzanym o nosicielstwo – nie przestrzega zakazu, nakazu, ograniczenia lub obowiązku, określonego w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi lub w przepisach o Państwowej Inspekcji Sanitarnej lub nie przestrzega decyzji wydanej na podstawie tych przepisów przez organy inspekcji sanitarnej,
+3) jest nosicielem choroby określonej w pkt 1 lub podejrzanym o nosicielstwo
+
+– nie przestrzega zakazu, nakazu, ograniczenia lub obowiązku, określonego w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi lub w przepisach o Państwowej Inspekcji Sanitarnej lub nie przestrzega decyzji wydanej na podstawie tych przepisów przez organy inspekcji sanitarnej,
 
 podlega karze grzywny albo karze nagany.
 
@@ -1231,9 +1281,7 @@ Art. 118. § 1. Kto:
 
 1) bez wymaganego oznakowania i świadectwa,
 
-2) warunkowo zdatne do spożycia lub niezdatne do spożycia, wbrew określonemu sposobowi jego wykorzystania
-
-– podlega karze aresztu albo grzywny.
+2) warunkowo zdatne do spożycia lub niezdatne do spożycia, wbrew określonemu sposobowi jego wykorzystania – podlega karze aresztu albo grzywny.
 
 § 3. W razie popełnienia wykroczenia określonego w § 1 i 2, można orzec przepadek mięsa, chociażby nie stanowiło własności sprawcy wykroczenia.
 
@@ -1241,9 +1289,7 @@ Art. 118. § 1. Kto:
 
 **Wykroczenia przeciwko mieniu**
 
-Art. 119. § 1. Kto kradnie lub przywłaszcza sobie cudzą rzecz ruchomą, jeżeli jej wartość nie przekracza 800 złotych,
-
-podlega karze aresztu, ograniczenia wolności albo grzywny.
+Art. 119. § 1. Kto kradnie lub przywłaszcza sobie cudzą rzecz ruchomą, jeżeli jej wartość nie przekracza 800 złotych, podlega karze aresztu, ograniczenia wolności albo grzywny.
 
 § 2. Usiłowanie, podżeganie i pomocnictwo są karalne.
 
@@ -1277,9 +1323,7 @@ podlega karze grzywny albo karze nagany.
 
 § 3. Usiłowanie wykroczenia określonego w § 1 oraz podżeganie do niego i pomocnictwo są karalne.
 
-Art. 123. § 1. Kto z nienależącego do niego ogrodu bezprawnie zabiera w nieznacznej ilości owoce, warzywa lub kwiaty,
-
-podlega karze grzywny do 250 złotych albo karze nagany.
+Art. 123. § 1. Kto z nienależącego do niego ogrodu bezprawnie zabiera w nieznacznej ilości owoce, warzywa lub kwiaty, podlega karze grzywny do 250 złotych albo karze nagany.
 
 § 2. Ściganie następuje na żądanie pokrzywdzonego.
 
@@ -1297,7 +1341,9 @@ podlega karze aresztu, ograniczenia wolności albo grzywny.
 
 Art. 125. Kto w ciągu dwóch tygodni od dnia znalezienia cudzej rzeczy albo przybłąkania się cudzego zwierzęcia nie zawiadomi o tym organu Policji lub innego organu państwowego albo w inny właściwy sposób nie poszukuje posiadacza, podlega karze grzywny do 500 złotych albo karze nagany.
 
-Art. 126. § 1. Kto zabiera w celu przywłaszczenia, przywłaszcza sobie albo umyślnie niszczy lub uszkadza cudzą rzecz przedstawiającą wartość niemajątkową, podlega karze grzywny albo karze nagany.
+Art. 126. § 1. Kto zabiera w celu przywłaszczenia, przywłaszcza sobie albo umyślnie niszczy lub uszkadza cudzą rzecz przedstawiającą wartość niemajątkową,
+
+podlega karze grzywny albo karze nagany.
 
 § 2. Ściganie następuje na żądanie pokrzywdzonego.
 
@@ -1335,7 +1381,7 @@ Art. 130. § 1. Przepisów art. 119, art. 122 i art. 124 nie stosuje się:
 
 § 2. Przepisu art. 119 nie stosuje się, jeżeli sprawca popełnia kradzież w sposób szczególnie zuchwały lub z włamaniem.
 
-§ 3. Przepisów art. 119 i 120 nie stosuje się, jeżeli sprawca używa gwałtu na osobie albo grozi jego natychmiastowym użyciem, aby utrzymać się w posiadaniu zabranego mienia, a gdy chodzi o zabranie innej osobie mienia w celu przy-właszczenia, także wtedy, gdy sprawca doprowadza człowieka do stanu nieprzytomności lub bezbronności.
+§ 3. Przepisów art. 119 i 120 nie stosuje się, jeżeli sprawca używa gwałtu na osobie albo grozi jego natychmiastowym użyciem, aby utrzymać się w posiadaniu zabranego mienia, a gdy chodzi o zabranie innej osobie mienia w celu przywłaszczenia, także wtedy, gdy sprawca doprowadza człowieka do stanu nieprzytomności lub bezbronności.
 
 § 4. (uchylony)
 
@@ -1365,9 +1411,7 @@ Art. 135. Kto, zajmując się sprzedażą towarów w przedsiębiorstwie handlu d
 
 podlega karze grzywny.
 
-Art. 136. § 1. Kto z towarów przeznaczonych do sprzedaży umyślnie usuwa utrwalone na nich oznaczenie określające ich cenę, termin przydatności do spożycia lub datę produkcji, jakość lub ilość nominalną, gatunek lub pochodzenie,
-
-podlega karze aresztu, ograniczenia wolności albo grzywny.
+Art. 136. § 1. Kto z towarów przeznaczonych do sprzedaży umyślnie usuwa utrwalone na nich oznaczenie określające ich cenę, termin przydatności do spożycia lub datę produkcji, jakość lub ilość nominalną, gatunek lub pochodzenie, podlega karze aresztu, ograniczenia wolności albo grzywny.
 
 § 2. Kto przeznacza do sprzedaży towary z usuniętym trwałym oznaczeniem ich ceny, terminu przydatności do spożycia lub daty produkcji, jakości, gatunku lub pochodzenia albo towary niewłaściwie oznaczone,
 
@@ -1379,7 +1423,7 @@ Art. 137. § 1. (uchylony)
 
 § 2. Kierownik punktu sprzedaży detalicznej lub zakładu gastronomicznego, który nie ma faktur albo innych dowodów dostawy lub przyjęcia na towary przechowywane w punkcie sprzedaży detalicznej lub zakładzie gastronomicznym, podlega karze aresztu albo grzywny.
 
-Art. 138.[^3] Kto, zajmując się zawodowo świadczeniem usług, żąda i pobiera za świadczenie zapłatę wyższą od obowiązującej albo umyślnie bez uzasadnionej przyczyny odmawia świadczenia, do którego jest obowiązany,
+Art. 138.[^18] Kto, zajmując się zawodowo świadczeniem usług, żąda i pobiera za świadczenie zapłatę wyższą od obowiązującej albo umyślnie bez uzasadnionej przyczyny odmawia świadczenia, do którego jest obowiązany,
 
 podlega karze grzywny.
 
@@ -1431,11 +1475,13 @@ Art. 139a. § 1. Kto w zakresie działalności swojego przedsiębiorstwa:
 
 – podlega karze grzywny.
 
-§ 3. Kto w zakresie działalności swojego przedsiębiorstwa, po upływie określonego w ustawie terminu do odstąpienia od umowy timeshare, umowy o długoterminowy produkt wakacyjny, umowy pośrednictwa w odsprzedaży timeshare lub długoterminowego produktu wakacyjnego lub umowy o uczestnictwo w systemie wymiany, nie przekazuje konsumentowi informacji wymaganych ustawą – podlega karze grzywny.
+§ 3. Kto w zakresie działalności swojego przedsiębiorstwa, po upływie określonego w ustawie terminu do odstąpienia od umowy timeshare, umowy o długoterminowy produkt wakacyjny, umowy pośrednictwa w odsprzedaży timeshare lub długoterminowego produktu wakacyjnego lub umowy o uczestnictwo w systemie wymiany, nie przekazuje konsumentowi informacji wymaganych ustawą
+
+– podlega karze grzywny.
 
 § 4. Karze określonej w § 3 podlega również ten, kto w zakresie działalności swojego przedsiębiorstwa, po upływie określonego w ustawie terminu do odstąpienia od umowy przedwstępnej, zobowiązującej do zawarcia umowy timeshare, umowy o długoterminowy produkt wakacyjny, umowy pośrednictwa w odsprzedaży timeshare lub długoterminowego produktu wakacyjnego, lub umowy o uczestnictwo w systemie wymiany, nie przekazuje konsumentowi informacji wymaganych ustawą.
 
-Art. 139b. Kto w zakresie działalności swojego przedsiębiorstwa zawierając umowę z konsumentem nie spełnia wymagań dotyczących udzielenia informacji lub wydania dokumentu, przewidzianych w przepisach ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796), podlega karze grzywny.
+Art. 139b. Kto w zakresie działalności swojego przedsiębiorstwa zawierając umowę z konsumentem nie spełnia wymagań dotyczących udzielenia informacji lub wydania dokumentu, przewidzianych w przepisach ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2026 r. poz. 1244), podlega karze grzywny.
 
 Art. 139c. § 1. Kto w zakresie działalności swojego przedsiębiorstwa przyjmuje od konsumenta płatność przed upływem terminu do odstąpienia od umowy zawartej na odległość lub poza lokalem przedsiębiorstwa, w przypadkach określonych w art. 17a ustawy z dnia 30 maja 2014 r. o prawach konsumenta, podlega karze grzywny.
 
@@ -1479,7 +1525,7 @@ podlega karze aresztu, ograniczenia wolności albo grzywny.
 
 Art. 145. § 1. Kto zanieczyszcza lub zaśmieca obszar kolejowy lub miejsca dostępne dla publiczności, a w szczególności drogę, ulicę, plac, ogród, trawnik lub zieleniec,
 
-podlega karze grzywny nie niższej niż 500 złotych.
+podlega karze grzywny nieniższej niż 500 złotych.
 
 § 2. Usiłowanie wykroczenia określonego w § 1 oraz podżeganie do niego i pomocnictwo są karalne.
 
@@ -1489,9 +1535,7 @@ podlega karze grzywny nie niższej niż 500 złotych.
 
 **Wykroczenia przeciwko obowiązkowi ewidencji**
 
-Art. 146. § 1. Kto nie dopełnia w terminie obowiązku zgłoszenia w urzędzie stanu cywilnego faktu urodzenia lub zgonu,
-
-podlega karze grzywny do 250 złotych albo karze nagany.
+Art. 146. § 1. Kto nie dopełnia w terminie obowiązku zgłoszenia w urzędzie stanu cywilnego faktu urodzenia lub zgonu, podlega karze grzywny do 250 złotych albo karze nagany.
 
 § 2. Sprawca nie podlega odpowiedzialności, jeżeli pomimo niedokonania zgłoszenia akt stanu cywilnego został sporządzony we właściwym czasie.
 
@@ -1529,9 +1573,7 @@ podlega karze ograniczenia wolności albo grzywny do 1500 złotych.
 
 § 3. W razie popełnienia wykroczenia orzeka się nawiązkę do wysokości 1500 złotych.
 
-Art. 151. § 1. Kto pasie zwierzęta gospodarskie na nienależących do niego gruntach leśnych lub rolnych albo przez takie grunty w miejscach, w których jest to zabronione, przechodzi, przejeżdża lub przegania zwierzęta gospodarskie,
-
-podlega karze grzywny do 500 złotych albo karze nagany.
+Art. 151. § 1. Kto pasie zwierzęta gospodarskie na nienależących do niego gruntach leśnych lub rolnych albo przez takie grunty w miejscach, w których jest to zabronione, przechodzi, przejeżdża lub przegania zwierzęta gospodarskie, podlega karze grzywny do 500 złotych albo karze nagany.
 
 § 2. Jeżeli grunt jest zaorany, zasiany lub obsadzony, znajduje się w stanie sztucznego zalesienia, naturalnego odnowienia lub stanowi młodnik leśny do lat 20, sprawca
 
@@ -1577,7 +1619,7 @@ podlega karze grzywny do 1000 złotych albo karze nagany.
 
 § 2. Kto na nienależący do niego grunt polny wyrzuca kamienie, odpady, złom lub padlinę niebędące odpadami lub inne nieczystości,
 
-podlega karze grzywny nie niższej niż 500 złotych.
+podlega karze grzywny nieniższej niż 500 złotych.
 
 § 2a. Usiłowanie wykroczenia określonego w § 2 oraz podżeganie do niego i pomocnictwo są karalne.
 
@@ -1591,17 +1633,13 @@ podlega karze grzywny.
 
 § 2. W razie popełnienia wykroczenia można orzec obowiązek zapłaty równowartości wyrządzonej szkody lub obowiązek przywrócenia do stanu poprzedniego.
 
-Art. 156. § 1. Kto na nienależącym do niego gruncie leśnym lub rolnym niszczy zasiewy, sadzonki lub trawę,
-
-podlega karze grzywny do 500 złotych albo karze nagany.
+Art. 156. § 1. Kto na nienależącym do niego gruncie leśnym lub rolnym niszczy zasiewy, sadzonki lub trawę, podlega karze grzywny do 500 złotych albo karze nagany.
 
 § 2. Jeżeli czyn godzi w mienie osoby najbliższej, ściganie następuje na żądanie pokrzywdzonego.
 
 § 3. W razie popełnienia wykroczenia można orzec nawiązkę do wysokości 500 złotych.
 
-Art. 157. § 1. Kto wbrew żądaniu osoby uprawnionej nie opuszcza lasu, pola, ogrodu, pastwiska, łąki lub grobli,
-
-podlega karze grzywny do 500 złotych lub karze nagany.
+Art. 157. § 1. Kto wbrew żądaniu osoby uprawnionej nie opuszcza lasu, pola, ogrodu, pastwiska, łąki lub grobli, podlega karze grzywny do 500 złotych lub karze nagany.
 
 § 2. Ściganie następuje na żądanie pokrzywdzonego.
 
@@ -1611,9 +1649,7 @@ podlega karze grzywny.
 
 § 2. W razie popełnienia wykroczenia określonego w § 1 orzeka się przepadek pozyskanego drewna.
 
-Art. 159. Kto, wbrew ciążącemu na nim obowiązkowi w zakresie ochrony lasów, nie wykonuje zabiegów zapobiegających, wykrywających i zwalczających nadmiernie pojawiające się i rozprzestrzeniające się organizmy szkodliwe,
-
-podlega karze grzywny.
+Art. 159. Kto, wbrew ciążącemu na nim obowiązkowi w zakresie ochrony lasów, nie wykonuje zabiegów zapobiegających, wykrywających i zwalczających nadmiernie pojawiające się i rozprzestrzeniające się organizmy szkodliwe, podlega karze grzywny.
 
 Art. 160. § 1. Kto, działając bez wymaganego zezwolenia, zmienia las na uprawę rolną,
 
@@ -1627,9 +1663,11 @@ podlega karze grzywny.
 
 Art. 162. § 1. Kto w lasach zanieczyszcza glebę lub wodę albo wyrzuca do lasu kamienie, odpady, złom lub padlinę niebędące odpadami lub inne nieczystości, albo w inny sposób zaśmieca las,
 
-podlega karze ograniczenia wolności albo grzywny nie niższej niż 500 złotych.
+podlega karze ograniczenia wolności albo grzywny nieniższej niż 500 złotych.
 
-§ 2. Jeżeli czyn sprawcy polega na zakopywaniu, zatapianiu, odprowadzaniu do gruntu w lasach lub w inny sposób składowaniu w lesie odpadów, sprawca podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 złotych.
+§ 2. Jeżeli czyn sprawcy polega na zakopywaniu, zatapianiu, odprowadzaniu do gruntu w lasach lub w inny sposób składowaniu w lesie odpadów, sprawca
+
+podlega karze aresztu, ograniczenia wolności albo grzywny nieniższej niż 1000 złotych.
 
 § 3. Usiłowanie wykroczenia określonego w § 1 lub 2 oraz podżeganie do niego i pomocnictwo są karalne.
 
@@ -1649,7 +1687,7 @@ Art. 166. Kto w lesie puszcza luzem psa, poza czynnościami związanymi:
 
 1) z polowaniem,
 
-2) ze szkoleniem psów będących zwierzętami wykorzystywanymi do celów specjalnych w rozumieniu art. 4 pkt 20 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580), albo ich udziałem w akcji ratowniczej, w działaniach poszukiwawczych lub w działaniach związanych z ochroną granicy państwowej lub zapewnieniem bezpieczeństwa i porządku publicznego,
+2) ze szkoleniem psów będących zwierzętami wykorzystywanymi do celów specjalnych w rozumieniu art. 4 pkt 20 ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2023 r. poz. 1580, z 2025 r. poz. 1696 i 1795 oraz z 2026 r. poz. 737, 755 i 1005), albo ich udziałem w akcji ratowniczej, w działaniach poszukiwawczych lub w działaniach związanych z ochroną granicy państwowej lub zapewnieniem bezpieczeństwa i porządku publicznego,
 
 3) ze szkoleniem psów ratowniczych albo ich udziałem w akcji ratowniczej prowadzonej przez podmioty uprawnione do wykonywania ratownictwa na podstawie przepisów odrębnych,
 
@@ -1659,6 +1697,38 @@ podlega karze grzywny albo karze nagany.
 
 ## Przypisy
 
-[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i 1872. 2) Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 77 z 23.03.2016, str. 65.
+[^1]: Ze zmianami wprowadzonymi przez art. 1 pkt 1 ustawy z dnia 7 listopada 2025 r. o zmianie ustawy – Kodeks wykroczeń oraz ustawy – Kodeks postępowania w sprawach o wykroczenia (Dz. U. poz. 1814), która weszła w życie z dniem 2 stycznia 2026 r., oraz przez art. 1 pkt 1 ustawy z dnia 4 grudnia 2025 r. o zmianie niektórych ustaw w celu poprawy bezpieczeństwa ruchu drogowego (Dz. U. poz. 1872), która weszła w życie z dniem 29 stycznia 2026 r.
 
-[^3]: Utracił moc z dniem 4 lipca 2019 r. w części zawierającej słowa „albo umyślnie bez uzasadnionej przyczyny odmawia świadczenia, do którego jest obowiązany”, na podstawie wyroku Trybunału Konstytucyjnego z dnia 26 czerwca 2019 r. sygn. akt K 16/17 (Dz. U. poz. 1238).
+[^2]: W brzmieniu ustalonym przez art. 1 pkt 2 ustawy z dnia 4 grudnia 2025 r. o zmianie niektórych ustaw w celu poprawy bezpieczeństwa ruchu drogowego (Dz. U. poz. 1872), która weszła w życie z dniem 29 stycznia 2026 r.
+
+[^3]: Ze zmianą wprowadzoną przez art. 2 pkt 1 ustawy z dnia 7 listopada 2025 r. o zmianie ustawy – Kodeks karny, ustawy – Kodeks wykroczeń oraz ustawy – Kodeks postępowania w sprawach o wykroczenia (Dz. U. poz. 1818), która weszła w życie z dniem 2 stycz- nia 2026 r.
+
+[^4]: Dodany przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 3.
+
+[^5]: Dodany przez art. 1 pkt 3 ustawy, o której mowa w odnośniku 2.
+
+[^6]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i 1872 oraz z 2026 r. poz. 180, 875, 982 i 1073.
+
+[^7]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 718 i 1366 oraz z 2026 r. poz. 187, 421, 646, 760, 815, 821, 864, 1004 i 1123.
+
+[^8]: Ze zmianą wprowadzoną przez art. 1 pkt 2 lit. a ustawy wymienionej jako pierwsza w odnośniku 1.
+
+[^9]: Ze zmianą wprowadzoną przez art. 1 pkt 2 lit. b ustawy wymienionej jako pierwsza w odnośniku 1.
+
+[^10]: Dodany przez art. 1 pkt 4 ustawy, o której mowa w odnośniku 2.
+
+[^11]: Dodany przez art. 2 ustawy z dnia 17 października 2025 r. o zmianie ustawy – Prawo o ruchu drogowym oraz niektórych innych ustaw (Dz. U. poz. 1676), która weszła w życie z dniem 3 marca 2026 r.; wszedł w życie z dniem 3 czerwca 2026 r.
+
+[^12]: Zmiany wymienionego rozporządzenia zostały ogłoszone w Dz. Urz. UE L 77 z 23.03.2016, str. 65.
+
+[^13]: W brzmieniu ustalonym przez art. 1 pkt 5 ustawy, o której mowa w odnośniku 2.
+
+[^14]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 894, 896, 1203, 1541 i 1811 oraz z 2026 r. poz. 507 i 846.
+
+[^15]: Ze zmianą wprowadzoną przez art. 1 pkt 6 lit. a ustawy, o której mowa w odnośniku 2.
+
+[^16]: W brzmieniu ustalonym przez art. 1 pkt 6 lit. b ustawy, o której mowa w odnośniku 2.
+
+[^17]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 820, 1006, 1676, 1734, 1843 i 1872 oraz z 2026 r. poz. 180, 875, 982 i 1073.
+
+[^18]: Utracił moc z dniem 4 lipca 2019 r. w części zawierającej słowa „albo umyślnie bez uzasadnionej przyczyny odmawia świadczenia, do którego jest obowiązany”, na podstawie wyroku Trybunału Konstytucyjnego z dnia 26 czerwca 2019 r. sygn. akt K 16/17 (Dz. U. poz. 1238).

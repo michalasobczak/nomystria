@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2019 poz. 882"
 tekst_jednolity_z_dnia: "2019-04-12"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["szkolnictwo wyższe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2008/1110/text/U/D20081110Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081801110"

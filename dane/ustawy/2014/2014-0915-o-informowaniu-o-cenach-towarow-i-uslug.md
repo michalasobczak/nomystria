@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2023 poz. 168"
 tekst_jednolity_z_dnia: "2023-01-11"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["towary i usługi konsumpcyjne", "konsumenci", "ceny", "kary pieniężne i porządkowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2014/915/text/U/D20140915Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000915"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2025 poz. 1578"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["choroby zawodowe", "praktyki zawodowe", "wypadki przy pracy", "zatrudnianie", "podatek dochodowy od osób fizycznych", "podatek dochodowy od osób prawnych", "absolwenci"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2009/1052/text/U/D20091052Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091271052"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2024 poz. 345"
 tekst_jednolity_z_dnia: "2024-03-11"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ratownictwo", "medyczne wyroby", "organizacja i zakres działania", "leki i artykuły sanitarne", "ochrona zdrowia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/1095/text/U/D20221095Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001095"

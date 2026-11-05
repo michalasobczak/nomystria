@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 23
 tekst_jednolity: "Dz.U. 2018 poz. 1914"
 tekst_jednolity_z_dnia: "2018-09-14"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przepisy karne", "gastronomiczne zakłady", "terenowe organy administracji rządowej", "samorząd zawodowy", "izby rzemieślnicze", "sądy gospodarcze", "księgarstwo", "handel nieuspołeczniony", "wykroczenia", "naczelne i centralne organy administracji", "spółki", "rzemiosło", "radiofonia i telewizja", "cechy rzemieślnicze", "noclegowe zakłady", "sądy administracyjne", "rzecznicy prasowi", "wydawnictwa i publikacje", "spółdzielczość rzemieślnicza", "prasowe prawo", "handel wewnętrzny", "karne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1984/24/text/U/D19840024Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840050024"

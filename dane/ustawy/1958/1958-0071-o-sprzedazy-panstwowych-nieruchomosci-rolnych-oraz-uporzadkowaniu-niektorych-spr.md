@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 1989 nr 58 poz. 348"
 tekst_jednolity_z_dnia: "1989-10-20"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["wywłaszczenia", "księgi wieczyste i hipoteka", "kombatanci", "grunty rolne i leśne", "przejęcie mienia na własność państwa", "reforma rolna", "bankowe prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1958/71/text/U/D19580071Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19580170071"

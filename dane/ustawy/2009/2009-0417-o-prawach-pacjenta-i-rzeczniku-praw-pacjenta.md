@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 37
 tekst_jednolity: "Dz.U. 2024 poz. 581"
 tekst_jednolity_z_dnia: "2024-04-02"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "lekarze", "komisje lekarskie", "ochrona zdrowia", "naczelne i centralne organy administracji", "informacja publiczna", "pacjenci", "świadczenia lecznicze", "lekarze dentyści", "kary pieniężne i porządkowe", "zakłady opieki zdrowotnej", "opieka zdrowotna", "ochrona praw człowieka", "dokumentacja medyczna"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2009/417/text/U/D20090417Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090520417"

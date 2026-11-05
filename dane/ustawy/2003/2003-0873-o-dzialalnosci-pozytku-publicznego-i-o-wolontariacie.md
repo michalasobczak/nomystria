@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 52
 tekst_jednolity: "Dz.U. 2025 poz. 1338"
 tekst_jednolity_z_dnia: "2025-09-26"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "świadczenia", "konkursy", "pomoc społeczna", "finanse publiczne", "ochrona zdrowia", "dochód", "dotacje", "niepełnosprawni", "organizacje pozarządowe", "nadzór", "fundacje", "oświata i wychowanie", "ubezpieczenia zdrowotne", "działalność pożytku publicznego", "oświata, nauka i kultura", "wolontariat"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2003/873/text/U/D20030873Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030960873"

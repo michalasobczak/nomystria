@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2020 poz. 1705"
 tekst_jednolity_z_dnia: "2020-09-16"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["nauka", "fundacje", "rolnictwo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/1451/text/U/D20011451Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011301451"

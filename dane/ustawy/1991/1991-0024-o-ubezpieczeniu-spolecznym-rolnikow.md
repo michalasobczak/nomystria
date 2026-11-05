@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 88
 tekst_jednolity: "Dz.U. 2025 poz. 1770"
 tekst_jednolity_z_dnia: "2025-11-20"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["fundusz składkowy ubezpieczeń społecznych rolników", "zasiłek porodowy", "zasiłek rodzinny", "rolne prawo", "zasiłek chorobowy", "kodeks cywilny", "zasiłek macierzyński", "przedmioty ortopedyczne", "ordery, odznaczenia i odznaki", "emerytury i renty", "ochrona zdrowia", "naczelne i centralne organy administracji", "finansowa gospodarka", "cywilne prawo", "podatek rolny", "rolnicy", "zasiłek pogrzebowy", "wypadki przy pracy", "ubezpieczenia społeczne", "grunty rolne i leśne", "opieka zdrowotna", "przejęcie mienia na własność państwa", "zasiłek pielęgnacyjny", "skup i kontraktacja"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1991/24/text/U/D19910024Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910070024"

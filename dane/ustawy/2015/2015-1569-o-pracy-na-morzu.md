@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2026 poz. 102"
 tekst_jednolity_z_dnia: "2026-01-21"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["czas pracy", "wynagrodzenia", "kwalifikacje", "działalność gospodarcza", "urzędy morskie", "urlopy", "bhp", "opieka zdrowotna", "zatrudnianie", "statki morskie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/1569/text/U/D20151569Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001569"

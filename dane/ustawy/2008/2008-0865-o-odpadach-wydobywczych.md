@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2022 poz. 2336"
 tekst_jednolity_z_dnia: "2022-10-06"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["recykling", "odpady", "zezwolenia", "atomowe prawo", "wydobywanie kopalin"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2008/865/text/U/D20080865Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081380865"

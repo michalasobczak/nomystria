@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["odpady", "porty morskie", "administracja morska", "zanieczyszczenia", "statki morskie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/1250/text/T/D20221250L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001250"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2026 poz. 1053"
 tekst_jednolity_z_dnia: "2026-07-31"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["pomoc społeczna", "świadczenia pieniężne", "kombatanci", "legitymacje", "ordery, odznaczenia i odznaki", "osoby represjonowane", "dodatki mieszkaniowe", "podatek dochodowy od osób fizycznych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/693/text/U/D20150693Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000693"

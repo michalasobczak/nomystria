@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2025 poz. 1893"
 tekst_jednolity_z_dnia: "2025-12-19"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przepisy karne", "spirytus", "zezwolenia", "działalność gospodarcza", "alkohol", "dokumenty", "tytoń"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/353/text/U/D20010353Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010310353"

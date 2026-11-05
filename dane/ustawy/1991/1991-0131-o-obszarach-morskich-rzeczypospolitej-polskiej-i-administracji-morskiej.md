@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 68
 tekst_jednolity: "Dz.U. 2026 poz. 1305"
 tekst_jednolity_z_dnia: "2026-09-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["badania geologiczne", "wody morskie", "morskie urzędy", "inspekcja", "wykroczenia", "morskie prawo", "ratownictwo", "ochrona środowiska morskiego", "turystyka", "mundury", "ochrona", "ochrona środowiska", "kary pieniężne i porządkowe", "bezpieczeństwo żeglugi i wypadki morskie", "granice państwa", "rybołówstwo morskie", "kable podmorskie", "sport", "statki morskie", "geologiczne prawo", "karne prawo", "ochrona wód"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1991/131/text/U/D19910131Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910320131"

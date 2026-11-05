@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2026 poz. 196"
 tekst_jednolity_z_dnia: "2026-02-13"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["konsularne prawo", "ewidencja ludności", "akta stanu cywilnego", "informatyzacja", "dokumenty", "dokumenty publiczne", "administracja rządowa", "paszporty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/350/text/U/D20220350Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000350"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2021 poz. 170"
 tekst_jednolity_z_dnia: "2020-12-08"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["telekomunikacja", "działalność gospodarcza", "alkohol", "biopaliwa", "kierowcy", "spadki", "notariat", "bankowe prawo", "położne", "lekarze dentyści", "dzieci", "ochrona roślin", "kodeks pracy", "upadłościowe prawo", "koszty sądowe w sprawach cywilnych", "kodeks postępowania administracyjnego", "podatek od spadków i darowizn", "tytoń", "lekarze", "spółdzielcze kasy oszczędnościowo-kredytowe", "statystyka", "kodeks cywilny", "ścieki", "transport kolejowy", "kodeks postępowania cywilnego", "broń, amunicja i materiały wybuchowe", "dewizowe prawo", "spirytus", "gry losowe i zakłady wzajemne", "górnictwo", "usługi", "restrukturyzacja", "emerytalne programy", "towary niebezpieczne", "lotnicze prawo", "podatki", "detektywi", "poczta", "rachunkowość", "administracyjne postępowanie", "podatek dochodowy od osób fizycznych", "transport drogowy", "farmaceutyczne prawo", "ratownictwo", "postępowanie egzekucyjne w administracji", "rejestry", "ryczałt podatkowy", "działalność lecznicza", "mienie", "ubezpieczenia", "świadczenia pieniężne w razie choroby i macierzyństwa", "energetyczne prawo", "ubezpieczenia społeczne", "wody", "prawo o ruchu drogowym", "pielęgniarstwo", "podatek dochodowy od osób prawnych", "ochrona osób i mienia", "ryby", "zatrudnianie", "podatek od towarów i usług", "podatek akcyzowy", "spółki", "przedsiębiorstwa", "turystyka", "zarząd sukcesyjny", "czystość i porządek"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/1629/text/U/D20181629Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001629"

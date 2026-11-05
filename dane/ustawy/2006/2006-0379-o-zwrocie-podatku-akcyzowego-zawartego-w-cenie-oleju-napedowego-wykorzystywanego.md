@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2026 poz. 546"
 tekst_jednolity_z_dnia: "2026-04-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ulgi podatkowe", "rolnictwo", "oleje", "podatek akcyzowy", "dotacje"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/379/text/U/D20060379Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060520379"

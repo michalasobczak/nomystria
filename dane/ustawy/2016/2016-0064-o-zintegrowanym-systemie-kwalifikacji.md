@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2024 poz. 1606"
 tekst_jednolity_z_dnia: "2024-09-30"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["instytuty naukowo-badawcze", "rzemiosło", "nauka", "kwalifikacje", "rejestry", "szkolnictwo wyższe", "oświata i wychowanie", "administracja rządowa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2016/64/text/U/D20160064Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000064"

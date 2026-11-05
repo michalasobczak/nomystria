@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2020 poz. 127"
 tekst_jednolity_z_dnia: "2019-12-13"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["wydawnictwa i publikacje", "umowy międzynarodowe", "naczelne i centralne organy administracji"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2000/443/text/U/D20000443Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000390443"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["pomoc społeczna", "budownictwo mieszkaniowe", "cmentarze", "weterani", "podatek dochodowy od osób fizycznych", "dotacje"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/2529/text/T/D20182529L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002529"

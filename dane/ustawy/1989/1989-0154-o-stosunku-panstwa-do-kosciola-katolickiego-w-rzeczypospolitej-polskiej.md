@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 30
 tekst_jednolity: "Dz.U. 2023 poz. 1966"
 tekst_jednolity_z_dnia: "2023-08-02"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["celne prawo", "czas pracy", "obrona narodowa", "podatki", "pomoc społeczna", "budowlane prawo", "cmentarze", "organizacje społeczne", "wyznania", "szkolnictwo wyższe", "akta stanu cywilnego", "fundacje", "taryfy celne, wywóz i przywóz", "prasowe prawo", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/154/text/U/D19890154Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890290154"

@@ -3,29 +3,67 @@ tytul: "Ustawa z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych 
 eli: "DU/2006/1354"
 adres_publikacyjny: "Dz.U. 2006 nr 183 poz. 1354"
 status: "akt posiada tekst jednolity"
-brzmienie: "ujednolicone"
+brzmienie: "jednolite"
 data_aktu: "2006-09-08"
 data_wejscia_w_zycie: "2006-10-26"
-tekst_ujednolicony_z_dnia: "2023-07-18"
-opracowano_na_podstawie: "t.j. Dz. U. z 2023 r. poz. 1296."
+tekst_ujednolicony_z_dnia: null
+opracowano_na_podstawie: "Dz.U. 2021 poz. 403"
 liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2021 poz. 403"
 tekst_jednolity_z_dnia: "2021-02-23"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "tekst jednolity, PDF T"
+uwagi: ["Tekst ujednolicony ISAP (z 2023-07-18, na podstawie DU/2023/1296) był starszy niż ostatni tekst jednolity Dz.U. 2021 poz. 403 z 2021-02-23; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["oprocentowanie", "finansowanie", "budownictwo mieszkaniowe", "kredyty i pożyczki"]
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/1354/text/U/D20061354Lj.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2021/403/text/T/D20210403L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061831354"
 ---
 
 # Ustawa z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania
 
-**Dz. U. 2006 Nr 183 poz. 1354**
+**Dz. U. 2021 poz. 403**
+
+**OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ**
+
+z dnia 23 lutego 2021 r.
+
+**w sprawie ogłoszenia jednolitego tekstu ustawy o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania**
+
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 września 2006 r. o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania (Dz. U. z 2019 r. poz. 1011), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 471) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lutego 2021 r.
+
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 27, art. 36 i art. 39 ustawy z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 471), które stanowią:
+
+„Art. 27. 1. Do zamierzeń budowlanych realizowanych w oparciu o projekt budowlany sporządzony na podsta-
+
+wie przepisów dotychczasowych:
+
+1) w przypadkach, o których mowa w art. 25 i art. 26,
+
+2) dla których przed dniem wejścia w życie niniejszej ustawy wydano ostateczną decyzję o pozwoleniu na budowę albo dokonano skutecznego zgłoszenia
+
+– przepisy ustaw zmienianych w art. 1–4, art. 6 oraz art. 8–24 stosuje się w brzmieniu dotychczasowym.
+
+2. Jeżeli projekt budowlany, o którym mowa w ust. 1, wymaga uzgodnienia na podstawie przepisów ustaw
+
+zmienianych w art. 2 oraz w art. 3, uzgodnień tych należy dokonać na podstawie przepisów tych ustaw w brzmieniu dotychczasowym.”
+
+„Art. 36. Do spraw uregulowanych w ustawach zmienianych w art. 2–4, art. 6 oraz art. 8–24, wszczętych i nie-
+
+zakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.”
+
+„Art. 39. Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 5 pkt 2 lit. b
+
+w zakresie art. 7 ust. 8g2 i 8g5, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.”.
+
+Marszałek Sejmu: E. Witek
+
+Załącznik do obwieszczenia Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 23 lutego 2021 r. (poz. 403)
 
 **USTAWA**
 
 z dnia 8 września 2006 r.
 
-o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania
+**o finansowym wsparciu rodzin i innych osób w nabywaniu własnego mieszkania**
 
 ## Rozdział 1
 
@@ -43,15 +81,15 @@ Art. 2. Użyte w ustawie określenia oznaczają:
 
 4) osoba samotnie wychowująca dziecko – jednego z rodziców albo opiekuna prawnego, jeżeli osoba ta jest panną, kawalerem, wdową, wdowcem, rozwódką, rozwodnikiem albo osobą, w stosunku do której orzeczono separację w rozumieniu odrębnych przepisów lub osobę pozostającą w związku małżeńskim, jeżeli jej małżonek został pozbawiony praw rodzicielskich lub odbywa karę pozbawienia wolności;
 
-5) lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 zdanie 1 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2021 r. poz. 1048);
+5) lokal mieszkalny – samodzielny lokal mieszkalny w rozumieniu art. 2 ust. 2 zdanie 1 ustawy z dnia 24 czerwca 1994 r. o własności lokali (Dz. U. z 2020 r. poz. 1910 oraz z 2021 r. poz. 11);
 
-6) dom jednorodzinny – budynek mieszkalny jednorodzinny w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, 553 i 967), w którym znajduje się wyłącznie lokal mieszkalny;
+6) dom jednorodzinny – budynek mieszkalny jednorodzinny w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2020 r. poz. 1333, 2127 i 2320 oraz z 2021 r. poz. 11, 234 i 282), w którym znajduje się wyłącznie lokal mieszkalny;
 
-7) średni wskaźnik przeliczeniowy kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych – iloczyn średniej arytmetycznej dwóch ostatnio ogłoszonych wartości wskaźnika, o którym mowa w art. 2 ust. 1 pkt 12 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725), obowiązujących dla gminy, na terenie której położony jest lokal mieszkalny lub dom jednorodzinny, na który ma być udzielony kredyt preferencyjny, oraz współczynnika:
+7) średni wskaźnik przeliczeniowy kosztu odtworzenia 1 m2 powierzchni użytkowej budynków mieszkalnych – iloczyn średniej arytmetycznej dwóch ostatnio ogłoszonych wartości wskaźnika, o którym mowa w art. 2 ust. 1 pkt 12 ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2020 r. poz. 611 oraz z 2021 r. poz. 11), obowiązujących dla gminy, na terenie której położony jest lokal mieszkalny lub dom jednorodzinny, na który ma być udzielony kredyt preferencyjny, oraz współczynnika:
 
-a) 1,0 – dla będących w budowie lub nowo wybudowanych domów
+a) 1,0 – dla będących w budowie lub nowo wybudowanych domów jednorodzinnych i lokali mieszkalnych
 
-jednorodzinnych i lokali mieszkalnych w budynkach wielorodzinnych, jeżeli ich pierwszym użytkownikiem będzie docelowy kredytobiorca, lub
+w budynkach wielorodzinnych, jeżeli ich pierwszym użytkownikiem będzie docelowy kredytobiorca, lub
 
 b) 0,8 – dla pozostałych domów jednorodzinnych i lokali mieszkalnych w budynkach wielorodzinnych;
 
@@ -59,7 +97,7 @@ b) 0,8 – dla pozostałych domów jednorodzinnych i lokali mieszkalnych w budyn
 
 9) stopa referencyjna – zmienną stopę procentową, stanowiącą podstawę ustalenia wysokości dopłat do oprocentowania kredytów preferencyjnych, równą przeciętnej stopie WIBOR trzymiesięczny, obliczaną jako średnia arytmetyczna notowań w kwartale poprzedzającym dany kwartał, powiększoną o 2 punkty procentowe, publikowaną w Biuletynie Informacji Publicznej przez Bank Gospodarstwa Krajowego;
 
-10) Fundusz Dopłat – Fundusz Dopłat, o którym mowa w ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2022 r. poz. 101, 1561 i 2456).
+10) Fundusz Dopłat – Fundusz Dopłat, o którym mowa w ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. z 2019 r. poz. 1454).
 
 ## Rozdział 2
 
@@ -73,19 +111,19 @@ Art. 3. 1. Dopłaty mogą być stosowane, jeżeli kredyt preferencyjny został u
 
 a) małoletnie dziecko,
 
-b) dziecko, bez względu na jego wiek, na które, zgodnie z ustawą z dnia 28
+b) dziecko, bez względu na jego wiek, na które, zgodnie z ustawą z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2020 r. poz. 111), jest pobierany zasiłek pielęgnacyjny,
 
-listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2023 r. poz. 390,
+c) dziecko do ukończenia przez nie 25. roku życia, uczące się w szkołach oraz kolegiach pracowników służb spo-
 
-658 i 852), jest pobierany zasiłek pielęgnacyjny,
+łecznych, o których mowa w ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2020 r. poz. 1327 oraz z 2021 r. poz. 4), a także w uczelniach w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086 oraz z 2021 r. poz. 159) oraz uczelniach i wyższych seminariach duchownych, prowadzonych przez Kościół Katolicki, inne kościoły i inne związki wyznaniowe na podstawie umów międzynarodowych i przepisów o stosunku państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej oraz przepisów o stosunku państwa do innych kościołów i związków wyznaniowych,
 
-c) dziecko do ukończenia przez nie 25. roku życia, uczące się w szkołach oraz
+3) osobę niepozostającą w związku małżeńskim, inną niż wskazana w pkt 2
 
-kolegiach pracowników służb społecznych, o których mowa w ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2022 r. poz. 2230), a także w uczelniach w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742 i 1088) oraz uczelniach i wyższych seminariach duchownych, prowadzonych przez Kościół Katolicki, inne kościoły i inne związki wyznaniowe na podstawie umów międzynarodowych i przepisów o stosunku państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej oraz przepisów o stosunku państwa do innych kościołów i związków wyznaniowych,
+– zwanych dalej „docelowymi kredytobiorcami”.
 
-3) osobę niepozostającą w związku małżeńskim, inną niż wskazana w pkt 2 – zwanych dalej „docelowymi kredytobiorcami”.
+1a. Jeżeli w ocenie instytucji ustawowo upoważnionej do udzielania kredytów docelowy kredytobiorca nie posiada zdolności kredytowej w rozumieniu art. 70 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, 2320 i 2419) umowa o kredyt preferencyjny może być zawarta również przez inne osoby niż docelowy kredytobiorca. Mogą nimi być zstępni, wstępni, rodzeństwo, małżonkowie rodzeństwa, ojczym, macocha lub teściowie docelowego kredytobiorcy.
 
-1a. Jeżeli w ocenie instytucji ustawowo upoważnionej do udzielania kredytów docelowy kredytobiorca nie posiada zdolności kredytowej w rozumieniu art. 70 ust. 1 ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2022 r. poz. 2324, z późn. zm.[^1]) umowa o kredyt preferencyjny może być zawarta również przez inne osoby niż docelowy kredytobiorca. Mogą nimi być zstępni, wstępni, rodzeństwo, małżonkowie rodzeństwa, ojczym, macocha lub teściowie docelowego kredytobiorcy. 2. Dopłat nie stosuje się, jeżeli którakolwiek z osób, o których mowa w ust. 1, jest lub była stroną innej umowy kredytu preferencyjnego w charakterze docelowego kredytobiorcy.
+2. Dopłat nie stosuje się, jeżeli którakolwiek z osób, o których mowa w ust. 1, jest lub była stroną innej umowy kredytu preferencyjnego w charakterze docelowego kredytobiorcy.
 
 Art. 4. 1. Dopłaty mogą być stosowane, jeżeli docelowy kredytobiorca w dniu zawarcia umowy kredytu preferencyjnego nie jest:
 
@@ -117,59 +155,43 @@ Art. 4. 1. Dopłaty mogą być stosowane, jeżeli docelowy kredytobiorca w dniu 
 
 5. W przypadku niewykonania zobowiązania, o którym mowa w ust. 3, instytucja ustawowo upoważniona do udzielania kredytów wypowiada umowę kredytu preferencyjnego i wynikającą z tej umowy wierzytelność stawia w stan natychmiastowej wymagalności.
 
-6. W przypadku prawomocnego skazania docelowego kredytobiorcy za przestępstwo określone w art. 297 § 1 lub § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm.[^2]) popełnione w związku z udzieleniem kredytu preferencyjnego, instytucja ustawowo upoważniona do udzielania kredytów, po uzyskaniu informacji o prawomocnym skazaniu, wypowiada umowę kredytu preferencyjnego i wynikającą z tej umowy wierzytelność stawia w stan natychmiastowej wymagalności.
+6. W przypadku prawomocnego skazania docelowego kredytobiorcy za przestępstwo określone w art. 297 § 1 lub § 2 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517) popełnione w związku z udzieleniem kredytu preferencyjnego, instytucja ustawowo upoważniona do udzielania kredytów, po uzyskaniu informacji o prawomocnym skazaniu, wypowiada umowę kredytu preferencyjnego i wynikającą z tej umowy wierzytelność stawia w stan natychmiastowej wymagalności.
 
 Art. 5. 1. Dopłaty mogą być stosowane, jeżeli:
 
 1) kredyt preferencyjny został udzielony docelowemu kredytobiorcy, o którym mowa w art. 3 ust. 1 pkt 1 lub 2, na:
 
-a) zakup będącego w budowie lub istniejącego domu jednorodzinnego lub
+a) zakup będącego w budowie lub istniejącego domu jednorodzinnego lub lokalu mieszkalnego w budynku wielo-
 
-lokalu mieszkalnego w budynku wielorodzinnym, stanowiącego odrębną nieruchomość, z wyłączeniem zakupu domu jednorodzinnego lub lokalu mieszkalnego, do którego którejkolwiek z osób, o których mowa w art. 3 ust. 1 i ust. 1a, w dniu zawarcia umowy kredytu preferencyjnego
+rodzinnym, stanowiącego odrębną nieruchomość, z wyłączeniem zakupu domu jednorodzinnego lub lokalu mieszkalnego, do którego którejkolwiek z osób, o których mowa w art. 3 ust. 1 i ust. 1a, w dniu zawarcia umo-
 
-przysługiwał inny tytuł prawny,
+wy kredytu preferencyjnego przysługiwał inny tytuł prawny,
 
-b) zakup spółdzielczego własnościowego prawa do lokalu, którego
+b) zakup spółdzielczego własnościowego prawa do lokalu, którego przedmiotem jest lokal mieszkalny w budynku wielorodzinnym lub dom jednorodzinny,
 
-przedmiotem jest lokal mieszkalny w budynku wielorodzinnym lub dom
-
-jednorodzinny,
-
-c) wkład budowlany do spółdzielni mieszkaniowej, wnoszony w celu
-
-uzyskania prawa własności lokalu, którego przedmiotem jest zasiedlany po raz pierwszy lokal mieszkalny lub dom jednorodzinny,
+c) wkład budowlany do spółdzielni mieszkaniowej, wnoszony w celu uzyskania prawa własności lokalu, którego przedmiotem jest zasiedlany po raz pierwszy lokal mieszkalny lub dom jednorodzinny,
 
 d) budowę domu jednorodzinnego,
 
-e) przeprowadzenie robót budowlanych, z wyłączeniem montażu, remontu i
+e) przeprowadzenie robót budowlanych, z wyłączeniem montażu, remontu i rozbiórki obiektu budowlanego, doty-
 
-rozbiórki obiektu budowlanego, dotyczących budynku mieszkalnego albo budynku lub lokalu o innym przeznaczeniu, w celu uzyskania lokalu mieszkalnego stanowiącego odrębną nieruchomość lub domu
+czących budynku mieszkalnego albo budynku lub lokalu o innym przeznaczeniu, w celu uzyskania lokalu
 
-jednorodzinnego;
+mieszkalnego stanowiącego odrębną nieruchomość lub domu jednorodzinnego;
 
 2) kredyt preferencyjny został udzielony docelowemu kredytobiorcy, o którym mowa w art. 3 ust. 1 pkt 3, na:
 
-a) zakup będącego w budowie lub istniejącego lokalu mieszkalnego w
+a) zakup będącego w budowie lub istniejącego lokalu mieszkalnego w budynku wielorodzinnym, stanowiącego od-
 
-budynku wielorodzinnym, stanowiącego odrębną nieruchomość, z wyłączeniem zakupu lokalu mieszkalnego, do którego którejkolwiek z osób, o których mowa w art. 3 ust. 1 i ust. 1a, w dniu zawarcia umowy kredytu
+rębną nieruchomość, z wyłączeniem zakupu lokalu mieszkalnego, do którego którejkolwiek z osób, o których mowa w art. 3 ust. 1 i ust. 1a, w dniu zawarcia umowy kredytu preferencyjnego przysługiwał inny tytuł prawny,
 
-preferencyjnego przysługiwał inny tytuł prawny,
+b) zakup spółdzielczego własnościowego prawa do lokalu, którego przedmiotem jest lokal mieszkalny w budynku wielorodzinnym,
 
-b) zakup spółdzielczego własnościowego prawa do lokalu, którego
+c) wkład budowlany do spółdzielni mieszkaniowej, wnoszony w celu uzyskania prawa własności lokalu, którego przedmiotem jest zasiedlany po raz pierwszy lokal mieszkalny,
 
-przedmiotem jest lokal mieszkalny w budynku wielorodzinnym,
+d) przeprowadzenie robót budowlanych, z wyłączeniem montażu, remontu i rozbiórki obiektu budowlanego, doty-
 
-c) wkład budowlany do spółdzielni mieszkaniowej, wnoszony w celu
-
-uzyskania prawa własności lokalu, którego przedmiotem jest zasiedlany po
-
-raz pierwszy lokal mieszkalny,
-
-d) przeprowadzenie robót budowlanych, z wyłączeniem montażu, remontu i
-
-rozbiórki obiektu budowlanego, dotyczących budynku mieszkalnego albo
-
-budynku lub lokalu o innym przeznaczeniu, w celu uzyskania lokalu
+czących budynku mieszkalnego albo budynku lub lokalu o innym przeznaczeniu, w celu uzyskania lokalu
 
 mieszkalnego stanowiącego odrębną nieruchomość;
 
@@ -191,9 +213,9 @@ b) lokalu mieszkalnego, o którym mowa:
 
 3. Powierzchnię użytkową domu jednorodzinnego lub lokalu mieszkalnego, o której mowa w ust. 1 pkt 3, a także cenę lub wkład budowlany, o których mowa w ust. 1 pkt 4, przyjmuje się na podstawie umowy o ustanowieniu lub przeniesieniu własności lub spółdzielczego własnościowego prawa do lokalu, a jeżeli umowa taka nie została zawarta do dnia złożenia wniosku o kredyt preferencyjny – na podstawie odpowiedniej umowy zobowiązującej.
 
-4. Powierzchnię użytkową domu jednorodzinnego, o którym mowa w ust. 1 pkt 1 lit. d i e, lub lokalu mieszkalnego, o którym mowa w ust. 1 pkt 1 lit. e lub ust. 1 pkt 2 lit. d, przyjmuje się na podstawie projektu technicznego.
+4.[^1] Powierzchnię użytkową domu jednorodzinnego, o którym mowa w ust. 1 pkt 1 lit. d i e, lub lokalu mieszkalnego, o którym mowa w ust. 1 pkt 1 lit. e lub ust. 1 pkt 2 lit. d, przyjmuje się na podstawie projektu technicznego.
 
-5. Koszt budowy domu jednorodzinnego, koszt przeprowadzenia robót budowlanych dotyczących budynku mieszkalnego albo budynku lub lokalu o innym przeznaczeniu w celu uzyskania lokalu mieszkalnego stanowiącego odrębną nie-ruchomość lub domu jednorodzinnego, o którym mowa w ust. 1 pkt 4, przyjmuje się na podstawie kosztorysu uwzględniającego koszty budowy wraz z wykonaniem urządzeń budowlanych w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane związanych z domem jednorodzinnym.
+5. Koszt budowy domu jednorodzinnego, koszt przeprowadzenia robót budowlanych dotyczących budynku mieszkalnego albo budynku lub lokalu o innym przeznaczeniu w celu uzyskania lokalu mieszkalnego stanowiącego odrębną nieruchomość lub domu jednorodzinnego, o którym mowa w ust. 1 pkt 4, przyjmuje się na podstawie kosztorysu uwzględniającego koszty budowy wraz z wykonaniem urządzeń budowlanych w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane związanych z domem jednorodzinnym.
 
 Art. 6. 1. Kredytu preferencyjnego udziela się w walucie polskiej, a umowa kredytu preferencyjnego nie może uzależniać zmiany wysokości raty kapitałowo-odsetkowej, ani pozostającego do spłaty kredytu od zmiany kursów walut.
 
@@ -201,13 +223,15 @@ Art. 6. 1. Kredytu preferencyjnego udziela się w walucie polskiej, a umowa kred
 
 1) pobierane przez instytucję ustawowo upoważnioną do udzielania kredytów jednorazowe i płatne z góry opłaty i prowizje związane z jego udzieleniem – do wysokości 2% kwoty kredytu przed doliczeniem składek, o których mowa w pkt 2;
 
-2) jednorazowe i płatne z góry składki ubezpieczenia kredytu preferencyjnego. 3. W przypadku odroczenia pierwszej spłaty kapitału kredytu preferencyjnego okres odroczenia nie może być dłuższy niż 6 miesięcy, licząc od dnia postawienia do dyspozycji kredytobiorcy ostatniej transzy kredytu preferencyjnego.
+2) jednorazowe i płatne z góry składki ubezpieczenia kredytu preferencyjnego.
 
-4. Spłata kredytu preferencyjnego może następować wyłącznie metodą równych rat kapitałowych (rata malejąca) lub równych rat kapitałowo-odsetkowych (annuitet). 5. Ograniczenia wynikające z ust. 1–4 mają zastosowanie w okresie stosowania dopłat.
+3. W przypadku odroczenia pierwszej spłaty kapitału kredytu preferencyjnego okres odroczenia nie może być dłuższy niż 6 miesięcy, licząc od dnia postawienia do dyspozycji kredytobiorcy ostatniej transzy kredytu preferencyjnego.
+
+4. Spłata kredytu preferencyjnego może następować wyłącznie metodą równych rat kapitałowych (rata malejąca) lub równych rat kapitałowo-odsetkowych (annuitet).
+
+5. Ograniczenia wynikające z ust. 1–4 mają zastosowanie w okresie stosowania dopłat.
 
 Art. 7. 1. W okresie stosowania dopłat odsetki spłacane przez kredytobiorcę są równe kwocie odsetek naliczonych przez instytucję ustawowo upoważnioną do udzielania kredytów w oparciu o stopę procentową pomniejszonej o dopłatę należną za okres naliczenia odsetek.
-
-1a. Dopłata, o której mowa w ust. 1, nie może być wyższa niż kwota odsetek należnych instytucji ustawowo upoważnionej do udzielania kredytów z tytułu spłaty raty odsetkowej lub kapitałowo-odsetkowej kredytu preferencyjnego.
 
 2. Instytucja ustawowo upoważniona do udzielania kredytów, na wniosek kredytobiorcy, jest obowiązana do poinformowania go o łącznej wysokości zastosowanych dopłat.
 
@@ -225,7 +249,7 @@ c) 70 m2 – dla domu jednorodzinnego;
 
 3) część pozostającej do spłaty kwoty kredytu preferencyjnego, stanowiąca równowartość iloczynu tej kwoty oraz wskaźnika równego ilorazowi 30 m2 i powierzchni użytkowej lokalu mieszkalnego – w przypadku lokalu mieszkalnego, o którym mowa w art. 5 ust. 1 pkt 2, którego powierzchnia użytkowa przekracza 30 m2;
 
-4) część pozostającej do spłaty kwoty kredytu preferencyjnego, stanowiąca równowartość iloczynu tej kwoty oraz wskaźnika równego ilorazowi 70 m2 i powierzchni użytkowej domu jednorodzinnego – w przypadku domu jedno-rodzinnego, którego powierzchnia użytkowa przekracza 70 m2.
+4) część pozostającej do spłaty kwoty kredytu preferencyjnego, stanowiąca równowartość iloczynu tej kwoty oraz wskaźnika równego ilorazowi 70 m2 i powierzchni użytkowej domu jednorodzinnego – w przypadku domu jednorodzinnego, którego powierzchnia użytkowa przekracza 70 m2.
 
 2. Do podstawy naliczenia dopłaty nie wlicza się kwot skapitalizowanych odsetek.
 
@@ -269,7 +293,7 @@ Art. 10. 1. Źródłem finansowania dopłat jest Fundusz Dopłat.
 
 3. Do zawierania umów, o których mowa w ust. 2, nie mają zastosowania przepisy o zamówieniach publicznych.
 
-4. Jeżeli środki Funduszu Dopłat nie pozwalają na pokrycie należności instytucjom ustawowo upoważnionym do udzielania kredytów z tytułu dopłat, Bank Gospodarstwa Krajowego wypłaci tym instytucjom dopłaty z własnych środków, a minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zwróci Bankowi Gospodarstwa Krajowego wypłaconą kwotę wraz z odsetkami równymi kosztowi pozyskania przez Bank Gos-podarstwa Krajowego tej kwoty.
+4. Jeżeli środki Funduszu Dopłat nie pozwalają na pokrycie należności instytucjom ustawowo upoważnionym do udzielania kredytów z tytułu dopłat, Bank Gospodarstwa Krajowego wypłaci tym instytucjom dopłaty z własnych środków, a minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa zwróci Bankowi Gospodarstwa Krajowego wypłaconą kwotę wraz z odsetkami równymi kosztowi pozyskania przez Bank Gospodarstwa Krajowego tej kwoty.
 
 5. Warunki, tryb oraz termin zwrotu, o którym mowa w ust. 4, określi umowa zawarta między ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, ministrem właściwym do spraw finansów publicznych i Bankiem Gospodarstwa Krajowego.
 
@@ -289,20 +313,18 @@ Art. 13. (pominięty)
 
 Art. 14. (pominięty)
 
-Art. 15. (utracił moc)[^3]
+Art. 15. (utracił moc)[^2]
 
 Art. 16. (pominięty)
 
-Art. 17. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^4].
+Art. 17. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^3].
 
 ---
 
 ## Przypisy
 
-[^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 2339, 2640 i 2707 oraz z 2023 r. poz. 180, 825, 996 i 1059.
+[^1]: Ze zmianą wprowadzoną przez art. 13 ustawy z dnia 13 lutego 2020 r. o zmianie ustawy – Prawo budowlane oraz niektórych innych ustaw (Dz. U. poz. 471), która weszła w życie z dniem 19 września 2020 r.
 
-[^2]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 1726, 1855, 2339 i 2600 oraz z 2023 r. poz. 289, 818 i 852.
+[^2]: Z dniem 27 marca 2009 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 24 marca 2009 r. sygn. akt K 53/07 (Dz. U. poz. 403).
 
-[^3]: Z dniem 27 marca 2009 r. na podstawie wyroku Trybunału Konstytucyjnego z dnia 24 marca 2009 r. sygn. akt K 53/07 (Dz. U. poz. 403).
-
-[^4]: Ustawa została ogłoszona w dniu 11 października 2006 r.
+[^3]: Ustawa została ogłoszona w dniu 11 października 2006 r.

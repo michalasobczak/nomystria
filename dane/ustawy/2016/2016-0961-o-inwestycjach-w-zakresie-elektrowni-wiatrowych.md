@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2024 poz. 317"
 tekst_jednolity_z_dnia: "2024-02-26"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ochrona środowiska", "budowlane prawo", "energetyczna gospodarka", "energetyka", "energetyczne prawo", "planowanie przestrzenne", "odnawialne źródła energii"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2016/961/text/U/D20160961Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000961"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 69
 tekst_jednolity: "Dz.U. 2026 poz. 1389"
 tekst_jednolity_z_dnia: "2026-09-18"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przepisy karne", "obrona narodowa", "ewidencja gruntów i budynków", "geodezja i kartografia", "grunty rolne i leśne", "notariat", "wykroczenia", "naczelne i centralne organy administracji", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/163/text/U/D19890163Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890300163"

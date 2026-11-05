@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 212
 tekst_jednolity: "Dz.U. 2024 poz. 1251"
 tekst_jednolity_z_dnia: "2024-06-21"
 zmian_po_tekscie_jednolitym: 10
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola ruchu drogowego", "drogi publiczne", "pojazdy mechaniczne", "kierowcy", "prawo o ruchu drogowym", "ruch drogowy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/602/text/U/D19970602Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"

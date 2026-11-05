@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 34
 tekst_jednolity: "Dz.U. 2026 poz. 620"
 tekst_jednolity_z_dnia: "2026-04-30"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["depozyty", "restrukturyzacja", "bankowe prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2016/996/text/U/D20160996Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000996"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 33
 tekst_jednolity: "Dz.U. 2026 poz. 599"
 tekst_jednolity_z_dnia: "2026-04-22"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "import", "rejestry", "działalność gospodarcza", "kary pieniężne i porządkowe", "gazy techniczne", "biopaliwa", "eksport", "paliwa i smary", "produkcja", "sektor naftowy", "oleje"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2007/343/text/U/D20070343Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070520343"

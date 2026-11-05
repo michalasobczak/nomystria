@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 23
 tekst_jednolity: "Dz.U. 2026 poz. 650"
 tekst_jednolity_z_dnia: "2026-05-12"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["szkolnictwo", "budżet", "finansowanie", "pracownicy urzędów państwowych", "uczniowie i absolwenci szkół", "podatek dochodowy od osób fizycznych", "dotacje", "niepełnosprawni", "pomoc finansowa", "gminy", "oświata i wychowanie", "szkolnictwo artystyczne", "przedszkola", "samorząd studencki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2017/2203/text/U/D20172203Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002203"

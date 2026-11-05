@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2016 poz. 2011"
 tekst_jednolity_z_dnia: "2016-11-14"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["świadczenia", "zasiłki", "emerytury i renty", "świadczenia przedemerytalne"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2016/188/text/U/D20160188Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000188"

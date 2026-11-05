@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2025 poz. 683"
 tekst_jednolity_z_dnia: "2025-05-21"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["fundusze", "artykuły spożywcze", "reklama", "finansowanie", "mięso", "owoce i warzywa", "ryby"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2009/799/text/U/D20090799Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090970799"

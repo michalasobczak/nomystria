@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2024 poz. 1725"
 tekst_jednolity_z_dnia: "2024-11-14"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["rejestry", "kodeks cywilny", "informatyzacja", "podpis elektroniczny", "cywilne postępowanie", "usługi", "administracyjne postępowanie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2016/1579/text/U/D20161579Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001579"

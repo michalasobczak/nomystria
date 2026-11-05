@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 51
 tekst_jednolity: "Dz.U. 2026 poz. 15"
 tekst_jednolity_z_dnia: "2025-12-04"
 zmian_po_tekscie_jednolitym: 4
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["położne", "nadzór", "rejestry", "szkolnictwo zawodowe", "odpowiedzialność zawodowa", "prawo wykonywania zawodu", "pielęgniarstwo", "służba zdrowia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/1039/text/U/D20111039Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111741039"

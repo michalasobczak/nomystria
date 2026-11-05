@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF O"
+uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "wynagrodzenia", "podatki", "opodatkowanie jgu", "przedsiębiorstwa państwowe", "zatrudnianie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1985/174/text/O/D19850174.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850370174"

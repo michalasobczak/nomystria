@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 47
 tekst_jednolity: "Dz.U. 2026 poz. 384"
 tekst_jednolity_z_dnia: "2026-03-12"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["cudzoziemcy", "rejestry", "ewidencja ludności", "informatyzacja", "obywatelstwo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2010/1427/text/U/D20101427Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102171427"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 25
 tekst_jednolity: "Dz.U. 2024 poz. 757"
 tekst_jednolity_z_dnia: "2024-05-15"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przedsiębiorstwa", "grzywny", "zaopatrzenie w wodę", "ochrona środowiska", "zezwolenia", "kary pieniężne i porządkowe", "ścieki", "wodne prawo", "kanalizacja"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/747/text/U/D20010747Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010720747"

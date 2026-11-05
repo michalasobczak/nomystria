@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2026 poz. 2"
 tekst_jednolity_z_dnia: "2025-12-04"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["farmaceutyczne prawo", "lekarze", "świadczenia lecznicze", "lekarze dentyści", "eksperyment medyczny", "badania kliniczne", "leki i artykuły sanitarne", "choroby zakaźne", "podatek dochodowy od osób fizycznych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2023/605/text/U/D20230605Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000605"

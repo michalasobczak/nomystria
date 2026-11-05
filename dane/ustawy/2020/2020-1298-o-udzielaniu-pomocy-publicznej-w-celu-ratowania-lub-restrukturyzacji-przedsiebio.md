@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2026 poz. 113"
 tekst_jednolity_z_dnia: "2026-01-26"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["pomoc publiczna", "przedsiębiorstwa", "restrukturyzacja"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2020/1298/text/U/D20201298Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001298"

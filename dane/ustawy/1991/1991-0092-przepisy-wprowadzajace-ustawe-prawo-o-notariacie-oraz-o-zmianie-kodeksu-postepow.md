@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["wymiar sprawiedliwości", "księgi wieczyste i hipoteka", "cywilne prawo", "dyscyplinarne postępowanie", "sędziowie", "wynagrodzenia", "kodeks cywilny", "sądy powszechne", "cywilne postępowanie", "notariat", "zatrudnianie", "kodeks postępowania cywilnego"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1991/92/text/T/D19910092L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910220092"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 234
 tekst_jednolity: "Dz.U. 2026 poz. 199"
 tekst_jednolity_z_dnia: "2026-02-09"
 zmian_po_tekscie_jednolitym: 5
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ubezpieczenia wypadkowe", "składki", "pracodawca", "świadczenia", "rejestry", "zasiłki", "fundusze emerytalne", "ubezpieczenia zdrowotne", "ubezpieczenia społeczne", "emerytury i renty", "pracownicy", "wykroczenia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1998/887/text/U/D19980887Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981370887"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 37
 tekst_jednolity: "Dz.U. 2022 poz. 2378"
 tekst_jednolity_z_dnia: "2022-10-06"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przepisy karne", "górnictwo", "kontrola", "kwalifikacje", "działalność gospodarcza", "świadectwa i dyplomy", "wojsko", "znaki towarowe", "broń, amunicja i materiały wybuchowe", "geologiczne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/1007/text/U/D20021007Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021171007"

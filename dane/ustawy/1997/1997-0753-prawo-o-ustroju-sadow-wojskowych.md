@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 41
 tekst_jednolity: "Dz.U. 2025 poz. 1614"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["dyscyplinarne postępowanie", "nadzór", "sędziowie", "ławnicy", "sądy powszechne", "sądy wojskowe", "żołnierz zawodowy", "aplikacja", "karne postępowanie", "prokuratura", "karne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/753/text/U/D19970753Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971170753"

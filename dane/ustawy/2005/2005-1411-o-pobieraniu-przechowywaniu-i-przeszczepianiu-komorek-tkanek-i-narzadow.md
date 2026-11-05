@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2023 poz. 1185"
 tekst_jednolity_z_dnia: "2023-05-11"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["nadzór", "transplantacja", "zakłady opieki zdrowotnej", "krwiodawstwo", "badania lekarskie", "komisje lekarskie", "ochrona zdrowia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2005/1411/text/U/D20051411Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051691411"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2018 poz. 1103"
 tekst_jednolity_z_dnia: "2018-05-10"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ustrój państwa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2016/744/text/U/D20160744Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000744"

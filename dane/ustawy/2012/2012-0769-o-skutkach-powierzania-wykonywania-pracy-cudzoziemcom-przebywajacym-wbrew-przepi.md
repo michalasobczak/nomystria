@@ -3,31 +3,49 @@ tytul: "Ustawa z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania prac
 eli: "DU/2012/769"
 adres_publikacyjny: "Dz.U. 2012 poz. 769"
 status: "akt posiada tekst jednolity"
-brzmienie: "ujednolicone"
+brzmienie: "jednolite"
 data_aktu: "2012-06-15"
 data_wejscia_w_zycie: "2012-07-21"
-tekst_ujednolicony_z_dnia: "2025-06-04"
-opracowano_na_podstawie: "t.j. Dz. U. z 2021 r. poz. 1745, z 2025 r. poz. 621."
+tekst_ujednolicony_z_dnia: null
+opracowano_na_podstawie: "Dz.U. 2025 poz. 1567"
 liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2025 poz. 1567"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "tekst jednolity, PDF T"
+uwagi: ["Tekst ujednolicony ISAP (z 2025-06-04, na podstawie DU/2021/1745) był starszy niż ostatni tekst jednolity Dz.U. 2025 poz. 1567 z 2025-11-07; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["karne postępowanie w sprawach o wykroczenia", "cudzoziemcy", "dokumenty", "ubezpieczenia społeczne", "zatrudnianie", "zamówienia publiczne", "podatek dochodowy od osób fizycznych", "karne prawo"]
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2012/769/text/U/D20120769Lj.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2025/1567/text/T/D20251567L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000769"
 ---
 
 # Ustawa z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej
 
-**Dz. U. 2012 poz. 769**
+**Dz. U. 2025 poz. 1567**
+
+**OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ**
+
+z dnia 7 listopada 2025 r.
+
+w sprawie ogłoszenia jednolitego tekstu ustawy o skutkach powierzania wykonywania pracy cudzoziemcom
+
+**przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej**
+
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2021 r. poz. 1745), z uwzględnieniem zmian wprowadzonych ustawą z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621) oraz zmian wynikających z przepisów ogłoszonych przed dniem 7 listopada 2025 r.
+
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 114 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621), który stanowi:
+
+„Art. 114. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”.
+
+Marszałek Sejmu: S. Hołownia
+
+Załącznik do obwieszczenia Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 7 listopada 2025 r. (Dz. U. poz. 1567)
 
 **USTAWA**
 
 z dnia 15 czerwca 2012 r.
 
-o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym
-
-**wbrew przepisom na terytorium Rzeczypospolitej Polskiej[^1]**
+**o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej[^1]**
 
 Art. 1. 1. Ustawa określa:
 
@@ -35,7 +53,7 @@ Art. 1. 1. Ustawa określa:
 
 2) zasady dochodzenia roszczeń z tytułu wynagrodzenia i związanych z nim świadczeń przez cudzoziemca przebywającego bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej;
 
-3) zadania właściwych ministrów w zakresie monitorowania zjawiska powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej.
+3)[^2] zadania właściwych ministrów w zakresie monitorowania zjawiska powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej.
 
 2. Ilekroć w ustawie jest mowa o cudzoziemcu, rozumie się przez to osobę niebędącą:
 
@@ -47,9 +65,9 @@ Art. 1. 1. Ustawa określa:
 
 4) członkiem rodziny cudzoziemców, o których mowa w pkt 1–3, który do nich dołącza lub z nimi przebywa.
 
-Art. 2. (uchylony)
+Art. 2. (uchylony)[^3]
 
-Art. 3. (uchylony)
+Art. 3. (uchylony)[^3]
 
 Art. 4. 1. Cudzoziemcowi przebywającemu na terytorium Rzeczypospolitej Polskiej bez ważnego dokumentu uprawniającego do pobytu, któremu powierzono wykonywanie pracy, przysługuje roszczenie o wypłatę zaległego wynagrodzenia i związanych z nim świadczeń.
 
@@ -65,7 +83,7 @@ Art. 6. 1. Jeżeli podmiotem powierzającym wykonywanie pracy cudzoziemcowi prze
 
 1) wypłaty cudzoziemcowi zasądzonego zaległego wynagrodzenia i związanych z nim świadczeń oraz pokrycia kosztów związanych z przesłaniem cudzoziemcowi zaległych należności do państwa, do którego cudzoziemiec powrócił lub został wydalony,
 
-2) poniesienia kosztów związanych z wydaniem i wykonaniem decyzji o zobowiązaniu cudzoziemca do powrotu, o których mowa w art. 336 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2020 r. poz. 35, 2023, 2320 i 2369 oraz z 2021 r. poz. 159), w przypadku gdy cudzoziemcowi została wydana decyzja o zobowiązaniu cudzoziemca do powrotu w związku z okolicznością, o której mowa w art. 302 ust. 1 pkt 4 tej ustawy
+2) poniesienia kosztów związanych z wydaniem i wykonaniem decyzji o zobowiązaniu cudzoziemca do powrotu, o których mowa w art. 336 ust. 1 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2025 r. poz. 1079), w przypadku gdy cudzoziemcowi została wydana decyzja o zobowiązaniu cudzoziemca do powrotu w związku z okolicznością, o której mowa w art. 302 ust. 1 pkt 4 tej ustawy
 
 – jeżeli podmiot powierzający wykonywanie pracy cudzoziemcowi, będący podwykonawcą wykonawcy jest niewypłacalny, w rozumieniu przepisów o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy, egzekucja przeciw niemu okaże się bezskuteczna lub przemawia za tym szczególnie ważny interes cudzoziemca.
 
@@ -91,7 +109,7 @@ Art. 9. 1. Kto powierza, w tym samym czasie, wykonywanie pracy wielu cudzoziemco
 
 Art. 10. 1. Kto powierza wykonywanie pracy cudzoziemcowi przebywającemu bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej w warunkach szczególnego wykorzystania, podlega karze pozbawienia wolności do lat 3.
 
-2. Tej samej karze podlega, kto powierza wykonywanie pracy cudzoziemcowi przebywającemu bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej, będącemu pokrzywdzonym przestępstwem określonym w art. 189a § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517 oraz z 2021 r. poz. 1023).
+2. Tej samej karze podlega, kto powierza wykonywanie pracy cudzoziemcowi przebywającemu bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej, będącemu pokrzywdzonym przestępstwem określonym w art. 189a § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383).
 
 3. Przez warunki szczególnego wykorzystania, o których mowa w ust. 1, rozumie się warunki pracy osoby lub osób, którym powierzono wykonywanie pracy z naruszeniem prawa, uchybiające godności człowieka i rażąco odmienne, w szczególności ze względu na płeć, w porównaniu z warunkami pracy osób, którym powierzono wykonywanie pracy zgodnie z prawem, wpływające zwłaszcza na zdrowie lub bezpieczeństwo osób wykonujących pracę.
 
@@ -101,7 +119,7 @@ Art. 11. 1. Kto uporczywie powierza wykonywanie pracy cudzoziemcowi przebywając
 
 Art. 12. 1. W przypadku skazania za przestępstwo, o którym mowa w art. 9 lub art. 10, sąd może:
 
-1) orzec zakaz dostępu do środków, o których mowa w art. 5 ust. 3 pkt 1 i 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2021 r. poz. 305, 1236 i 1535);
+1) orzec zakaz dostępu do środków, o których mowa w art. 5 ust. 3 pkt 1 i 4 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483);
 
 2) zasądzić na rzecz Skarbu Państwa kwotę stanowiącą równowartość środków publicznych, o których mowa w pkt 1, otrzymanych w okresie 12 miesięcy poprzedzających wydanie wyroku.
 
@@ -113,40 +131,50 @@ Art. 12. 1. W przypadku skazania za przestępstwo, o którym mowa w art. 9 lub a
 
 Art. 13. Nie podlega karze za przestępstwo określone w art. 9 i art. 10 oraz za wykroczenie określone w art. 11, kto powierzając wykonywanie pracy cudzoziemcowi przebywającemu bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej, spełnił łącznie następujące warunki:
 
-1) wypełnił obowiązki, o których mowa w art. 4 ust. 2 i 4 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621), chyba że wiedział, że przedstawiony dokument uprawniający do pobytu na terytorium Rzeczypospolitej Polskiej został sfałszowany;
+1)[^4] wypełnił obowiązki, o których mowa w art. 4 ust. 2 i 4 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621), chyba że wiedział, że przedstawiony dokument uprawniający do pobytu na terytorium Rzeczypospolitej Polskiej został sfałszowany;
 
 2) zgłosił cudzoziemca, któremu powierzył wykonywanie pracy, do ubezpieczeń społecznych, o ile obowiązek taki wynika z obowiązujących przepisów.
 
-Art. 14. Orzekanie w sprawach o czyny, o których mowa w art. 11, odbywa się w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2021 r. poz. 457, 1005 i 1595). W tych sprawach oskarżycielem publicznym jest organ Straży Granicznej dokonujący kontroli lub inspektor pracy.
+Art. 14. Orzekanie w sprawach o czyny, o których mowa w art. 11, odbywa się w trybie określonym w ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860 i 1178). W tych sprawach oskarżycielem publicznym jest organ Straży Granicznej dokonujący kontroli lub inspektor pracy.
 
-Art. 14a. Minister właściwy do spraw pracy w uzgodnieniu z ministrem właściwym do spraw wewnętrznych:
+Art. 14a.[^5] Minister właściwy do spraw pracy w uzgodnieniu z ministrem właściwym do spraw wewnętrznych:
 
 1) określa – na podstawie oceny ryzyka powierzania wykonywania pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej – sektory działalności na poziomie sekcji, zgodnie z Polską Klasyfikacją Działalności (PKD), o szczególnym natężeniu powierzania wykonywania pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej;
 
 2) przygotowuje – na podstawie informacji przekazanych przez Straż Graniczną i Państwową Inspekcję Pracy – i przekazuje Komisji Europejskiej:
 
-a) co roku, do dnia 30 czerwca – informacje o liczbie przeprowadzonych
+a) co roku, do dnia 30 czerwca – informacje o liczbie przeprowadzonych w poprzednim roku kontroli w zakresie
 
-w poprzednim roku kontroli w zakresie powierzania wykonywania pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej oraz procentowym udziale podmiotów powierzających wykonywanie pracy tym cudzoziemcom w każdym sektorze, o którym mowa w pkt 1,
+powierzania wykonywania pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej oraz procentowym udziale podmiotów powierzających wykonywa-
+
+nie pracy tym cudzoziemcom w każdym sektorze, o którym mowa w pkt 1,
 
 b) co trzy lata – sprawozdania z realizacji ustawy.
 
-Art. 15–23. (pominięte)[^2]
+Art. 15–23. (pominięte)
 
-Art. 24. 1. Podmiot powierzający wykonywanie pracy cudzoziemcowi na podstawie stosunku pracy jest obowiązany do uzupełnienia akt osobowych cudzoziemca pozostającego w zatrudnieniu w dniu wejścia w życie ustawy w terminie 45 dni od dnia wejścia w życie ustawy o kopię dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej zatrudnionego cudzoziemca oraz przesłania – w razie potrzeby – korekty zgłoszenia cudzoziemca do ubezpieczeń społecznych. 2. Przepis ust. 1 stosuje się odpowiednio do podmiotu powierzającego wykonywanie pracy cudzoziemcowi na innej podstawie niż stosunek pracy.
+Art. 24. 1. Podmiot powierzający wykonywanie pracy cudzoziemcowi na podstawie stosunku pracy jest obowiązany do uzupełnienia akt osobowych cudzoziemca pozostającego w zatrudnieniu w dniu wejścia w życie ustawy w terminie 45 dni od dnia wejścia w życie ustawy o kopię dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej zatrudnionego cudzoziemca oraz przesłania – w razie potrzeby – korekty zgłoszenia cudzoziemca do ubezpieczeń społecznych.
+
+2. Przepis ust. 1 stosuje się odpowiednio do podmiotu powierzającego wykonywanie pracy cudzoziemcowi na innej podstawie niż stosunek pracy.
 
 Art. 25. 1. Zbiorcze wyniki kontroli, o których mowa w art. 10d ust. 23a ustawy z dnia 12 października 1990 r. o Straży Granicznej, oraz w art. 18 ust. 2a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, za rok 2012, obejmują wskazanie procentowego udziału podmiotów powierzających wykonywanie pracy cudzoziemcom przebywającym bez ważnego dokumentu uprawniającego do pobytu na terytorium Rzeczypospolitej Polskiej, w podziale na sekcje, zgodnie z Polską Klasyfikacją Działalności (PKD).
 
 2. Zbiorcze wyniki kontroli, za rok 2012, stanowią podstawę do dokonania pierwszej oceny ryzyka i określenia sektorów działalności, o których mowa w art. 4 ust. 7 pkt 1 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy.
 
-Art. 26. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^3].
+Art. 26. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia[^6].
 
 ---
 
 ## Przypisy
 
-[^1]: Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia postanowień dyrektywy 2009/52/WE z dnia 18 czerwca 2009 r. przewidującej minimalne normy w odniesieniu do kar i środków stosowanych wobec pracodawców zatrudniających nielegalnie przebywających obywateli krajów trzecich (Dz. Urz. UE L 168 z 30.06.2009, str. 24).
+[^1]: Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia postanowień dyrektywy 2009/52/WE z dnia 18 czerwca 2009 r. przewidującej minimalne normy w odniesieniu do kar i środków stosowanych wobec pracodawców zatrudniających nielegalnie prze- bywających obywateli krajów trzecich (Dz. Urz. UE L 168 z 30.06.2009, str. 24).
 
-[^2]: Zamieszczone w obwieszczeniu Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 16 września 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 1745).
+[^2]: Dodany przez art. 95 pkt 1 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na tery- torium Rzeczypospolitej Polskiej (Dz. U. poz. 621), która weszła w życie z dniem 1 czerwca 2025 r.
 
-[^3]: Ustawa została ogłoszona w dniu 6 lipca 2012 r.
+[^3]: Przez art. 95 pkt 2 ustawy, o której mowa w odnośniku 2.
+
+[^4]: W brzmieniu ustalonym przez art. 95 pkt 3 ustawy, o której mowa w odnośniku 2.
+
+[^5]: Dodany przez art. 95 pkt 4 ustawy, o której mowa w odnośniku 2.
+
+[^6]: Ustawa została ogłoszona w dniu 6 lipca 2012 r.

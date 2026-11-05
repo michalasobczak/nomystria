@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 63
 tekst_jednolity: "Dz.U. 2025 poz. 1750"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["stanowiska", "zakłady karne", "czas pracy", "dyscyplinarne postępowanie", "wynagrodzenia", "mundury", "organizacja i zakres działania", "mieszkania funkcyjne", "urlopy", "opinie pracownicze", "więziennictwo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2010/523/text/U/D20100523Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100790523"

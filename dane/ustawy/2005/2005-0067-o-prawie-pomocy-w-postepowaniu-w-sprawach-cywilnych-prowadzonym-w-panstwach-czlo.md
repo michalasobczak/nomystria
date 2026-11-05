@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2022 poz. 284"
 tekst_jednolity_z_dnia: "2021-12-21"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["adwokatura", "cywilne prawo", "koszty sądowe w sprawach cywilnych", "ulgi"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2005/67/text/U/D20050067Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050100067"

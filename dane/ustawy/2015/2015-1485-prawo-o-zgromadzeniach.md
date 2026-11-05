@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2022 poz. 1389"
 tekst_jednolity_z_dnia: "2022-06-09"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["zgromadzenia", "wyznania", "partie polityczne", "kodeks wykroczeń", "referendum"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/1485/text/U/D20151485Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001485"

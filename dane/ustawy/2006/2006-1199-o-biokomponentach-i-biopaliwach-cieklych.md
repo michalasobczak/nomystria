@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 36
 tekst_jednolity: "Dz.U. 2025 poz. 901"
 tekst_jednolity_z_dnia: "2025-06-13"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "rejestry", "sprawozdawczość", "ochrona środowiska", "działalność gospodarcza", "kary pieniężne i porządkowe", "biopaliwa", "paliwa i smary", "rolnictwo", "podatek akcyzowy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/1199/text/U/D20061199Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061691199"

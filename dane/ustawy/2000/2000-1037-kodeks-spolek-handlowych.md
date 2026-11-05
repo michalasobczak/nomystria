@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 69
 tekst_jednolity: "Dz.U. 2024 poz. 18"
 tekst_jednolity_z_dnia: "2023-12-07"
 zmian_po_tekscie_jednolitym: 5
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["spółki", "spółki osobowe", "kodeks spółek handlowych", "rejestry sądowe", "papiery wartościowe", "upadłościowe prawo", "spółki kapitałowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2000/1037/text/U/D20001037Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000941037"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 26
 tekst_jednolity: "Dz.U. 2023 poz. 2298"
 tekst_jednolity_z_dnia: "2023-10-11"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["scalanie i wymiana gruntów", "ekologia", "ewidencja gruntów i budynków", "lasy", "agencje płatnicze", "grunty rolne i leśne", "rolnictwo", "restrukturyzacja", "zamówienia publiczne", "rozwój obszarów wiejskich", "nieruchomości", "pomoc finansowa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/349/text/U/D20150349Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000349"

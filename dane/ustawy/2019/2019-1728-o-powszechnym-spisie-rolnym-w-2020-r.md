@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["gospodarstwa rolne", "statystyka", "powszechny spis rolny", "finansowanie", "tajemnica państwowa i służbowa", "rolnictwo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2019/1728/text/U/D20191728Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001728"

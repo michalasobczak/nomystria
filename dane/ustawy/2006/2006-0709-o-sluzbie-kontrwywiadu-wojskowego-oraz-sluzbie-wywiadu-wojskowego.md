@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 36
 tekst_jednolity: "Dz.U. 2026 poz. 157"
 tekst_jednolity_z_dnia: "2026-02-05"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "obrona narodowa", "żołnierz zawodowy", "bezpieczeństwo państwa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/709/text/U/D20060709Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061040709"

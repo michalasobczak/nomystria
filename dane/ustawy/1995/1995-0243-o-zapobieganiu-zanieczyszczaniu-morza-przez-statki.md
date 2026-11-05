@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 26
 tekst_jednolity: "Dz.U. 2024 poz. 1786"
 tekst_jednolity_z_dnia: "2024-11-27"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ochrona środowiska morskiego", "odpady", "techniczne służby", "umowy międzynarodowe", "urzędy morskie", "kary pieniężne i porządkowe", "wody morskie", "zanieczyszczenia", "dokumenty", "administracyjne postępowanie", "inspekcja", "statki morskie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1995/243/text/U/D19950243Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950470243"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 51
 tekst_jednolity: "Dz.U. 2026 poz. 159"
 tekst_jednolity_z_dnia: "2026-02-05"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["dyscyplinarne postępowanie", "przymus bezpośredni", "wojsko"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/1353/text/U/D20011353Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011231353"

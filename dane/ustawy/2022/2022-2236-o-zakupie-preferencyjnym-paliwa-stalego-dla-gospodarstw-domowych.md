@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2024 poz. 114"
 tekst_jednolity_z_dnia: "2024-01-24"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["paliwa", "węgiel", "energetyczna gospodarka", "energetyka", "opłata skarbowa", "podatek akcyzowy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/2236/text/U/D20222236Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002236"

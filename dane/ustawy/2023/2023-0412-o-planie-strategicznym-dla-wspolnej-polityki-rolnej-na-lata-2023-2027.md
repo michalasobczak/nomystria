@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2024 poz. 1741"
 tekst_jednolity_z_dnia: "2024-11-07"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["produkty rolne", "rolne prawo", "weterynaryjna służba", "finanse publiczne", "grunty", "pomoc finansowa", "ekologia", "rejestry", "rolnicy", "ochrona roślin", "opłata skarbowa", "podatek dochodowy od osób prawnych", "planowanie społeczno-gospodarcze", "administracja skarbowa", "ewidencja", "zwierzęta hodowlane", "poręczenia państwowe", "lasy", "wodne prawo", "owoce i warzywa", "nasiennictwo i szkółkarstwo", "mleczarstwo", "artykuły spożywcze", "programy wieloletnie", "rolnictwo", "grunty rolne i leśne", "zamówienia publiczne", "rozwój obszarów wiejskich", "systemy teleinformatyczne"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2023/412/text/U/D20230412Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000412"

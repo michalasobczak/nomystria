@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 35
 tekst_jednolity: "Dz.U. 2026 poz. 377"
 tekst_jednolity_z_dnia: "2026-03-12"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["renta socjalna", "pomoc społeczna", "emerytury i renty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2003/1268/text/U/D20031268Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031351268"

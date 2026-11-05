@@ -4,6 +4,28 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### S007: rozwijana lista znalezisk
+
+- Na stronie liczba znalezisk w tabeli jest przyciskiem. Kliknięcie rozwija pod wierszem ustawy listę znalezisk: kategorię, przepisy, wagę, informację o weryfikacji krzyżowej, werdykt autora, opis, cytaty oraz uzasadnienie i źródła w zwijanym bloku. Kliknięcie w liście nie otwiera okna szczegółów.
+
+### S006: analiza ustawy o fundacji rodzinnej (x002)
+
+- Ustawę o fundacji rodzinnej (DU/2023/326) wybrano jako dane testowe dla strony, na prośbę właściciela.
+- Wykonano:
+  - kontrole mechaniczne M1 (odesłania) i M2 (delegacje a akty wykonawcze), które dały 0 znalezisk;
+  - dwa niezależne przebiegi AI (Claude Opus i Claude Sonnet, po 12 znalezisk).
+- Walidacja cytatów i przepisów odrzuciła 0 znalezisk. Po scaleniu jest ich 18, z czego 5 potwierdzonych krzyżowo.
+- Dopasowanie przebiegów poprawiono w trakcie: z dopasowania „jeden do jednego” po artykułach na podobieństwo zbiorów „artykuł + ustęp” z premią za kategorię, przy czym jedno znalezisko A może zebrać kilka znalezisk B.
+- Wynik jest w `kontrole/x002/`: `znaleziska.json`, `RAPORT.md`, surowe przebiegi i kontrole mechaniczne. Czeka na werdykt autora.
+
+### S008: aktualność i czytelność tekstów
+
+- K1: 12 ustaw ma brzmienie **jednolite (◆)**, czyli tekst obwieszczenia tekstu jednolitego z Dz. U. (PDF T albo O), bo tekst ujednolicony ISAP był starszy niż ostatni t.j. Dotyczy to m.in. Kodeksu wykroczeń, Prawa ochrony środowiska i ustawy o finansach publicznych.
+- K2: 25 ustaw ma tekst z HTML z API ELI (`skrypty/html2md.py`), a 5 z OCR (`skrypty/ocr.py`: tesseract z modelem `pol`, geometria z warstwy PDF). Powód to uszkodzone kodowanie czcionek w PDF.
+- Nowe pola `zrodlo_tekstu` i `uwagi` w metadanych, `indeks.csv` i na stronie. Symbol ◆ jest w tabeli i w filtrach.
+- Bramki S008 G1–G5 są w `tests/test_korpus.py`. Ponowna kontrola x001 dała K1 = 0, K2 = 0, t.j. 100/100 i zmiany po t.j. 69/69.
+- **Błąd w trakcie:** ramka „Opracowano na podstawie” z OCR była odrzucana jako nieczytelna, bo składa się głównie z cyfr. Teraz sprawdzamy w niej tylko znaki sterujące.
+
 ### S005: weryfikacja ilościowa (x001)
 
 - Skrypt `eksperymenty/x001-weryfikacja-100/x001.py` zapisał wyniki do `kontrole/x001/`: `wyniki.json` (widoczne na stronie), `bilans.json`, `wykluczenia.json` i `RAPORT.md`.

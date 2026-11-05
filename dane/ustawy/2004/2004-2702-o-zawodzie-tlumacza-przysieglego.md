@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2019 poz. 1326"
 tekst_jednolity_z_dnia: "2019-06-14"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["tłumacze", "egzaminy", "świadectwa i dyplomy", "odpowiedzialność zawodowa", "opłaty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2004/2702/text/U/D20042702Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042732702"

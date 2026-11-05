@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2023 poz. 776"
 tekst_jednolity_z_dnia: "2023-03-10"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["spółdzielcze kasy oszczędnościowo-kredytowe", "fundusz inwestycyjny", "instrumenty finansowe", "pożyczki państwowe", "działalność ubezpieczeniowa", "papiery wartościowe", "banki", "emerytalne programy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2009/308/text/U/D20090308Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090390308"

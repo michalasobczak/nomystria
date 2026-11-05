@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 20
 tekst_jednolity: "Dz.U. 2023 poz. 1796"
 tekst_jednolity_z_dnia: "2023-07-14"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["spółki", "porty morskie", "grunty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/44/text/U/D19970044Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970090044"

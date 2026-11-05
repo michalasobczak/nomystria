@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2018 poz. 708"
 tekst_jednolity_z_dnia: "2018-03-23"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["sądy okręgowe", "sądy powszechne", "nieletni", "oświata i wychowanie", "kodeks postępowania cywilnego", "koszty sądowe w sprawach cywilnych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/1418/text/U/D20151418Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001418"

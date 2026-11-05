@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2025 poz. 517"
 tekst_jednolity_z_dnia: "2025-03-24"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "telekomunikacja", "podatki", "finanse publiczne", "działalność gospodarcza", "budowlane prawo", "informatyzacja", "stowarzyszenia", "energetyka", "choroby zakaźne", "poczta", "podatek dochodowy od osób fizycznych", "pomoc finansowa", "świadczenia lecznicze", "fundusz inwestycyjny", "ochrona środowiska", "ubezpieczenia społeczne", "karne skarbowe prawo", "prawo o ruchu drogowym", "podatek dochodowy od osób prawnych", "kodeks postępowania administracyjnego", "instrumenty finansowe", "transport", "przedsiębiorstwa", "łowieckie prawo", "fundacje", "rolnictwo", "spółdzielcze prawo", "banki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2020/695/text/U/D20200695Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000695"

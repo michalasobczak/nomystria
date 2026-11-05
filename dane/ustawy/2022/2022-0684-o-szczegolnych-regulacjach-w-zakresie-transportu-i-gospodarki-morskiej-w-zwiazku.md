@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["stawki", "finansowanie", "dokumenty", "świadectwa i dyplomy", "transport kolejowy", "transport drogowy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2022/684/text/U/D20220684Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000684"

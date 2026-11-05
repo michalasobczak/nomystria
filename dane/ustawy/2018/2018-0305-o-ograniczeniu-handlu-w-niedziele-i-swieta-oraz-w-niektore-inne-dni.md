@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2025 poz. 301"
 tekst_jednolity_z_dnia: "2025-03-06"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kodeks karny", "kodeks postępowania w sprawach o wykroczenia", "działalność gospodarcza", "handlowe prawo", "święta", "kodeks pracy", "dni wolne od pracy", "sprzedaż"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/305/text/U/D20180305Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000305"

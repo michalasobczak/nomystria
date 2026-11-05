@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["praca", "pracodawca", "zasiłki", "prawo pracy", "działalność gospodarcza", "bezrobocie", "pracownicy urzędów państwowych", "urzędy pracy", "praca i ubezpieczenia społeczne", "zasiłek dla bezrobotnych", "ubezpieczenia społeczne", "pracownicy", "samorząd terytorialny", "kredyty i pożyczki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2025/620/text/U/D20250620Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000620"

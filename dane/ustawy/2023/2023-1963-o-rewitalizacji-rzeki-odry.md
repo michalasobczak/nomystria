@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["ochrona środowiska", "budowlane prawo", "inwestycje", "wodne prawo", "wody", "ryby", "inspekcja", "wykroczenia", "ochrona wód"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2023/1963/text/T/D20231963L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001963"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 79
 tekst_jednolity: "Dz.U. 2025 poz. 869"
 tekst_jednolity_z_dnia: "2025-06-26"
 zmian_po_tekscie_jednolitym: 7
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["gminy", "spółki", "sąd rejestrowy", "rejestry", "sądy powszechne", "stowarzyszenia", "urzędy i izby skarbowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/769/text/U/D19970769Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971210769"

@@ -12,8 +12,10 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "HTML (API ELI)"
+uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI."]
 slowa_kluczowe: ["porządkowanie prawa"]
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/388/text/T/D9890388.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/388/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890640388"
 ---
 
@@ -21,104 +23,20 @@ isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890640388"
 
 **USTAWA**
 
-**z dnia 23 listopada 1989 r.**
+z dnia 23 listopada 1989 r.
 
- 
- 
+**o rozwiązaniu Ochotniczej Rezerwy Milicji Obywatelskiej**
 
-**Art. 1.**
+Art. 1. Rozwiązuje się organizację pod nazwą „Ochotnicza Rezerwa Milicji Obywatelskiej”.
 
- 
-
- 
-
-
-
-  
-
- lskiej”.
+Art. 2. 1. Prawa i obowiązki majątkowe Ochotniczej Rezerwy Milicji Obywatelskiej przejmuje Skarb Państwa.
 
-**Art. 2.**
+2. Rada Ministrów, w drodze rozporządzenia, określi sposób wykonania przepisu ust. 1.
 
-1. 
- 
- 
-  
-  
-   
- 
-      
-
- !
+Art. 3. Tracą moc:
 
-2. 
-"#
-
- 
- #
- $
-"
-
-  ust. 1.
+1) ustawa z dnia 13 czerwca 1967 r. o Ochotniczej Rezerwie Milicji Obywatelskiej (Dz. U. z 1987 r. Nr 15, poz. 94 i Nr 34, poz. 191),
 
-**Art. 3.**
+2) art. 11 ustawy z dnia 14 lipca 1983 r. o urzędzie Ministra Spraw Wewnętrznych i zakresie działania podległych mu organów (Dz. U. Nr 38, poz. 172 i z 1989 r. Nr 34, poz. 180), w części dotyczącej Ochotniczej Rezerwy Milicji Obywatelskiej.
 
-%
-&
-
-1) ustawa z dnia 13 czerwca 1967 r. o Ochotniczej Rezerwie Milicji Obywatelskiej (Dz.U. z 1987 r. Nr 15, poz. 94 i Nr 34, poz. 191),
-
-2) !
-''
-
-
-
-'(
-
-')*+
-!
-
- 
-
-
-, z-
-
-
-
-  
--
- -
-
-"
-./!0!
-1
-+*#
-!
-'23
-
- ')*)
-!
-1
-+(#
-!
-'*45#
-
-$
- 
- 
-  
-
-
-Obywatelskiej.
-
-**Art. 4.**
-
-0
-
-
-6 
-
- 
-- !
-
-06/07/99
+Art. 4. Ustawa wchodzi w życie z dniem ogłoszenia.

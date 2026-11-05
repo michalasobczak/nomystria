@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 16
 tekst_jednolity: "Dz.U. 2025 poz. 1667"
 tekst_jednolity_z_dnia: "2025-11-20"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["zgromadzenia", "księgi wieczyste i hipoteka", "obligacje", "banki", "zabezpieczenia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2015/238/text/U/D20150238Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000238"

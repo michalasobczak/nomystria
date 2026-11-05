@@ -12,59 +12,31 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "HTML (API ELI)"
+uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI."]
 slowa_kluczowe: ["czas pracy", "uroczystości państwowe i branżowe", "święta", "dni wolne od pracy"]
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1990/160/text/T/D19900160L.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1990/160/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900280160"
 ---
 
 # Ustawa z dnia 6 kwietnia 1990 r. o przywróceniu Święta Narodowego Trzeciego Maja.
 
-**USTAWA z dnia 6 kwietnia 1990 r.**
+**USTAWA**
 
- 
-
-
- 
-
+z dnia 6 kwietnia 1990 r.
 
-**Art. 1.**
+**o przywróceniu Święta Narodowego Trzeciego Maja**
 
- 
-
-
-
+Art. 1. Przywraca się Święto Narodowe Trzeciego Maja.
 
-**Art. 2.**
+Art. 2. Dzień 3 maja jest dniem wolnym od pracy.
 
-
- 
-
+Art. 3. W ustawie z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz. U. Nr 4, poz. 28, z 1960 r. Nr 51, poz. 297, z 1989 r. Nr 29, poz. 154 i z 1990 r. Nr 28, poz. 159) w art. 1 w pkt 1:
 
-**Art. 3.**
+a) dodaje się nową lit. f) w brzmieniu:
 
-W ustawie z dnia 18 stycznia 1951 r. o dniach wolnych od pracy (Dz.U. Nr 4, poz. 28, z 1960 r. Nr 51, poz. 297, z 1989 r. Nr 29, poz. 154 i z 1990 r. Nr 28, poz. 159) w art. 1 w pkt 1:
+f) 3 maja - Święto Narodowe Trzeciego Maja
 
- 
-
- !
-
-"#
+b) dotychczasowe lit. f)-m) otrzymują oznaczenie lit. g)-m).
 
-$ %
-
-$&
-
-!' 
- %"
-
-%
-
-**Art. 4.**
-
-( '
-)
-
-* 
-
-
-24-02-99
+Art. 4. Ustawa wchodzi w życie z dniem ogłoszenia.

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2021 poz. 1578"
 tekst_jednolity_z_dnia: "2021-08-11"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kultura i sztuka", "ochrona", "znaki towarowe", "autorskie prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/168/text/U/D20010168Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010160168"

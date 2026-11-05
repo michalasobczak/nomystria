@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 65
 tekst_jednolity: "Dz.U. 2026 poz. 151"
 tekst_jednolity_z_dnia: "2026-02-05"
 zmian_po_tekscie_jednolitym: 3
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["identyfikacja podatkowa", "przepisy karne", "rejestry", "urzędy i izby skarbowe", "administracyjne postępowanie", "podatek akcyzowy", "podatek od towarów i usług"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1995/702/text/U/D19950702Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951420702"

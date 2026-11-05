@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 16
 tekst_jednolity: "Dz.U. 2023 poz. 1582"
 tekst_jednolity_z_dnia: "2023-07-07"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["badania i certyfikacje", "kontrola", "przepisy karne", "import", "ewidencja", "zezwolenia", "działalność gospodarcza", "koncesje", "tranzyt", "broń, amunicja i materiały wybuchowe", "bezpieczeństwo państwa", "naczelne i centralne organy administracji", "obrót towarowy z zagranicą", "kary pieniężne i porządkowe", "eksport"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2000/1250/text/U/D20001250Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001191250"

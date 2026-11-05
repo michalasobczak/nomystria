@@ -12,29 +12,21 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "HTML (API ELI)"
+uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI."]
 slowa_kluczowe: ["szkolnictwo wyższe", "szkolnictwo rolnicze"]
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1996/464/text/T/D19960464L.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1996/464/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961000464"
 ---
 
 # Ustawa z dnia 4 lipca 1996 r. o nadaniu Akademii Rolniczej w Poznaniu nazwy "Akademia Rolnicza im. Augusta Cieszkowskiego" w Poznaniu.
 
-**USTAWA z dnia 4 lipca 1996 r.**
+**USTAWA**
 
-o nadaniu Akademii Rolniczej w Poznaniu nazwy "Akademia Rolnicza im. Au-
+z dnia 4 lipca 1996 r.
 
-**gusta Cieszkowskiego" w Poznaniu**
+**o nadaniu Akademii Rolniczej w Poznaniu nazwy „Akademia Rolnicza im. Augusta Cieszkowskiego” w Poznaniu**
 
-**Art. 1.**
+Art. 1. Akademii Rolniczej w Poznaniu nadaje się nazwę „Akademia Rolnicza im. Augusta Cieszkowskiego” w Poznaniu.
 
- 
-
- 
- Cieszkowskiego" w Poznaniu.
-
-**Art. 2.**
-
-
- !!" 
-
-24-02-99
+Art. 2. Ustawa wchodzi w życie z dniem 1 października 1996 r.

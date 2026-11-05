@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2016 poz. 678"
 tekst_jednolity_z_dnia: "2016-05-11"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["morza", "budżet", "ochrona środowiska", "urzędy morskie", "programy wieloletnie", "monitoring"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2003/621/text/U/D20030621Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030670621"

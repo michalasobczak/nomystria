@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2017 poz. 2109"
 tekst_jednolity_z_dnia: "2017-10-30"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["badawczo-rozwojowe jednostki", "nasiennictwo i szkółkarstwo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2010/1591/text/U/D20101591Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102391591"

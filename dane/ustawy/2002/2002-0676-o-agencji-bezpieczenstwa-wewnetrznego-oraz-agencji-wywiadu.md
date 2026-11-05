@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 87
 tekst_jednolity: "Dz.U. 2026 poz. 937"
 tekst_jednolity_z_dnia: "2026-07-08"
 zmian_po_tekscie_jednolitym: 3
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "przymus bezpośredni", "świadczenia", "wynagrodzenia", "zasiłki", "szczególne uprawnienia do urlopów", "dodatki do wynagrodzeń", "tajemnica państwowa i służbowa", "urlopy", "administracja rządowa", "emerytury i renty", "broń, amunicja i materiały wybuchowe", "zasady użycia broni przez funkcjonariuszy", "bezpieczeństwo państwa", "naczelne i centralne organy administracji", "nagrody", "dyscyplinarne postępowanie", "karne skarbowe prawo", "broń palna", "karne prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/676/text/U/D20020676Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020740676"

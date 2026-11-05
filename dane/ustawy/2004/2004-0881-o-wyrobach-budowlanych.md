@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2021 poz. 1213"
 tekst_jednolity_z_dnia: "2021-06-15"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "przepisy karne", "budownictwo", "budowlane prawo", "budowlane materiały"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2004/881/text/U/D20040881Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920881"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["terenowe organy administracji rządowej", "samorząd terytorialny", "sejmiki samorządowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1994/396/text/U/D19940396Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940860396"

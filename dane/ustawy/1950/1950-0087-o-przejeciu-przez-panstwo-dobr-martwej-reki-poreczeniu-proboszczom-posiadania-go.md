@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["wywłaszczenia", "wyznania", "grunty rolne i leśne", "przejęcie mienia na własność państwa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1950/87/text/U/D19500087Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500090087"

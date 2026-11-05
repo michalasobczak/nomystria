@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2022 poz. 475"
 tekst_jednolity_z_dnia: "2022-02-23"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["instytuty naukowo-badawcze", "kombatanci", "dokumenty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2017/2303/text/U/D20172303Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002303"

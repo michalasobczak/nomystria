@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2022 poz. 546"
 tekst_jednolity_z_dnia: "2022-01-28"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ratownictwo", "przepisy karne", "farmaceutyczne środki", "kontrola", "zezwolenia", "ochrona środowiska", "żywność i żywienie", "genetyka", "administracja rządowa", "granice państwa", "tranzyt", "ochrona zdrowia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/811/text/U/D20010811Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010760811"

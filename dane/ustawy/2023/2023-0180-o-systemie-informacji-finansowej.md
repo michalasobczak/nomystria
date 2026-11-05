@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["spółdzielcze kasy oszczędnościowo-kredytowe", "ordynacja podatkowa", "instrumenty finansowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2023/180/text/U/D20230180Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000180"

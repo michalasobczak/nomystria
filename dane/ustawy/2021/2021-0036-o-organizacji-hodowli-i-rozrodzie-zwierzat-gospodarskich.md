@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "wyścigi konne", "rejestry", "weterynaryjna służba", "zwierzęta hodowlane", "uzdrowiska", "hodowla"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2021/36/text/U/D20210036Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000036"

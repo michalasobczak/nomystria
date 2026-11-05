@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 25
 tekst_jednolity: "Dz.U. 2026 poz. 244"
 tekst_jednolity_z_dnia: "2026-02-20"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["imprezy artystyczne", "stan wyjątkowy", "lotnicze prawo", "rybactwo śródlądowe", "przymus bezpośredni", "kodeks karny wykonawczy", "ochrona osób i mienia", "nieletni", "lasy", "transport kolejowy", "transport drogowy", "cudzoziemcy", "łowieckie prawo", "straż gminna", "kontrola skarbowa", "broń palna", "ochrona przyrody"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2013/628/text/U/D20130628Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000628"

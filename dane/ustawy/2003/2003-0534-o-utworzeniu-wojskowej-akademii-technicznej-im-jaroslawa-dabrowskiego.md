@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2019 poz. 1371"
 tekst_jednolity_z_dnia: "2019-07-05"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["szkolnictwo wyższe", "szkolnictwo wojskowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2003/534/text/U/D20030534Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030600534"

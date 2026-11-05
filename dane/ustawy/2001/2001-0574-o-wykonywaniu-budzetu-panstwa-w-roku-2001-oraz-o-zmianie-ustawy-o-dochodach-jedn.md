@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["cło", "kontyngenty taryfowe", "postępowanie egzekucyjne w administracji", "budżet", "finanse publiczne", "fundusze emerytalne", "izby rolnicze", "przedsiębiorstwa państwowe", "samorząd terytorialny", "dochód", "dotacje", "kredyty i pożyczki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/574/text/U/D20010574Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010550574"

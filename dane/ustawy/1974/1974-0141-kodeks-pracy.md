@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 140
 tekst_jednolity: "Dz.U. 2026 poz. 1245"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["karne postępowanie w sprawach o wykroczenia", "urlopy wypoczynkowe", "prawo pracy", "młodociani", "komisje rozjemcze", "administracyjne postępowanie", "dni wolne od pracy", "postępowanie egzekucyjne w administracji", "sądy pracy i ubezpieczeń społecznych", "postępowanie egzekucyjne", "praktyki zawodowe", "oświata i wychowanie", "cywilne postępowanie", "odprawy", "święta", "kodeks pracy", "opinie pracownicze", "czas pracy", "wynagrodzenia", "kobiety", "dyscyplina pracy", "przedawnienie", "bhp", "zatrudnianie", "odzież ochronna, robocza i sprzęt ochrony osobistej", "wykroczenia", "choroby zawodowe", "materialna odpowiedzialność pracowników", "wypadki przy pracy", "wysługa lat", "układy zbiorowe pracy", "związki zawodowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1974/141/text/U/D19740141Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19740240141"

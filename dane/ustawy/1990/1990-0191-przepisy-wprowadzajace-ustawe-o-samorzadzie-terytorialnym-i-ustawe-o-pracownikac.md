@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["gminy", "mienie komunalne", "sołtysi", "terenowe organy administracji rządowej", "związki i porozumienia komunalne", "samorząd terytorialny", "sejmiki samorządowe", "pracownicy samorządowi"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1990/191/text/U/D19900191Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900320191"

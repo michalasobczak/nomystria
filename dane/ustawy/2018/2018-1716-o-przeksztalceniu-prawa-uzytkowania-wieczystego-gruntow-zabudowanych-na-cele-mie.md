@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2025 poz. 6"
 tekst_jednolity_z_dnia: "2024-12-23"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["użytkowanie wieczyste", "przekształcenia własnościowe", "grunty", "własność"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/1716/text/U/D20181716Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001716"

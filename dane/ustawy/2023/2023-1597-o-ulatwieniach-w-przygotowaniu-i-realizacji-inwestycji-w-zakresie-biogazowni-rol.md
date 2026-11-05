@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2026 poz. 52"
 tekst_jednolity_z_dnia: "2026-01-09"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["odpady", "budowlane prawo", "biopaliwa", "alkohol", "nawozy", "planowanie przestrzenne", "paliwa alternatywne", "energetyczna gospodarka", "inwestycje", "energetyczne prawo", "rolnictwo", "grunty rolne i leśne", "tytoń", "odnawialne źródła energii"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2023/1597/text/U/D20231597Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001597"

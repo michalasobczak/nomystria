@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2019 poz. 1462"
 tekst_jednolity_z_dnia: "2019-06-11"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["badawczo-rozwojowe jednostki", "szkolnictwo wyższe", "szkolnictwo medyczne", "zakłady opieki zdrowotnej", "ochrona zdrowia", "dotacje"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1993/200/text/U/D19930200Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930440200"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2026 poz. 756"
 tekst_jednolity_z_dnia: "2026-05-27"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przewozowe prawo", "fundusze", "prawo o ruchu drogowym", "przewóz osób", "planowanie społeczno-gospodarcze", "autostrady"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2019/1123/text/U/D20191123Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001123"

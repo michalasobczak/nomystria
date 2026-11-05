@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2023 poz. 1874"
 tekst_jednolity_z_dnia: "2023-08-02"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["wywłaszczenia", "celne prawo", "ewidencja gruntów i budynków", "podatki", "darowizny", "stowarzyszenia", "zabytki", "cmentarze", "administracyjne postępowanie", "ochrona zdrowia", "ulgi", "radiofonia i telewizja", "księgi wieczyste i hipoteka", "nauczyciele", "wyznania", "rejestry", "szkolnictwo wyższe", "fundacje", "oświata i wychowanie", "cywilne postępowanie", "święta", "samorząd terytorialny", "kościoły", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1995/480/text/U/D19950480Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950970480"

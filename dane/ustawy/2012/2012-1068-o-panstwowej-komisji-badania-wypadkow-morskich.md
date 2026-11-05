@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2019 poz. 1374"
 tekst_jednolity_z_dnia: "2019-07-05"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kodeks morski", "komisje", "bezpieczeństwo żeglugi i wypadki morskie", "izby morskie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2012/1068/text/U/D20121068Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001068"

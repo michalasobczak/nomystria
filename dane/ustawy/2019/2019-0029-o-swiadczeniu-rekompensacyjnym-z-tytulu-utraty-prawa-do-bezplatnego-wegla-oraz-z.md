@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["przedsiębiorstwa", "górnictwo", "górnicy", "węgiel", "górnicze prawo", "rekompensaty pieniężne"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2019/29/text/T/D20190029L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000029"

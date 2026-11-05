@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 82
 tekst_jednolity: "Dz.U. 2026 poz. 1407"
 tekst_jednolity_z_dnia: "2026-09-17"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["badania i certyfikacje", "lotnicze prawo", "zezwolenia", "działalność gospodarcza", "ubezpieczenia komunikacyjne", "ratownictwo", "odszkodowania", "rejestry", "transport lotniczy", "umowy międzynarodowe", "porty lotnicze", "statki powietrzne", "lotnictwo cywilne", "personel lotniczy", "badania lekarskie", "przeciwpożarowa ochrona"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/1112/text/U/D20021112Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021301112"

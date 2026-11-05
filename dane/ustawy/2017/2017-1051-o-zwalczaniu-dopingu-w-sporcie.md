@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2022 poz. 1258"
 tekst_jednolity_z_dnia: "2022-04-28"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["doping", "sport"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2017/1051/text/U/D20171051Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001051"

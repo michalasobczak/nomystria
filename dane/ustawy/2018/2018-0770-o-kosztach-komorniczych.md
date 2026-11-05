@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2024 poz. 377"
 tekst_jednolity_z_dnia: "2024-03-11"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["koszty i opłaty sądowe", "komornicy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/770/text/U/D20180770Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000770"

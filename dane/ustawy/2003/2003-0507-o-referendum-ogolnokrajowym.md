@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2025 poz. 300"
 tekst_jednolity_z_dnia: "2025-03-06"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["formularze", "komisarz wyborczy", "finansowanie", "obywatelstwo", "konstytucja", "referendum"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2003/507/text/U/D20030507Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030570507"

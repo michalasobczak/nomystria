@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2026 poz. 1252"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["transport zbiorowy", "kodeks wyborczy", "pomoc społeczna", "pomoc dla rodzin", "podatki i opłaty terenowe", "finanse publiczne", "uzdrowiska", "zatrudnianie", "dochód", "podatek dochodowy od osób fizycznych", "postępowanie egzekucyjne w administracji", "związek metropolitalny", "izby obrachunkowe", "termomodernizacja", "oświata i wychowanie", "samorząd terytorialny", "podatek dochodowy od osób prawnych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2024/1572/text/U/D20241572Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001572"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2024 poz. 1687"
 tekst_jednolity_z_dnia: "2024-11-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["instytuty naukowo-badawcze", "organizacja instytutów", "organizacja i zakres działania", "ekonomiści"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/1735/text/U/D20181735Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001735"

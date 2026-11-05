@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: "Dz.U. 2022 poz. 183"
 tekst_jednolity_z_dnia: "2021-12-02"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "izby rolnicze", "samorząd zawodowy", "administracyjne postępowanie", "rachunkowość", "wybory"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1996/3/text/U/D19960003Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960010003"

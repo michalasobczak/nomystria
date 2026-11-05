@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2022 poz. 311"
 tekst_jednolity_z_dnia: "2021-12-02"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["działalność gospodarcza", "energetyczna gospodarka", "energetyka", "finansowanie", "stawki", "energetyczne prawo", "usługi", "opłaty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2007/905/text/U/D20070905Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071300905"

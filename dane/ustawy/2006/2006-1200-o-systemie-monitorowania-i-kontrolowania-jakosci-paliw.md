@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 30
 tekst_jednolity: "Dz.U. 2025 poz. 1529"
 tekst_jednolity_z_dnia: "2025-10-20"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["jakość wyrobów", "zapasy obowiązkowe", "kontrola", "ochrona środowiska", "biopaliwa", "paliwa i smary", "monitoring"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/1200/text/U/D20061200Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061691200"

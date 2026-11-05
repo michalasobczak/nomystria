@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2020 poz. 1645"
 tekst_jednolity_z_dnia: "2020-09-16"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ochrona środowiska", "żywność i żywienie", "rachunkowość"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2019/1680/text/U/D20191680Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001680"

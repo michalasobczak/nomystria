@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2025 poz. 573"
 tekst_jednolity_z_dnia: "2025-04-23"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["księgi wieczyste i hipoteka", "notariat", "kodeks postępowania cywilnego", "upadłościowe prawo", "bankowe prawo", "kredyty i pożyczki", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2014/1585/text/U/D20141585Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001585"

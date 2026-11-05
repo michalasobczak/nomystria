@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 51
 tekst_jednolity: "Dz.U. 2023 poz. 437"
 tekst_jednolity_z_dnia: "2023-01-27"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["samorząd załogi", "sądy powszechne", "przedsiębiorstwa mieszane", "przedsiębiorstwa państwowe", "rejestry sądowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1981/122/text/U/D19810122Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810240122"

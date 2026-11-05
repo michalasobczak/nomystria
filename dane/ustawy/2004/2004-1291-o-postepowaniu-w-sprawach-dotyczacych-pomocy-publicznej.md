@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: "Dz.U. 2026 poz. 500"
 tekst_jednolity_z_dnia: "2026-03-30"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "podatki", "finanse publiczne", "finansowanie", "poręczenia państwowe", "komercjalizacja", "administracyjne postępowanie", "dotacje", "pomoc finansowa", "przedsiębiorstwa", "pomoc publiczna", "specjalna strefa ekonomiczna", "ulgi podatkowe", "kary pieniężne i porządkowe", "opłaty lokalne", "prywatyzacja", "inwestycje", "kredyty i pożyczki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2004/1291/text/U/D20041291Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041231291"

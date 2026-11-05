@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 23
 tekst_jednolity: "Dz.U. 2024 poz. 1131"
 tekst_jednolity_z_dnia: "2024-07-23"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "celne prawo", "zezwolenia", "papiery wartościowe", "bankowe prawo", "bezpieczeństwo państwa", "dewizowe prawo", "spółki", "postępowanie egzekucyjne w administracji", "fundusz inwestycyjny", "sprawozdawczość", "waluta", "karne skarbowe prawo", "kontrola skarbowa", "opłata skarbowa", "banki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/1178/text/U/D20021178Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021411178"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2024 poz. 1464"
 tekst_jednolity_z_dnia: "2024-09-26"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["lotnicze prawo", "porty lotnicze", "inwestycje", "lasy", "lotnictwo cywilne", "planowanie przestrzenne", "ochrona przyrody"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2009/340/text/U/D20090340Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090420340"

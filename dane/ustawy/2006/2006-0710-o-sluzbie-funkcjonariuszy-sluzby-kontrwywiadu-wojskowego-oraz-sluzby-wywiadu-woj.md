@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 31
 tekst_jednolity: "Dz.U. 2025 poz. 694"
 tekst_jednolity_z_dnia: "2025-05-21"
 zmian_po_tekscie_jednolitym: 3
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["dyscyplinarne postępowanie", "wynagrodzenia", "urlopy wypoczynkowe", "lokal", "opinie", "funkcjonariusz publiczny", "stopnie wojskowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/710/text/U/D20060710Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061040710"

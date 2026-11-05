@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 40
 tekst_jednolity: "Dz.U. 2025 poz. 532"
 tekst_jednolity_z_dnia: "2025-03-24"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["licencje", "przepisy karne", "kontrola", "obrona narodowa", "nadzór", "ochrona", "działalność gospodarcza", "koncesje", "broń, amunicja i materiały wybuchowe", "banki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/740/text/U/D19970740Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971140740"

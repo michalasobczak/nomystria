@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2021 poz. 763"
 tekst_jednolity_z_dnia: "2021-04-15"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["jakość wyrobów", "kontrola", "pasze", "weterynaryjna służba", "żywność i żywienie", "genetyka", "bezpieczeństwo produktów"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2019/1401/text/U/D20191401Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001401"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF O"
+uwagi: []
 slowa_kluczowe: ["fundusze", "likwidacja", "prywatyzacja", "oświata i wychowanie", "komercjalizacja"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/1532/text/O/D20061532.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062081532"

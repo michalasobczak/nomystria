@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2022 poz. 2013"
 tekst_jednolity_z_dnia: "2022-09-16"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ekologia", "elektroniczne urządzenia", "audyt", "ochrona środowiska", "baterie i akumulatory"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/1060/text/U/D20111060Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111781060"

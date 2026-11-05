@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 119
 tekst_jednolity: "Dz.U. 2026 poz. 639"
 tekst_jednolity_z_dnia: "2026-04-30"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["składki", "egzaminy", "renta socjalna", "świadczenia", "zasiłki", "budżet", "świadczenia pieniężne", "resocjalizacja", "bezrobocie", "placówka opiekuńczo-wychowawcza", "emerytury i renty", "administracyjne postępowanie", "podatek dochodowy od osób fizycznych", "domy pomocy społecznej", "niepełnosprawni", "schroniska dla nieletnich", "dotacje", "gminy", "zakłady karne", "organizacje społeczne", "rejestry", "sprawozdawczość", "dzieci", "uchodźcy", "szkolenie zawodowe", "ubezpieczenia zdrowotne", "ubezpieczenia społeczne", "wolontariat", "kontrola", "klęski żywiołowe", "konkursy", "pomoc społeczna", "sądy powszechne", "zezwolenia", "młodzież", "bilanse", "zatrudnianie", "opłaty", "dochód", "kościół katolicki", "cudzoziemcy", "fundacje", "pracownicy socjalni", "samorząd terytorialny", "związki zawodowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2004/593/text/U/D20040593Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040640593"

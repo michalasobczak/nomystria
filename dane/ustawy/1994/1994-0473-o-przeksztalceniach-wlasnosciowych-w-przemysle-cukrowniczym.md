@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2022 poz. 2612"
 tekst_jednolity_z_dnia: "2022-11-24"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["podatki", "budżet", "handel zagraniczny", "odsetki ustawowe", "żywność i żywienie", "administracyjne postępowanie", "papiery wartościowe", "spółki", "postępowanie egzekucyjne w administracji", "cukrownictwo", "opłaty administracyjne", "ceny i stawki taryfowe", "prywatyzacja", "handlowe prawo", "eksport"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1994/473/text/U/D19940473Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940980473"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 47
 tekst_jednolity: "Dz.U. 2026 poz. 862"
 tekst_jednolity_z_dnia: "2026-05-27"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["cudzoziemcy", "rejestry", "nieletni", "ochrona", "areszt tymczasowy", "uchodźcy", "obywatelstwo", "organizacje międzynarodowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2003/1176/text/U/D20031176Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031281176"

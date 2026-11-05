@@ -12,43 +12,21 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "HTML (API ELI)"
+uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI."]
 slowa_kluczowe: ["szkolnictwo wyższe"]
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/185/text/T/D9890185.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/185/text.html"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890340185"
 ---
 
 # Ustawa z dnia 29 maja 1989 r. o nadaniu Akademii Rolniczo-Technicznej w Olsztynie imienia Michała Oczapowskiego.
 
-**Dz.U. 1989 Nr 34 poz. 185**
-
 **USTAWA**
 
-**z dnia 29 maja 1989 r.**
+z dnia 29 maja 1989 r.
 
- 
-
-
-
-
-
+**o nadaniu Akademii Rolniczo-Technicznej w Olsztynie imienia Michała Oczapowskiego**
 
-**Oczapowskiego.**
+Art. 1. Akademii Rolniczo-Technicznej w Olsztynie nadaje się nazwę „Akademia Rolniczo-Techniczna imienia Michała Oczapowskiego w Olsztynie”.
 
-**Art.1.**
-
- 
-
- 
-
- 
-
-
-
-**Art. 2.**
-
-
-
-
-
-
-06/09/99
+Art. 2. Ustawa wchodzi w życie z dniem ogłoszenia.

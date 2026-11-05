@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "OCR (tesseract) PDF U"
+uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); tekst odczytano przez OCR i może zawierać błędy rozpoznania."]
 slowa_kluczowe: ["nauczyciele", "ordery, odznaczenia i odznaki", "pracownicy urzędów państwowych"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1992/451/text/U/D19920451Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920900451"
@@ -19,464 +21,108 @@ isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920900451"
 
 # Ustawa z dnia 16 października 1992 r. Przepisy wprowadzające ustawę o orderach i odznaczeniach, uchylające przepisy o tytułach honorowych oraz zmieniające niektóre ustawy.
 
-**USTAWA**
-
- 
-
-
-       !
-
-**Art. 1.**
-
- 
- 
- 
-
-   o-szenia niniejszej ustawy.
-
-**Art. 2.**
-
- 
-
-
- 
- 
-
-
-1) ustawa z dnia 17 lutego 1960 r. o orderach i odznaczeniach (Dz.U. Nr 10, poz.
-
-!"#$% %!"$#& '(
- )* (+
-,  "!!!(
-
-$'    - (
- !&   
- . 
-  /0(
- Rzeczypospolitej Ludowej (Dz.U. Nr 14, poz. 83),
-
-)' $$0 !")
-1
- 02 l- (,
- 0 
-234#% $!)'
-
-$ 
-
-
- (+
- (
- 
- 
-   
-   , 
- 
- 
-
- 
-
-
-**Art. 3.**
-
-5
-
-6 
-
- (+
- /e-  
-78 6. 
-.9
- (+
-( 
- 1r- 
-( :
- ( 
- 
-   1
-( :
-  /
-
- 8  1i-strów.
-
-$78 . 
-.9
-
- /
- 
-
-
-o-ski o nadanie tego Orderu.
-
-**Art. 4.**
-
-5
-
-6 
-
- (+
- /
-y- 
-
-';0
-(+;. 
-5
-
-<10
-
-24-02-99 $'(+;. 
-.  
-/0(
-
-**Art. 5.**
-
- 
-
-
-
-
-
-6(=
-  ' 
-+ 
-=
- 
- 
-
-
- art. 7 ust. 1,
-
-$' 
-+ 
-=
-,
-
-**Art. 6.**
-
-. 
-(
-
-(  
- latach 1939-1945:
-
-1) Medal Wojska, ustanowiony dekretem Prezydenta Rzeczypospolitej Polskiej z
-
-)0!% 
-(0  ( 
-  !)!*!%   
-+0 (> 5( ?- 
- (0,
-( 0,
-+0
-u-
-
-mien,6
-
-
-2) Medal Morski, ustanowiony dekretem Prezydenta Rzeczypospolitej Polskiej z
-
-)0!% 
-1(5
-
-
-
-0
-
-,6
-
-
-3) Medal Lotniczy, ustanowiony dekretem Prezydenta Rzeczypospolitej Polskiej
-
- )0!% 
-:/
- ( 
-
-+0(>0 (a- 0,
-( 0,
-+0
-
-,6
-
-wojny,
-
-4) Medal Morski Polskiej Marynarki Handlowej, ustanowiony dekretem Prezy-
-
-8
-0
-/0(
- )0!% ( + 0( (+  0  
-
-0 ,6    
-
-wojny,
-
-%';;5
-
-!)!(  
-(
-
-/
- 
-
-
-8
-0
-/0(
-.,@
- 
-!" 0a- 6
-0(,
-
- 0
-8
-o- 0
-   ( 
-
-  #
-  (
- :
-(  
-@ 
-(!)!( 
-5(/0(
- (
-, (+
-,  0(  0 
-    
-
-
-  (+00
-
-';/(1
-A  (
-#
-0
-5o-
-
-   $ 0 !     
- BB ; /0(
-
-
-
-, 1
-A!
-
-&';C;
-  
-!
-4+ 6Cr-
-
-;
-
-7 
-9*;(
- 06
-( 
-/0(/ 
-
-0!)!*!% 
-Cr- ;
-
-
- 
-
-"';90+A(  
-!"!
-;o-
-
-
-  D+
- 90+ A( 
- E( ;=(
- 06
-(,
-
-90+A(0a-
-
-24-02-99
-
-!-*!% 
-
-F(
-e-
-
-rzom or
- 
-
-!';# 
-A,
-   
-
-8 /o-
-
-0
-# :,  !  - 
- #  : , ; # 
- A ,
-
-
-jest odznaczeniem jednostopniowym.
-
-$ 
-
-
-
-
-
-6(=
-   
-=
-(*
-
-) ; C ;
-  ; 90+ A(  ; # 
- A,
- 
-6  "!!!
-
-/
- 
-   
- 
- (
-0
-+, ; C;
-;90+A( (
-+
-+ , ;# 
-A,
-
-
-**Art. 7.**
-
- 
-"!!!
-6(=
- 
- 
- h- ,
-+
-
-' G0(
- ; /=
-  5
-0(0(
- ; /=
-
-
-;/(
- 21
- 056!)!*!%2 21
- 0. 6 #6 9(2 (
-0
- &0
-!- 
- odznaczeniach (Dz.U. Nr 10, poz. 66, z 1968 r. Nr 25, poz. 165 oraz z 1982 r.
-
-Nr 7, poz. 61),
-
-$'1
- 02 
-,
-!)!2 
- ) lipca 1981 r. (Dz.U. Nr 18, poz. 84),
-
-)'5(
-;/=
- 
- )0 1981 r. (Dz.U. Nr 18, poz. 85),
-
-' ; .6(
-  
-      !"%  (Dz.U. Nr 14, poz. 59),
-
-%' ; 9   ?
-  
-    $  !""  (Dz.U. Nr 21, poz. 136),
-
-';A9
-/0(:, 
- e-  &!"!34#)- '
-
-&'; 5
-!"*!$ 
- $0 1990 r. (Dz.U. Nr 53, poz. 307).
-
-$5( 
- 
-=
-
- 6,
-  (
-0 6,
-
-
-**Art. 8.**
-
-4 
-=
-(&*!&
-
- 
-
-" 
- 
-
-
-**Art. 9.**
-
-W ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz.U. Nr 3, poz. 19, Nr 25, poz. 187 i Nr 31, poz. 214, z 1983 r. Nr 5, poz. 33, z 1988 r. Nr 19, poz. 132, z
-
-24-02-99 1989 r. Nr 4, poz. 24 i Nr 35, poz. 192, z 1990 r. Nr 34, poz. 197 i 198, Nr 36, poz. 206 i Nr 72, poz. 423, z 1991 r. Nr 95, poz. 425 i Nr 104, poz. 450 oraz 1992 r. Nr %) $%$#% $%'%$(
-06
-
-**Art. 10.**
-
-5
- 
-!"$(6 +=34 Nr 31, poz. 214, z 1984 r. Nr 35, poz. 187, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 4, poz. 24, Nr 34, poz. 178 i poz. 182, z 1990 r. Nr 20, poz. 121, z 1991 r. Nr 55, poz. $) #"" --#!%$%!!$#% $%' 6 6
-
-
-' 
-,
-
-2# +
-2
-
-$'(
-06)$
-
-)'))(
-0620, 0)$2
-
-**Art. 11.**
-
-5
- $0!!-
-; 5
-!"* !$34#%) )-&'(
-06"
-
-**Art. 12.**
-
-6
-
- 6,
-
-
-**Art. 13.**
-
-., (+
-+
-
-  
-
-  +
-
-**Art. 14.**
-
- 
-
-   
-
-
-24-02-99
+USTAWA
+
+z dnia 16 października 1992 r.
+
+Przepisy wprowadzające ustawę o orderach i odznaczeniach,
+
+uchylające przepisy o tytułach honorowych oraz
+
+zmieniające niektóre ustawy
+
+Art. 1. Ustawa o orderach i odznaczeniach wchodzi w życie po upływie 14 dni od dnia ogłoszenia niniejszej ustawy.
+
+Art. 2. 1. Z dniem wejścia w życie ustawy o orderach i odznaczeniach tracą moc:
+
+1) ustawa z dnia 17 lutego 1960 r. o orderach i odznaczeniach (Dz.U. Nr 10, poz. 66, z 1968 r. Nr 25, poz. 165 i z 1982 r. Nr 7, poz. 61) z wyjątkiem art. 11 oraz art. 13 - 16, które obowiązują do dnia 8 maja 1999 roku,
+
+2) ustawa z dnia 10 kwietnia 1974 r. o ustanowieniu Orderu Zasługi Polskiej Rzeczypospolitej Ludowej (Dz.U. Nr 14, poz. 83),
+
+3) ustawa z dnia 22 listopada 1983 r. o ustanowieniu Medalu "Za udział w walkach w obronie władzy ludowej" (Dz.U. Nr 65, poz. 293).
+
+2. Z dniem wejścia w życie ustawy, o której mowa w art. I, tracą moc także inne przepisy dotyczące spraw w niej unormowanych, chyba że przepisy niniejszej ustawy stanowią inaczej.
+
+Art. 3. 1. W ciągu sześciu miesięcy od wejścia w życie ustawy, o której mowa w art. 1, Prezydent zwoła Tymczasową Radę Orderu Orła Białego, w której skład wejdą: Marszałek Sejmu jako jej przewodniczący, Marszałek Senatu i Prezes Rady Ministrów.
+
+2. Tymczasowa Rada Orderu Orła Białego przedstawi Prezydentowi pierwsze wnioski o nadanie tego Orderu.
+
+Art. 4. W ciągu sześciu miesięcy od wejścia w życie ustawy, o której mowa w art. 1, Prezydent powoła:
+
+1) Kanclerza oraz członków Kapituły Orderu Wojennego Virtuti Militari,
+
+2) członków Kapituły Orderu Odrodzenia Polski.
+
+Art. 5. Z, dniem wejścia w życie niniejszej ustawy uznaje się za zakończone nadawanie:
+
+1) orderów i odznaczeń wojennych za dotychczasowe zasługi, z zastrzeżeniem art. 7 ust. 1,
+
+2) orderów i odznaczeń społecznym zbiorowościom.
+
+Art. 6. 1. Odznaczeniami o charakterze wojskowym są dotychczas nadawane za zasługi w latach 1939-1945:
+
+1) Medal Wojska, ustanowiony dekretem Prezydenta Rzeczypospolitej Polskiej z dnia 3 lipca 1945 r. i nadawany żołnierzom wojsk lądowych za dokonany w czasie wojny 1939-1945 czyn przynoszący szczególną korzyść Wojsku Lądowemu, a wykraczający poza normalny obowiązek, albo za szczególnie sumienną służbę w czasie wojny,
+
+2) Medal Morski, ustanowiony dekretem Prezydenta Rzeczypospolitej Polskiej z dnia 3 lipca 1945 r. i nadawany żołnierzom Marynarki Wojennej za rzetelną służbę na morzu w czasie wojny,
+
+3) Medal Lotniczy, ustanowiony dekretem Prezydenta Rzeczypospolitej Polskiej z dnia 3 lipca 1945 r. i nadawany żołnierzom Sił Powietrznych za dokonany w czasie wojny czyn przynoszący szczególną korzyść lotnictwu, a wykraczający poza normalny obowiązek, albo za szczególnie sumienną służbę w czasie wojny,
+
+4) Medal Morski Polskiej Marynarki Handlowej, ustanowiony dekretem Prezydenta Rzeczypospolitej Polskiej z dnia 3 lipca 1945 r. i nadawany członkom załóg polskich statków handlowych za rzetelną służbę na morzu w czasie wojny,
+
+5) Krzyż Kampanii Wrześniowej 1939 roku, ustanowiony dekretem Prezydenta Rzeczypospolitej Polskiej na Obczyźnie z dnia 1 września 1984 r. dla upamiętnienia walk stoczonych w obronie całości i niepodległości Rzeczypospolitej podczas kampanii wojennej z Niemcami i Związkiem Sowieckim we wrześniu i październiku 1939 roku i nadawany żołnierzom Wojska Polskiego, a także innym osobom, które brały udział w walkach na lądzie, morzu i w powietrzu, oraz tym, którzy wspomagali walczących,
+
+6) Krzyż Pamiątkowy Monte Cassino, wprowadzony rozkazem Naczelnego Wodza z dnia 26 lipca 1944 r. i nadawany żołnierzom II Korpusu Polskiego uczestniczącym w bojach pod Monte Cassino w 1944 r.,
+
+7) Krzyż Armii Krajowej, wprowadzony | sierpnia 1966 r. przez Dowódcę Armii Krajowej gen. Tadeusza Bora-Komorowskiego dla upamiętnienia wysiłku żołnierza Polski Podziemnej w latach 1939-1945 i nadawany żołnierzom Armii Krajowej oraz żołnierzom organizacji ją poprzedzających,
+
+8) Krzyż Batalionów Chłopskich, wprowadzony 1 września 1989 r. przez Komendanta Głównego Batalionów Chłopskich gen. Franciszka Kamińskiego dla 1namiatniania wyciłlem zkhroinacoo Fołniarzy Ratalioanów Chłonolioh xw la_
+
+tach 1940-1945 i nadawany żołnierzom tej formacji wojskowej oraz żołnierzom organizacji ją poprzedzających,
+
+9) Krzyż Narodowego Czynu Zbrojnego, wprowadzony zarządzeniem Rady Politycznej Narodowych Sił Zbrojnych z dnia 14 grudnia 1944 r., nadawany żołnierzom Narodowych Sił Zbrojnych. Krzyż Narodowego Czynu Zbrojnego jest odznaczeniem jednostopniowym.
+
+2. Z dniem wejścia w życie niniejszej ustawy uznaje się za zakończone nadawanie odznaczeń wymienionych w ust. I pkt. 1-6.
+
+3. Krzyż Armii Krajowej, Krzyż Batalionów Chłopskich oraz Krzyż Narodowego Czynu Zbrojnego nadaje się do dnia 8 maja 1999 r.
+
+4. Prezydent, w drodze rozporządzenia, określa szczegółowy tryb nadawania Krzyża Armii Krajowej oraz Krzyża Batalionów Chłopskich, a także wzór i szczegółowy tryb nadawania Krzyża Narodowego Czynu Zbrojnego.
+
+Art. 7. 1. Z dniem 8 maja 1999 r. uznaje się za zakończone nadawanie na podstawie dotychczas obowiązujących przepisów:
+
+1) Śląskiego Krzyża Powstańczego, Wielkopolskiego Krzyża Powstańczego, Krzyża Partyzanckiego, "Medalu za Warszawę 1939-1945", "Medalu za Odrę, Nysę, Bałtyk", określonych w ustawie z dnia 17 lutego 1960 r. o orderach i odznaczeniach (Dz.U. Nr 10, poz. 66, z 1968 r. Nr 25, poz. 165 oraz z 1982 r. Nr 7, poz. 61),
+
+2) Medalu "Za udział w wojnie obronnej 1939", ustanowionego ustawą z dnia 3 lipca 1981 r. (Dz.U. Nr 18, poz. 84),
+
+3) Warszawskiego Krzyża Powstańczego, ustanowionego ustawą z dnia 3 lipca 1981 r. (Dz.U. Nr 18, poz. 85),
+
+4) Krzyża Oświęcimskiego, ustanowionego ustawą z dnia 14 marca 1985 r. (Dz.U. Nr 14, poz. 59),
+
+5) Krzyża Bitwy pod Lenino, ustanowionego ustawą z dnia 26 maja 1988 r. (Dz.U. Nr 21, poz. 136),
+
+6) Krzyża Czynu Bojowego Polskich Sił Zbrojnych na Zachodzie, ustanowionego ustawą z dnia 17 maja 1989 r. (Dz.U. Nr 30, poz. 161),
+
+7) Krzyża za udział w Wojnie 1918-1921, ustanowionego ustawą z dnia 21 lipca 1990 r. (Dz.U. Nr 53, poz. 307).
+
+2. Wnioski o nadanie odznaczeń wymienionych w ust. 1 przedstawia się w trybie i na zasadach określonych w odrębnych przepisach.
+
+Art. 8. Do odznaczeń wymienionych w art. 6 ust. 1 pkt 7 - 9 iart. 7 ust. I niniejszej ustawy nie mają zastosowania przepisy art. 8 ustawy o orderach i odznaczeniach.
+
+Art. 9. W ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz.U. Nr 3, poz. 19, Nr DJD£ poz 18741Nr 21 noz JIA 7 ION? r Nr noz 22 yy ORK r Nr 1O noy 10 7
+
+1989 r. Nr 4, poz. 24 i Nr 35, poz. 192, z 1990 r. Nr 34, poz. 197 i 198, Nr 36, poz. 206 i Nr 72, poz. 423, z 1991 r. Nr 95, poz. 425 i Nr 104, poz. 450 oraz 1992 r. Nr 53, poz. 252 i Nr 54, poz. 254) art. 52 skreśla się.
+
+Art. 10. W ustawie z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz.U. Nr 31, poz. 214, z 1984 r. Nr 35, poz. 187, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr4, poz. 24, Nr 34, poz. 178 i poz. 182, z 1990 r. Nr 20, poz. 121, z 1991 r. Nr 55, poz. 234, Nr 88, poz. 400 i Nr 95 poz. 425 oraz 1992 r. Nr 54, poz. 254) wprowadza się następujące zmiany:
+
+1) tytuł rozdziału 4 otrzymuje brzmienie: "Nagrody 1 wyróżnienia",
+
+2) skreśla się art. 32,
+
+3) w art. 33 skreśla się wyrazy "lub odznaczony w myśl art. 32".
+
+Art. 11. W ustawie z dnia 21 lipca 1990 r. o ustanowieniu Krzyża za udział w Wojnie 1918- 1921 (Dz.U. Nr 53, poz. 307) skreśla się art. 8.
+
+Art. 12. Zmosi się tytuły honorowe ustanowione odrębnymi przepisami.
+
+Art. 13. Osoby, które zostały wyróżnione tytułami honorowymi przed dniem wejścia w życie ustawy, zachowują prawo używania związanych z nimi tytułów.
+
+Art. 14. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.

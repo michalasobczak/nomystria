@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 40
 tekst_jednolity: "Dz.U. 2025 poz. 18"
 tekst_jednolity_z_dnia: "2024-11-27"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["egzaminy", "żegluga śródlądowa", "przepisy karne", "rejestry", "świadectwa i dyplomy", "transport wodny", "wodne prawo", "administracja rządowa", "opłaty", "statki żeglugi śródlądowej"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/43/text/U/D20010043Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010050043"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 25
 tekst_jednolity: "Dz.U. 2024 poz. 585"
 tekst_jednolity_z_dnia: "2024-04-12"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["rachunki bankowe", "papiery wartościowe", "banki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/1351/text/U/D20011351Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011231351"

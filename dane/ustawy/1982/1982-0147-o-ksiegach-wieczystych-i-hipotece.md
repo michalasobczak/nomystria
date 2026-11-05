@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 52
 tekst_jednolity: "Dz.U. 2026 poz. 1066"
 tekst_jednolity_z_dnia: "2026-07-31"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["rolnicze spółdzielnie produkcyjne", "chłodnictwo", "darowizny", "czynsze", "budowlano-montażowe przedsiębiorstwa", "ogólne warunki umów", "ubezpieczenia majątkowe i osobowe", "komunalna gospodarka", "notariat", "bankowe prawo", "gwarancja", "noclegowe zakłady", "handlowe prawo", "pracownicy", "nieruchomości", "skup i kontraktacja", "komis", "kodeks cywilny", "przedawnienie", "służebności gruntowe", "spółki", "księgi wieczyste i hipoteka", "ajenci", "cywilne prawo", "transport drogowy i spedycja", "komunikacja", "umowa zlecenia", "grunty rolne i leśne", "roboty budowlane", "znalezione rzeczy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1982/147/text/U/D19820147Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820190147"

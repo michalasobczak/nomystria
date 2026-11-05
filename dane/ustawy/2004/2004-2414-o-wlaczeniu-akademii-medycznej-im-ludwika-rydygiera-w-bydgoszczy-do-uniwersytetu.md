@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2019 poz. 1013"
 tekst_jednolity_z_dnia: "2019-05-16"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["nauka", "szkolnictwo wyższe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2004/2414/text/U/D20042414Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042412414"

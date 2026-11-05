@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 37
 tekst_jednolity: "Dz.U. 2025 poz. 592"
 tekst_jednolity_z_dnia: "2025-03-24"
 zmian_po_tekscie_jednolitym: 5
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["działalność gospodarcza", "finansowanie", "giełdy", "komercjalizacja", "papiery wartościowe", "rachunkowość", "nadzór", "fundusz inwestycyjny", "rejestry", "prywatyzacja", "porty morskie", "handlowe prawo", "cywilne postępowanie", "odpowiedzialność cywilna", "karne prawo", "kapitał akcyjny", "instrumenty finansowe", "opłaty", "spółki akcyjne", "odszkodowania", "spółki", "finansowa gospodarka", "przedsiębiorstwa", "cukrownictwo", "farmaceutyczne środki", "maklerzy", "restrukturyzacja", "zamówienia publiczne", "banki", "hutnictwo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2005/1539/text/U/D20051539Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051841539"

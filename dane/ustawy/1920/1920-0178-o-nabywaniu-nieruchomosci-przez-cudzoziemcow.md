@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 26
 tekst_jednolity: "Dz.U. 2017 poz. 2278"
 tekst_jednolity_z_dnia: "2017-11-22"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["cudzoziemcy", "nieruchomości"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1920/178/text/U/D19200178Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19200310178"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 41
 tekst_jednolity: "Dz.U. 2026 poz. 656"
 tekst_jednolity_z_dnia: "2026-05-15"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kontrola", "przepisy karne", "organizacja i zakres działania", "sądy polubowne", "rzeczoznawcy", "inspekcja"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/25/text/U/D20010025Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010040025"

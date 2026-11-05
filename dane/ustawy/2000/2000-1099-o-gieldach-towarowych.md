@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 52
 tekst_jednolity: "Dz.U. 2026 poz. 1442"
 tekst_jednolity_z_dnia: "2026-10-09"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["nadzór", "maklerzy", "zezwolenia", "giełdy", "opłaty", "papiery wartościowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2000/1099/text/U/D20001099Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001031099"

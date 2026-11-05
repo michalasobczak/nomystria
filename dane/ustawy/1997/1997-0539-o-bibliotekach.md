@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2022 poz. 2393"
 tekst_jednolity_z_dnia: "2022-11-04"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["biblioteki", "kultura i sztuka", "organizacja i zakres działania", "oświata i wychowanie", "pracownicy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/539/text/U/D19970539Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970850539"

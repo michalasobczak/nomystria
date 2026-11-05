@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 67
 tekst_jednolity: "Dz.U. 2025 poz. 1226"
 tekst_jednolity_z_dnia: "2025-09-01"
 zmian_po_tekscie_jednolitym: 5
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["egzaminy", "nadzór", "kwalifikacje", "pojazdy uprzywilejowane", "dokumenty", "kierowcy", "pojazdy mechaniczne", "badania lekarskie", "prawo o ruchu drogowym", "transport drogowy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/151/text/U/D20110151Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110300151"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2023 poz. 1743"
 tekst_jednolity_z_dnia: "2023-07-07"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przewozowe prawo", "obrót towarowy z zagranicą", "rejestry", "działalność gospodarcza", "transport kolejowy", "koncesje", "transport", "tranzyt", "broń, amunicja i materiały wybuchowe", "geologiczne prawo", "bezpieczeństwo państwa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2019/1214/text/U/D20191214Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001214"

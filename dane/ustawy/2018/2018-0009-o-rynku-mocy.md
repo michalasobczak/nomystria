@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2026 poz. 1400"
 tekst_jednolity_z_dnia: "2026-10-02"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ochrona środowiska", "energetyczna gospodarka", "energetyka", "energetyczne prawo", "odnawialne źródła energii"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/9/text/U/D20180009Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000009"

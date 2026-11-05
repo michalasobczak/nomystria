@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 43
 tekst_jednolity: "Dz.U. 2023 poz. 1502"
 tekst_jednolity_z_dnia: "2023-07-07"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["rezerwy państwowe", "podatki", "wino", "mięso", "owoce i warzywa", "administracyjne postępowanie", "dotacje", "fundusze", "finansowa gospodarka", "postępowanie egzekucyjne w administracji", "cukrownictwo", "artykuły spożywcze", "cywilne prawo", "formularze", "rejestry", "pasze", "regiony", "grunty rolne i leśne", "paliwa i smary", "rolnictwo", "wskaźnik", "tytoń"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2004/386/text/U/D20040386Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040420386"

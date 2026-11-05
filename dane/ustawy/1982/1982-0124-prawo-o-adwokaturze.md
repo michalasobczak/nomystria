@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 65
 tekst_jednolity: "Dz.U. 2024 poz. 1564"
 tekst_jednolity_z_dnia: "2024-10-11"
 zmian_po_tekscie_jednolitym: 4
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["karne postępowanie w sprawach o wykroczenia", "stocznie morskie", "obrona narodowa", "aplikacja", "samorząd zawodowy", "karne postępowanie", "emerytury i renty", "wykroczenia", "zagraniczne przedstawicielstwa w Polsce", "adwokatura", "dyscyplinarne postępowanie", "sądowe koszty i opłaty", "sądy wojskowe", "ubezpieczenia społeczne", "wybory", "dyplomatyczne przedstawicielstwa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1982/124/text/U/D19820124Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820160124"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2025 poz. 296"
 tekst_jednolity_z_dnia: "2025-03-06"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["czas pracy", "obrona narodowa", "dni uroczyste wojska", "uroczystości państwowe i branżowe", "święta", "dni wolne od pracy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1951/28/text/U/D19510028Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510040028"

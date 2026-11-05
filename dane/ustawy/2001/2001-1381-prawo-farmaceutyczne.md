@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 104
 tekst_jednolity: "Dz.U. 2026 poz. 612"
 tekst_jednolity_z_dnia: "2026-04-17"
 zmian_po_tekscie_jednolitym: 3
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["badawczo-rozwojowe jednostki", "opakowania", "badania i certyfikacje", "celne prawo", "weterynaryjna służba", "finanse publiczne", "działalność gospodarcza", "farmaceuci", "leki i artykuły sanitarne", "ochrona zdrowia", "znaki towarowe", "farmaceutyczne prawo", "nadzór", "rejestry", "ochrona środowiska", "reklama", "apteki", "ubezpieczenia zdrowotne", "narkomania", "przepisy karne", "kontrola", "lekarze", "kwalifikacje", "zezwolenia", "dokumenty", "konkurencja", "inspekcja", "hurtownie", "farmaceutyczne środki"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/1381/text/U/D20011381Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011261381"

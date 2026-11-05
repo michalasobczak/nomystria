@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2025 poz. 1460"
 tekst_jednolity_z_dnia: "2025-10-20"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["umowy gospodarcze", "szkolnictwo wyższe", "umowy międzynarodowe", "finanse publiczne", "ochrona środowiska", "oświata i wychowanie", "współpraca zagraniczna", "rolnictwo", "ochrona zdrowia"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/1386/text/U/D20111386Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112341386"

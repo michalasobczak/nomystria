@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 22
 tekst_jednolity: "Dz.U. 2026 poz. 1429"
 tekst_jednolity_z_dnia: "2026-10-02"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["klęski żywiołowe", "rezerwy państwowe", "zasiłki", "działalność gospodarcza", "wodne prawo", "administracja rządowa", "dotacje", "pomoc finansowa", "gminy", "odszkodowania", "przedsiębiorstwa", "ulgi podatkowe", "lokal", "powodzie", "samorząd terytorialny"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/1385/text/U/D20111385Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112341385"

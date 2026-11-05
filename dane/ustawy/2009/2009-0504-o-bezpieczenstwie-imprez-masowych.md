@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 16
 tekst_jednolity: "Dz.U. 2023 poz. 616"
 tekst_jednolity_z_dnia: "2023-02-09"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["odszkodowania", "kontrola", "przepisy karne", "zezwolenia", "imprezy rozrywkowe", "imprezy sportowe", "imprezy masowe", "kultura fizyczna"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2009/504/text/U/D20090504Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090620504"

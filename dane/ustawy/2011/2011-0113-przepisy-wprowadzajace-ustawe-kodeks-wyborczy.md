@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kodeks wyborczy", "budżet", "mandaty poselskie i senatorskie", "radni", "komisje wyborcze", "finansowanie", "spis wyborców", "miasta", "gminy", "posłowie", "radiofonia i telewizja", "senatorowie", "prawa obywatelskie", "powiaty", "rejestry", "komisarz wyborczy", "komisje", "komitety", "partie polityczne", "samorząd terytorialny", "sejmiki samorządowe", "wybory"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/113/text/U/D20110113Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110210113"

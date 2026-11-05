@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2026 poz. 230"
 tekst_jednolity_z_dnia: "2026-02-17"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "informacje niejawne", "kodeks postępowania karnego", "karne postępowanie", "kontrola skarbowa", "paszporty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/1371/text/U/D20111371Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112301371"

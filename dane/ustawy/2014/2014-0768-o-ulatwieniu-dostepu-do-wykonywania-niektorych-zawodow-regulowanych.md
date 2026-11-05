@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["celne prawo", "lotnicze prawo", "telekomunikacja", "budowlane prawo", "samorząd zawodowy", "transport kolejowy", "planowanie przestrzenne", "rachunkowość", "remonty", "doradztwo podatkowe", "gazociągi i sieci gazowe", "gry losowe i zakłady wzajemne", "biegli", "szkolnictwo wyższe", "ubezpieczenia", "bezpieczeństwo żeglugi i wypadki morskie", "sprawozdanie finansowe", "prawo o ruchu drogowym", "działalność ubezpieczeniowa", "zamówienia publiczne", "nurkowie"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2014/768/text/T/D20140768L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000768"

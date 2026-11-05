@@ -22,7 +22,7 @@ WERDYKTY = ("zgodny", "rozbiezny", "niezweryfikowany")
 PRIORYTET = {"rozbiezny": 3, "niezweryfikowany": 2, "zgodny": 1}
 KATEGORIE = ("sprzecznosc", "niespojnosc", "luka", "wada", "brak_sciezki_alternatywnej", "zaniechanie")
 WERDYKTY_AUTORA = ("potwierdzone", "odrzucone", "do_dyskusji", "brak")
-BRZMIENIE = {"ujednolicone": "U", "pierwotne": "P", "pierwotne (zmieniana)": "PZ"}
+BRZMIENIE = {"ujednolicone": "U", "jednolite": "J", "pierwotne": "P", "pierwotne (zmieniana)": "PZ"}
 
 
 class BladKontroli(ValueError):
@@ -99,6 +99,8 @@ def build(root: Path = ROOT) -> dict:
             "poTj": _int(r["zmian_po_tekscie_jednolitym"]),
             "tu": r["tekst_ujednolicony_z_dnia"],
             "podstawa": r["opracowano_na_podstawie"],
+            "zrodloTekstu": r.get("zrodlo_tekstu", ""),
+            "uwagi": r.get("uwagi", ""),
             "wejscie": r["data_wejscia_w_zycie"],
             "plik": f"{REPO_URL}/blob/main/{r['plik']}",
             "pdf": r["zrodlo_pdf"],

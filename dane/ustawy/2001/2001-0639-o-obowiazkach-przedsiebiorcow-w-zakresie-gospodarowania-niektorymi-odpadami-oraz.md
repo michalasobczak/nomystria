@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 20
 tekst_jednolity: "Dz.U. 2024 poz. 433"
 tekst_jednolity_z_dnia: "2024-03-11"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["odpady", "depozyty", "opłaty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2001/639/text/U/D20010639Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010630639"

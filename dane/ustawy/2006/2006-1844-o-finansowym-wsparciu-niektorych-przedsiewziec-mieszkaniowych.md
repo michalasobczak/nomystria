@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2026 poz. 511"
 tekst_jednolity_z_dnia: "2026-03-27"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["gminy", "noclegowe zakłady", "pomoc społeczna", "lokal", "finansowanie", "budownictwo mieszkaniowe", "remonty"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/1844/text/U/D20061844Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062511844"

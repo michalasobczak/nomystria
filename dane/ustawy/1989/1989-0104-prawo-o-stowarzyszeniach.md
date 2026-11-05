@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2020 poz. 2261"
 tekst_jednolity_z_dnia: "2020-11-18"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["organizacje społeczne", "sądy powszechne", "stowarzyszenia", "rejestry sądowe"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1989/104/text/U/D19890104Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890200104"

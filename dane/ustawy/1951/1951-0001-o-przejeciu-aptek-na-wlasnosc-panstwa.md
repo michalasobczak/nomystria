@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF O"
+uwagi: []
 slowa_kluczowe: ["wywłaszczenia", "apteki", "przejęcie mienia na własność państwa"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1951/1/text/O/D19510001.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510010001"

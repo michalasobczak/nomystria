@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["fundusze", "nadzór", "instrumenty finansowe", "podatki", "ordynacja podatkowa", "fundusze emerytalne", "inwestycje", "ryczałt", "podatek dochodowy od osób fizycznych", "bankowe prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2026/1098/text/T/D20261098L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260001098"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2025 poz. 1756"
 tekst_jednolity_z_dnia: "2025-12-05"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["spirytus", "rejestry", "ochrona", "działalność gospodarcza"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/1539/text/U/D20061539Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062081539"

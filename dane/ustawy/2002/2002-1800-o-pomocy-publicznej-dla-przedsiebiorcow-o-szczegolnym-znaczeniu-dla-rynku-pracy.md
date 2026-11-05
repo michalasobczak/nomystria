@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2026 poz. 96"
 tekst_jednolity_z_dnia: "2026-01-21"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["działalność gospodarcza", "komercjalizacja", "bezrobocie", "zatrudnianie", "podatek akcyzowy", "rachunkowość", "podatek od towarów i usług", "spółki", "przedsiębiorstwa", "pomoc publiczna", "górnictwo", "ulgi podatkowe", "prywatyzacja", "restrukturyzacja", "hutnictwo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/1800/text/U/D20021800Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022131800"

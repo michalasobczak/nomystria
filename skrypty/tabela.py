@@ -68,18 +68,20 @@ START, END = "<!-- LISTA:START -->", "<!-- LISTA:END -->"
 
 
 # Symbole brzmienia w tabeli, żeby kolumna była wąska.
-SYMBOLE = {"ujednolicone": "●", "pierwotne": "○", "pierwotne (zmieniana)": "◐"}
+SYMBOLE = {"ujednolicone": "●", "jednolite": "◆", "pierwotne": "○", "pierwotne (zmieniana)": "◐"}
 
 
 def render_list(rows: list[dict]) -> str:
     """Tabela Markdown wszystkich ustaw (rows — wiersze indeksu, ścieżki względem korzenia repo)."""
     uj = sum(r["brzmienie"] == "ujednolicone" for r in rows)
+    jd = sum(r["brzmienie"] == "jednolite" for r in rows)
     zm = sum(r["brzmienie"] == "pierwotne (zmieniana)" for r in rows)
     lines = [
-        f"Aktów w zbiorze: **{len(rows)}**, w tym Konstytucja. W brzmieniu ujednoliconym: {uj}. "
-        f"W brzmieniu pierwotnym: {len(rows) - uj}, w tym {zm} zmienianych bez tekstu ujednoliconego.",
+        f"Aktów w zbiorze: **{len(rows)}**, w tym Konstytucja. W brzmieniu ujednoliconym: {uj}. Jednolitym: {jd}. "
+        f"Pierwotnym: {len(rows) - uj - jd}, w tym {zm} zmienianych bez tekstu ujednoliconego.",
         "",
-        "- **Br.** to brzmienie: ● ujednolicone (tekst Kancelarii Sejmu), ○ pierwotne (ustawa niezmieniana), "
+        "- **Br.** to brzmienie: ● ujednolicone (tekst Kancelarii Sejmu), "
+        "◆ jednolite (tekst jednolity z Dz. U., gdy tekst ujednolicony ISAP był starszy), ○ pierwotne (ustawa niezmieniana), "
         "◐ pierwotne, ale ustawa była zmieniana i nie ma tekstu ujednoliconego (tekst może być nieaktualny).",
         "- **Zmian** to liczba ustaw zmieniających według ISAP („Akty zmieniające”).",
         "- **Tekst jednolity** to ostatnie obwieszczenie tekstu jednolitego w Dz. U. z datą obwieszczenia.",

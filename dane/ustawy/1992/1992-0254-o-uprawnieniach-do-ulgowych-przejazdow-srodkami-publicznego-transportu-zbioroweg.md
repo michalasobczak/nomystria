@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 43
 tekst_jednolity: "Dz.U. 2024 poz. 380"
 tekst_jednolity_z_dnia: "2024-03-11"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["transport zbiorowy", "ulgi przy przejazdach kolejami", "transport drogowy i spedycja", "krajowy transport drogowy", "koleje"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1992/254/text/U/D19920254Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920540254"

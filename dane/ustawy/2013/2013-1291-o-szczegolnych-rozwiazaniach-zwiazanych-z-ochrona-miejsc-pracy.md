@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2025 poz. 1694"
 tekst_jednolity_z_dnia: "2025-11-20"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["przedsiębiorstwa", "praca", "świadczenia", "kryzys społeczno-ekonomiczny", "finansowanie", "zatrudnianie", "szkolenie pracowników"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2013/1291/text/U/D20131291Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001291"

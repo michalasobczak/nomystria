@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 41
 tekst_jednolity: "Dz.U. 2025 poz. 1079"
 tekst_jednolity_z_dnia: "2025-07-25"
 zmian_po_tekscie_jednolitym: 2
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["cudzoziemcy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2013/1650/text/U/D20131650Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001650"

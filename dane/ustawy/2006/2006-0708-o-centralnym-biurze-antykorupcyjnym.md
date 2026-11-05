@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 70
 tekst_jednolity: "Dz.U. 2025 poz. 712"
 tekst_jednolity_z_dnia: "2025-04-10"
 zmian_po_tekscie_jednolitym: 3
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "kontrola", "budżet", "instrumenty finansowe", "kodeks karny", "finanse publiczne", "działalność gospodarcza", "korupcja", "dyscyplinarne postępowanie", "kodeks spółek handlowych", "partie polityczne", "karne skarbowe prawo", "samorząd terytorialny"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2006/708/text/U/D20060708Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061040708"

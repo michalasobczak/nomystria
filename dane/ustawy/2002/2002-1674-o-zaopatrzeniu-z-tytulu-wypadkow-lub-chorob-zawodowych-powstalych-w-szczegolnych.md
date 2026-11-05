@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2025 poz. 1565"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["odszkodowania", "świadczenia", "choroby zawodowe", "zasiłek pogrzebowy", "ubezpieczenia zdrowotne", "wypadki przy pracy", "emerytury i renty", "kodeks pracy"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2002/1674/text/U/D20021674Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021991674"

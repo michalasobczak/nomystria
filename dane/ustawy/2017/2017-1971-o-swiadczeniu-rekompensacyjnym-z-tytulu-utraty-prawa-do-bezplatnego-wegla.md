@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+zrodlo_tekstu: "PDF T"
+uwagi: []
 slowa_kluczowe: ["węgiel", "deputaty", "rekompensaty pieniężne"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2017/1971/text/T/D20171971L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001971"

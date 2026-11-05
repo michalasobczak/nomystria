@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2024 poz. 1848"
 tekst_jednolity_z_dnia: "2024-12-06"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["fundusze", "kodeks karny skarbowy", "pomoc społeczna", "karne skarbowe prawo", "niepełnosprawni"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/2192/text/U/D20182192Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002192"

@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 162
 tekst_jednolity: "Dz.U. 2026 poz. 367"
 tekst_jednolity_z_dnia: "2026-02-27"
 zmian_po_tekscie_jednolitym: 6
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["lotnicze prawo", "wynagrodzenia", "świadczenia z tytułu wypadków przy pracy i chorób zawodowych", "emerytury i renty", "ochrona zdrowia", "lokalowe prawo", "broń, amunicja i materiały wybuchowe", "zasady użycia broni przez funkcjonariuszy", "morskie prawo", "nagrody", "bandery", "dyscyplinarne postępowanie", "mundury", "zakłady opieki zdrowotnej", "zasiłek pogrzebowy", "mieszkania funkcyjne"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1990/462/text/U/D19900462Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900780462"

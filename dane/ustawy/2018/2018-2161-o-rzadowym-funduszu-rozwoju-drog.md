@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2025 poz. 94"
 tekst_jednolity_z_dnia: "2025-01-15"
 zmian_po_tekscie_jednolitym: 1
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["finanse publiczne", "finansowanie", "dokumenty", "sprawozdanie roczne", "papiery wartościowe", "fundusze", "spółki", "gminy", "drogi publiczne", "postępowanie egzekucyjne", "sprawozdanie finansowe", "prawo o ruchu drogowym", "samorząd terytorialny", "budowa i utrzymanie dróg"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2018/2161/text/U/D20182161Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002161"

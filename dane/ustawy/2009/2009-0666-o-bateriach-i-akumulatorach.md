@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2025 poz. 809"
 tekst_jednolity_z_dnia: "2025-06-11"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["recykling", "odpady", "urządzenia elektryczne", "ochrona środowiska", "baterie i akumulatory"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2009/666/text/U/D20090666Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090790666"

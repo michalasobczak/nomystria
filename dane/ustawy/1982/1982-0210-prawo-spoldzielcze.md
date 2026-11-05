@@ -12,6 +12,8 @@ liczba_ustaw_zmieniajacych: 56
 tekst_jednolity: "Dz.U. 2026 poz. 521"
 tekst_jednolity_z_dnia: "2026-03-27"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "PDF U"
+uwagi: []
 slowa_kluczowe: ["rolnicze spółdzielnie produkcyjne", "przepisy karne", "podatki", "spółdzielczość", "działalność gospodarcza", "finansowanie", "samorząd zawodowy", "likwidacja", "rejestry", "kółka rolnicze", "rolnicy", "mienie", "spółdzielczość pracy", "podatek dochodowy", "lustracja", "spółdzielczość rzemieślnicza", "spółdzielczość mieszkaniowa", "upadłościowe prawo", "podatek dochodowy od osób prawnych", "statut", "spółdzielcze prawo"]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1982/210/text/U/D19820210Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820300210"

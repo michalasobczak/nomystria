@@ -3,23 +3,133 @@ tytul: "Ustawa z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej"
 eli: "DU/2011/814"
 adres_publikacyjny: "Dz.U. 2011 nr 139 poz. 814"
 status: "akt posiada tekst jednolity"
-brzmienie: "ujednolicone"
+brzmienie: "jednolite"
 data_aktu: "2011-04-15"
 data_wejscia_w_zycie: "2012-04-30"
-tekst_ujednolicony_z_dnia: "2026-06-29"
-opracowano_na_podstawie: "t.j. Dz. U. z 2026 r. poz. 804."
+tekst_ujednolicony_z_dnia: null
+opracowano_na_podstawie: "Dz.U. 2026 poz. 803"
 liczba_ustaw_zmieniajacych: 42
 tekst_jednolity: "Dz.U. 2026 poz. 803"
 tekst_jednolity_z_dnia: "2026-05-27"
 zmian_po_tekscie_jednolitym: 0
+zrodlo_tekstu: "tekst jednolity, PDF T"
+uwagi: ["Tekst ujednolicony ISAP (z 2026-06-29, na podstawie DU/2026/804) był starszy niż ostatni tekst jednolity Dz.U. 2026 poz. 803 z 2026-05-27; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["nadzór", "finanse publiczne", "informatyzacja", "finansowanie", "oświata i wychowanie", "systemy teleinformatyczne"]
-zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2011/814/text/U/D20110814Lj.pdf"
+zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/2026/803/text/T/D20260803L.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111390814"
 ---
 
 # Ustawa z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej
 
-**Dz. U. 2011 Nr 139 poz. 814**
+**Dz. U. 2026 poz. 803**
+
+**OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ**
+
+z dnia 27 maja 2026 r.
+
+**w sprawie ogłoszenia jednolitego tekstu ustawy o systemie informacji oświatowej**
+
+1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2024 r. poz. 152), z uwzględnieniem stanu prawnego na dzień 24 maja 2026 r. oraz zmian wprowadzonych:
+
+1) ustawą z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 oraz z 2025 r. poz. 1019);
+
+2) ustawą z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858);
+
+3) ustawą z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572);
+
+4) ustawą z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1933);
+
+5) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1160);
+
+6) ustawą z dnia 21 listopada 2025 r. zmieniającą ustawę o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw, ustawę o systemie informacji oświatowej, ustawę – Prawo oświatowe oraz ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1837);
+
+7) ustawą z dnia 13 marca 2026 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw (Dz. U. poz. 504). 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+
+1) art. 67 i art. 84 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 oraz z 2025 r. poz. 1019), które stanowią:
+
+„Art. 67. W bazie danych systemu informacji oświatowej, w danych dziedzinowych nauczyciela, o których mowa
+
+w art. 29 ust. 1 pkt 1 ustawy zmienianej w art. 40, w brzmieniu nadanym niniejszą ustawą, są gromadzone dane o legitymacjach służbowych nauczycieli wydanych od dnia 30 listopada 2025 r., z wyjątkiem danych o legitymacjach służbowych wydanych nauczycielom zatrudnionym w szkołach polskich, o których mowa w art. 4 pkt 29d ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, z późn. zm.a)), oraz szkołach i zespołach szkół przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej.”
+
+„Art. 84. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszeniab), z wyjątkiem:
+
+1) art. 3 ust. 1 pkt 7, art. 10 ust. 4 pkt 2 i art. 19 ust. 1 pkt 7 lit. b, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 73 ust. 1;
+
+2) art. 23, art. 31 pkt 1 i 3–7, art. 39, art. 48, art. 51, art. 68 i art. 72, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 77 ust. 1;
+
+3) art. 25 i art. 40 pkt 1, pkt 3 w zakresie art. 66e oraz pkt 4, które wchodzą w życie z dniem 17 września 2025 r.;
+
+3a) art. 24, art. 40 pkt 2 i pkt 3 w zakresie art. 66d, art. 52 pkt 4 w zakresie art. 113c, art. 62–64, art. 66 i art. 67, które wchodzą w życie z dniem 30 listopada 2025 r.;
+
+a) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2024 r. poz. 854, 1562, 1635 i 1933 oraz z 2025 r. poz. 619, 620, 622 i 769.
+
+b) Ustawa została ogłoszona w dniu 29 czerwca 2023 r.
+
+4) art. 29, art. 36, art. 42, art. 45, art. 50, art. 52 pkt 4 w zakresie art. 113d, art. 55 i art. 59, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 76 ust. 1;
+
+5) art. 32 pkt 1 i 2, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 78 ust. 1;
+
+6) art. 39 pkt 4, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 80 ust. 1;
+
+7) art. 37 pkt 1–4 i 6–11, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 75 ust. 1;
+
+8) art. 49 pkt 1 i 2, który wchodzi w życie z dniem określonym w komunikacie, o którym mowa w art. 81 ust. 1.”;
+
+2) art. 88 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858), który stanowi:
+
+„Art. 88. Ustawa wchodzi w życie z dniem 1 października 2024 r., z wyjątkiem:
+
+1) art. 5, art. 55 ust. 4–7, art. 68 pkt 18 i 19, art. 75 ust. 14 i art. 78–81, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+2) art. 68 pkt 3 i art. 86, które wchodzą w życie z dniem 28 czerwca 2024 r.;
+
+3) art. 68 pkt 7 lit. a tiret pierwsze, pkt 8, pkt 9, pkt 10 lit. a tiret pierwsze i pkt 11, art. 76 i art. 77, które wchodzą w życie z dniem 1 czerwca 2025 r.;
+
+4) art. 68 pkt 4, pkt 15 lit. b, pkt 16 lit. b, pkt 17 lit. a i pkt 18 lit. d oraz art. 83, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
+
+3) art. 121 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), który stanowi:
+
+„Art. 121. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+
+1) art. 19, art. 20, art. 46, art. 56–58, art. 72 pkt 2, art. 73 pkt 1–7, 9–18, 20 i 21, art. 74, art. 76 pkt 2 i 3 oraz art. 77, które wchodzą w życie z dniem 1 stycznia 2025 r.;
+
+2) art. 73 pkt 8, który wchodzi w życie z dniem 1 stycznia 2026 r.”;
+
+4) art. 28 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1933), który stanowi:
+
+„Art. 28. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+1) art. 1 pkt 2, art. 4 pkt 4 i 10–12, art. 6 pkt 5 i 6 oraz art. 24–26, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+2) art. 1 pkt 5, pkt 9 lit. a i c oraz pkt 10, które wchodzą w życie z dniem 1 września 2025 r.”;
+
+5) art. 19 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1160), który stanowi:
+
+„Art. 19. Ustawa wchodzi w życie z dniem 1 września 2025 r., z wyjątkiem:
+
+1) art. 5 pkt 2, który wchodzi w życie z dniem następującym po dniu ogłoszenia;
+
+2) art. 1 pkt 13, 14, 17, pkt 18 lit. a i pkt 19, art. 4, art. 5 pkt 5, 9 i 10, art. 6 pkt 1, art. 11, art. 12, art. 14, art. 16 i art. 17, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+
+3) art. 1 pkt 11 lit. b i lit. e tiret drugie, które wchodzą w życie z dniem 1 września 2026 r.”;
+
+6) art. 9 ustawy z dnia 21 listopada 2025 r. zmieniającej ustawę o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw, ustawę o systemie informacji oświatowej, ustawę – Prawo oświatowe oraz ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1837), który stanowi:
+
+„Art. 9. Ustawa wchodzi w życie z dniem 31 grudnia 2025 r., z wyjątkiem:
+
+1) art. 2, art. 3 oraz art. 4 pkt 6–10, pkt 11 lit. b, pkt 12, 15 i 16, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+
+2) art. 4 pkt 11 lit. a i pkt 13, art. 7 oraz art. 8, które wchodzą w życie z dniem 30 czerwca 2026 r.;
+
+3) art. 4 pkt 1–5, 14 i 17, art. 5 oraz art. 6, które wchodzą w życie z dniem 1 stycznia 2027 r.”;
+
+7) art. 16 ustawy z dnia 13 marca 2026 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw (Dz. U. poz. 504), który stanowi:
+
+„Art. 16. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+
+Marszałek Sejmu: W. Czarzasty
+
+Załącznik do obwieszczenia Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 27 maja 2026 r. (Dz. U. poz. 803)
 
 **USTAWA**
 
@@ -61,25 +171,19 @@ c) Centralnej Komisji Egzaminacyjnej,
 
 d) okręgowych komisji egzaminacyjnych,
 
-e) jednostek organizacyjnych, o których mowa w art. 1 ust. 1 pkt 2 ustawy
-
-z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2026 r. poz. 515),
+e) jednostek organizacyjnych, o których mowa w art. 1 ust. 1 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela (Dz. U. z 2026 r. poz. 515),
 
 f) kuratoriów oświaty,
 
-g) organów sprawujących nadzór pedagogiczny, o których mowa w art. 1
+g) organów sprawujących nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
 
-ust. 2 pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
+h) specjalistycznych jednostek nadzoru, o których mowa w art. 53 ust. 1 i 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwanej dalej „ustawą – Prawo oświatowe”,
 
-h) specjalistycznych jednostek nadzoru, o których mowa w art. 53 ust. 1 i 2
+i) jednostek obsługujących, o których mowa w art. 10b ust. 1 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym
 
-ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, zwanej dalej „ustawą
+(Dz. U. z 2026 r. poz. 662), art. 6b ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2025 r. poz. 1684 oraz z 2026 r. poz. 252) lub art. 8d ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2025 r. poz. 581 i 1535 oraz z 2026 r. poz. 252 i 451), które obejmują wspólną obsługą szkoły i placówki oświatowe założone i prowadzone przez jednostki samorządu terytorialnego, zwanych dalej „jednost-
 
-– Prawo oświatowe”,
-
-i) jednostek obsługujących, o których mowa w art. 10b ust. 1 ustawy z dnia
-
-8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2026 r. poz. 662), art. 6b ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2025 r. poz. 1684 oraz z 2026 r. poz. 252) lub art. 8d ust. 1 ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2025 r. poz. 581 i 1535 oraz z 2026 r. poz. 252 i 451), które obejmują wspólną obsługą szkoły i placówki oświatowe założone i prowadzone przez jednostki samorządu terytorialnego, zwanych dalej „jednostkami obsługującymi”,
+kami obsługującymi”,
 
 j) izb rzemieślniczych
 
@@ -95,11 +199,13 @@ j) izb rzemieślniczych
 
 3) osób niebędących nauczycielami, o których mowa w art. 15 oraz art. 62 ust. 2 ustawy – Prawo oświatowe;
 
-4) osób, które wykonują zadania nauczyciela na podstawie umowy cywilnoprawnej. 3. Ilekroć w ustawie jest mowa bez bliższego określenia o:
+4) osób, które wykonują zadania nauczyciela na podstawie umowy cywilnoprawnej.
+
+3. Ilekroć w ustawie jest mowa bez bliższego określenia o:
 
 1) uczniach – należy przez to rozumieć osoby, o których mowa w ust. 2 pkt 1;
 
-2) nauczycielach – należy przez to rozumieć osoby, o których mowa w ust. 2 pkt 2– 4;
+2) nauczycielach – należy przez to rozumieć osoby, o których mowa w ust. 2 pkt 2–4;
 
 3) niepełnosprawności uczniów – należy przez to rozumieć potwierdzone orzeczeniem o potrzebie kształcenia specjalnego ograniczenia funkcji organizmu występujące u uczniów wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania;
 
@@ -161,7 +267,7 @@ Art. 6a. W przypadku czasowego ograniczenia lub czasowego zawieszenia funkcjonow
 
 ## Rozdział 2
 
-Rodzaj i zakres danych gromadzonych w systemie informacji oświatowej
+**Rodzaj i zakres danych gromadzonych w systemie informacji oświatowej**
 
 Art. 7. 1. W RSPO są gromadzone następujące dane identyfikacyjne szkół i placówek oświatowych:
 
@@ -179,35 +285,27 @@ Art. 7. 1. W RSPO są gromadzone następujące dane identyfikacyjne szkół i pl
 
 7) numer identyfikacyjny szkoły lub placówki oświatowej w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), zwanym dalej „rejestrem REGON”, a w przypadku:
 
-a) szkoły lub placówki oświatowej wchodzącej w skład zespołu oraz szkoły
+a) szkoły lub placówki oświatowej wchodzącej w skład zespołu oraz szkoły wchodzącej w skład specjalnego ośrodka
 
-wchodzącej w skład specjalnego ośrodka szkolno-wychowawczego, młodzieżowego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii, placówki kształcenia ustawicznego, okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich – także numer identyfikacyjny REGON odpowiednio zespołu, ośrodka,
+szkolno-wychowawczego, młodzieżowego ośrodka wychowawczego, młodzieżowego ośrodka socjoterapii, placówki kształcenia ustawicznego, okręgowego ośrodka wychowawczego, zakładu poprawczego lub schroniska dla nieletnich – także numer identyfikacyjny REGON odpowiednio zespołu, ośrodka, placówki, zakładu lub schroniska,
 
-placówki, zakładu lub schroniska,
-
-b) szkoły filialnej i filii placówki – także numer identyfikacyjny REGON
-
-szkoły albo placówki, której odpowiednio szkoła filialna albo filia placówki
-
-jest organizacyjnie podporządkowana;
+b) szkoły filialnej i filii placówki – także numer identyfikacyjny REGON szkoły albo placówki, której odpowiednio szkoła filialna albo filia placówki jest organizacyjnie podporządkowana;
 
 8) numer identyfikacji podatkowej (NIP), jeżeli numer taki został nadany;
 
 9) numer identyfikacyjny szkoły lub placówki, o którym mowa w art. 9c ust. 2b ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2025 r. poz. 881 i 1019 oraz z 2026 r. poz. 203 i 319);
 
-10) adres siedziby szkoły lub placówki oświatowej, adresy innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, adresy miejsc innych niż szkoła, w których jest przeprowadzany egzamin ósmoklasisty i egzamin maturalny, oraz numer telefonu, numer faksu, adres poczty elektronicznej i strony internetowej;
+10)[^2] adres siedziby szkoły lub placówki oświatowej, adresy innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, adresy miejsc innych niż szkoła, w których jest przeprowadzany egzamin ósmoklasisty i egzamin maturalny, oraz numer telefonu, numer faksu, adres poczty elektronicznej i strony internetowej;
 
 11) dane dotyczące organu prowadzącego:
 
-a) typ organu prowadzącego: jednostka samorządu terytorialnego, minister,
+a) typ organu prowadzącego: jednostka samorządu terytorialnego, minister, osoba prawna inna niż jednostka samorządu terytorialnego, osoba fizyczna,
 
-osoba prawna inna niż jednostka samorządu terytorialnego, osoba fizyczna,
+b) nazwa i adres siedziby organu prowadzącego oraz jego numer identyfikacyjny REGON, a w przypadku osoby
 
-b) nazwa i adres siedziby organu prowadzącego oraz jego numer
+fizycznej prowadzącej szkołę lub placówkę oświatową – jej imię (imiona), nazwisko, numer PESEL i adres zamiesz-
 
-identyfikacyjny REGON, a w przypadku osoby fizycznej prowadzącej szkołę lub placówkę oświatową – jej imię (imiona), nazwisko, numer PESEL i adres zamieszkania, oraz numer telefonu, numer faksu, adres
-
-poczty elektronicznej i strony internetowej;
+kania, oraz numer telefonu, numer faksu, adres poczty elektronicznej i strony internetowej;
 
 12) status publiczno-prawny: szkoła lub placówka oświatowa publiczna, niepubliczna szkoła artystyczna o uprawnieniach publicznej szkoły artystycznej albo szkoła lub placówka oświatowa niepubliczna;
 
@@ -239,7 +337,7 @@ i) w okręgowym ośrodku wychowawczym;
 
 16) etapy edukacyjne realizowane w szkole;
 
-16a) klasy objęte strukturą organizacyjną szkoły podstawowej, o której mowa w art. 95 ustawy – Prawo oświatowe;
+16a)[^3] klasy objęte strukturą organizacyjną szkoły podstawowej, o której mowa w art. 95 ustawy – Prawo oświatowe;
 
 17) określenie, czy szkoła jest szkołą dla dzieci i młodzieży, czy szkołą dla dorosłych;
 
@@ -273,7 +371,7 @@ i) w okręgowym ośrodku wychowawczym;
 
 28b) informacja o przekazaniu prowadzenia szkoły w drodze umowy, o której mowa w art. 9 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
 
-28c) informacja o przejęciu prowadzenia szkoły na podstawie art. 9a ust. 1 ustawy – Prawo oświatowe;
+28c)[^4] informacja o przejęciu prowadzenia szkoły na podstawie art. 9a ust. 1 ustawy – Prawo oświatowe;
 
 29) numer szkoły lub placówki oświatowej w RSPO, zwany dalej „numerem RSPO”;
 
@@ -291,15 +389,13 @@ i) w okręgowym ośrodku wychowawczym;
 
 4) dane dotyczące organu prowadzącego:
 
-a) typ organu prowadzącego: jednostka samorządu terytorialnego, minister,
+a) typ organu prowadzącego: jednostka samorządu terytorialnego, minister, osoba prawna inna niż jednostka samorządu terytorialnego, osoba fizyczna,
 
-osoba prawna inna niż jednostka samorządu terytorialnego, osoba fizyczna,
+b) nazwa i adres siedziby organu prowadzącego oraz jego numer identyfikacyjny REGON, a w przypadku osoby
 
-b) nazwa i adres siedziby organu prowadzącego oraz jego numer
+fizycznej prowadzącej zespół – jej imię (imiona), nazwisko, numer PESEL i adres zamieszkania, oraz numer
 
-identyfikacyjny REGON, a w przypadku osoby fizycznej prowadzącej zespół – jej imię (imiona), nazwisko, numer PESEL i adres zamieszkania, oraz numer telefonu, numer faksu, adres poczty elektronicznej i strony
-
-internetowej;
+telefonu, numer faksu, adres poczty elektronicznej i strony internetowej;
 
 5) adres do korespondencji na terenie Rzeczypospolitej Polskiej, w tym: nazwa podmiotu, na adres którego jest kierowana korespondencja, numer telefonu, numer faksu, adres poczty elektronicznej i strony internetowej – w przypadku gdy adres do korespondencji jest inny niż adres siedziby organu prowadzącego zespół, a w przypadku osoby fizycznej prowadzącej zespół – inny niż adres zamieszkania tej osoby;
 
@@ -335,101 +431,87 @@ c) wyposażenia szkoły i placówki oświatowej,
 
 d) (uchylona)
 
-e) liczby osób niebędących uczniami danej szkoły lub placówki oświatowej
+e) liczby osób niebędących uczniami danej szkoły lub placówki oświatowej lub szkoły wchodzącej w skład zespołu
 
-lub szkoły wchodzącej w skład zespołu korzystających z internatu, w tym liczby osób posiadających orzeczenie o potrzebie kształcenia specjalnego,
+korzystających z internatu, w tym liczby osób posiadających orzeczenie o potrzebie kształcenia specjalnego,
 
-f) danych o wysokości przeciętnego wynagrodzenia nauczyciela
+f) danych o wysokości przeciętnego wynagrodzenia nauczyciela przypadającego na 1 etat, z uwzględnieniem nie-
 
-przypadającego na 1 etat, z uwzględnieniem nieperiodycznych składników wynagrodzenia – w przypadku publicznych szkół i placówek oświatowych prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego i przez osoby fizyczne oraz niepublicznych szkół i placówek
+periodycznych składników wynagrodzenia – w przypadku publicznych szkół i placówek oświatowych prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego i przez osoby fizyczne oraz niepublicznych
 
-oświatowych,
+szkół i placówek oświatowych,
 
-g) kosztów wynagrodzeń pracowników niebędących nauczycielami, wraz
-
-z pochodnymi pracownika, bez pochodnych pracodawcy, zatrudnionych
-
-w szkołach i placówkach oświatowych,
+g) kosztów wynagrodzeń pracowników niebędących nauczycielami, wraz z pochodnymi pracownika, bez pochodnych pracodawcy, zatrudnionych w szkołach i placówkach oświatowych,
 
 h) wydatków na prowadzenie szkół i placówek oświatowych,
 
 i) liczby korzystających z biblioteki szkolnej według kategorii korzystających,
 
-j) danych o wysokości wynagrodzenia osób, o których mowa w art. 3 ust. 2
+j) danych o wysokości wynagrodzenia osób, o których mowa w art. 3 ust. 2 pkt 4, w publicznych szkołach i placówkach oświatowych prowadzonych przez jednostki samorządu terytorialnego i ministrów,
 
-pkt 4, w publicznych szkołach i placówkach oświatowych prowadzonych
+k) danych o wysokości przeciętnego wynagrodzenia przypadającego na 1 etat, z uwzględnieniem nieperiodycznych
 
-przez jednostki samorządu terytorialnego i ministrów,
+składników wynagrodzenia nauczycieli mianowanych i dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa od-
 
-k) danych o wysokości przeciętnego wynagrodzenia przypadającego na 1 etat,
+powiednio w art. 8 ust. 5 pkt 1 lit. b, ust. 6 i ust. 7 pkt 2 ustawy – Prawo oświatowe;
 
-z uwzględnieniem nieperiodycznych składników wynagrodzenia nauczycieli mianowanych i dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa odpowiednio w art. 8 ust. 5 pkt 1 lit. b, ust. 6 i ust. 7 pkt 2
-
-ustawy – Prawo oświatowe;
-
-2) dane dotyczące organizacji i działalności poradni psychologiczno- -pedagogicznych, w tym poradni specjalistycznych:
+2) dane dotyczące organizacji i działalności poradni psychologiczno-pedagogicznych, w tym poradni specjalistycznych:
 
 a) liczba uczniów, nauczycieli i rodziców korzystających z pomocy poradni oraz liczba form tej pomocy – według form pomocy,
 
-b) liczba diagnoz sporządzonych przez poradnię oraz liczba dzieci do 3 roku
+b) liczba diagnoz sporządzonych przez poradnię oraz liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa
 
-życia, dzieci w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – dla których sporządzono diagnozy, według rodzajów tych diagnoz,
+w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – dla których sporządzono diagnozy, według rodzajów tych diagnoz,
 
-c) liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 31
+c) liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym
 
-ust. 1 ustawy – Prawo oświatowe, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – uczestniczących w zajęciach organizowanych przez poradnię, według
+objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas –
 
-rodzajów tych zajęć,
+uczestniczących w zajęciach organizowanych przez poradnię, według rodzajów tych zajęć,
 
-d) liczba opinii innych niż opinia o potrzebie wczesnego wspomagania
+d) liczba opinii innych niż opinia o potrzebie wczesnego wspomagania rozwoju wydanych przez poradnię oraz liczba
 
-rozwoju wydanych przez poradnię oraz liczba dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – dla których wydano opinie, według
+dzieci do 3 roku życia, dzieci w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętych rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniów, według typów szkół i klas – dla których
 
-rodzajów tych opinii,
+wydano opinie, według rodzajów tych opinii,
 
-e) numer i data wydania opinii o potrzebie wczesnego wspomagania rozwoju,
+e) numer i data wydania opinii o potrzebie wczesnego wspomagania rozwoju, orzeczenia o potrzebie zajęć rewalida-
 
-orzeczenia o potrzebie zajęć rewalidacyjno-wychowawczych oraz orzeczenia o potrzebie kształcenia specjalnego, wraz z informacją, czy opinia lub orzeczenie zostało wydane dziecku do 3 roku życia, dziecku w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętemu rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniowi, według typu szkoły i klasy, do której uczeń uczęszcza, oraz informacją o rodzaju niepełnosprawności, a w przypadku niepełnosprawności sprzężonych – współwystępujących niepełnosprawności, niedostosowaniu społecznym lub zagrożeniu
+cyjno-wychowawczych oraz orzeczenia o potrzebie kształcenia specjalnego, wraz z informacją, czy opinia lub orzeczenie zostało wydane dziecku do 3 roku życia, dziecku w wieku, o którym mowa w art. 31 ust. 1 ustawy – Prawo oświatowe, w tym objętemu rocznym obowiązkowym przygotowaniem przedszkolnym, oraz uczniowi, według typu szkoły i klasy, do której uczeń uczęszcza, oraz informacją o rodzaju niepełnosprawności, a w przypadku niepełnosprawności sprzężonych – współwystępujących niepełnosprawności, niedostosowaniu społecznym
 
-niedostosowaniem społecznym,
+lub zagrożeniu niedostosowaniem społecznym,
 
-f) liczba uczniów, według etapu edukacyjnego, wobec których stwierdzono,
+f) liczba uczniów, według etapu edukacyjnego, wobec których stwierdzono, na podstawie orzeczenia, brak potrzeby
 
-na podstawie orzeczenia, brak potrzeby kształcenia specjalnego, indywidualnego przygotowania przedszkolnego, indywidualnego nauczania
+kształcenia specjalnego, indywidualnego przygotowania przedszkolnego, indywidualnego nauczania albo zajęć
 
-albo zajęć rewalidacyjno-wychowawczych;
+rewalidacyjno-wychowawczych;
 
 2a) dane dotyczące liczby uczniów objętych pomocą psychologiczno-pedagogiczną, z wyszczególnieniem liczby uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego, udzieloną przez przedszkole, szkołę podstawową, w której zorganizowano oddział przedszkolny, lub inną formę wychowania przedszkolnego – według form tej pomocy;
 
 2b) dane dotyczące liczby uczniów objętych pomocą psychologiczno-pedagogiczną udzieloną przez szkołę, z wyszczególnieniem liczby uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego – według klas, do których uczniowie uczęszczają, i form tej pomocy;
 
-2ba) dane dotyczące liczby uczniów uczestniczących w zajęciach edukacji zdrowotnej
-
-– według klas, do których uczniowie uczęszczają, oraz płci;
+2ba)[^5] dane dotyczące liczby uczniów uczestniczących w zajęciach edukacji zdrowotnej – według klas, do których uczniowie uczęszczają, oraz płci;
 
 2bb) dane dotyczące liczby uczniów korzystających ze świetlicy szkolnej – według klas, do których uczniowie uczęszczają;
 
 2c) dane dotyczące organizacji i działalności:
 
-a) placówek zapewniających opiekę i wychowanie uczniom w okresie
+a) placówek zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania:
 
-pobierania nauki poza miejscem stałego zamieszkania: – bursa – liczba osób niebędących uczniami, korzystających z bursy,
+– bursa – liczba osób niebędących uczniami, korzystających z bursy,
 
 – dom wczasów dziecięcych – liczba turnusów,
 
 b) placówek oświatowo-wychowawczych – liczba uczestników zajęć, według rodzajów i form zajęć,
 
-c) placówek kształcenia ustawicznego, centrów kształcenia zawodowego oraz
+c) placówek kształcenia ustawicznego, centrów kształcenia zawodowego oraz branżowych centrów umiejętności –
 
-branżowych centrów umiejętności – liczba form pozaszkolnych kształcenia ustawicznego, z wyłączeniem kwalifikacyjnych kursów zawodowych, kursów umiejętności zawodowych, turnusów dokształcania teoretycznego oraz branżowych szkoleń zawodowych, według rodzajów tych form, oraz
+liczba form pozaszkolnych kształcenia ustawicznego, z wyłączeniem kwalifikacyjnych kursów zawodowych, kursów umiejętności zawodowych, turnusów dokształcania teoretycznego oraz branżowych szkoleń zawodowych,
 
-liczba uczestników tych form,
+według rodzajów tych form, oraz liczba uczestników tych form,
 
-d) placówek doskonalenia nauczycieli – liczba nauczycieli korzystających
-
-z innych niż kursy kwalifikacyjne form doskonalenia, według rodzajów
-
-tych form;
+d) placówek doskonalenia nauczycieli – liczba nauczycieli korzystających z innych niż kursy kwalifikacyjne form doskonalenia, według rodzajów tych form;
 
 3) dane dotyczące liczby nauczycieli szkół i placówek oświatowych, z którymi w danym roku kalendarzowym rozwiązano stosunek pracy albo planowane jest jego rozwiązanie albo których stosunek pracy wygasł albo wygaśnie, według przyczyn rozwiązania albo wygaśnięcia stosunku pracy;
 
@@ -457,17 +539,17 @@ f) adres siedziby jednostki oraz numer telefonu, numer faksu, adres poczty elekt
 
 2) dane dziedzinowe dotyczące:
 
-a) nauczycieli mianowanych lub dyplomowanych zatrudnionych na
+a) nauczycieli mianowanych lub dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifika-
 
-stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w urzędach obsługujących ministrów, kuratoriach oświaty, specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe, organach sprawujących nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych – dane o wysokości przeciętnego wynagrodzenia przypadającego na 1 etat, z uwzględnieniem nieperiodycznych składników
+cje pedagogiczne, w urzędach obsługujących ministrów, kuratoriach oświaty, specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe, organach sprawujących nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych – dane o wysokości przeciętnego wynagrodzenia przypadają-
 
-wynagrodzenia,
+cego na 1 etat, z uwzględnieniem nieperiodycznych składników wynagrodzenia,
 
-b) pracowników odpowiedzialnych za zarządzanie i administrowanie oświatą
+b) pracowników odpowiedzialnych za zarządzanie i administrowanie oświatą zatrudnionych w komórkach meryto-
 
-zatrudnionych w komórkach merytorycznych w urzędach gmin, starostwach powiatowych, urzędach marszałkowskich, jednostkach obsługujących, urzędach obsługujących ministrów prowadzących szkoły i placówki oświatowe, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych i specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1 i 2
+rycznych w urzędach gmin, starostwach powiatowych, urzędach marszałkowskich, jednostkach obsługujących, urzędach obsługujących ministrów prowadzących szkoły i placówki oświatowe, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych i specjalistycznej jednostce nadzoru, o której
 
-ustawy – Prawo oświatowe:
+mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe:
 
 – liczba pracowników,
 
@@ -475,9 +557,11 @@ ustawy – Prawo oświatowe:
 
 – wymiar zatrudnienia, według rodzaju zajmowanych stanowisk,
 
-c) liczby uczniów korzystających z pomocy materialnej o charakterze
+c) liczby uczniów korzystających z pomocy materialnej o charakterze socjalnym, o której mowa w art. 90c ust. 2
 
-socjalnym, o której mowa w art. 90c ust. 2 ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz udzielanej w ramach programów przyjętych na podstawie art. 90t ust. 1 i art. 90u ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty wraz z określeniem świadczeń tej pomocy.
+ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz udzielanej w ramach programów przyjętych na podstawie art. 90t ust. 1 i art. 90u ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty wraz z określeniem świadczeń
+
+tej pomocy.
 
 Art. 10. W bazie danych SIO, w zbiorach danych uczniów, są gromadzone dane identyfikacyjne i dane dziedzinowe uczniów.
 
@@ -525,19 +609,19 @@ Art. 12. Dane dziedzinowe ucznia w związku z wczesnym wspomaganiem rozwoju, zaj
 
 5) informację o rodzaju niepełnosprawności, a w przypadku niepełnosprawności sprzężonych – współwystępujących niepełnosprawności, niedostosowaniu społecznym lub zagrożeniu niedostosowaniem społecznym;
 
-6) liczbę godzin zajęć w ramach wczesnego wspomagania rozwoju dziecka, o których mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 1 ustawy – Prawo oświatowe, oraz liczbę godzin zajęć z zakresu pomocy psychologiczno-pedagogicznej, realizujących zalecenia zawarte w opinii o potrzebie wczesnego wspomagania rozwoju dziecka, ze wskazaniem formy tych zajęć: indywidualne lub w grupie oraz daty rozpoczęcia i daty zakończenia realizacji tych zajęć;
+6)[^6] liczbę godzin zajęć w ramach wczesnego wspomagania rozwoju dziecka, o których mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 1 ustawy – Prawo oświatowe, oraz liczbę godzin zajęć z zakresu pomocy psychologiczno-pedagogicznej, realizujących zalecenia zawarte w opinii o potrzebie wczesnego wspomagania rozwoju dziecka, ze wskazaniem formy tych zajęć: indywidualne lub w grupie oraz daty rozpoczęcia i daty zakończenia realizacji tych zajęć;
 
-7) liczbę godzin zajęć wychowania przedszkolnego lub zajęć edukacyjnych realizowanych indywidualnie z uczniem lub w grupie liczącej do 5 uczniów, o których mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 2 ustawy – Prawo oświatowe, ze wskazaniem daty rozpoczęcia i daty zakończenia realizacji tych zajęć;
+7)6) liczbę godzin zajęć wychowania przedszkolnego lub zajęć edukacyjnych realizowanych indywidualnie z uczniem lub w grupie liczącej do 5 uczniów, o których mowa w przepisach wydanych na podstawie art. 127 ust. 19 pkt 2 ustawy – Prawo oświatowe, ze wskazaniem daty rozpoczęcia i daty zakończenia realizacji tych zajęć;
 
-8) liczbę godzin zajęć rewalidacyjno-wychowawczych, o których mowa w przepisach wydanych na podstawie art. 7 ust. 3 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917 oraz z 2026 r. poz. 187), ze wskazaniem formy tych zajęć: indywidualne lub zespołowe oraz daty rozpoczęcia i daty zakończenia realizacji tych zajęć;
+8)6) liczbę godzin zajęć rewalidacyjno-wychowawczych, o których mowa w przepisach wydanych na podstawie art. 7 ust. 3 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2024 r. poz. 917 oraz z 2026 r. poz. 187), ze wskazaniem formy tych zajęć: indywidualne lub zespołowe oraz daty rozpoczęcia i daty zakończenia realizacji tych zajęć;
 
-9) liczbę godzin zajęć odpowiednio rewalidacyjnych, socjoterapeutycznych, resocjalizacyjnych oraz zajęć z zakresu pomocy psychologiczno-pedagogicznej, realizujących zalecenia zawarte w orzeczeniu o potrzebie kształcenia specjalnego, orzeczeniu o potrzebie zajęć rewalidacyjno-wychowawczych, w indywidualnym programie edukacyjno-terapeutycznym, o którym mowa w art. 127 ust. 3 ustawy – Prawo oświatowe, i w indywidualnym programie zajęć, o którym mowa w przepisach wydanych na podstawie art. 7 ust. 3 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ze wskazaniem formy tych zajęć: indywidualne lub zespołowe oraz daty rozpoczęcia i daty zakończenia realizacji tych zajęć;
+9)6) liczbę godzin zajęć odpowiednio rewalidacyjnych, socjoterapeutycznych, resocjalizacyjnych oraz zajęć z zakresu pomocy psychologiczno-pedagogicznej, realizujących zalecenia zawarte w orzeczeniu o potrzebie kształcenia specjalnego, orzeczeniu o potrzebie zajęć rewalidacyjno-wychowawczych, w indywidualnym programie edukacyjno-terapeutycznym, o którym mowa w art. 127 ust. 3 ustawy – Prawo oświatowe, i w indywidualnym programie zajęć, o którym mowa w przepisach wydanych na podstawie art. 7 ust. 3 ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ze wskazaniem formy tych zajęć: indywidualne lub zespołowe oraz daty rozpoczęcia i daty zakończenia realizacji tych zajęć;
 
-10) liczbę przypadających na ucznia godzin zajęć i innych zadań realizowanych przez nauczycieli posiadających kwalifikacje z zakresu pedagogiki specjalnej zatrudnionych dodatkowo w celu współorganizowania kształcenia specjalnego uczniów niepełnosprawnych, niedostosowanych społecznie oraz zagrożonych niedostosowaniem społecznym, ze wskazaniem daty rozpoczęcia i daty zakończenia realizacji tych zajęć i innych zadań;
+10)6) liczbę przypadających na ucznia godzin zajęć i innych zadań realizowanych przez nauczycieli posiadających kwalifikacje z zakresu pedagogiki specjalnej zatrudnionych dodatkowo w celu współorganizowania kształcenia specjalnego uczniów niepełnosprawnych, niedostosowanych społecznie oraz zagrożonych niedostosowaniem społecznym, ze wskazaniem daty rozpoczęcia i daty zakończenia realizacji tych zajęć i innych zadań;
 
-11) liczbę przypadających na ucznia godzin zajęć i innych zadań realizowanych przez specjalistów zatrudnionych dodatkowo w ramach współorganizowania kształcenia specjalnego, ze wskazaniem daty rozpoczęcia i daty zakończenia realizacji tych zajęć i innych zadań;
+11)6) liczbę przypadających na ucznia godzin zajęć i innych zadań realizowanych przez specjalistów zatrudnionych dodatkowo w ramach współorganizowania kształcenia specjalnego, ze wskazaniem daty rozpoczęcia i daty zakończenia realizacji tych zajęć i innych zadań;
 
-12) liczbę przypadających na ucznia godzin zajęć i innych zadań realizowanych przez pomoc nauczyciela, ze wskazaniem daty rozpoczęcia i daty zakończenia realizacji tych zajęć i innych zadań.
+12)6) liczbę przypadających na ucznia godzin zajęć i innych zadań realizowanych przez pomoc nauczyciela, ze wskazaniem daty rozpoczęcia i daty zakończenia realizacji tych zajęć i innych zadań.
 
 Art. 13. Dane dziedzinowe w związku z uczęszczaniem ucznia do przedszkola, oddziału przedszkolnego zorganizowanego w szkole podstawowej lub innej formy wychowania przedszkolnego obejmują:
 
@@ -609,7 +693,7 @@ Art. 14. Dane dziedzinowe w związku z nauką ucznia w szkole obejmują:
 
 14) (uchylony)
 
-15) informację, jakiego języka obcego uczeń się uczy, a w przypadku ucznia oddziału dwujęzycznego – informację, jaki język obcy jest drugim językiem nauczania;
+15)[^7] informację, jakiego języka obcego uczeń się uczy, a w przypadku ucznia oddziału dwujęzycznego – informację, jaki język obcy jest drugim językiem nauczania;
 
 16) uczestniczenie w nauce języka mniejszości narodowej, etnicznej lub języka regionalnego, z określeniem nazwy tego języka;
 
@@ -645,7 +729,7 @@ Art. 14. Dane dziedzinowe w związku z nauką ucznia w szkole obejmują:
 
 32) informację o spełnianiu obowiązku szkolnego w szkole obwodowej;
 
-33) dane zawarte w legitymacji szkolnej, o której mowa w art. 11 ust. 1a i 1b ustawy z dnia 7 września 1991 r. o systemie oświaty, obejmujące:
+33)[^8] dane zawarte w legitymacji szkolnej, o której mowa w art. 11 ust. 1a i 1b ustawy z dnia 7 września 1991 r. o systemie oświaty, obejmujące:
 
 a) numer legitymacji szkolnej,
 
@@ -655,7 +739,7 @@ c) datę wydania legitymacji szkolnej,
 
 d) datę ważności legitymacji szkolnej;
 
-34) dane zawarte w mLegitymacji szkolnej, o której mowa w art. 11 ust. 1d ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz dane jej dotyczące, obejmujące:
+34)[^8] dane zawarte w mLegitymacji szkolnej, o której mowa w art. 11 ust. 1d ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz dane jej dotyczące, obejmujące:
 
 a) numer mLegitymacji szkolnej,
 
@@ -699,15 +783,13 @@ Art. 16. Dane dziedzinowe w związku z objęciem ucznia opieką w młodzieżowym
 
 1) podstawę pobytu w ośrodku:
 
-a) odpowiednio orzeczenie o potrzebie kształcenia specjalnego albo
-
-orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych,
+a) odpowiednio orzeczenie o potrzebie kształcenia specjalnego albo orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych,
 
 b) orzeczenie sądu,
 
 c) wniosek rodziców;
 
-2) działania wynikające ze specjalnej organizacji nauki, metod pracy i wychowania, w tym w zakresie pomocy psychologiczno-pedagogicznej, z określeniem form tej pomocy;
+2) działania wynikające ze specjalnej organizacji nauki, metod pracy i wychowania, w tym w zakresie pomocy psychologiczno- -pedagogicznej, z określeniem form tej pomocy;
 
 3) wypadki, którym uległ uczeń, będąc pod opieką ośrodka, z określeniem rodzaju wypadku, miejsca, w którym zdarzył się wypadek, rodzaju zajęć, w czasie których wypadek miał miejsce, oraz przyczyny wypadku;
 
@@ -777,15 +859,9 @@ Art. 20. Dane dziedzinowe ucznia w związku z egzaminami przeprowadzanymi przez 
 
 a) typ szkoły ukończonej na podstawie egzaminów eksternistycznych,
 
-b) uzyskanie certyfikatu kwalifikacji zawodowej po zdaniu egzaminu
+b) uzyskanie certyfikatu kwalifikacji zawodowej po zdaniu egzaminu eksternistycznego zawodowego, z określeniem kwalifikacji,
 
-eksternistycznego zawodowego, z określeniem kwalifikacji,
-
-c) zdanie egzaminu eksternistycznego z zakresu wymagań określonych
-
-w podstawie programowej kształcenia ogólnego dla branżowej szkoły
-
-I stopnia lub branżowej szkoły II stopnia;
+c) zdanie egzaminu eksternistycznego z zakresu wymagań określonych w podstawie programowej kształcenia ogólnego dla branżowej szkoły I stopnia lub branżowej szkoły II stopnia;
 
 3) informację o uzyskaniu dyplomu zawodowego.
 
@@ -849,29 +925,23 @@ h) przyczyny nieprowadzenia zajęć,
 
 i) stopień awansu zawodowego oraz dane dotyczące uzyskania kolejnego stopnia awansu zawodowego,
 
-j) dane o wysokości wynagrodzenia, z wyszczególnieniem jego składników
+j) dane o wysokości wynagrodzenia, z wyszczególnieniem jego składników i ich wysokości, w tym składników nie-
 
-i ich wysokości, w tym składników nieperiodycznych, oraz dodatków i ich wysokości – w przypadku osób zatrudnionych w publicznych szkołach i placówkach oświatowych prowadzonych przez jednostki samorządu
+periodycznych, oraz dodatków i ich wysokości – w przypadku osób zatrudnionych w publicznych szkołach i placów-
 
-terytorialnego i ministrów,
+kach oświatowych prowadzonych przez jednostki samorządu terytorialnego i ministrów,
 
-k) datę nawiązania stosunku pracy oraz datę rozwiązania albo wygaśnięcia
+k) datę nawiązania stosunku pracy oraz datę rozwiązania albo wygaśnięcia stosunku pracy, a w przypadku przenie-
 
-stosunku pracy, a w przypadku przeniesienia nauczyciela na inne stanowisko lub do innej szkoły na podstawie art. 18 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela – także datę przeniesienia,
+sienia nauczyciela na inne stanowisko lub do innej szkoły na podstawie art. 18 ustawy z dnia 26 stycznia 1982 r. –
+
+Karta Nauczyciela – także datę przeniesienia,
 
 l) informację o otrzymanej ocenie pracy, o której mowa w art. 6a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
 
-m) numer, datę wydania oraz datę i przyczynę unieważnienia mLegitymacji,
+m)[^9] numer, datę wydania oraz datę i przyczynę unieważnienia mLegitymacji, o której mowa w art. 11b ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
 
-o której mowa w art. 11b ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta
-
-Nauczyciela,
-
-n) numer, datę wydania oraz datę i przyczynę unieważnienia legitymacji,
-
-o której mowa w art. 11c ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta
-
-Nauczyciela;
+n)[^9] numer, datę wydania oraz datę i przyczynę unieważnienia legitymacji, o której mowa w art. 11c ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela;
 
 1a) w odniesieniu do nauczycieli, o których mowa w art. 16 ust. 1 ustawy – Prawo oświatowe:
 
@@ -891,15 +961,15 @@ g) rodzaje i wymiar prowadzonych zajęć lub innych wykonywanych obowiązków,
 
 h) przyczyny nieprowadzenia zajęć,
 
-i) dane o wysokości wynagrodzenia, z wyszczególnieniem jego składników
+i) dane o wysokości wynagrodzenia, z wyszczególnieniem jego składników i ich wysokości, w tym składników nie-
 
-i ich wysokości, w tym składników nieperiodycznych, oraz dodatków i ich wysokości – w przypadku osób zatrudnionych w publicznych szkołach i placówkach oświatowych prowadzonych przez jednostki samorządu
+periodycznych, oraz dodatków i ich wysokości – w przypadku osób zatrudnionych w publicznych szkołach i placówkach oświatowych prowadzonych przez jednostki samorządu terytorialnego i ministrów,
 
-terytorialnego i ministrów,
+j) datę nawiązania stosunku pracy oraz datę rozwiązania albo wygaśnięcia stosunku pracy, a w przypadku przenie-
 
-j) datę nawiązania stosunku pracy oraz datę rozwiązania albo wygaśnięcia
+sienia nauczyciela na inne stanowisko lub do innej szkoły na podstawie art. 18 ustawy z dnia 26 stycznia 1982 r. –
 
-stosunku pracy, a w przypadku przeniesienia nauczyciela na inne stanowisko lub do innej szkoły na podstawie art. 18 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela – także datę przeniesienia;
+Karta Nauczyciela – także datę przeniesienia;
 
 2) w odniesieniu do nauczycieli mianowanych lub dyplomowanych zatrudnionych na stanowiskach, na których wymagane są kwalifikacje pedagogiczne, w urzędach obsługujących ministrów, kuratoriach oświaty, specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe, organach sprawujących nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, Centralnej Komisji Egzaminacyjnej i okręgowych komisjach egzaminacyjnych, publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa odpowiednio w art. 8 ust. 5 pkt 1 lit. b, ust. 6 i ust. 7 pkt 2 ustawy – Prawo oświatowe:
 
@@ -919,11 +989,11 @@ g) stopień awansu zawodowego oraz dane dotyczące uzyskania kolejnego stopnia a
 
 h) datę nawiązania stosunku pracy oraz datę rozwiązania albo wygaśnięcia stosunku pracy,
 
-i) informację o otrzymanej ocenie pracy, o której mowa w art. 6a ustawy
+i) informację o otrzymanej ocenie pracy, o której mowa w art. 6a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczy-
 
-z dnia 26 stycznia 1982 r. – Karta Nauczyciela – w przypadku nauczycieli zatrudnionych w publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa odpowiednio w art. 8 ust. 5 pkt 1 lit. b, ust. 6
+ciela – w przypadku nauczycieli zatrudnionych w publicznych placówkach doskonalenia nauczycieli o zasięgu ogólnokrajowym, publicznych placówkach doskonalenia nauczycieli szkół artystycznych oraz publicznych placówkach doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, o których mowa
 
-i ust. 7 pkt 2 ustawy – Prawo oświatowe.
+odpowiednio w art. 8 ust. 5 pkt 1 lit. b, ust. 6 i ust. 7 pkt 2 ustawy – Prawo oświatowe.
 
 2. Dane dziedzinowe nauczyciela w związku z doskonaleniem zawodowym i dodatkowymi uprawnieniami w odniesieniu do nauczycieli, wychowawców i innych pracowników pedagogicznych oraz nauczycieli mianowanych lub dyplomowanych, o których mowa w ust. 1 pkt 2, obejmują:
 
@@ -937,9 +1007,7 @@ i ust. 7 pkt 2 ustawy – Prawo oświatowe.
 
 5) uprawnienia trenera, instruktora sportu lub menedżera sportu, zwane dalej „dodatkowymi uprawnieniami w zakresie kultury fizycznej”;
 
-6) ukończone szkolenia branżowe, o których mowa w art. 3 pkt 7 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
-
-3. Dane dziedzinowe nauczyciela w związku ze stosunkiem pracy obejmują:
+6) ukończone szkolenia branżowe, o których mowa w art. 3 pkt 7 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela. 3. Dane dziedzinowe nauczyciela w związku ze stosunkiem pracy obejmują:
 
 1) w odniesieniu do osób niebędących nauczycielami, o których mowa w art. 15 ustawy – Prawo oświatowe:
 
@@ -955,11 +1023,11 @@ e) rodzaj i wymiar prowadzonych zajęć lub innych wykonywanych obowiązków,
 
 f) przyczyny nieprowadzenia zajęć,
 
-g) dane o wysokości wynagrodzenia, z wyszczególnieniem jego składników
+g) dane o wysokości wynagrodzenia, z wyszczególnieniem jego składników i ich wysokości, w tym składników nie-
 
-i ich wysokości, w tym składników nieperiodycznych, oraz dodatków i ich wysokości – w przypadku osób zatrudnionych w publicznych szkołach i placówkach oświatowych prowadzonych przez jednostki samorządu
+periodycznych, oraz dodatków i ich wysokości – w przypadku osób zatrudnionych w publicznych szkołach i placów-
 
-terytorialnego i ministrów,
+kach oświatowych prowadzonych przez jednostki samorządu terytorialnego i ministrów,
 
 h) datę nawiązania stosunku pracy oraz datę rozwiązania albo wygaśnięcia stosunku pracy;
 
@@ -975,11 +1043,11 @@ d) zajmowane stanowiska i sprawowane funkcje,
 
 e) rodzaj i wymiar obowiązków,
 
-f) dane o wysokości wynagrodzenia, z wyszczególnieniem jego składników
+f) dane o wysokości wynagrodzenia, z wyszczególnieniem jego składników i ich wysokości, w tym składników nie-
 
-i ich wysokości, w tym składników nieperiodycznych, oraz dodatków i ich wysokości – w przypadku osób zatrudnionych w publicznych szkołach i placówkach oświatowych prowadzonych przez jednostki samorządu
+periodycznych, oraz dodatków i ich wysokości – w przypadku osób zatrudnionych w publicznych szkołach i placów-
 
-terytorialnego i ministrów,
+kach oświatowych prowadzonych przez jednostki samorządu terytorialnego i ministrów,
 
 g) datę nawiązania stosunku pracy oraz datę rozwiązania albo wygaśnięcia stosunku pracy.
 
@@ -997,7 +1065,7 @@ g) datę nawiązania stosunku pracy oraz datę rozwiązania albo wygaśnięcia s
 
 6) rodzaj, datę rozpoczęcia i zakończenia obowiązywania umowy.
 
-Art. 30. 1. Podmiot zobowiązany do przekazywania danych do zbioru danych szkoły lub placówki oświatowej, zbioru danych jednostki, zbioru danych nauczyciela i zbioru danych ucznia przekazuje dane do bazy danych SIO, w terminie 7 dni od dnia, w którym nastąpiła zmiana w stanie faktycznym, z wyjątkiem danych, o których mowa w:
+Art. 30. 1.[^10] Podmiot zobowiązany do przekazywania danych do zbioru danych szkoły lub placówki oświatowej, zbioru danych jednostki, zbioru danych nauczyciela i zbioru danych ucznia przekazuje dane do bazy danych SIO, w terminie 7 dni od dnia, w którym nastąpiła zmiana w stanie faktycznym, z wyjątkiem danych, o których mowa w:
 
 1) art. 8 pkt 1 lit. a–c, e–k i pkt 2–4, art. 9 pkt 2, art. 14 pkt 25 i 32, art. 20 pkt 1, art. 29 ust. 1 pkt 1 lit. j, pkt 1a lit. i, ust. 3 pkt 1 lit. g oraz pkt 2 lit. f;
 
@@ -1009,7 +1077,7 @@ Art. 30. 1. Podmiot zobowiązany do przekazywania danych do zbioru danych szkoł
 
 5) danych identyfikacyjnych uczniów przystępujących do egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego.
 
-2. Podmiot zobowiązany do przekazywania danych do zbioru danych ucznia, w zakresie danych, o których mowa w art. 14 pkt 2, 3, pkt 5 – w zakresie zawodu, pkt 7–8a, 15, 16, 19 i 20, może przekazać te dane na kolejny rok szkolny w okresie ferii letnich poprzedzających ten rok szkolny.
+2.[^11] Podmiot zobowiązany do przekazywania danych do zbioru danych ucznia, w zakresie danych, o których mowa w art. 14 pkt 2, 3, pkt 5 – w zakresie zawodu, pkt 7–8a, 15, 16, 19 i 20, może przekazać te dane na kolejny rok szkolny w okresie ferii letnich poprzedzających ten rok szkolny.
 
 Art. 31. 1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowy zakres danych dziedzinowych gromadzonych w systemie informacji oświatowej w zbiorach danych szkół i placówek oświatowych, zbiorach danych jednostek, zbiorach danych uczniów i zbiorach danych nauczycieli oraz terminy przekazywania do bazy danych SIO danych, o których mowa w:
 
@@ -1025,7 +1093,7 @@ Art. 31. 1. Minister właściwy do spraw oświaty i wychowania określi, w drodz
 
 2. Rozporządzenie, o którym mowa w ust. 1, powinno uwzględniać potrzebę zapewnienia organom administracji publicznej, realizującym na poziomie lokalnym, regionalnym i krajowym politykę oświatową państwa, aktualnych danych niezbędnych do realizowania zadań w tym zakresie, a także planowania środków budżetowych niezbędnych do finansowania zadań oświatowych oraz konieczność dostosowania terminów przekazywania danych do bazy danych SIO do terminów przygotowywania projektu budżetu państwa i budżetów jednostek samorządu terytorialnego.
 
-Art. 32. 1. W razie uzasadnionej ważnym interesem publicznym potrzeby pilnego pozyskania przez ministra właściwego do spraw oświaty i wychowania danych dziedzinowych dotyczących warunków dydaktycznych, materialnych i finan-sowych prowadzenia szkół i placówek oświatowych, nieobjętych szczegółowym zakresem danych określonym w przepisach wydanych na podstawie art. 31, z bazy danych SIO do podmiotów zobowiązanych do przekazywania danych do zbiorów danych szkół i placówek oświatowych jest kierowane zapytanie dotyczące tych danych, w formie formularza określającego wymagane dane oraz termin ich przekazania do bazy danych SIO.
+Art. 32. 1. W razie uzasadnionej ważnym interesem publicznym potrzeby pilnego pozyskania przez ministra właściwego do spraw oświaty i wychowania danych dziedzinowych dotyczących warunków dydaktycznych, materialnych i finansowych prowadzenia szkół i placówek oświatowych, nieobjętych szczegółowym zakresem danych określonym w przepisach wydanych na podstawie art. 31, z bazy danych SIO do podmiotów zobowiązanych do przekazywania danych do zbiorów danych szkół i placówek oświatowych jest kierowane zapytanie dotyczące tych danych, w formie formularza określającego wymagane dane oraz termin ich przekazania do bazy danych SIO.
 
 2. Dane przekazane na podstawie formularza, o którym mowa w ust. 1, po ich przetworzeniu podlegają niezwłocznie usunięciu z bazy danych SIO.
 
@@ -1039,21 +1107,17 @@ Art. 33. Dane identyfikacyjne szkół i placówek oświatowych oraz ich zespoł�
 
 a) publicznych szkół i placówek oświatowych oraz ich zespołów prowadzonych przez te jednostki,
 
-b) publicznych szkół i placówek oświatowych prowadzonych przez osoby
+b) publicznych szkół i placówek oświatowych prowadzonych przez osoby prawne inne niż jednostki samorządu terytorial-
 
-prawne inne niż jednostki samorządu terytorialnego oraz przez osoby fizyczne, dla których te jednostki samorządu terytorialnego są organem właściwym do wydania zezwolenia na założenie publicznej szkoły lub placówki oświatowej, oraz zespołów tych szkół i placówek oświatowych,
+nego oraz przez osoby fizyczne, dla których te jednostki samorządu terytorialnego są organem właściwym do wydania zezwolenia na założenie publicznej szkoły lub placówki oświatowej, oraz zespołów tych szkół i placówek
 
-c) niepublicznych szkół i placówek oświatowych, wpisanych do prowadzonej
+oświatowych,
 
-przez tę jednostkę samorządu terytorialnego ewidencji niepublicznych szkół
+c) niepublicznych szkół i placówek oświatowych, wpisanych do prowadzonej przez tę jednostkę samorządu terytorialnego ewidencji niepublicznych szkół i placówek oświatowych, oraz ich zespołów,
 
-i placówek oświatowych, oraz ich zespołów,
+d) niepublicznych kolegiów pracowników służb społecznych oraz niepublicznych placówek doskonalenia nauczy-
 
-d) niepublicznych kolegiów pracowników służb społecznych oraz
-
-niepublicznych placówek doskonalenia nauczycieli wpisanych do prowadzonej przez samorząd województwa ewidencji – w przypadku
-
-samorządów województw;
+cieli wpisanych do prowadzonej przez samorząd województwa ewidencji – w przypadku samorządów województw;
 
 2) minister właściwy do spraw oświaty i wychowania przekazuje dane prowadzonych przez tego ministra:
 
@@ -1069,17 +1133,13 @@ d) zespołów szkół lub placówek oświatowych;
 
 a) publicznych szkół lub placówek artystycznych oraz ich zespołów prowadzonych przez tego ministra,
 
-b) publicznych szkół i placówek artystycznych prowadzonych przez osoby
+b) publicznych szkół i placówek artystycznych prowadzonych przez osoby prawne inne niż jednostki samorządu tery-
 
-prawne inne niż jednostki samorządu terytorialnego oraz przez osoby fizyczne, którym minister ten wydał zezwolenie na założenie publicznej szkoły lub placówki artystycznej, oraz zespołów tych szkół i placówek
+torialnego oraz przez osoby fizyczne, którym minister ten wydał zezwolenie na założenie publicznej szkoły lub
 
-artystycznych,
+placówki artystycznej, oraz zespołów tych szkół i placówek artystycznych,
 
-c) niepublicznych szkół i placówek artystycznych, wpisanych do prowadzonej
-
-przez tego ministra ewidencji niepublicznych szkół i placówek
-
-artystycznych, oraz ich zespołów;
+c) niepublicznych szkół i placówek artystycznych, wpisanych do prowadzonej przez tego ministra ewidencji niepublicznych szkół i placówek artystycznych, oraz ich zespołów;
 
 4) inni niż wymienieni w pkt 2 i 3 ministrowie przekazują dane prowadzonych przez tych ministrów szkół i placówek oświatowych oraz ich zespołów;
 
@@ -1087,27 +1147,25 @@ artystycznych, oraz ich zespołów;
 
 Art. 34. 1. Podmiot zobowiązany do przekazywania danych do RSPO, z wyjątkiem okręgowej komisji egzaminacyjnej, przekazuje dane identyfikacyjne szkoły lub placówki oświatowej w terminie 7 dni od dnia założenia szkoły lub placówki publicznej, a w przypadku publicznej szkoły lub placówki oświatowej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną oraz niepublicznej szkoły lub placówki oświatowej – w terminie 7 dni odpowiednio od dnia wydania zezwolenia na założenie szkoły lub placówki oświatowej albo dokonania wpisu do ewidencji niepublicznych szkół i placówek oświatowych.
 
-2. Samorząd województwa przekazuje do RSPO dane identyfikacyjne niepublicznych kolegiów pracowników służb społecznych w terminie 7 dni od dnia otrzymania od organu prowadzącego niezbędnych do przekazania danych.
-
-3. Organ prowadzący niepubliczne kolegium pracowników służb społecznych dostarcza samorządowi województwa dane niezbędne do przekazania do RSPO w terminie 7 dni od dnia uzyskania zezwolenia ministra właściwego do spraw zabezpieczenia społecznego na utworzenie kolegium.
+2. Samorząd województwa przekazuje do RSPO dane identyfikacyjne niepublicznych kolegiów pracowników służb społecznych w terminie 7 dni od dnia otrzymania od organu prowadzącego niezbędnych do przekazania danych. 3. Organ prowadzący niepubliczne kolegium pracowników służb społecznych dostarcza samorządowi województwa dane niezbędne do przekazania do RSPO w terminie 7 dni od dnia uzyskania zezwolenia ministra właściwego do spraw zabezpieczenia społecznego na utworzenie kolegium.
 
 Art. 35. 1. Dane niezbędne do wpisania szkoły lub placówki oświatowej do rejestru REGON przekazane do RSPO przez podmiot zobowiązany są następnie przekazywane z bazy danych SIO do rejestru REGON. Przekazanie danych do RSPO przez podmiot zobowiązany jest równoznaczne ze złożeniem wniosku o wpis szkoły lub placówki oświatowej do rejestru REGON.
 
-2. Informacja o numerze identyfikacyjnym REGON nadanym szkole lub placówce oświatowej oraz jej jednostce lokalnej (filii), jeżeli szkoła lub placówka oświatowa taką jednostkę posiada, jest przesyłana z rejestru REGON do bazy danych SIO.
-
-3. Z dniem otrzymania przez bazę danych SIO informacji, o której mowa w ust. 2, dane szkoły lub placówki oświatowej zostają wpisane do RSPO.
+2. Informacja o numerze identyfikacyjnym REGON nadanym szkole lub placówce oświatowej oraz jej jednostce lokalnej (filii), jeżeli szkoła lub placówka oświatowa taką jednostkę posiada, jest przesyłana z rejestru REGON do bazy danych SIO. 3. Z dniem otrzymania przez bazę danych SIO informacji, o której mowa w ust. 2, dane szkoły lub placówki oświatowej zostają wpisane do RSPO.
 
 4. W przypadku szkoły, której dane identyfikacyjne zostały wpisane do RSPO, w bazie danych SIO w zbiorze danych jednostek w zakresie właściwej okręgowej komisji egzaminacyjnej jest generowany komunikat o wpisaniu do RSPO tych danych.
 
 Art. 36. 1. W przypadku zmiany danych objętych RSPO, w tym likwidacji szkoły lub placówki oświatowej, podmiot zobowiązany do przekazywania danych do RSPO przekazuje do RSPO aktualne dane, z tym że aktualne:
 
-1) dane dotyczące numeru telefonu, numeru faksu, adresu poczty elektronicznej i strony internetowej szkoły, placówki oświatowej lub zespołu szkół i placówek oświatowych oraz adresów innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych i adresów miejsc innych niż szkoła, w których jest przeprowadzany egzamin ósmoklasisty i egzamin maturalny, o których mowa w art. 7 ust. 1 pkt 10 i ust. 1a pkt 3,
+1)[^12] dane dotyczące numeru telefonu, numeru faksu, adresu poczty elektronicznej i strony internetowej szkoły, placówki oświatowej lub zespołu szkół i placówek oświatowych oraz adresów innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych i adresów miejsc innych niż szkoła, w których jest przeprowadzany egzamin ósmoklasisty i egzamin maturalny, o których mowa w art. 7 ust. 1 pkt 10 i ust. 1a pkt 3,
 
 2) dane dotyczące imienia i nazwiska dyrektora szkoły, placówki oświatowej lub zespołu szkół i placówek oświatowych, o których mowa w art. 7 ust. 1 pkt 26 i ust. 1a pkt 6,
 
 3) dane, o których mowa w art. 7 ust. 1 pkt 25 i ust. 1a pkt 5,
 
-4) dane, o których mowa w art. 7 ust. 1 pkt 20 i 21 – w przypadku szkół artystycznych nieprowadzonych przez jednostki samorządu terytorialnego – przekazuje dyrektor szkoły, placówki oświatowej lub zespołu szkół i placówek oświatowych.
+4) dane, o których mowa w art. 7 ust. 1 pkt 20 i 21 – w przypadku szkół artystycznych nieprowadzonych przez jednostki samorządu terytorialnego
+
+– przekazuje dyrektor szkoły, placówki oświatowej lub zespołu szkół i placówek oświatowych.
 
 2. W przypadku publicznej szkoły lub placówki oświatowej prowadzonej przez jednostkę samorządu terytorialnego oraz ministra, organ prowadzący przekazuje do RSPO aktualne dane w terminie 7 dni od dnia zmiany.
 
@@ -1117,7 +1175,9 @@ Art. 36. 1. W przypadku zmiany danych objętych RSPO, w tym likwidacji szkoły l
 
 Art. 37. 1. Jeżeli zmiana danych objętych RSPO dotyczy danych objętych wpisem do rejestru REGON, przekazane do RSPO przez podmiot zobowiązany aktualne dane szkoły lub placówki oświatowej są przekazywane z bazy danych SIO do rejestru REGON. Przekazanie aktualnych danych do RSPO przez podmiot zobowiązany jest równoznaczne ze złożeniem wniosku o zmianę cech objętych wpisem w rejestrze REGON albo wniosku o skreślenie szkoły lub placówki oświatowej z rejestru REGON.
 
-2. Po dokonaniu zmiany cech objętych wpisem do rejestru REGON z rejestru REGON jest przekazywany do bazy danych SIO komunikat o dokonaniu zmiany. 3. Jeżeli szkoła lub placówka oświatowa została skreślona z rejestru REGON, z rejestru REGON jest przekazywany do bazy danych SIO komunikat o skreśleniu szkoły lub placówki oświatowej z rejestru REGON.
+2. Po dokonaniu zmiany cech objętych wpisem do rejestru REGON z rejestru REGON jest przekazywany do bazy danych SIO komunikat o dokonaniu zmiany.
+
+3. Jeżeli szkoła lub placówka oświatowa została skreślona z rejestru REGON, z rejestru REGON jest przekazywany do bazy danych SIO komunikat o skreśleniu szkoły lub placówki oświatowej z rejestru REGON.
 
 Art. 37a. Przepisy art. 34–37 stosuje się odpowiednio do wpisywania zespołu szkół lub placówek oświatowych do rejestru REGON.
 
@@ -1137,11 +1197,11 @@ Art. 40. 1. Szkoły i placówki oświatowe do zbioru danych danej szkoły lub pl
 
 5) liczby uczniów objętych pomocą psychologiczno-pedagogiczną, z wyszczególnieniem liczby uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego, udzieloną przez szkołę – według klas, do których uczniowie uczęszczają, i form tej pomocy;
 
-6) liczby uczniów uczestniczących w zajęciach edukacji zdrowotnej – według klas, do których uczniowie uczęszczają, oraz płci;
+6)5) liczby uczniów uczestniczących w zajęciach edukacji zdrowotnej – według klas, do których uczniowie uczęszczają, oraz płci;
 
 7) liczby uczniów korzystających ze świetlicy szkolnej – według klas, do których uczniowie uczęszczają.
 
-2. Placówki zapewniające opiekę i wychowanie uczniom poza miejscem stałego zamieszkania, poradnie psychologiczno-pedagogiczne, w tym poradnie specjalistyczne, placówki doskonalenia nauczycieli, placówki oświatowo-wycho-wawcze, placówki kształcenia ustawicznego, centra kształcenia zawodowego oraz branżowe centra umiejętności przekazują do zbioru danych danej placówki, poradni lub ośrodka także dane dotyczące ich organizacji i działalności.
+2. Placówki zapewniające opiekę i wychowanie uczniom poza miejscem stałego zamieszkania, poradnie psychologiczno- -pedagogiczne, w tym poradnie specjalistyczne, placówki doskonalenia nauczycieli, placówki oświatowo-wychowawcze, placówki kształcenia ustawicznego, centra kształcenia zawodowego oraz branżowe centra umiejętności przekazują do zbioru danych danej placówki, poradni lub ośrodka także dane dotyczące ich organizacji i działalności.
 
 3. (uchylony)
 
@@ -1163,7 +1223,7 @@ Art. 41. 1. Ministrowie prowadzący szkoły i placówki oświatowe, minister wł
 
 Art. 42. Dane identyfikacyjne i dane dziedzinowe do zbioru danych ucznia przekazują:
 
-1) dane w związku z wczesnym wspomaganiem rozwoju, zajęciami rewalidacyjno- -wychowawczymi oraz kształceniem specjalnym – szkoła lub placówka oświatowa organizująca wczesne wspomaganie rozwoju, zajęcia rewalidacyjno- -wychowawcze oraz kształcenie specjalne;
+1) dane w związku z wczesnym wspomaganiem rozwoju, zajęciami rewalidacyjno-wychowawczymi oraz kształceniem specjalnym – szkoła lub placówka oświatowa organizująca wczesne wspomaganie rozwoju, zajęcia rewalidacyjno- -wychowawcze oraz kształcenie specjalne;
 
 2) dane w związku z objęciem ucznia wychowaniem przedszkolnym – przedszkole, szkoła podstawowa, w której został zorganizowany oddział przedszkolny, lub inna forma wychowania przedszkolnego, do których uczeń uczęszcza;
 
@@ -1209,9 +1269,7 @@ d) minister właściwy do spraw oświaty i wychowania,
 
 e) kuratorzy oświaty,
 
-f) organy sprawujące nadzór pedagogiczny, o których mowa w art. 1 ust. 2
-
-pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
+f) organy sprawujące nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
 
 g) specjalistyczne jednostki nadzoru, o których mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe,
 
@@ -1221,19 +1279,17 @@ i) okręgowe komisje egzaminacyjne;
 
 2) dane w związku z awansem zawodowym, obejmujące:
 
-a) stopień awansu zawodowego – organ, który nadał nauczycielowi stopień
+a) stopień awansu zawodowego – organ, który nadał nauczycielowi stopień awansu zawodowego, a w przypadku
 
-awansu zawodowego, a w przypadku nauczyciela zatrudnionego w publicznej szkole i placówce oświatowej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną oraz
+nauczyciela zatrudnionego w publicznej szkole i placówce oświatowej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną oraz w niepublicznej szkole i placówce oświatowej –
 
-w niepublicznej szkole i placówce oświatowej – szkoła lub placówka
+szkoła lub placówka oświatowa, w której nauczyciel jest zatrudniony,
 
-oświatowa, w której nauczyciel jest zatrudniony,
+b) dane dotyczące uzyskania kolejnego stopnia awansu zawodowego – szkoła lub placówka oświatowa, w której nauczyciel jest zatrudniony;
 
-b) dane dotyczące uzyskania kolejnego stopnia awansu zawodowego – szkoła
+3) dane osób, o których mowa w art. 3 ust. 2 pkt 4 – szkoły i placówki oświatowe.
 
-lub placówka oświatowa, w której nauczyciel jest zatrudniony;
-
-3) dane osób, o których mowa w art. 3 ust. 2 pkt 4 – szkoły i placówki oświatowe. 2. Dane dziedzinowe do zbioru danych nauczyciela dotyczące doskonalenia zawodowego i dodatkowych uprawnień, obejmujące:
+2. Dane dziedzinowe do zbioru danych nauczyciela dotyczące doskonalenia zawodowego i dodatkowych uprawnień, obejmujące:
 
 1) ukończenie kursu kwalifikacyjnego – przekazuje placówka doskonalenia nauczycieli, która ten kurs prowadziła;
 
@@ -1247,19 +1303,15 @@ lub placówka oświatowa, w której nauczyciel jest zatrudniony;
 
 6) ukończenie szkolenia branżowego, o którym mowa w art. 3 pkt 7 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela – przekazuje szkoła lub placówka oświatowa, w której nauczyciel jest zatrudniony.
 
-Art. 43a. Do bazy danych SIO pozyskuje się z systemu teleinformatycznego Zakładu Ubezpieczeń Społecznych informacje o pobieraniu przez nauczyciela emerytury przyznanej na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26 i 425) lub na podstawie odrębnych przepisów oraz emerytury pomostowej przyznanej na podstawie ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2024 r. poz. 1696), w tym datę, od kiedy to świadczenie jest pobierane.
+Art. 43a.[^13] Do bazy danych SIO pozyskuje się z systemu teleinformatycznego Zakładu Ubezpieczeń Społecznych informacje o pobieraniu przez nauczyciela emerytury przyznanej na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26 i 425) lub na podstawie odrębnych przepisów oraz emerytury pomostowej przyznanej na podstawie ustawy z dnia 19 grudnia 2008 r. o emeryturach pomostowych (Dz. U. z 2024 r. poz. 1696), w tym datę, od kiedy to świadczenie jest pobierane.
 
 Art. 44. 1. Szkoła lub placówka oświatowa przekazuje do bazy danych SIO dane identyfikacyjne i dane dziedzinowe ucznia.
 
-2. Dane identyfikacyjne ucznia podlegają weryfikacji z danymi osobowymi ucznia zawartymi w rejestrze PESEL.
-
-3. W przypadku pozytywnej weryfikacji z rejestru PESEL do bazy danych SIO do zbioru danych uczniów jest przekazywane drugie imię (imiona), płeć, data i miejsce urodzenia oraz obywatelstwo ucznia, a w przypadku zgonu ucznia – również data zgonu albo data znalezienia zwłok.
+2. Dane identyfikacyjne ucznia podlegają weryfikacji z danymi osobowymi ucznia zawartymi w rejestrze PESEL. 3.[^14] W przypadku pozytywnej weryfikacji z rejestru PESEL do bazy danych SIO do zbioru danych uczniów jest przekazywane drugie imię (imiona), płeć, data i miejsce urodzenia oraz obywatelstwo ucznia, a w przypadku zgonu ucznia – również data zgonu albo data znalezienia zwłok.
 
 4. W przypadku negatywnej weryfikacji danych identyfikacyjnych ucznia w zbiorze danych uczniów w bazie danych SIO jest generowana informacja o negatywnej weryfikacji danych identyfikacyjnych tego ucznia.
 
-5. W przypadku, o którym mowa w ust. 4, szkoła lub placówka oświatowa jest obowiązana niezwłocznie wyjaśnić stan faktyczny dotyczący niezgodności danych identyfikacyjnych ucznia z danymi osobowymi ucznia zawartymi w rejestrze PESEL. 6. W celu wyjaśnienia stanu faktycznego szkoła lub placówka oświatowa na podstawie posiadanej dokumentacji przekazuje kierownikowi urzędu stanu cywilnego właściwego ze względu na miejsce zamieszkania ucznia informację o braku pozytywnej weryfikacji danych identyfikacyjnych ucznia z danymi osobowymi ucznia zawartymi w rejestrze PESEL. Na podstawie przekazanej informacji właściwy kierownik urzędu stanu cywilnego z urzędu dokonuje sprawdzenia danych zawartych w rejestrze PESEL zgodnie z art. 11 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2026 r. poz. 384).
-
-7. W informacji przekazywanej do właściwego kierownika urzędu stanu cywilnego, o której mowa w ust. 6, podaje się:
+5. W przypadku, o którym mowa w ust. 4, szkoła lub placówka oświatowa jest obowiązana niezwłocznie wyjaśnić stan faktyczny dotyczący niezgodności danych identyfikacyjnych ucznia z danymi osobowymi ucznia zawartymi w rejestrze PESEL. 6. W celu wyjaśnienia stanu faktycznego szkoła lub placówka oświatowa na podstawie posiadanej dokumentacji przekazuje kierownikowi urzędu stanu cywilnego właściwego ze względu na miejsce zamieszkania ucznia informację o braku pozytywnej weryfikacji danych identyfikacyjnych ucznia z danymi osobowymi ucznia zawartymi w rejestrze PESEL. Na podstawie przekazanej informacji właściwy kierownik urzędu stanu cywilnego z urzędu dokonuje sprawdzenia danych zawartych w rejestrze PESEL zgodnie z art. 11 ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2026 r. poz. 384). 7. W informacji przekazywanej do właściwego kierownika urzędu stanu cywilnego, o której mowa w ust. 6, podaje się:
 
 1) imię i nazwisko ucznia;
 
@@ -1281,15 +1333,13 @@ Art. 44. 1. Szkoła lub placówka oświatowa przekazuje do bazy danych SIO dane 
 
 11. Jeżeli szkoła lub placówka oświatowa nie przekazała ponownie do bazy danych SIO danych identyfikacyjnych ucznia zgodnie z ust. 10, co miesiąc, począwszy od dnia negatywnej weryfikacji danych identyfikacyjnych tego ucznia, o której mowa w ust. 4, szkoła lub placówka oświatowa otrzymuje z bazy danych SIO informację o liczbie uczniów tej szkoły lub placówki oświatowej niezweryfikowanych pozytywnie, których dane są zgromadzone w bazie danych SIO. Informację taką otrzymuje także podmiot zobowiązany do przekazywania do RSPO danych tej szkoły lub placówki, o którym mowa w art. 33.
 
-12. W przypadku ucznia szkoły specjalnej zorganizowanej w podmiocie leczniczym przepisów ust. 5–11 nie stosuje się.
-
-13. W przypadku ucznia nieposiadającego numeru PESEL, szkoła lub placówka oświatowa przekazuje do bazy danych SIO dane identyfikacyjne wraz z danymi dziedzinowymi tego ucznia.
+12. W przypadku ucznia szkoły specjalnej zorganizowanej w podmiocie leczniczym przepisów ust. 5–11 nie stosuje się. 13. W przypadku ucznia nieposiadającego numeru PESEL, szkoła lub placówka oświatowa przekazuje do bazy danych SIO dane identyfikacyjne wraz z danymi dziedzinowymi tego ucznia.
 
 Art. 44a. 1. Szkoła lub placówka oświatowa przekazuje do bazy danych SIO dane dziedzinowe ucznia związane z wczesnym wspomaganiem rozwoju, zajęciami rewalidacyjno-wychowawczymi oraz kształceniem specjalnym, o których mowa w art. 12, po przedłożeniu przez rodziców ucznia w szkole lub placówce oświatowej opinii lub orzeczenia, o których mowa w art. 12, w celu objęcia ucznia wczesnym wspomaganiem rozwoju, zajęciami rewalidacyjno-wychowawczymi lub kształceniem specjalnym, oraz po pozytywnej weryfikacji danych dziedzinowych, o których mowa w art. 12, z danymi dziedzinowymi, o których mowa w art. 8 pkt 2 lit. e.
 
 2. W celu weryfikacji danych dziedzinowych, o których mowa w art. 12, z danymi dziedzinowymi, o których mowa w art. 8 pkt 2 lit. e, szkoła lub placówka oświatowa przekazuje do bazy danych SIO:
 
-1) numer i datę wydania opinii o potrzebie wczesnego wspomagania rozwoju, orzeczenia o potrzebie zajęć rewalidacyjno-wychowawczych, orzeczenia o potrzebie kształcenia specjalnego oraz informację o rodzaju niepełnosprawności, a w przypadku niepełnosprawności sprzężonych – współwystępujących niepełnosprawności, niedostosowaniu społecznym lub zagrożeniu niedostosowaniem społecznym;
+1) numer i datę wydania opinii o potrzebie wczesnego wspomagania rozwoju, orzeczenia o potrzebie zajęć rewalidacyjno- -wychowawczych, orzeczenia o potrzebie kształcenia specjalnego oraz informację o rodzaju niepełnosprawności, a w przypadku niepełnosprawności sprzężonych – współwystępujących niepełnosprawności, niedostosowaniu społecznym lub zagrożeniu niedostosowaniem społecznym;
 
 2) numer identyfikacyjny REGON poradni, która wydała opinię lub orzeczenie, o których mowa w pkt 1.
 
@@ -1313,23 +1363,19 @@ Art. 48. (uchylony)
 
 Art. 49. Przekazanie danych do bazy danych SIO jest równoznaczne z potwierdzeniem przez kierownika podmiotu zobowiązanego do przekazywania danych do bazy danych SIO zgodności przekazanych danych ze stanem faktycznym i dokumentacją szkoły, placówki oświatowej lub innej jednostki wykonującej zadania z zakresu oświaty.
 
-Art. 50. 1. Na podstawie danych zgromadzonych w bazie danych SIO zawartych w zbiorach danych szkół i placówek oświatowych, zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty, zbiorach danych uczniów oraz zbiorach danych nauczycieli, według stanu na dzień 15 czerwca danego roku są sporządzane:
+Art. 50. 1.[^15] Na podstawie danych zgromadzonych w bazie danych SIO zawartych w zbiorach danych szkół i placówek oświatowych, zbiorach danych innych jednostek wykonujących zadania z zakresu oświaty, zbiorach danych uczniów oraz zbiorach danych nauczycieli, według stanu na dzień 15 czerwca danego roku są sporządzane:
 
 1) zestawienia zawierające dane dotyczące liczby uczniów i liczby etatów nauczycieli, niezbędne do dokonania podziału kwoty potrzeb oświatowych między poszczególne jednostki samorządu terytorialnego;
 
 2) zestawienia zawierające dane dotyczące liczby uczniów i liczby etatów nauczycieli w szkołach i placówkach oświatowych prowadzonych przez ministrów.
 
-2. Zestawienia, o których mowa w ust. 1 pkt 1, są udostępniane w bazie danych SIO jednostkom samorządu terytorialnego.
+2.[^15] Zestawienia, o których mowa w ust. 1 pkt 1, są udostępniane w bazie danych SIO jednostkom samorządu terytorialnego.
 
 3. Jednostki samorządu terytorialnego, w terminie 30 dni od dnia udostępnienia w bazie danych SIO zestawień, o których mowa w ust. 1 pkt 1, potwierdzają prawdziwość danych zawartych w zestawieniach.
 
 3a. Minister właściwy do spraw oświaty i wychowania może przedłużyć termin potwierdzenia prawdziwości danych, o którym mowa w ust. 3, przez jednostki samorządu terytorialnego.
 
-4. W celu potwierdzenia prawdziwości danych, dane zawarte w zestawieniach, o których mowa w ust. 1, są porównywane z danymi, którymi dysponuje jednostka samorządu terytorialnego lub minister prowadzący szkoły i placówki oświatowe, w szczególności z danymi posiadanymi w związku ze sprawowaniem nadzoru nad działalnością prowadzonej szkoły lub placówki oświatowej w zakresie spraw finansowych i administracyjnych oraz w związku z udzielaniem i rozliczaniem przez jednostkę samorządu terytorialnego dotacji dla publicznych szkół i placówek oświatowych prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego lub osoby fizyczne oraz dla niepublicznych szkół i placówek oświatowych.
-
-5. Jeżeli jednostka samorządu terytorialnego lub minister prowadzący szkołę lub placówkę oświatową stwierdzi nieprawdziwość danych przekazanych do bazy danych SIO przez szkołę lub placówkę oświatową lub poweźmie wątpliwość co do prawdziwości tych danych, niezwłocznie przekazuje o tym powiadomienie do bazy danych SIO oraz informuje szkołę lub placówkę oświatową, która przekazała dane do bazy danych SIO, o konieczności sprawdzenia przekazanych danych.
-
-6. Szkoła lub placówka oświatowa, która przekazała do bazy danych SIO dane, których dotyczy powiadomienie, o którym mowa w ust. 5:
+4. W celu potwierdzenia prawdziwości danych, dane zawarte w zestawieniach, o których mowa w ust. 1, są porównywane z danymi, którymi dysponuje jednostka samorządu terytorialnego lub minister prowadzący szkoły i placówki oświatowe, w szczególności z danymi posiadanymi w związku ze sprawowaniem nadzoru nad działalnością prowadzonej szkoły lub placówki oświatowej w zakresie spraw finansowych i administracyjnych oraz w związku z udzielaniem i rozliczaniem przez jednostkę samorządu terytorialnego dotacji dla publicznych szkół i placówek oświatowych prowadzonych przez osoby prawne inne niż jednostki samorządu terytorialnego lub osoby fizyczne oraz dla niepublicznych szkół i placówek oświatowych. 5. Jeżeli jednostka samorządu terytorialnego lub minister prowadzący szkołę lub placówkę oświatową stwierdzi nieprawdziwość danych przekazanych do bazy danych SIO przez szkołę lub placówkę oświatową lub poweźmie wątpliwość co do prawdziwości tych danych, niezwłocznie przekazuje o tym powiadomienie do bazy danych SIO oraz informuje szkołę lub placówkę oświatową, która przekazała dane do bazy danych SIO, o konieczności sprawdzenia przekazanych danych. 6. Szkoła lub placówka oświatowa, która przekazała do bazy danych SIO dane, których dotyczy powiadomienie, o którym mowa w ust. 5:
 
 1) potwierdza prawdziwość danych w bazie danych SIO oraz informuje o tym odpowiednio jednostkę samorządu terytorialnego albo ministra prowadzącego szkołę lub placówkę oświatową lub
 
@@ -1339,9 +1385,7 @@ Art. 50. 1. Na podstawie danych zgromadzonych w bazie danych SIO zawartych w zbi
 
 ## Rozdział 4
 
-Pozyskiwanie danych dziedzinowych z bazy danych SIO oraz danych z rejestru
-
-**PESEL za pośrednictwem bazy danych SIO**
+**Pozyskiwanie danych dziedzinowych z bazy danych SIO oraz danych z rejestru PESEL za pośrednictwem bazy danych SIO**
 
 Art. 51. 1. Dane zgromadzone w RSPO są jawne, z wyjątkiem:
 
@@ -1361,7 +1405,9 @@ Art. 52. 1. Z bazy danych SIO mogą być pozyskiwane dane identyfikacyjne i dane
 
 1) w zakresie określonym w art. 42 oraz art. 43, przez podmioty, które przekazały te dane;
 
-2) w zakresie określonym odpowiednio w art. 53 i art. 55 oraz art. 57–59, przez podmioty uprawnione, o których mowa w art. 53 i art. 55 oraz art. 57–59. 2. Za pośrednictwem bazy danych SIO mogą być pozyskiwane z rejestru PESEL dane osobowe uczniów i dane osobowe nauczycieli przez podmioty uprawnione, o których mowa w art. 53 i art. 55 oraz art. 57–59, w zakresie określonym odpowiednio w art. 53 i art. 55 oraz art. 57–59.
+2) w zakresie określonym odpowiednio w art. 53 i art. 55 oraz art. 57–59, przez podmioty uprawnione, o których mowa w art. 53 i art. 55 oraz art. 57–59.
+
+2. Za pośrednictwem bazy danych SIO mogą być pozyskiwane z rejestru PESEL dane osobowe uczniów i dane osobowe nauczycieli przez podmioty uprawnione, o których mowa w art. 53 i art. 55 oraz art. 57–59, w zakresie określonym odpowiednio w art. 53 i art. 55 oraz art. 57–59.
 
 3. Z bazy danych SIO mogą być pozyskiwane dane dziedzinowe szkół i placówek oświatowych oraz dane dziedzinowe jednostek wykonujących zadania z zakresu oświaty zgromadzone odpowiednio w zbiorach danych szkół i placówek oświatowych oraz zbiorach danych jednostek, w zakresie określonym w art. 40 oraz art. 41, przez podmioty, które przekazały te dane.
 
@@ -1369,21 +1415,15 @@ Art. 53. Szkoły i placówki oświatowe mogą pozyskiwać następujące dane ucz
 
 1) w związku z prowadzeniem dokumentacji przebiegu nauczania, działalności wychowawczej i opiekuńczej:
 
-a) z rejestru PESEL za pośrednictwem bazy danych SIO – drugie imię
+a)[^16] z rejestru PESEL za pośrednictwem bazy danych SIO – drugie imię (imiona), płeć, datę i miejsce urodzenia oraz
 
-(imiona), płeć, datę i miejsce urodzenia oraz obywatelstwo, a w przypadku zgonu ucznia – również datę zgonu albo datę znalezienia zwłok,
+obywatelstwo, a w przypadku zgonu ucznia – również datę zgonu albo datę znalezienia zwłok,
 
-b) z bazy danych SIO – miejscowość, w której uczeń mieszka, a w przypadku
-
-ucznia niebędącego obywatelem polskim – także kraj pochodzenia;
+b) z bazy danych SIO – miejscowość, w której uczeń mieszka, a w przypadku ucznia niebędącego obywatelem polskim – także kraj pochodzenia;
 
 2) z bazy danych SIO:
 
-a) w zakresie zapewnienia kontynuacji nauczania języka obcego – informację
-
-o języku obcym, którego uczeń uczył się na poprzednim etapie
-
-edukacyjnym.
+a) w zakresie zapewnienia kontynuacji nauczania języka obcego – informację o języku obcym, którego uczeń uczył się na poprzednim etapie edukacyjnym.
 
 b) (uchylona)
 
@@ -1399,7 +1439,9 @@ Art. 55. 1. Okręgowe komisje egzaminacyjne, w związku z organizacją egzaminu 
 
 1) z rejestru PESEL – drugie imię (imiona), datę i miejsce urodzenia;
 
-2) z bazy danych SIO – numer PESEL, a w przypadku ucznia nieposiadającego numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, imię i nazwisko, klasę, semestr i oddział, do którego uczeń uczęszcza albo uczęszczał, informację o uczęszczaniu do oddziału dwujęzycznego i języku obcym będącym drugim językiem nauczania w tym oddziale, zawód – w przypadku ucznia szkoły prowadzącej kształcenie zawodowe, kwalifikację – w przypadku uczestniczenia w kwalifikacyjnym kursie zawodowym, informację o orzeczeniu o potrzebie kształcenia specjalnego, nazwę i adres szkoły, do której uczeń uczęszcza albo uczęszczał, adresy miejsc innych niż szkoła, w których jest przeprowadzany egzamin ósmoklasisty i egzamin maturalny, oraz numer identyfikacyjny szkoły, o którym mowa w art. 9c ust. 2b ustawy z dnia 7 września 1991 r. o systemie oświaty. 2. Szkoły przekazują do bazy danych SIO dane identyfikacyjne uczniów przystępujących do egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego w terminach określonych w przepisach wydanych na podstawie art. 31.
+2)[^17] z bazy danych SIO – numer PESEL, a w przypadku ucznia nieposiadającego numeru PESEL – serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość, imię i nazwisko, klasę, semestr i oddział, do którego uczeń uczęszcza albo uczęszczał, informację o uczęszczaniu do oddziału dwujęzycznego i języku obcym będącym drugim językiem nauczania w tym oddziale, zawód – w przypadku ucznia szkoły prowadzącej kształcenie zawodowe, kwalifikację – w przypadku uczestniczenia w kwalifikacyjnym kursie zawodowym, informację o orzeczeniu o potrzebie kształcenia specjalnego, nazwę i adres szkoły, do której uczeń uczęszcza albo uczęszczał, adresy miejsc innych niż szkoła, w których jest przeprowadzany egzamin ósmoklasisty i egzamin maturalny, oraz numer identyfikacyjny szkoły, o którym mowa w art. 9c ust. 2b ustawy z dnia 7 września 1991 r. o systemie oświaty.
+
+2. Szkoły przekazują do bazy danych SIO dane identyfikacyjne uczniów przystępujących do egzaminu ósmoklasisty, egzaminu maturalnego i egzaminu zawodowego w terminach określonych w przepisach wydanych na podstawie art. 31.
 
 Art. 56. (uchylony)
 
@@ -1407,7 +1449,7 @@ Art. 57. 1. Jednostki samorządu terytorialnego w związku z organizowaniem przy
 
 1) z rejestru PESEL – drugie imię (imiona), datę i miejsce urodzenia;
 
-2) z bazy danych SIO – miejsce zamieszkania, nazwę i adres szkoły, do której uczeń uczęszczał, wyniki egzaminu ósmoklasisty, informację o uzyskaniu tytułu laureata olimpiady przedmiotowej, konkursu lub zawodów na szczeblu co naj-mniej powiatu.
+2) z bazy danych SIO – miejsce zamieszkania, nazwę i adres szkoły, do której uczeń uczęszczał, wyniki egzaminu ósmoklasisty, informację o uzyskaniu tytułu laureata olimpiady przedmiotowej, konkursu lub zawodów na szczeblu co najmniej powiatu.
 
 2. Jednostki samorządu terytorialnego mogą pozyskiwać dane, o których mowa w ust. 1, jeżeli przyjmowanie uczniów do prowadzonych przez te jednostki szkół ponadpodstawowych odbywa się z wykorzystaniem systemu teleinformatycznego. 3. Dane, o których mowa w ust. 1, mogą być pozyskane po wyrażeniu przez rodziców ucznia albo pełnoletniego ucznia, w formie pisemnej, zgody na ich pozyskanie i przetwarzanie.
 
@@ -1417,19 +1459,15 @@ Art. 57. 1. Jednostki samorządu terytorialnego w związku z organizowaniem przy
 
 Art. 58. 1. Szkoły i placówki oświatowe, jednostki organizacyjne, o których mowa w art. 1 ust. 1 pkt 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, Centralna Komisja Egzaminacyjna, okręgowe komisje egzaminacyjne, ministrowie prowadzący szkoły i placówki oświatowe, kuratorzy oświaty, organy sprawujące nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, specjalistyczne jednostki nadzoru, o których mowa w art. 53 ust. 1 i 2 ustawy – Prawo oświatowe, w związku z zatrudnieniem nauczyciela, mogą pozyskiwać następujące dane nauczyciela:
 
-1) z rejestru PESEL – drugie imię (imiona), płeć, datę i miejsce urodzenia oraz obywatelstwo, a w przypadku zgonu nauczyciela – również datę zgonu albo datę znalezienia zwłok;
+1)[^18] z rejestru PESEL – drugie imię (imiona), płeć, datę i miejsce urodzenia oraz obywatelstwo, a w przypadku zgonu nauczyciela – również datę zgonu albo datę znalezienia zwłok;
 
-2) z bazy danych SIO – wykształcenie, przygotowanie pedagogiczne, posiadane kwalifikacje do nauczania, stopień awansu zawodowego, ukończone formy dokształcania i doskonalenia zawodowego, wpisanie do ewidencji egzaminatorów, wpisanie na listę rzeczoznawców, wpisanie na listę ekspertów, dodatkowe uprawnienia w zakresie kultury fizycznej.
+2) z bazy danych SIO – wykształcenie, przygotowanie pedagogiczne, posiadane kwalifikacje do nauczania, stopień awansu zawodowego, ukończone formy dokształcania i doskonalenia zawodowego, wpisanie do ewidencji egzaminatorów, wpisanie na listę rzeczoznawców, wpisanie na listę ekspertów, dodatkowe uprawnienia w zakresie kultury fizycznej. 2. Okręgowe komisje egzaminacyjne w związku z ubieganiem się nauczyciela o wpisanie do ewidencji egzaminatorów mogą pozyskiwać z bazy danych SIO następujące dane nauczyciela: wykształcenie, przygotowanie pedagogiczne, posiadane kwalifikacje do nauczania, stopień awansu zawodowego, ukończone formy dokształcania i doskonalenia zawodowego, wpisanie do ewidencji egzaminatorów oraz nazwę i adres miejsca pracy. Dane obejmujące nazwę i adres miejsca pracy są generowane w bazie danych SIO automatycznie.
 
-2. Okręgowe komisje egzaminacyjne w związku z ubieganiem się nauczyciela o wpisanie do ewidencji egzaminatorów mogą pozyskiwać z bazy danych SIO następujące dane nauczyciela: wykształcenie, przygotowanie pedagogiczne, posiadane kwalifikacje do nauczania, stopień awansu zawodowego, ukończone formy dokształcania i doskonalenia zawodowego, wpisanie do ewidencji egzaminatorów oraz nazwę i adres miejsca pracy. Dane obejmujące nazwę i adres miejsca pracy są generowane w bazie danych SIO automatycznie.
-
-3. Minister właściwy do spraw oświaty i wychowania w związku z ubieganiem się nauczyciela o wpisanie na prowadzoną przez tego ministra listę rzeczoznawców albo listę ekspertów może pozyskiwać z bazy danych SIO następujące dane nauczyciela: imię (imiona) i nazwisko, posiadane kwalifikacje do nauczania, sprawowane funkcje i zajmowane stanowiska.
-
-4. (uchylony)
+3. Minister właściwy do spraw oświaty i wychowania w związku z ubieganiem się nauczyciela o wpisanie na prowadzoną przez tego ministra listę rzeczoznawców albo listę ekspertów może pozyskiwać z bazy danych SIO następujące dane nauczyciela: imię (imiona) i nazwisko, posiadane kwalifikacje do nauczania, sprawowane funkcje i zajmowane stanowiska. 4. (uchylony)
 
 Art. 59. Jednostki samorządu terytorialnego i jednostki obsługujące w związku z prowadzeniem obsługi szkół i placówek oświatowych mogą pozyskiwać następujące dane nauczyciela:
 
-1) z rejestru PESEL – drugie imię (imiona), płeć, datę i miejsce urodzenia oraz obywatelstwo, a w przypadku zgonu nauczyciela – również datę zgonu albo datę znalezienia zwłok;
+1)[^19] z rejestru PESEL – drugie imię (imiona), płeć, datę i miejsce urodzenia oraz obywatelstwo, a w przypadku zgonu nauczyciela – również datę zgonu albo datę znalezienia zwłok;
 
 2) z bazy danych SIO – wykształcenie, przygotowanie pedagogiczne, posiadane kwalifikacje do nauczania, stopień awansu zawodowego, ukończone formy dokształcania i doskonalenia zawodowego.
 
@@ -1439,9 +1477,9 @@ Art. 60. 1. Dane nauczyciela, o których mowa w art. 58 ust. 1 pkt 2 i art. 59 p
 
 Art. 60a. Dane ucznia oraz dane nauczyciela, o których mowa odpowiednio w art. 44a ust. 7 pkt 1 lit. a i b oraz pkt 2 lit. a–c ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO do bazy danych narzędzia informatycznego, o którym mowa w art. 44a ust. 1 ustawy – Prawo oświatowe, w celu odzwierciedlenia struktury organizacyjnej szkoły lub placówki oświatowej.
 
-Art. 60aa. (uchylony)
+Art. 60aa. (uchylony)[^20]
 
-Art. 60ab. Dane ucznia i dane nauczyciela, o których mowa w art. 44e ust. 9 pkt 2 lit. a i b oraz pkt 5 lit. a i b ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO do bazy danych systemu teleinformatycznego, o którym mowa w art. 44e ust. 1 ustawy – Prawo oświatowe, w celu odzwierciedlenia struktury organizacyjnej szkoły lub placówki oświatowej, a dane ucznia, o których mowa w art. 44e ust. 9 pkt 2 lit. d–j ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO do bazy danych systemu teleinformatycznego, o którym mowa w art. 44e ust. 1 ustawy – Prawo oświatowe, w celu wspierania realizacji przez szkoły i placówki oświatowe zadań związanych z rozpoznawaniem potrzeb rozwojowych i edukacyjnych uczniów, planowaniem i realizacją działań mających na celu realizację tych potrzeb oraz oceną efektywności tych działań.
+Art. 60ab.[^21] Dane ucznia i dane nauczyciela, o których mowa w art. 44e ust. 9 pkt 2 lit. a i b oraz pkt 5 lit. a i b ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO do bazy danych systemu teleinformatycznego, o którym mowa w art. 44e ust. 1 ustawy – Prawo oświatowe, w celu odzwierciedlenia struktury organizacyjnej szkoły lub placówki oświatowej, a dane ucznia, o których mowa w art. 44e ust. 9 pkt 2 lit. d–j ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO do bazy danych systemu teleinformatycznego, o którym mowa w art. 44e ust. 1 ustawy – Prawo oświatowe, w celu wspierania realizacji przez szkoły i placówki oświatowe zadań związanych z rozpoznawaniem potrzeb rozwojowych i edukacyjnych uczniów, planowaniem i realizacją działań mających na celu realizację tych potrzeb oraz oceną efektywności tych działań.
 
 Art. 60b. Dane absolwenta, o których mowa w art. 26b ust. 7 ustawy – Prawo oświatowe, są pozyskiwane z bazy danych SIO przez ministra właściwego do spraw oświaty i wychowania w celu prowadzenia monitoringu karier absolwentów, o którym mowa w art. 26b ust. 1 tej ustawy.
 
@@ -1451,7 +1489,7 @@ Art. 61. 1. Regionalne izby obrachunkowe mogą, za pośrednictwem bazy danych SI
 
 Art. 62. 1. Uczelnie mogą pozyskiwać z bazy danych SIO, do celów rekrutacji na studia wyższe, dane dziedzinowe dotyczące wyników egzaminu maturalnego, egzaminu zawodowego lub egzaminu potwierdzającego kwalifikacje w zawodzie absolwenta oraz dane identyfikacyjne szkoły ponadpodstawowej, którą absolwent ukończył. Dane te są pozyskiwane po wyrażeniu przez absolwenta, w formie pisemnej, zgody na ich pozyskanie.
 
-1a. (uchylony)
+1a. (uchylony)[^22]
 
 2. (uchylony)
 
@@ -1491,39 +1529,39 @@ Art. 64a. 1. Prawo do pozyskania danych identyfikacyjnych i danych dziedzinowych
 
 3. Wniosek składa się do administratora bazy danych SIO.
 
-Art. 64b. 1. Dyrektor Instytutu Badań Edukacyjnych w Warszawie może, na wniosek, pozyskiwać dane identyfikacyjne i dane dziedzinowe uczniów, nauczycieli, szkół i placówek oświatowych oraz ich zespołów z bazy danych SIO w celu realizacji zadań, o których mowa w art. 94ba ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty.
+Art. 64b.[^23] 1. Dyrektor Instytutu Badań Edukacyjnych w Warszawie może, na wniosek, pozyskiwać dane identyfikacyjne i dane dziedzinowe uczniów, nauczycieli, szkół i placówek oświatowych oraz ich zespołów z bazy danych SIO w celu realizacji zadań, o których mowa w art. 94ba ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty.
 
 2. Wniosek, o którym mowa w ust. 1, zawiera:
 
-1) w przypadku wniosku dotyczącego uczniów lub nauczycieli: imię (imiona), nazwisko i numer PESEL osoby, której wniosek dotyczy, a w przypadku osoby nieposiadającej numeru PESEL – imię (imiona), nazwisko i datę urodzenia oraz
-
-– jeżeli dana osoba nie jest obywatelem polskim – kraj pochodzenia lub wskazanie kategorii osób, których wniosek dotyczy;
+1) w przypadku wniosku dotyczącego uczniów lub nauczycieli: imię (imiona), nazwisko i numer PESEL osoby, której wniosek dotyczy, a w przypadku osoby nieposiadającej numeru PESEL – imię (imiona), nazwisko i datę urodzenia oraz – jeżeli dana osoba nie jest obywatelem polskim – kraj pochodzenia lub wskazanie kategorii osób, których wniosek dotyczy;
 
 2) w przypadku wniosku dotyczącego szkół lub placówek oświatowych, lub ich zespołów: numer RSPO lub wskazanie kategorii szkół lub placówek oświatowych, lub ich zespołów, których wniosek dotyczy;
 
 3) zakres danych, o których mowa w ust. 1;
 
-4) wskazanie zadania zleconego przez ministra właściwego do spraw oświaty i wychowania na podstawie art. 94ba ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, w związku z którym są pozyskiwane dane, o których mowa w ust. 1.
+4) wskazanie zadania zleconego przez ministra właściwego do spraw oświaty i wychowania na podstawie art. 94ba ust. 1 ustawy z dnia 7 września 1991 r. o systemie oświaty, w związku z którym są pozyskiwane dane, o których mowa w ust. 1. 3. Wniosek, o którym mowa w ust. 1, składa się do administratora bazy danych SIO.
 
-3. Wniosek, o którym mowa w ust. 1, składa się do administratora bazy danych SIO.
+Art. 65. 1. Na podstawie danych zgromadzonych w bazie danych SIO mogą być sporządzane i udostępniane raporty. Raporty udostępnia się w postaci elektronicznej.
 
-Art. 65. 1. Na podstawie danych zgromadzonych w bazie danych SIO mogą być sporządzane i udostępniane raporty. Raporty udostępnia się w postaci elektronicznej. 2. Raport obejmuje zanonimizowane dane powstające w procesie automatycznego przetwarzania danych identyfikacyjnych i danych dziedzinowych szkół, placówek oświatowych, innych jednostek wykonujących zadania z zakresu oświaty oraz uczniów i nauczycieli, zgromadzonych w bazie danych SIO, a w razie potrzeby wynikającej z zakresu przedmiotowego danego raportu – także danych osobowych uczniów i nauczycieli z rejestru PESEL.
+2. Raport obejmuje zanonimizowane dane powstające w procesie automatycznego przetwarzania danych identyfikacyjnych i danych dziedzinowych szkół, placówek oświatowych, innych jednostek wykonujących zadania z zakresu oświaty oraz uczniów i nauczycieli, zgromadzonych w bazie danych SIO, a w razie potrzeby wynikającej z zakresu przedmiotowego danego raportu – także danych osobowych uczniów i nauczycieli z rejestru PESEL.
 
 3. W razie potrzeby sporządzenia raportu wykorzystującego dane osobowe z rejestru PESEL dane te czasowo przechowuje się w bazie danych SIO.
 
-Art. 66. 1. Szkoły i placówki oświatowe, inne jednostki wykonujące zadania z zakresu oświaty, organy administracji rządowej, w zakresie wykonywanych zadań, ogólnopolskie organizacje jednostek samorządu terytorialnego, których przedstawiciele wchodzą w skład Komisji Wspólnej Rządu i Samorządu Terytorialnego, regionalne izby obrachunkowe, Główny Urząd Statystyczny oraz Zakład Ubezpieczeń Społecznych mogą pozyskiwać z bazy danych SIO raporty nieodpłatnie.
-
-2. Z bazy danych SIO mogą być udostępniane raporty:
+Art. 66. 1.[^24] Szkoły i placówki oświatowe, inne jednostki wykonujące zadania z zakresu oświaty, organy administracji rządowej, w zakresie wykonywanych zadań, ogólnopolskie organizacje jednostek samorządu terytorialnego, których przedstawiciele wchodzą w skład Komisji Wspólnej Rządu i Samorządu Terytorialnego, regionalne izby obrachunkowe, Główny Urząd Statystyczny oraz Zakład Ubezpieczeń Społecznych mogą pozyskiwać z bazy danych SIO raporty nieodpłatnie. 2. Z bazy danych SIO mogą być udostępniane raporty:
 
 1) powszechnie dostępne publikowane na portalu systemu informacji oświatowej;
 
-2) indywidualne na zamówienia podmiotów innych niż wymienione w ust. 1. 3. Raporty, o których mowa w ust. 2 pkt 2, są sporządzane odpłatnie i udostępniane w terminie ustalonym z zainteresowanym podmiotem.
+2) indywidualne na zamówienia podmiotów innych niż wymienione w ust. 1.
+
+3. Raporty, o których mowa w ust. 2 pkt 2, są sporządzane odpłatnie i udostępniane w terminie ustalonym z zainteresowanym podmiotem.
 
 4. (uchylony)
 
 5. Minister właściwy do spraw oświaty i wychowania podaje do publicznej wiadomości wysokość opłat za udostępnianie raportów z bazy danych SIO, uwzględniając pracochłonność oraz stopień skomplikowania raportów.
 
-6. Opłaty, o których mowa w ust. 5, stanowią dochód budżetu państwa. 7. Do celów realizowania zadań zleconych przez ministra właściwego do spraw oświaty i wychowania podmiotom podległym lub nadzorowanym przez tego ministra raporty udostępnia się nieodpłatnie.
+6. Opłaty, o których mowa w ust. 5, stanowią dochód budżetu państwa.
+
+7. Do celów realizowania zadań zleconych przez ministra właściwego do spraw oświaty i wychowania podmiotom podległym lub nadzorowanym przez tego ministra raporty udostępnia się nieodpłatnie.
 
 Art. 66a. Minister właściwy do spraw rodziny, w celu umożliwienia wójtom, burmistrzom, prezydentom miast oraz wojewodom weryfikacji prawa odpowiednio do świadczeń rodzinnych, świadczeń z funduszu alimentacyjnego oraz Karty Dużej Rodziny, a także w celu monitorowania przez ministra właściwego do spraw rodziny oraz wojewodę realizacji świadczeń rodzinnych, świadczeń z funduszu alimentacyjnego oraz Karty Dużej Rodziny odpowiednio przez wójtów, burmistrzów, prezydentów miast oraz wojewodów, pozyskuje z bazy danych SIO dane identyfikacyjne ucznia obejmujące imię (imiona), nazwisko i numer PESEL, a w przypadku ucznia nieposiadającego numeru PESEL – imię (imiona), nazwisko, datę urodzenia, serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz dane dziedzinowe ucznia obejmujące informacje o:
 
@@ -1535,7 +1573,7 @@ Art. 66a. Minister właściwy do spraw rodziny, w celu umożliwienia wójtom, bu
 
 4) klasie, do której uczeń uczęszcza lub uczęszczał.
 
-Art. 66b. Zakład Ubezpieczeń Społecznych, w celu weryfikacji prawa do świadczenia „aktywni rodzice w pracy” i świadczenia „aktywnie w żłobku”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktyw-ności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. z 2026 r. poz. 532), świadczenia wychowawczego oraz świadczenia dobry start, pozyskuje z bazy danych SIO dane identyfikacyjne ucznia obejmujące imię (imiona), nazwisko i numer PESEL, a w przypadku ucznia nieposiadającego numeru PESEL – imię (imiona), nazwisko, datę urodzenia, serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz dane dziedzinowe ucznia obejmujące informacje o:
+Art. 66b. Zakład Ubezpieczeń Społecznych, w celu weryfikacji prawa do świadczenia „aktywni rodzice w pracy” i świadczenia „aktywnie w żłobku”, o których mowa w ustawie z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. z 2026 r. poz. 532), świadczenia wychowawczego oraz świadczenia dobry start, pozyskuje z bazy danych SIO dane identyfikacyjne ucznia obejmujące imię (imiona), nazwisko i numer PESEL, a w przypadku ucznia nieposiadającego numeru PESEL – imię (imiona), nazwisko, datę urodzenia, serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz dane dziedzinowe ucznia obejmujące informacje o:[^25]
 
 1) uczęszczaniu ucznia do szkoły lub placówki oświatowej;
 
@@ -1549,11 +1587,9 @@ Art. 66c. Minister właściwy do spraw kultury fizycznej, w celu prowadzenia ewi
 
 1) dane identyfikacyjne ucznia obejmujące:
 
-a) imię i nazwisko oraz numer PESEL, a w przypadku ucznia
+a) imię i nazwisko oraz numer PESEL, a w przypadku ucznia nieposiadającego numeru PESEL – imię (imiona),
 
-nieposiadającego numeru PESEL – imię (imiona), nazwisko, datę urodzenia, serię i numer paszportu lub innego dokumentu potwierdzającego
-
-tożsamość,
+nazwisko, datę urodzenia, serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
 
 b) płeć,
 
@@ -1565,7 +1601,7 @@ a) typie szkoły, nazwie i adresie siedziby szkoły, do której uczeń uczęszcz
 
 b) klasie i oddziale, do których uczeń uczęszcza lub uczęszczał.
 
-Art. 66d. 1. Minister właściwy do spraw oświaty i wychowania udostępnia ministrowi właściwemu do spraw informatyzacji w celu wydania, z wykorzystaniem aplikacji mObywatel, mLegitymacji, o której mowa w art. 11b ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, z bazy danych SIO:
+Art. 66d.[^26] 1. Minister właściwy do spraw oświaty i wychowania udostępnia ministrowi właściwemu do spraw informatyzacji w celu wydania, z wykorzystaniem aplikacji mObywatel, mLegitymacji, o której mowa w art. 11b ust. 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, z bazy danych SIO:
 
 1) dane identyfikacyjne nauczyciela obejmujące imię (imiona), nazwisko i numer PESEL oraz dane dziedzinowe nauczyciela:
 
@@ -1579,27 +1615,19 @@ c) datę i przyczynę unieważnienia mLegitymacji;
 
 a) numer RSPO,
 
-b) nazwę szkoły, placówki oświatowej albo zespołu szkół i placówek
+b) nazwę szkoły, placówki oświatowej albo zespołu szkół i placówek oświatowych, jeżeli szkoła lub placówka oświatowa wchodzi w skład zespołu,
 
-oświatowych, jeżeli szkoła lub placówka oświatowa wchodzi w skład
+c) adres siedziby szkoły, placówki oświatowej albo zespołu szkół i placówek oświatowych, jeżeli szkoła lub pla-
 
-zespołu,
+cówka oświatowa wchodzi w skład zespołu, oraz numer telefonu, numer faksu, adres poczty elektronicznej i adres
 
-c) adres siedziby szkoły, placówki oświatowej albo zespołu szkół i placówek
+strony internetowej,
 
-oświatowych, jeżeli szkoła lub placówka oświatowa wchodzi w skład zespołu, oraz numer telefonu, numer faksu, adres poczty elektronicznej
-
-i adres strony internetowej,
-
-d) imię i nazwisko dyrektora szkoły, placówki oświatowej albo zespołu szkół
-
-i placówek oświatowych, jeżeli szkoła lub placówka oświatowa wchodzi
-
-w skład zespołu.
+d) imię i nazwisko dyrektora szkoły, placówki oświatowej albo zespołu szkół i placówek oświatowych, jeżeli szkoła lub placówka oświatowa wchodzi w skład zespołu.
 
 2. W przypadku, o którym mowa w ust. 1, minister właściwy do spraw informatyzacji jest podmiotem przetwarzającym dane.
 
-Art. 66e. 1. Minister właściwy do spraw oświaty i wychowania udostępnia ministrowi właściwemu do spraw informatyzacji w celu wydania, z wykorzystaniem aplikacji mObywatel, mLegitymacji szkolnej, o której mowa w art. 11 ust. 1d ustawy z dnia 7 września 1991 r. o systemie oświaty, z bazy danych SIO:
+Art. 66e.[^27] 1. Minister właściwy do spraw oświaty i wychowania udostępnia ministrowi właściwemu do spraw informatyzacji w celu wydania, z wykorzystaniem aplikacji mObywatel, mLegitymacji szkolnej, o której mowa w art. 11 ust. 1d ustawy z dnia 7 września 1991 r. o systemie oświaty, z bazy danych SIO:
 
 1) dane identyfikacyjne ucznia obejmujące imię (imiona), nazwisko, datę urodzenia i numer PESEL oraz dane dziedzinowe ucznia:
 
@@ -1623,9 +1651,7 @@ a) numer RSPO,
 
 b) nazwę szkoły lub placówki oświatowej,
 
-c) adres siedziby szkoły lub placówki oświatowej oraz numer telefonu, numer
-
-faksu, adres poczty elektronicznej i adres strony internetowej,
+c) adres siedziby szkoły lub placówki oświatowej oraz numer telefonu, numer faksu, adres poczty elektronicznej i adres strony internetowej,
 
 d) imię i nazwisko dyrektora szkoły lub placówki oświatowej.
 
@@ -1655,9 +1681,7 @@ Art. 68. 1. Do dostępu do bazy danych SIO są upoważnieni:
 
 3) w przypadku jednostki samorządu terytorialnego – także kierownika jednostki obsługującej lub pracownika albo pracowników tych jednostek wyznaczonych przez ich kierowników;
 
-4) w przypadku szkół i placówek oświatowych – także kierownika jednostki obsługującej lub pracownika albo pracowników tej jednostki upoważnionych na podstawie pkt 1 przez kierownika tej jednostki do dostępu do bazy danych SIO, wyłącznie w zakresie dostępu do zbioru danych szkół i placówek oświatowych i zbioru danych nauczycieli.
-
-3. Upoważnienia, o którym mowa w ust. 2, udziela się na czas określony, niedłuższy niż 5 lat. Udzielenie upoważnienia wymaga formy pisemnej pod rygorem nieważności.
+4)[^28] w przypadku szkół i placówek oświatowych – także kierownika jednostki obsługującej lub pracownika albo pracowników tej jednostki upoważnionych na podstawie pkt 1 przez kierownika tej jednostki do dostępu do bazy danych SIO, wyłącznie w zakresie dostępu do zbioru danych szkół i placówek oświatowych i zbioru danych nauczycieli. 3. Upoważnienia, o którym mowa w ust. 2, udziela się na czas określony, niedłuższy niż 5 lat. Udzielenie upoważnienia wymaga formy pisemnej pod rygorem nieważności.
 
 4. Osoba upoważniona, o której mowa w ust. 1, w ramach posiadanego zakresu dostępu do bazy danych SIO, może w upoważnieniu, o którym mowa w ust. 2, określić zakres dostępu do bazy danych SIO odpowiednio do:
 
@@ -1675,7 +1699,7 @@ Art. 68. 1. Do dostępu do bazy danych SIO są upoważnieni:
 
 Art. 68a. (uchylony)
 
-Art. 69. 1. Dostęp do bazy danych SIO uzyskuje się przez zalogowanie do systemu teleinformatycznego osoby upoważnionej, o której mowa w art. 68 ust. 1 lub 2, za pomocą danych dostępowych, obejmujących niepowtarzalny identyfikator użytkownika SIO (login) i hasło.
+Art. 69.[^29] 1. Dostęp do bazy danych SIO uzyskuje się przez zalogowanie do systemu teleinformatycznego osoby upoważnionej, o której mowa w art. 68 ust. 1 lub 2, za pomocą danych dostępowych, obejmujących niepowtarzalny identyfikator użytkownika SIO (login) i hasło.
 
 2. Osoba upoważniona, o której mowa w art. 68 ust. 1 lub 2, która pozyskała dane dostępowe, o których mowa w ust. 1, może uzyskać dostęp do bazy danych SIO przez zalogowanie do systemu teleinformatycznego z wykorzystaniem środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej (Dz. U. z 2024 r. poz. 1725 oraz z 2026 r. poz. 252).
 
@@ -1687,9 +1711,9 @@ Art. 70. 1. Dane dostępowe osobie upoważnionej, o której mowa w art. 68 ust. 
 
 a) wójtom gmin (burmistrzom, prezydentom miast), starostom powiatów i marszałkom województw,
 
-b) przewodniczącym zarządów związków międzygminnych, związków
+b) przewodniczącym zarządów związków międzygminnych, związków powiatów oraz związków powiatowo-gminnych,
 
-powiatów oraz związków powiatowo-gminnych, jako kierownikom jednostek obsługujących, które obejmują wspólną obsługą szkoły i placówki oświatowe założone i prowadzone przez jednostki samorządu terytorialnego, w ramach związku międzygminnego, związku powiatów
+jako kierownikom jednostek obsługujących, które obejmują wspólną obsługą szkoły i placówki oświatowe założone i prowadzone przez jednostki samorządu terytorialnego, w ramach związku międzygminnego, związku powiatów
 
 albo związku powiatowo-gminnego;
 
@@ -1699,7 +1723,7 @@ albo związku powiatowo-gminnego;
 
 3. Udzielenie upoważnienia do przyznawania danych dostępowych dla osoby, o której mowa w ust. 1 i 2, wymaga formy pisemnej pod rygorem nieważności. Upoważnienia udziela się na czas określony, niedłuższy niż 5 lat.
 
-4. Podmiot właściwy do przyznawania danych dostępowych lub osoba przez niego upoważniona, o której mowa w ust. 1 i 2, uzyskują dostęp do bazy danych SIO pod warunkiem pozyskania danych dostępowych do bazy danych SIO i zalogowania do systemu teleinformatycznego w sposób, o którym mowa w art. 69 ust. 1 lub 2. Przepisy ust. 2 i art. 71 stosuje się.
+4.[^30] Podmiot właściwy do przyznawania danych dostępowych lub osoba przez niego upoważniona, o której mowa w ust. 1 i 2, uzyskują dostęp do bazy danych SIO pod warunkiem pozyskania danych dostępowych do bazy danych SIO i zalogowania do systemu teleinformatycznego w sposób, o którym mowa w art. 69 ust. 1 lub 2. Przepisy ust. 2 i art. 71 stosuje się.
 
 Art. 71. 1. W celu uzyskania danych dostępowych osoba upoważniona, o której mowa w art. 68 ust. 1 lub 2, składa w postaci elektronicznej wniosek o przyznanie danych dostępowych.
 
@@ -1709,25 +1733,21 @@ Art. 71. 1. W celu uzyskania danych dostępowych osoba upoważniona, o której m
 
 a) podmiot zobowiązany do przekazywania danych do RSPO,
 
-b) podmiot zobowiązany do przekazywania danych identyfikacyjnych
+b) podmiot zobowiązany do przekazywania danych identyfikacyjnych i danych dziedzinowych do bazy danych SIO
 
-i danych dziedzinowych do bazy danych SIO odpowiednio do zbiorów danych szkół i placówek oświatowych, zbiorów danych jednostek, zbiorów danych o uczniach lub zbiorów danych o nauczycielach,
+odpowiednio do zbiorów danych szkół i placówek oświatowych, zbiorów danych jednostek, zbiorów danych
 
-c) podmiot uprawniony do pozyskiwania danych identyfikacyjnych i danych
+o uczniach lub zbiorów danych o nauczycielach,
 
-dziedzinowych uczniów i nauczycieli z bazy danych SIO, odpowiednio ze zbiorów danych o uczniach lub zbiorów danych o nauczycielach, lub danych osobowych z rejestru PESEL za pośrednictwem bazy danych SIO,
+c) podmiot uprawniony do pozyskiwania danych identyfikacyjnych i danych dziedzinowych uczniów i nauczycieli
 
-d) podmiot uprawniony do pozyskiwania danych dziedzinowych szkół
+z bazy danych SIO, odpowiednio ze zbiorów danych o uczniach lub zbiorów danych o nauczycielach, lub danych
 
-i placówek oświatowych z bazy danych SIO ze zbiorów danych szkół
+osobowych z rejestru PESEL za pośrednictwem bazy danych SIO,
 
-i placówek oświatowych,
+d) podmiot uprawniony do pozyskiwania danych dziedzinowych szkół i placówek oświatowych z bazy danych SIO ze zbiorów danych szkół i placówek oświatowych,
 
-e) podmiot uprawniony do pozyskiwania danych dziedzinowych jednostek
-
-wykonujących zadania z zakresu oświaty z bazy danych SIO ze zbiorów
-
-danych jednostek,
+e) podmiot uprawniony do pozyskiwania danych dziedzinowych jednostek wykonujących zadania z zakresu oświaty z bazy danych SIO ze zbiorów danych jednostek,
 
 f) kurator oświaty,
 
@@ -1745,7 +1765,7 @@ h) rektor uczelni;
 
 6) klauzulę o zachowaniu tajemnicy w brzmieniu: „Zobowiązuję się do zachowania w tajemnicy danych objętych zakresem dostępu do bazy danych systemu informacji oświatowej, również po ustaniu zatrudnienia, oraz zachowania w tajemnicy informacji o ich zabezpieczeniu.”.
 
-3. Wniosek może być uwierzytelniony z wykorzystaniem środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej.
+3.[^31] Wniosek może być uwierzytelniony z wykorzystaniem środka identyfikacji elektronicznej wydanego w systemie identyfikacji elektronicznej przyłączonym do węzła krajowego identyfikacji elektronicznej, o którym mowa w art. 21a ust. 1 pkt 2 lit. a ustawy z dnia 5 września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej.
 
 3a. W przypadku uwierzytelnienia wniosku w sposób, o którym mowa w ust. 3, we wniosku, o którym mowa w ust. 1, nie jest wymagane drugie imię osoby, której mają być przyznane dane dostępowe.
 
@@ -1779,7 +1799,7 @@ Art. 73. 1. Podmiot właściwy do przyznawania danych dostępowych, o którym mo
 
 4. W przypadku zmiany na stanowisku dyrektora szkoły lub placówki oświatowej albo zespołu szkół lub placówek oświatowych, administrator bazy danych SIO blokuje dostęp do bazy danych SIO dotychczasowego dyrektora z dniem przekazania do RSPO informacji, o której mowa w art. 7 ust. 1 pkt 26 albo ust. 1a pkt 6.
 
-5. W przypadku zablokowania dostępu do bazy danych SIO kierownikowi jednostki obsługującej upoważnionemu do dostępu do bazy danych SIO na podstawie art. 68 ust. 1 pkt 1 albo zablokowania dostępu do bazy danych SIO pracownikowi jednostki obsługującej upoważnionemu do dostępu do bazy danych SIO na podstawie art. 68 ust. 2 pkt 1 administrator bazy danych SIO blokuje tej osobie dostęp do bazy danych SIO udzielony również na podstawie art. 68 ust. 2 pkt 4.
+5.[^32] W przypadku zablokowania dostępu do bazy danych SIO kierownikowi jednostki obsługującej upoważnionemu do dostępu do bazy danych SIO na podstawie art. 68 ust. 1 pkt 1 albo zablokowania dostępu do bazy danych SIO pracownikowi jednostki obsługującej upoważnionemu do dostępu do bazy danych SIO na podstawie art. 68 ust. 2 pkt 1 administrator bazy danych SIO blokuje tej osobie dostęp do bazy danych SIO udzielony również na podstawie art. 68 ust. 2 pkt 4.
 
 Art. 74. 1. Na wniosek osoby upoważnionej, o której mowa w art. 68 ust. 1 lub 2, złożony niewcześniej niż na 3 miesiące przed upływem okresu przyznania danych dostępowych, ważność przyznanych danych dostępowych może zostać przedłużona na kolejny okres. Przepisy art. 70 i art. 71 ust. 1 i 3–5 stosuje się.
 
@@ -1805,9 +1825,7 @@ Art. 77. (uchylony)
 
 ## Rozdział 6
 
-Nadzór nad bezpieczeństwem przekazywania danych do bazy danych SIO
-
-**i pozyskiwania danych z bazy danych SIO**
+**Nadzór nad bezpieczeństwem przekazywania danych do bazy danych SIO i pozyskiwania danych z bazy danych SIO**
 
 Art. 78. 1. Minister właściwy do spraw oświaty i wychowania sprawuje nadzór nad bezpieczeństwem przekazywania danych do bazy danych SIO i pozyskiwania danych z bazy danych SIO.
 
@@ -1861,13 +1879,21 @@ Art. 84. 1. Wyniki przeprowadzonej kontroli kontroler przedstawia w protokole ko
 
 2. Protokół kontroli sporządza się w dwóch egzemplarzach, z których jeden otrzymuje kierownik kontrolowanego podmiotu zobowiązanego do przekazywania danych do bazy danych SIO.
 
-3. Protokół kontroli podpisują kontroler i kierownik kontrolowanego podmiotu. 4. Kierownik kontrolowanego podmiotu może zgłosić, przed podpisaniem protokołu kontroli, pisemne, umotywowane zastrzeżenia do ustaleń zawartych w protokole.
+3. Protokół kontroli podpisują kontroler i kierownik kontrolowanego podmiotu.
+
+4. Kierownik kontrolowanego podmiotu może zgłosić, przed podpisaniem protokołu kontroli, pisemne, umotywowane zastrzeżenia do ustaleń zawartych w protokole.
 
 5. W przypadku zgłoszenia zastrzeżeń kontroler jest obowiązany dokonać ich analizy i w miarę potrzeby przeprowadzić dodatkowe czynności kontrolne. W przypadku stwierdzenia zasadności zgłoszonych zastrzeżeń kontroler zmienia lub uzupełnia protokół kontroli.
 
 6. W przypadku nieuwzględnienia zastrzeżeń w całości lub w części kontroler przekazuje na piśmie swoje stanowisko kierownikowi kontrolowanego podmiotu.
 
-Art. 85. 1. Na podstawie ustaleń zawartych w protokole kontroli, w razie stwierdzenia naruszenia przepisów ustawy lub wydanych na jej podstawie przepisów wykonawczych, minister właściwy do spraw oświaty i wychowania sporządza wystąpienie pokontrolne, w którym określa sposób i termin usunięcia tych naruszeń. 2. Kierownik kontrolowanego podmiotu zobowiązanego do przekazywania danych do bazy danych SIO, w terminie 30 dni od dnia otrzymania wystąpienia pokontrolnego, może zgłosić do ministra właściwego do spraw oświaty i wychowania umotywowane zastrzeżenia do zaleceń zawartych w wystąpieniu pokontrolnym. 3. Kierownik kontrolowanego podmiotu, w terminie 60 dni od dnia otrzymania wystąpienia pokontrolnego, zawiadamia ministra właściwego do spraw oświaty i wychowania o wykonaniu zaleceń pokontrolnych albo, w razie ich niewykonania, o przyczynach niewykonania tych zaleceń i przewidywanym terminie ich wykonania. 4. W razie zgłoszenia zastrzeżeń, o których mowa w ust. 2, minister właściwy do spraw oświaty i wychowania dokonuje ich analizy i w miarę potrzeby zarządza przeprowadzenie dodatkowych czynności kontrolnych, a w przypadku stwierdzenia zasadności zastrzeżeń – zmienia lub uzupełnia wystąpienie pokontrolne.
+Art. 85. 1. Na podstawie ustaleń zawartych w protokole kontroli, w razie stwierdzenia naruszenia przepisów ustawy lub wydanych na jej podstawie przepisów wykonawczych, minister właściwy do spraw oświaty i wychowania sporządza wystąpienie pokontrolne, w którym określa sposób i termin usunięcia tych naruszeń.
+
+2. Kierownik kontrolowanego podmiotu zobowiązanego do przekazywania danych do bazy danych SIO, w terminie 30 dni od dnia otrzymania wystąpienia pokontrolnego, może zgłosić do ministra właściwego do spraw oświaty i wychowania umotywowane zastrzeżenia do zaleceń zawartych w wystąpieniu pokontrolnym.
+
+3. Kierownik kontrolowanego podmiotu, w terminie 60 dni od dnia otrzymania wystąpienia pokontrolnego, zawiadamia ministra właściwego do spraw oświaty i wychowania o wykonaniu zaleceń pokontrolnych albo, w razie ich niewykonania, o przyczynach niewykonania tych zaleceń i przewidywanym terminie ich wykonania.
+
+4. W razie zgłoszenia zastrzeżeń, o których mowa w ust. 2, minister właściwy do spraw oświaty i wychowania dokonuje ich analizy i w miarę potrzeby zarządza przeprowadzenie dodatkowych czynności kontrolnych, a w przypadku stwierdzenia zasadności zastrzeżeń – zmienia lub uzupełnia wystąpienie pokontrolne.
 
 5. W razie nieuwzględnienia zastrzeżeń w całości lub w części minister właściwy do spraw oświaty i wychowania przekazuje na piśmie swoje stanowisko kierownikowi kontrolowanego podmiotu.
 
@@ -1885,11 +1911,15 @@ Art. 87. 1. Informacje zawarte w wykazie, o którym mowa w art. 78 ust. 2, minis
 
 ## Rozdział 8
 
-Korygowanie nieprawidłowości danych przekazanych do bazy danych SIO
+**Korygowanie nieprawidłowości danych przekazanych do bazy danych SIO**
 
-Art. 91. 1. Podmiot zobowiązany do przekazywania danych do bazy danych SIO, który stwierdził nieprawdziwość danych przekazanych do bazy danych SIO, jest obowiązany niezwłocznie przekazać do bazy danych SIO zmodyfikowane dane. 2. W bazie danych SIO rejestruje się datę modyfikacji danych, a w przypadku modyfikacji danych stanowiących podstawę podziału kwoty potrzeb oświatowych między poszczególne jednostki samorządu terytorialnego, rejestrowana jest historia zmian.
+Art. 91. 1. Podmiot zobowiązany do przekazywania danych do bazy danych SIO, który stwierdził nieprawdziwość danych przekazanych do bazy danych SIO, jest obowiązany niezwłocznie przekazać do bazy danych SIO zmodyfikowane dane.
 
-Art. 92. 1. Jeżeli do zbioru danych ucznia w bazie danych SIO, który zawiera informację o uczęszczaniu ucznia do szkoły, zostanie przekazana informacja o rozpoczęciu przez ucznia nauki w innej szkole, w zbiorze tym jest generowany komunikat informujący o konieczności ustalenia szkoły, do której uczeń uczęszcza. 2. Ustalenie szkoły, do której uczeń uczęszcza, następuje w terminie 2 tygodni od dnia otrzymania komunikatu, o którym mowa w ust. 1.
+2.[^33] W bazie danych SIO rejestruje się datę modyfikacji danych, a w przypadku modyfikacji danych stanowiących podstawę podziału kwoty potrzeb oświatowych między poszczególne jednostki samorządu terytorialnego, rejestrowana jest historia zmian.
+
+Art. 92. 1. Jeżeli do zbioru danych ucznia w bazie danych SIO, który zawiera informację o uczęszczaniu ucznia do szkoły, zostanie przekazana informacja o rozpoczęciu przez ucznia nauki w innej szkole, w zbiorze tym jest generowany komunikat informujący o konieczności ustalenia szkoły, do której uczeń uczęszcza.
+
+2. Ustalenie szkoły, do której uczeń uczęszcza, następuje w terminie 2 tygodni od dnia otrzymania komunikatu, o którym mowa w ust. 1.
 
 3. Szkoła, do której uczeń nie uczęszcza, przekazuje tę informację do bazy danych SIO.
 
@@ -1907,7 +1937,7 @@ Art. 93. 1. Nie usuwa się z bazy danych SIO:
 
 2. Dane szkoły i placówki oświatowej oraz innej jednostki wykonującej zadania z zakresu oświaty, zgromadzone w bazie danych SIO w zbiorze danych tej szkoły, placówki i jednostki, przechowuje się w bazie danych SIO przez okres 20 lat od dnia wprowadzenia do danego zbioru danych ostatniej informacji.
 
-3. Dane ucznia zgromadzone w zbiorze danych ucznia w bazie danych SIO zostają zanonimizowane po upływie 8 lat od dnia wprowadzenia do tego zbioru ostatniej informacji, z wyjątkiem danych, o których mowa w:
+3.[^34] Dane ucznia zgromadzone w zbiorze danych ucznia w bazie danych SIO zostają zanonimizowane po upływie 8 lat od dnia wprowadzenia do tego zbioru ostatniej informacji, z wyjątkiem danych, o których mowa w:
 
 1) art. 14 pkt 34 lit. f, które są przechowywane do dnia upływu daty ważności mLegitymacji szkolnej, o której mowa w art. 11 ust. 1d ustawy z dnia 7 września 1991 r. o systemie oświaty;
 
@@ -1921,21 +1951,19 @@ Art. 93. 1. Nie usuwa się z bazy danych SIO:
 
 1) rodziców ucznia albo pełnoletniego ucznia – dane tego ucznia, o których mowa w ust. 3, mogą być zanonimizowane po okresie dłuższym niż okres, o którym mowa w ust. 3;
 
-2) nauczyciela – dane tego nauczyciela, o których mowa w ust. 4, mogą być zanonimizowane po okresie dłuższym niż okres, o którym mowa w ust. 4. 7. Wyrażając zgodę, o której mowa w ust. 6, odpowiednio rodzice ucznia, pełnoletni uczeń albo nauczyciel określają okres przechowywania niezanonimizowanych danych, o którym mowa w ust. 6.
+2) nauczyciela – dane tego nauczyciela, o których mowa w ust. 4, mogą być zanonimizowane po okresie dłuższym niż okres, o którym mowa w ust. 4.
+
+7. Wyrażając zgodę, o której mowa w ust. 6, odpowiednio rodzice ucznia, pełnoletni uczeń albo nauczyciel określają okres przechowywania niezanonimizowanych danych, o którym mowa w ust. 6.
 
 Art. 94. (uchylony)
 
 ## Rozdział 10
 
-Warunki organizacyjno-techniczne funkcjonowania systemu informacji
+**Warunki organizacyjno-techniczne funkcjonowania systemu informacji oświatowej**
 
-**oświatowej**
+Art. 95. 1. Podmioty zobowiązane do przekazywania danych do bazy danych SIO przekazują dane za pomocą interfejsu systemu teleinformatycznego udostępnianego nieodpłatnie przez ministra właściwego do spraw oświaty i wychowania. 2. Dane do bazy danych SIO są przekazywane za pomocą aplikacji internetowej.
 
-Art. 95. 1. Podmioty zobowiązane do przekazywania danych do bazy danych SIO przekazują dane za pomocą interfejsu systemu teleinformatycznego udostępnianego nieodpłatnie przez ministra właściwego do spraw oświaty i wychowania.
-
-2. Dane do bazy danych SIO są przekazywane za pomocą aplikacji internetowej.
-
-Art. 96. Minister właściwy do spraw oświaty i wychowania może wyznaczyć jednostkę organizacyjną podległą temu ministrowi lub przez niego nadzorowaną do prowadzenia obsługi organizacyjno-technicznej funkcjonowania systemu informacji oświatowej.
+Art. 96.[^35] Minister właściwy do spraw oświaty i wychowania może wyznaczyć jednostkę organizacyjną podległą temu ministrowi lub przez niego nadzorowaną do prowadzenia obsługi organizacyjno-technicznej funkcjonowania systemu informacji oświatowej.
 
 Art. 97. 1. SIO zapewnia zidentyfikowanie osoby fizycznej przekazującej dane do bazy danych SIO, pozyskującej dane dziedzinowe z bazy danych SIO oraz pozyskującej dane ze zbioru PESEL za pośrednictwem bazy danych SIO, która posiada dane dostępowe do bazy danych SIO, uzyskane po przeprowadzeniu procedury przyznawania danych dostępowych do bazy danych SIO.
 
@@ -1951,11 +1979,11 @@ Art. 99. (uchylony)
 
 Art. 100. 1. Kto wbrew obowiązkowi nie przekazuje danych do bazy danych SIO lub przekazuje dane niezgodne z prawdą, podlega karze grzywny.
 
-2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, z późn. zm.[^2]).
+2. Orzekanie w sprawach o czyny, o których mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2025 r. poz. 860, z późn. zm.[^36]).
 
 3. Administrator bazy danych SIO oraz podmiot zobowiązany do przekazywania danych do RSPO zawiadamia właściwe organy o uzasadnionym podejrzeniu popełnienia czynów, o których mowa w ust. 1.
 
-Art. 101. (utracił moc)[^3]
+Art. 101. (utracił moc)[^37]
 
 ## Rozdział 12
 
@@ -2027,9 +2055,9 @@ f) profili kształcenia,
 
 g) zawodów,
 
-h) specjalnych potrzeb edukacyjnych wynikających z opinii lub orzeczeń,
+h) specjalnych potrzeb edukacyjnych wynikających z opinii lub orzeczeń, o których mowa w art. 127 ust. 9 i 10
 
-o których mowa w art. 127 ust. 9 i 10 ustawy – Prawo oświatowe, albo posiadania zezwolenia na indywidualny program lub tok nauki,
+ustawy – Prawo oświatowe, albo posiadania zezwolenia na indywidualny program lub tok nauki,
 
 i) rodzaju zajęć, w których uczestniczą,
 
@@ -2037,11 +2065,7 @@ j) wyników klasyfikowania i promowania oraz ukończenia nauki w szkole lub plac
 
 k) pozytywnych i negatywnych wyników egzaminu maturalnego,
 
-l) pozytywnych i negatywnych wyników egzaminu potwierdzającego
-
-kwalifikacje zawodowe i egzaminu potwierdzającego kwalifikacje
-
-w zawodzie,
+l) pozytywnych i negatywnych wyników egzaminu potwierdzającego kwalifikacje zawodowe i egzaminu potwierdzającego kwalifikacje w zawodzie,
 
 m) spełniania obowiązku rocznego przygotowania przedszkolnego i przyczyn jego niespełniania,
 
@@ -2057,9 +2081,7 @@ r) kwalifikacyjnych kursów zawodowych;
 
 a) ulegli wypadkom,
 
-b) są dowożeni lub otrzymują zwrot kosztów przejazdu na podstawie art. 39
-
-ust. 3 i 4 ustawy – Prawo oświatowe, z uwzględnieniem odległości od miejsca zamieszkania do szkoły lub placówki oświatowej,
+b) są dowożeni lub otrzymują zwrot kosztów przejazdu na podstawie art. 39 ust. 3 i 4 ustawy – Prawo oświatowe, z uwzględnieniem odległości od miejsca zamieszkania do szkoły lub placówki oświatowej,
 
 c) korzystają z poszczególnych form pomocy materialnej,
 
@@ -2073,11 +2095,11 @@ g) są dziećmi repatriantów,
 
 h) ukończyli szkołę niższego szczebla w poprzednim roku szkolnym,
 
-i) uczęszczają do szkół dla dorosłych i są osobami niepełnosprawnymi
+i) uczęszczają do szkół dla dorosłych i są osobami niepełnosprawnymi w rozumieniu ustawy z dnia 27 sierpnia 1997 r.
 
-w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r.
+o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2025 r. poz. 913, 1301,
 
-poz. 913, 1301, 1665 i 1746 oraz z 2026 r. poz. 26),
+1665 i 1746 oraz z 2026 r. poz. 26),
 
 j) są młodocianymi pracownikami,
 
@@ -2123,9 +2145,7 @@ n) otrzymanej oceny pracy, o której mowa w art. 6a ustawy z dnia 26 stycznia 19
 
 3) liczbie pracowników niebędących pracownikami pedagogicznymi, zatrudnionych w szkołach, placówkach oświatowych, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych i jednostkach obsługi oraz o łącznej wysokości ich wynagrodzenia i wymiaru zatrudnienia według rodzaju zajmowanych stanowisk, z wyłączeniem danych osobowych;
 
-4) łącznej liczbie nauczycieli, o których mowa w art. 1 ust. 1 i 1a oraz ust. 2 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, z którymi w danym roku kalendarzowym rozwiązano lub planowane jest rozwiązanie stosunku pracy albo których stosunek pracy wygasł lub wygaśnie, według przyczyn rozwiązania lub wygaśnięcia stosunku pracy.
-
-5. W zbiorach danych, o których mowa w ust. 4 pkt 1 lit. e, l i m oraz pkt 2 i 4, nie gromadzi się danych dotyczących nauczycieli, o których mowa w art. 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
+4) łącznej liczbie nauczycieli, o których mowa w art. 1 ust. 1 i 1a oraz ust. 2 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, z którymi w danym roku kalendarzowym rozwiązano lub planowane jest rozwiązanie stosunku pracy albo których stosunek pracy wygasł lub wygaśnie, według przyczyn rozwiązania lub wygaśnięcia stosunku pracy. 5. W zbiorach danych, o których mowa w ust. 4 pkt 1 lit. e, l i m oraz pkt 2 i 4, nie gromadzi się danych dotyczących nauczycieli, o których mowa w art. 2 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela.
 
 6. Zbiór danych, o którym mowa w ust. 1 pkt 4, zawiera dane o liczbie młodzieży w wieku 16–18 lat mającej adres zameldowania na terenie gminy:
 
@@ -2133,7 +2153,7 @@ n) otrzymanej oceny pracy, o której mowa w art. 6a ustawy z dnia 26 stycznia 19
 
 2) spełniającej obowiązek nauki w formach, o których mowa w art. 36 ust. 9 pkt 2 oraz ust. 10 i 12 ustawy – Prawo oświatowe;
 
-3) spełniającej obowiązek nauki poprzez udział w zajęciach rewalidacyjno- -wychowawczych;
+3) spełniającej obowiązek nauki poprzez udział w zajęciach rewalidacyjno-wychowawczych;
 
 4) niespełniającej obowiązku nauki.
 
@@ -2141,9 +2161,11 @@ n) otrzymanej oceny pracy, o której mowa w art. 6a ustawy z dnia 26 stycznia 19
 
 1) którym przysługują dotacje na podstawie art. 15–21, art. 25, art. 26, art. 28–32, art. 40 i art. 41 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych:
 
-a) zbiór danych, o którym mowa w ust. 4 pkt 1, nie zawiera danych
+a) zbiór danych, o którym mowa w ust. 4 pkt 1, nie zawiera danych dotyczących wysokości dodatku, o którym mowa
 
-dotyczących wysokości dodatku, o którym mowa w art. 54 ust. 5 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, oraz zamiast danych dotyczących wynagrodzenia, z wyszczególnieniem jego składników, zawiera dane dotyczące przeciętnego miesięcznego wynagrodzenia nauczycieli, wychowawców i innych pracowników pedagogicznych,
+w art. 54 ust. 5 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, oraz zamiast danych dotyczących wynagrodzenia, z wyszczególnieniem jego składników, zawiera dane dotyczące przeciętnego miesięcznego wynagro-
+
+dzenia nauczycieli, wychowawców i innych pracowników pedagogicznych,
 
 b) nie prowadzi się zbiorów danych, o których mowa w ust. 4 pkt 2 i 3;
 
@@ -2151,15 +2173,17 @@ b) nie prowadzi się zbiorów danych, o których mowa w ust. 4 pkt 2 i 3;
 
 a) zbiór danych, o którym mowa w ust. 2, nie zawiera danych o kosztach prowadzenia szkoły,
 
-b) zbiór danych, o którym mowa w ust. 4 pkt 1, nie zawiera danych
+b) zbiór danych, o którym mowa w ust. 4 pkt 1, nie zawiera danych o wysokości wynagrodzenia oraz wysokości dodatku, o którym mowa w art. 54 ust. 5 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
 
-o wysokości wynagrodzenia oraz wysokości dodatku, o którym mowa w art. 54 ust. 5 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela,
+c) nie prowadzi się zbiorów danych, o których mowa w ust. 4 pkt 2 i 3.
 
-c) nie prowadzi się zbiorów danych, o których mowa w ust. 4 pkt 2 i 3. 8. Zbiory danych, o których mowa w ust. 1, są przyporządkowane określonej szkole, placówce oświatowej, jednostce organizacyjnej, o której mowa w art. 1 ust. 1 pkt 2, ust. 1a oraz ust. 2 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, jednostce obsługi lub gminie.
+8. Zbiory danych, o których mowa w ust. 1, są przyporządkowane określonej szkole, placówce oświatowej, jednostce organizacyjnej, o której mowa w art. 1 ust. 1 pkt 2, ust. 1a oraz ust. 2 pkt 1 ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, jednostce obsługi lub gminie.
 
 Art. 108. 1. Szkoły i placówki oświatowe prowadzą bazy danych oświatowych obejmujące zbiory danych, o których mowa w art. 107 ust. 2–4, z zastrzeżeniem art. 107 ust. 7.
 
-2. Jednostki organizacyjne, o których mowa w art. 1 ust. 1 pkt 2 i ust. 1a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, prowadzą bazy danych oświatowych obejmujące dotyczące ich zbiory danych, o których mowa w art. 107 ust. 4 pkt 1, 2 i 4. 3. Centralna Komisja Egzaminacyjna i okręgowe komisje egzaminacyjne prowadzą bazy danych oświatowych obejmujące dotyczące ich zbiory danych, o których mowa w art. 107 ust. 4.
+2. Jednostki organizacyjne, o których mowa w art. 1 ust. 1 pkt 2 i ust. 1a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, prowadzą bazy danych oświatowych obejmujące dotyczące ich zbiory danych, o których mowa w art. 107 ust. 4 pkt 1, 2 i 4.
+
+3. Centralna Komisja Egzaminacyjna i okręgowe komisje egzaminacyjne prowadzą bazy danych oświatowych obejmujące dotyczące ich zbiory danych, o których mowa w art. 107 ust. 4.
 
 4. Jednostki obsługi prowadzą bazy danych oświatowych obejmujące dotyczące ich zbiory danych, o których mowa w art. 107 ust. 4 pkt 3.
 
@@ -2175,11 +2199,11 @@ Art. 108. 1. Szkoły i placówki oświatowe prowadzą bazy danych oświatowych o
 
 a) szkół i placówek oświatowych prowadzonych przez te jednostki,
 
-b) szkół i placówek oświatowych, publicznych i niepublicznych,
+b) szkół i placówek oświatowych, publicznych i niepublicznych, prowadzonych przez inne niż jednostki samorządu
 
-prowadzonych przez inne niż jednostki samorządu terytorialnego osoby prawne i osoby fizyczne, dla których są odpowiednio organem właściwym do wydania zezwolenia, o którym mowa w art. 88 ust. 4 ustawy – Prawo oświatowe, albo organem prowadzącym ewidencję, o której mowa
+terytorialnego osoby prawne i osoby fizyczne, dla których są odpowiednio organem właściwym do wydania zezwolenia, o którym mowa w art. 88 ust. 4 ustawy – Prawo oświatowe, albo organem prowadzącym ewidencję,
 
-w art. 168 ust. 1 ustawy – Prawo oświatowe;
+o której mowa w art. 168 ust. 1 ustawy – Prawo oświatowe;
 
 2) zbiory danych, o których mowa w art. 107 ust. 4 pkt 1, 2 i 4, z baz danych oświatowych jednostek organizacyjnych, o których mowa w art. 1 ust. 1a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela;
 
@@ -2191,11 +2215,11 @@ w art. 168 ust. 1 ustawy – Prawo oświatowe;
 
 a) szkół i placówek oświatowych prowadzonych przez tych ministrów,
 
-b) szkół i placówek oświatowych, publicznych i niepublicznych,
+b) szkół i placówek oświatowych, publicznych i niepublicznych, prowadzonych przez inne niż jednostki samorządu
 
-prowadzonych przez inne niż jednostki samorządu terytorialnego osoby prawne i osoby fizyczne, dla których są odpowiednio organem właściwym do wydania zezwolenia, o którym mowa w art. 88 ust. 4 ustawy – Prawo oświatowe, albo organem prowadzącym ewidencję, o której mowa
+terytorialnego osoby prawne i osoby fizyczne, dla których są odpowiednio organem właściwym do wydania zezwolenia, o którym mowa w art. 88 ust. 4 ustawy – Prawo oświatowe, albo organem prowadzącym ewidencję,
 
-w art. 168 ust. 2 ustawy – Prawo oświatowe;
+o której mowa w art. 168 ust. 2 ustawy – Prawo oświatowe;
 
 2) zbiory danych z baz danych oświatowych niepublicznych zakładów kształcenia nauczycieli;
 
@@ -2207,7 +2231,9 @@ w art. 168 ust. 2 ustawy – Prawo oświatowe;
 
 6) zbiory danych, o których mowa w art. 107 ust. 3 pkt 1 lit. a–h, k i l, dotyczące absolwentów, oraz o których mowa w art. 107 ust. 3 pkt 3, w szkołach zlikwidowanych z końcem poprzedniego roku szkolnego, dla których minister był organem sprawującym nadzór pedagogiczny;
 
-7) dotyczące ich zbiory danych, o których mowa w art. 107 ust. 3 pkt 2 lit. c. 10. Kuratorzy oświaty prowadzą bazy danych oświatowych obejmujące:
+7) dotyczące ich zbiory danych, o których mowa w art. 107 ust. 3 pkt 2 lit. c.
+
+10. Kuratorzy oświaty prowadzą bazy danych oświatowych obejmujące:
 
 1) zbiory danych z baz danych oświatowych prowadzonych przez jednostki samorządu terytorialnego na terenie województwa;
 
@@ -2219,11 +2245,17 @@ w art. 168 ust. 2 ustawy – Prawo oświatowe;
 
 1) zbiory danych z baz danych oświatowych prowadzonych przez kuratorów oświaty oraz właściwych ministrów;
 
-2) zbiory danych, o których mowa w art. 107 ust. 4, z baz danych oświatowych Centralnej Komisji Egzaminacyjnej i okręgowych komisji egzaminacyjnych. 12. Specjalistyczna jednostka nadzoru oraz organy sprawujące nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. c i e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, przekazują właściwemu ministrowi dane niezbędne do prowadzenia bazy danych oświatowych w części obejmującej zbiory danych, o których mowa w ust. 9 pkt 5.
+2) zbiory danych, o których mowa w art. 107 ust. 4, z baz danych oświatowych Centralnej Komisji Egzaminacyjnej i okręgowych komisji egzaminacyjnych.
 
-Art. 109. 1. Bazy danych oświatowych są prowadzone w formie elektronicznej. 2. Podmioty prowadzące bazy danych oświatowych są obowiązane do prowadzenia tych baz za pomocą oprogramowania, którego zgodność z wymaganiami określonymi przez ministra właściwego do spraw oświaty i wychowania na podstawie art. 13 ust. 2 pkt 2 lit. a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160) została potwierdzona w sposób określony w art. 21 i 22 tej ustawy. 3. W razie braku możliwości prowadzenia przez szkołę lub placówkę oświatową albo jednostkę organizacyjną, o której mowa w art. 1 ust. 1 pkt 2 i ust. 1a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, bazy danych oświatowych w formie elektronicznej, bazę danych oświatowych prowadzi dla niej organ prowadzący. 4. W przypadku, o którym mowa w ust. 3, dyrektor szkoły lub placówki oświatowej albo dyrektor lub kierownik jednostki organizacyjnej, o której mowa w art. 1 ust. 1 pkt 2 i ust. 1a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, jest obowiązany do przekazywania organowi prowadzącemu danych niezbędnych do prowadzenia bazy danych oświatowych.
+12. Specjalistyczna jednostka nadzoru oraz organy sprawujące nadzór pedagogiczny, o których mowa w art. 1 ust. 2 pkt 1 lit. c i e ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, przekazują właściwemu ministrowi dane niezbędne do prowadzenia bazy danych oświatowych w części obejmującej zbiory danych, o których mowa w ust. 9 pkt 5.
 
-5. Minister właściwy do spraw oświaty i wychowania nieodpłatnie udostępnia oprogramowanie służące do prowadzenia baz danych, spełniające warunki, o których mowa w ust. 2, i umożliwiające zakładanie, aktualizowanie zbiorów danych, budowę baz danych oświatowych i ich scalanie, w wersjach działających w systemach operacyjnych powszechnie użytkowanych na obszarze kraju, z uwzględnieniem zasady równego traktowania różnych platform systemowych.
+Art. 109. 1. Bazy danych oświatowych są prowadzone w formie elektronicznej.
+
+2. Podmioty prowadzące bazy danych oświatowych są obowiązane do prowadzenia tych baz za pomocą oprogramowania, którego zgodność z wymaganiami określonymi przez ministra właściwego do spraw oświaty i wychowania na podstawie art. 13 ust. 2 pkt 2 lit. a ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160) została potwierdzona w sposób określony w art. 21 i 22 tej ustawy.
+
+3. W razie braku możliwości prowadzenia przez szkołę lub placówkę oświatową albo jednostkę organizacyjną, o której mowa w art. 1 ust. 1 pkt 2 i ust. 1a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, bazy danych oświatowych w formie elektronicznej, bazę danych oświatowych prowadzi dla niej organ prowadzący.
+
+4. W przypadku, o którym mowa w ust. 3, dyrektor szkoły lub placówki oświatowej albo dyrektor lub kierownik jednostki organizacyjnej, o której mowa w art. 1 ust. 1 pkt 2 i ust. 1a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, jest obowiązany do przekazywania organowi prowadzącemu danych niezbędnych do prowadzenia bazy danych oświatowych. 5. Minister właściwy do spraw oświaty i wychowania nieodpłatnie udostępnia oprogramowanie służące do prowadzenia baz danych, spełniające warunki, o których mowa w ust. 2, i umożliwiające zakładanie, aktualizowanie zbiorów danych, budowę baz danych oświatowych i ich scalanie, w wersjach działających w systemach operacyjnych powszechnie użytkowanych na obszarze kraju, z uwzględnieniem zasady równego traktowania różnych platform systemowych.
 
 Art. 110. 1. Szkoły i placówki oświatowe oraz jednostki organizacyjne, o których mowa w art. 1 ust. 1 pkt 2 i ust. 1a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, a w przypadku, o którym mowa w art. 109 ust. 3 – organy prowadzące, jednostki obsługi, Centralna Komisja Egzaminacyjna oraz okręgowe komisje egzaminacyjne przekazują dane z prowadzonych przez siebie baz danych oświatowych odpowiednio jednostce samorządu terytorialnego, właściwemu ministrowi, kuratorowi oświaty albo ministrowi właściwemu do spraw oświaty i wychowania.
 
@@ -2247,21 +2279,19 @@ Art. 111. 1. Podmioty prowadzące bazy danych oświatowych obowiązane są do sp
 
 6. Za wykonanie obowiązków, o których mowa w ust. 1–5, odpowiadają:
 
-1) dyrektor szkoły lub placówki oświatowej albo dyrektor lub kierownik jednostki organizacyjnej, o której mowa w art. 1 ust. 1 pkt 2 i ust. 1a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, dyrektor Centralnej Komisji Egza-minacyjnej lub dyrektorzy okręgowych komisji egzaminacyjnych oraz kierownicy jednostek obsługi;
+1) dyrektor szkoły lub placówki oświatowej albo dyrektor lub kierownik jednostki organizacyjnej, o której mowa w art. 1 ust. 1 pkt 2 i ust. 1a ustawy z dnia 26 stycznia 1982 r. – Karta Nauczyciela, dyrektor Centralnej Komisji Egzaminacyjnej lub dyrektorzy okręgowych komisji egzaminacyjnych oraz kierownicy jednostek obsługi;
 
 2) odpowiednio wójt (burmistrz, prezydent miasta), starosta, marszałek województwa, właściwy minister, kurator oświaty, minister właściwy do spraw oświaty i wychowania lub upoważniona przez nich osoba.
 
 Art. 112. 1. Dane w bazach danych oświatowych są aktualizowane i przekazywane według stanu na dzień 30 września 2012 r. oraz na dzień 31 marca i 30 września w latach 2013–2018 z zastrzeżeniem ust. 2–5.
 
-2. Danych, o których mowa w art. 107 ust. 2 pkt 1–3, nie aktualizuje się i nie przekazuje w latach 2013–2018.
-
-3. Dane, o których mowa w art. 107 ust. 6, są aktualizowane i przekazywane według stanu na dzień 31 marca w latach 2013–2018.
+2. Danych, o których mowa w art. 107 ust. 2 pkt 1–3, nie aktualizuje się i nie przekazuje w latach 2013–2018. 3. Dane, o których mowa w art. 107 ust. 6, są aktualizowane i przekazywane według stanu na dzień 31 marca w latach 2013–2018.
 
 4. Dane, o których mowa w art. 107 ust. 3 pkt 3, są aktualizowane i przekazywane według stanu na dzień 30 września w latach 2012–2018.
 
 5. Dane w bazach danych oświatowych prowadzonych przez kolegia pracowników służb społecznych są aktualizowane i przekazywane według stanu na dzień 10 października 2012 r. oraz na dzień 31 marca i 10 października w latach 2013–2018.
 
-Art. 113. 1. Dane, o których mowa w art. 107 ust. 3 pkt 1 lit. c, ust. 4 pkt 1 lit. a– g, i, k, l i pkt 2, są dodatkowo aktualizowane i przekazywane według stanu na dzień 10 września w latach 2012–2018.
+Art. 113. 1. Dane, o których mowa w art. 107 ust. 3 pkt 1 lit. c, ust. 4 pkt 1 lit. a–g, i, k, l i pkt 2, są dodatkowo aktualizowane i przekazywane według stanu na dzień 10 września w latach 2012–2018.
 
 2. Obowiązek dodatkowego aktualizowania i przekazywania danych, o których mowa w art. 107 ust. 3 pkt 1 lit. c, nie dotyczy szkół i placówek oświatowych prowadzonych przez właściwych ministrów, a także szkół wpisanych do ewidencji, o której mowa w art. 168 ust. 2 ustawy – Prawo oświatowe.
 
@@ -2281,13 +2311,15 @@ Art. 115. 1. Minister właściwy do spraw oświaty i wychowania określi, w drod
 
 3) terminy przekazywania danych między bazami danych oświatowych;
 
-4) wzory wydruków zestawień zbiorczych, o których mowa w art. 110 ust. 4. 2. Rozporządzenie, o którym mowa w ust. 1, powinno uwzględniać w szczególności potrzebę zapewniania organom administracji publicznej koordynującym i realizującym politykę edukacyjną państwa aktualnych informacji niezbędnych do realizowania zadań w tym zakresie, a także planowania środków budżetowych niezbędnych do finansowania zadań oświatowych oraz konieczność dostosowania terminów przekazywania danych między bazami danych oświatowych do terminów przygotowywania projektu budżetu państwa i budżetów jednostek samorządu terytorialnego.
+4) wzory wydruków zestawień zbiorczych, o których mowa w art. 110 ust. 4.
+
+2. Rozporządzenie, o którym mowa w ust. 1, powinno uwzględniać w szczególności potrzebę zapewniania organom administracji publicznej koordynującym i realizującym politykę edukacyjną państwa aktualnych informacji niezbędnych do realizowania zadań w tym zakresie, a także planowania środków budżetowych niezbędnych do finansowania zadań oświatowych oraz konieczność dostosowania terminów przekazywania danych między bazami danych oświatowych do terminów przygotowywania projektu budżetu państwa i budżetów jednostek samorządu terytorialnego.
 
 3. Minister właściwy do spraw oświaty i wychowania może, w drodze rozporządzenia, wprowadzić obowiązek dodatkowego zaktualizowania i przekazania danych z baz danych oświatowych według stanu na wskazany dzień, określając zbiory danych oświatowych, które podmioty prowadzące bazy danych oświatowych obowiązane są zaktualizować według stanu na wskazany dzień, oraz terminy przekazania tych danych między bazami danych oświatowych, uwzględniając konieczność zapewnienia aktualnej informacji niezbędnej dla zrealizowania określonego zadania istotnego dla realizacji polityki edukacyjnej państwa.
 
 Art. 116. Podmioty prowadzące bazy danych oświatowych są uprawnione do przetwarzania danych zgromadzonych w prowadzonych przez siebie bazach danych oświatowych w zakresie niezbędnym do realizacji wykonywanych przez nie zadań określonych przepisami prawa.
 
-Art. 117. Podmioty prowadzące bazy danych oświatowych są obowiązane do stworzenia warunków organizacyjnych i technicznych zapewniających ochronę przetwarzanych danych, a w szczególności zabezpieczenia danych przed nieupraw-nionym dostępem, nielegalnym ujawnieniem lub pozyskaniem, a także ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą.
+Art. 117. Podmioty prowadzące bazy danych oświatowych są obowiązane do stworzenia warunków organizacyjnych i technicznych zapewniających ochronę przetwarzanych danych, a w szczególności zabezpieczenia danych przed nieuprawnionym dostępem, nielegalnym ujawnieniem lub pozyskaniem, a także ich modyfikacją, uszkodzeniem, zniszczeniem lub utratą.
 
 Art. 118. Zadania określone w art. 105–117 dla jednostek samorządu terytorialnego wykonuje odpowiednio wójt (burmistrz, prezydent miasta), starosta, marszałek województwa.
 
@@ -2295,21 +2327,15 @@ Art. 119. 1. Kierownicy podmiotów zobowiązanych do przekazywania danych do RSP
 
 1) minister właściwy do spraw oświaty i wychowania – ministrom prowadzącym szkoły i placówki oświatowe oraz wojewodom;
 
-2) wojewodowie – wójtom (burmistrzom, prezydentom miast), starostom powiatów oraz marszałkom województw.
+2) wojewodowie – wójtom (burmistrzom, prezydentom miast), starostom powiatów oraz marszałkom województw. 3. We wniosku o udzielenie upoważnienia nie określa się danych, o których mowa w art. 69 ust. 3 pkt 4.
 
-3. We wniosku o udzielenie upoważnienia nie określa się danych, o których mowa w art. 69 ust. 3 pkt 4.
-
-Art. 120. 1. Podmioty zobowiązane do przekazywania danych do RSPO, w okresie od dnia 1 sierpnia 2012 r. do dnia 31 października 2012 r., przekazują do RSPO dane identyfikacyjne istniejących w dniu 31 lipca 2012 r. publicznych i nie-publicznych szkół i placówek oświatowych oraz ich zespołów.
+Art. 120. 1. Podmioty zobowiązane do przekazywania danych do RSPO, w okresie od dnia 1 sierpnia 2012 r. do dnia 31 października 2012 r., przekazują do RSPO dane identyfikacyjne istniejących w dniu 31 lipca 2012 r. publicznych i niepublicznych szkół i placówek oświatowych oraz ich zespołów.
 
 2. Organy prowadzące niepubliczne kolegia pracowników służb społecznych przekazują samorządowi województwa dane dotyczące tych kolegiów niezbędne do przekazania do RSPO w terminie od dnia 1 sierpnia 2012 r. do dnia 30 września 2012 r.
 
 Art. 121. 1. Przekazane do RSPO zgodnie z art. 120 ust. 1 dane niezbędne do wpisu szkoły lub placówki oświatowej do rejestru REGON oraz numer identyfikacyjny REGON są przekazywane z bazy danych SIO do rejestru REGON w celu sprawdzenia, czy szkoła lub placówka oświatowa jest wpisana do rejestru REGON jako podmiot, o którym mowa w art. 42 ust. 1 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, i aktualizacji danych wpisanych w rejestrze REGON. 2. Jeżeli szkoła lub placówka oświatowa jest wpisana do rejestru REGON jako podmiot, o którym mowa w art. 42 ust. 1 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, z rejestru REGON do bazy danych SIO jest przekazywany potwierdzający to komunikat.
 
-3. Jeżeli szkoła lub placówka oświatowa jest wpisana do rejestru REGON jako jednostka lokalna w rozumieniu przepisów regulujących sposób prowadzenia rejestru REGON, zostaje ona wpisana do rejestru REGON jako podmiot, o którym mowa w art. 42 ust. 1 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, a dotychczasowy wpis w rejestrze REGON podlega wykreśleniu. Informacja o numerze identyfikacyjnym REGON nadanym szkole lub placówce oświatowej oraz jej jednostce lokalnej (filii), jeżeli taką jednostkę posiada, jest przekazywana z rejestru REGON do bazy danych SIO.
-
-4. Jeżeli dane identyfikacyjne szkoły lub placówki oświatowej przekazane do RSPO zgodnie z art. 120 ust. 1 nie zawierają informacji o numerze identyfikacyjnym REGON, z bazy danych SIO do rejestru REGON są przekazywane dane niezbędne do wpisania szkoły lub placówki oświatowej do rejestru REGON. Przepis ust. 3 zdanie drugie stosuje się odpowiednio.
-
-5. Przekazanie danych, o których mowa w ust. 1, z bazy danych SIO do rejestru REGON jest równoznaczne ze złożeniem odpowiednio wniosku o wpis szkoły lub placówki oświatowej do rejestru REGON, zmianę danych objętych wpisem lub o skreślenie tej szkoły lub placówki z rejestru REGON.
+3. Jeżeli szkoła lub placówka oświatowa jest wpisana do rejestru REGON jako jednostka lokalna w rozumieniu przepisów regulujących sposób prowadzenia rejestru REGON, zostaje ona wpisana do rejestru REGON jako podmiot, o którym mowa w art. 42 ust. 1 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej, a dotychczasowy wpis w rejestrze REGON podlega wykreśleniu. Informacja o numerze identyfikacyjnym REGON nadanym szkole lub placówce oświatowej oraz jej jednostce lokalnej (filii), jeżeli taką jednostkę posiada, jest przekazywana z rejestru REGON do bazy danych SIO. 4. Jeżeli dane identyfikacyjne szkoły lub placówki oświatowej przekazane do RSPO zgodnie z art. 120 ust. 1 nie zawierają informacji o numerze identyfikacyjnym REGON, z bazy danych SIO do rejestru REGON są przekazywane dane niezbędne do wpisania szkoły lub placówki oświatowej do rejestru REGON. Przepis ust. 3 zdanie drugie stosuje się odpowiednio. 5. Przekazanie danych, o których mowa w ust. 1, z bazy danych SIO do rejestru REGON jest równoznaczne ze złożeniem odpowiednio wniosku o wpis szkoły lub placówki oświatowej do rejestru REGON, zmianę danych objętych wpisem lub o skreślenie tej szkoły lub placówki z rejestru REGON.
 
 6. Z dniem otrzymania przez bazę danych SIO komunikatu, o którym mowa w ust. 2, lub informacji o nadanym numerze identyfikacyjnym REGON, o której mowa w ust. 3 i 4, dane szkoły lub placówki oświatowej zostają wpisane do RSPO. 7. W przypadkach, o których mowa w ust. 3 i 4, urząd statystyczny wydaje szkole lub placówce oświatowej wpisanej do rejestru REGON zaświadczenie o nadanym numerze identyfikacyjnym REGON, w terminie 7 dni od dnia dokonania wpisu szkoły lub placówki oświatowej do rejestru REGON.
 
@@ -2317,11 +2343,13 @@ Art. 121. 1. Przekazane do RSPO zgodnie z art. 120 ust. 1 dane niezbędne do wpi
 
 Art. 122. Okręgowe komisje egzaminacyjne przekazują do RSPO informację o numerach identyfikacyjnych szkół, o których mowa w art. 9c ust. 2b ustawy z dnia 7 września 1991 r. o systemie oświaty, w terminie miesiąca od dnia otrzymania z bazy danych SIO komunikatu o wpisaniu do RSPO danych identyfikacyjnych szkół.
 
-Art. 123. 1. Kierownicy podmiotów zobowiązanych do przekazywania danych do bazy danych SIO: do zbiorów danych szkół i placówek oświatowych, zbiorów danych jednostek, zbiorów danych uczniów i zbiorów danych nauczycieli, z wy-łączeniem ministrów prowadzących szkoły i placówki oświatowe oraz jednostek samorządu terytorialnego, składają wnioski o udzielenie upoważnienia do dostępu do bazy danych SIO:
+Art. 123. 1. Kierownicy podmiotów zobowiązanych do przekazywania danych do bazy danych SIO: do zbiorów danych szkół i placówek oświatowych, zbiorów danych jednostek, zbiorów danych uczniów i zbiorów danych nauczycieli, z wyłączeniem ministrów prowadzących szkoły i placówki oświatowe oraz jednostek samorządu terytorialnego, składają wnioski o udzielenie upoważnienia do dostępu do bazy danych SIO:
 
 1) w przypadku szkół i placówek oświatowych – w terminie od dnia przekazania danych identyfikacyjnych szkoły lub placówki oświatowej do RSPO do dnia 15 listopada 2012 r.;
 
-2) w przypadku innych jednostek wykonujących zadania z zakresu oświaty – w terminie od dnia 15 października 2012 r. do dnia 15 listopada 2012 r. 2. Upoważnień kierownikom podmiotów zobowiązanych do przekazywania danych do bazy danych SIO, o których mowa w ust. 1, w terminie od dnia 1 listopada 2012 r. do dnia 31 grudnia 2012 r., udzielają:
+2) w przypadku innych jednostek wykonujących zadania z zakresu oświaty – w terminie od dnia 15 października 2012 r. do dnia 15 listopada 2012 r.
+
+2. Upoważnień kierownikom podmiotów zobowiązanych do przekazywania danych do bazy danych SIO, o których mowa w ust. 1, w terminie od dnia 1 listopada 2012 r. do dnia 31 grudnia 2012 r., udzielają:
 
 1) minister właściwy do spraw oświaty i wychowania – kierownikom innych jednostek wykonujących zadania z zakresu oświaty, z wyjątkiem kierowników jednostek obsługi ekonomiczno-administracyjnej szkół i placówek oświatowych;
 
@@ -2335,13 +2363,9 @@ Art. 124. 1. W terminie do dnia 9 kwietnia 2013 r. podmioty zobowiązane do prze
 
 3) dane identyfikacyjne i dane dziedzinowe do zbiorów danych uczniów i zbiorów danych nauczycieli, z zastrzeżeniem ust. 3 i 4.
 
-2. Dane, o których mowa w ust. 1, przekazuje się do bazy danych SIO według stanu na dzień 31 marca 2013 r.
+2. Dane, o których mowa w ust. 1, przekazuje się do bazy danych SIO według stanu na dzień 31 marca 2013 r. 3. Szkoła lub placówka oświatowa przekazuje do bazy danych SIO dane identyfikacyjne i dane dziedzinowe uczniów dotyczące opinii i orzeczeń, o których mowa w art. 12, wydanych do dnia 31 grudnia 2012 r., bez uprzedniej weryfikacji tych danych dziedzinowych z danymi, o których mowa w art. 8 pkt 2 lit. e, zgodnie z art. 44a.
 
-3. Szkoła lub placówka oświatowa przekazuje do bazy danych SIO dane identyfikacyjne i dane dziedzinowe uczniów dotyczące opinii i orzeczeń, o których mowa w art. 12, wydanych do dnia 31 grudnia 2012 r., bez uprzedniej weryfikacji tych danych dziedzinowych z danymi, o których mowa w art. 8 pkt 2 lit. e, zgodnie z art. 44a.
-
-3a. Poradnia psychologiczno-pedagogiczna, w tym poradnia specjalistyczna, przekazuje do bazy danych SIO dane dziedzinowe dotyczące opinii i orzeczeń, o których mowa w art. 8 pkt 2 lit. e, wydanych przez poradnie od dnia 1 stycznia 2013 r.
-
-4. Szkoła lub placówka oświatowa, w której zatrudniony jest nauczyciel, przekazuje do zbioru danych tego nauczyciela także dane dziedzinowe:
+3a. Poradnia psychologiczno-pedagogiczna, w tym poradnia specjalistyczna, przekazuje do bazy danych SIO dane dziedzinowe dotyczące opinii i orzeczeń, o których mowa w art. 8 pkt 2 lit. e, wydanych przez poradnie od dnia 1 stycznia 2013 r. 4. Szkoła lub placówka oświatowa, w której zatrudniony jest nauczyciel, przekazuje do zbioru danych tego nauczyciela także dane dziedzinowe:
 
 1) o stopniu awansu zawodowego uzyskanym przez nauczyciela przed dniem 1 stycznia 2013 r.;
 
@@ -2357,7 +2381,9 @@ Art. 126. Główny Geodeta Kraju może pozyskiwać z bazy danych SIO dane, o kt�
 
 2) pkt 2 – od dnia 10 kwietnia 2013 r.
 
-Art. 127. 1. Uczelnie mogą pozyskiwać z bazy danych SIO dane do celów rekrutacji na studia wyższe, począwszy od rekrutacji na rok akademicki 2017/2018. 2. Jednostki samorządu terytorialnego mogą pozyskiwać z bazy danych SIO dane do celów rekrutacji do szkół ponadpodstawowych, począwszy od rekrutacji na rok szkolny 2014/2015.
+Art. 127. 1. Uczelnie mogą pozyskiwać z bazy danych SIO dane do celów rekrutacji na studia wyższe, począwszy od rekrutacji na rok akademicki 2017/2018.
+
+2. Jednostki samorządu terytorialnego mogą pozyskiwać z bazy danych SIO dane do celów rekrutacji do szkół ponadpodstawowych, począwszy od rekrutacji na rok szkolny 2014/2015.
 
 Art. 128. 1. Minister właściwy do spraw oświaty i wychowania podejmuje działania organizacyjno-techniczne mające na celu zapewnienie funkcjonowania od dnia 1 sierpnia 2012 r. bazy danych SIO w części dotyczącej RSPO.
 
@@ -2379,7 +2405,7 @@ Art. 129. 1. Zbiory danych o:
 
 Art. 130. 1. Do podziału części oświatowej subwencji ogólnej na rok 2013 przyjmuje się dane zgromadzone w systemie informacji oświatowej, o którym mowa w ustawie wymienionej w art. 129.
 
-2. Jednostce samorządu terytorialnego nie przysługuje zwiększenie części oświatowej subwencji ogólnej, o której mowa w art. 33 ust. 1 pkt 2 ustawy, o której mowa w art. 104[^4], za lata 2007–2018, jeżeli nieprawdziwe dane zostały przekazane do systemu informacji oświatowej, o którym mowa w ustawie wymienionej w ust. 1, lub zostały podane w sprawozdaniu, którego obowiązek sporządzenia wynikał z odrębnych przepisów, i jednostka samorządu terytorialnego otrzymała część oświatową subwencji ogólnej w kwocie niższej od należnej.
+2. Jednostce samorządu terytorialnego nie przysługuje zwiększenie części oświatowej subwencji ogólnej, o której mowa w art. 33 ust. 1 pkt 2 ustawy, o której mowa w art. 104[^38], za lata 2007–2018, jeżeli nieprawdziwe dane zostały przekazane do systemu informacji oświatowej, o którym mowa w ustawie wymienionej w ust. 1, lub zostały podane w sprawozdaniu, którego obowiązek sporządzenia wynikał z odrębnych przepisów, i jednostka samorządu terytorialnego otrzymała część oświatową subwencji ogólnej w kwocie niższej od należnej.
 
 3. (uchylony)
 
@@ -2391,7 +2417,7 @@ Art. 133. Traci moc ustawa z dnia 19 lutego 2004 r. o systemie informacji oświa
 
 Art. 134. Ustawa wchodzi w życie z dniem 30 kwietnia 2012 r., z wyjątkiem:
 
-1) art. 128 ust. 1, który wchodzi w życie z dniem ogłoszenia[^5];
+1) art. 128 ust. 1, który wchodzi w życie z dniem ogłoszenia[^39];
 
 2) art. 102, 103 i 121, które wchodzą w życie z dniem 1 sierpnia 2012 r.
 
@@ -2401,10 +2427,78 @@ Art. 134. Ustawa wchodzi w życie z dniem 30 kwietnia 2012 r., z wyjątkiem:
 
 [^1]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1160 i 1837 oraz z 2026 r. poz. 187, 203, 451 i 504.
 
-[^2]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1178, 1661, 1814, 1818 i 1872 oraz z 2026 r. poz. 473.
+[^2]: W brzmieniu ustalonym przez art. 2 pkt 1 ustawy z dnia 21 listopada 2024 r. o zmianie ustawy o systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1933), która weszła w życie z dniem 11 stycznia 2025 r.
 
-[^3]: Z dniem 1 marca 2021 r. na podstawie art. 132 niniejszej ustawy.
+[^3]: Dodany przez art. 2 pkt 1 ustawy z dnia 13 marca 2026 r. o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw (Dz. U. poz. 504), która weszła w życie z dniem 25 kwietnia 2026 r.
 
-[^4]: Artykuł 104 zawiera zmiany do ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego.
+[^4]: Dodany przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 3.
 
-[^5]: Ustawa została ogłoszona w dniu 5 lipca 2011 r.
+[^5]: Ze zmianą wprowadzoną przez art. 5 pkt 1 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy – Karta Nauczyciela oraz niektórych innych ustaw (Dz. U. poz. 1160), która weszła w życie z dniem 1 września 2025 r.
+
+[^6]: W brzmieniu ustalonym przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 2.
+
+[^7]: W brzmieniu ustalonym przez art. 2 pkt 3 ustawy, o której mowa w odnośniku 2.
+
+[^8]: Dodany przez art. 40 pkt 1 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 oraz z 2025 r. poz. 1019), która weszła w życie z dniem 14 lipca 2023 r.; wszedł w życie z dniem 17 września 2025 r.
+
+[^9]: Dodana przez art. 40 pkt 2 ustawy, o której mowa w odnośniku 8; wszedł w życie z dniem 30 listopada 2025 r.
+
+[^10]: Oznaczenie ust. 1 nadane przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 5; wszedł w życie z dniem 26 sierpnia 2025 r.
+
+[^11]: Dodany przez art. 5 pkt 2 ustawy, o której mowa w odnośniku 5; wszedł w życie z dniem 26 sierpnia 2025 r.
+
+[^12]: W brzmieniu ustalonym przez art. 2 pkt 4 ustawy, o której mowa w odnośniku 2.
+
+[^13]: Dodany przez art. 5 pkt 3 ustawy, o której mowa w odnośniku 5.
+
+[^14]: W brzmieniu ustalonym przez art. 2 pkt 5 ustawy, o której mowa w odnośniku 2.
+
+[^15]: W brzmieniu ustalonym przez art. 68 pkt 1 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572), która weszła w życie z dniem 25 października 2024 r.
+
+[^16]: W brzmieniu ustalonym przez art. 2 pkt 6 ustawy, o której mowa w odnośniku 2.
+
+[^17]: W brzmieniu ustalonym przez art. 2 pkt 7 ustawy, o której mowa w odnośniku 2.
+
+[^18]: W brzmieniu ustalonym przez art. 2 pkt 8 ustawy, o której mowa w odnośniku 2.
+
+[^19]: W brzmieniu ustalonym przez art. 2 pkt 9 ustawy, o której mowa w odnośniku 2.
+
+[^20]: Przez art. 2 pkt 1 ustawy z dnia 21 listopada 2025 r. zmieniającej ustawę o zmianie ustawy – Prawo oświatowe oraz niektórych innych ustaw, ustawę o systemie informacji oświatowej, ustawę – Prawo oświatowe oraz ustawę – Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1837), która weszła w życie z dniem 31 grudnia 2025 r.; wszedł w życie z dniem 23 grudnia 2025 r.
+
+[^21]: Dodany przez art. 2 pkt 10 ustawy, o której mowa w odnośniku 2.
+
+[^22]: Przez art. 2 pkt 2 ustawy, o której mowa w odnośniku 20; wszedł w życie z dniem 23 grudnia 2025 r.
+
+[^23]: Dodany przez art. 2 pkt 11 ustawy, o której mowa w odnośniku 2.
+
+[^24]: Ze zmianą wprowadzoną przez art. 5 pkt 4 ustawy, o której mowa w odnośniku 5.
+
+[^25]: Wprowadzenie do wyliczenia w brzmieniu ustalonym przez art. 69 ustawy z dnia 15 maja 2024 r. o wspieraniu rodziców w aktywności zawodowej oraz w wychowaniu dziecka – „Aktywny rodzic” (Dz. U. poz. 858), która weszła w życie z dniem 1 października 2024 r.
+
+[^26]: Dodany przez art. 40 pkt 3 ustawy, o której mowa w odnośniku 8; wszedł w życie z dniem 30 listopada 2025 r.
+
+[^27]: Dodany przez art. 40 pkt 3 ustawy, o której mowa w odnośniku 8; wszedł w życie z dniem 17 września 2025 r.
+
+[^28]: Dodany przez art. 5 pkt 5 ustawy, o której mowa w odnośniku 5; wszedł w życie z dniem 1 stycznia 2026 r.
+
+[^29]: W brzmieniu ustalonym przez art. 5 pkt 6 ustawy, o której mowa w odnośniku 5.
+
+[^30]: W brzmieniu ustalonym przez art. 5 pkt 7 ustawy, o której mowa w odnośniku 5.
+
+[^31]: W brzmieniu ustalonym przez art. 5 pkt 8 ustawy, o której mowa w odnośniku 5.
+
+[^32]: Dodany przez art. 5 pkt 9 ustawy, o której mowa w odnośniku 5; wszedł w życie z dniem 1 stycznia 2026 r.
+
+[^33]: W brzmieniu ustalonym przez art. 68 pkt 2 ustawy, o której mowa w odnośniku 15.
+
+[^34]: W brzmieniu ustalonym przez art. 40 pkt 4 ustawy, o której mowa w odnośniku 8; wszedł w życie z dniem 17 września 2025 r.; ze zmianą wprowadzoną przez art. 5 pkt 10 ustawy, o której mowa w odnośniku 5; wszedł w życie z dniem 1 stycznia 2026 r.
+
+[^35]: W brzmieniu ustalonym przez art. 2 pkt 12 ustawy, o której mowa w odnośniku 2.
+
+[^36]: Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2025 r. poz. 1178, 1661, 1814, 1818 i 1872 oraz z 2026 r. poz. 473.
+
+[^37]: Z dniem 1 marca 2021 r. na podstawie art. 132 niniejszej ustawy.
+
+[^38]: Artykuł 104 zawiera zmiany do ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego.
+
+[^39]: Ustawa została ogłoszona w dniu 5 lipca 2011 r.
