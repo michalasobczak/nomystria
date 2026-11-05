@@ -18,7 +18,7 @@ Projekt prowadzimy według metodyki [Rondo + Context-Driven-Development](https:/
 
 ## Stan
 
-Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Analiza struktury prawa to kolejny etap i nie ma jeszcze specyfikacji.
+Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Kolejne etapy to weryfikacja danych (S005), pierwsza próbna analiza ustawy (S006) i strona z wynikami (S007). Na razie są proponowanymi specyfikacjami.
 
 | Spec | Tytuł | Status |
 | --- | --- | --- |
@@ -26,6 +26,9 @@ Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucj
 | [S002](specs/S002-korpus-ustaw.md) | Korpus: Konstytucja i obowiązujące ustawy w aktualnym brzmieniu | dostarczona |
 | [S003](specs/S003-konwersja-pdf-md.md) | Konwersja PDF → Markdown | dostarczona |
 | [S004](specs/S004-tabela-ustaw.md) | Tabela ustaw: zmiany, tekst jednolity i tekst ujednolicony | dostarczona |
+| [S005](specs/S005-weryfikacja-ilosciowa.md) | Weryfikacja ilościowa korpusu i klasyfikacji: jednorazowy test na próbie 100 ustaw | proponowana |
+| [S006](specs/S006-analiza-jednej-ustawy.md) | Eksperymentalna analiza jednej ustawy: niespójności, braki, wady, sprzeczności, brak ścieżek alternatywnych, zaniechania | proponowana |
+| [S007](specs/S007-strona-gh-pages.md) | Strona na GitHub Pages: przeglądarka ustaw z filtrami i wynikami kontroli | proponowana |
 
 ## Glosariusz
 

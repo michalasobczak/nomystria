@@ -4,6 +4,13 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### Propozycje specyfikacji S005–S007
+
+- Dodano specyfikacje o statusie „proponowana”:
+  - **S005:** weryfikacja ilościowa korpusu i klasyfikacji, czyli jednorazowy test próby 100 ustaw względem niezależnych źródeł (strona ISAP, pełne `GET /acts`, ramka „Opracowano na podstawie”);
+  - **S006:** eksperymentalna analiza jednej ustawy pod kątem niespójności, braków, wad, sprzeczności, braku ścieżek alternatywnych i zaniechań, z weryfikacją krzyżową dwoma narzędziami i werdyktem autora;
+  - **S007:** strona na GitHub Pages z filtrami i wynikami kontroli z katalogu `kontrole/`.
+
 ### README: weryfikacja krzyżowa
 
 - Do opisu sposobu pracy (sekcja „Uwagi”) dopisano, że wyniki są weryfikowane krzyżowo za pomocą różnych narzędzi.
