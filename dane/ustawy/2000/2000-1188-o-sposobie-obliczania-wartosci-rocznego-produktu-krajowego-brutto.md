@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2021 poz. 151"
 tekst_jednolity_z_dnia: "2021-01-20"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2020
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["statystyka", "produkcja", "klasyfikacja"]

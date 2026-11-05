@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2026 poz. 880"
 tekst_jednolity_z_dnia: "2026-06-12"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["notariat", "lokalowe prawo", "kodeks postępowania cywilnego", "bankowe prawo", "gwarancja", "postępowanie egzekucyjne w administracji", "księgi wieczyste i hipoteka", "budownictwo", "własność", "budownictwo mieszkaniowe", "restrukturyzacja", "upadłościowe prawo", "nieruchomości"]

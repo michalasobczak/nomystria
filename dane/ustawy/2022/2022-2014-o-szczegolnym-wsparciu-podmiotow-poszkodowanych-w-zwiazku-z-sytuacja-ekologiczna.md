@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2023 poz. 1392"
 tekst_jednolity_z_dnia: "2023-07-07"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["świadczenia", "wody", "ubezpieczenia społeczne", "świadczenia odszkodowawcze"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2023 poz. 922"
 tekst_jednolity_z_dnia: "2023-04-17"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["fundusze", "rolnicy", "lasy", "ubezpieczenia społeczne", "grunty rolne i leśne", "rolnictwo", "emerytury i renty", "ekwiwalent pieniężny", "rozwój obszarów wiejskich", "gwarancja"]

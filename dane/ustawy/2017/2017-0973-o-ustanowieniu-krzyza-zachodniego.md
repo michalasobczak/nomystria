@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2022 poz. 510"
 tekst_jednolity_z_dnia: "2022-02-24"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2021
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ordery, odznaczenia i odznaki"]

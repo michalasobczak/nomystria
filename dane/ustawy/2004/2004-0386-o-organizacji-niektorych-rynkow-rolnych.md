@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 43
 tekst_jednolity: "Dz.U. 2023 poz. 1502"
 tekst_jednolity_z_dnia: "2023-07-07"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["rezerwy państwowe", "podatki", "wino", "mięso", "owoce i warzywa", "administracyjne postępowanie", "dotacje", "fundusze", "finansowa gospodarka", "postępowanie egzekucyjne w administracji", "cukrownictwo", "artykuły spożywcze", "cywilne prawo", "formularze", "rejestry", "pasze", "regiony", "grunty rolne i leśne", "paliwa i smary", "rolnictwo", "wskaźnik", "tytoń"]

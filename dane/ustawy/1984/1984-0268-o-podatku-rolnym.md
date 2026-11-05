@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 51
 tekst_jednolity: "Dz.U. 2025 poz. 1344"
 tekst_jednolity_z_dnia: "2025-09-26"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["rolne prawo", "opłaty administracyjne", "podatek rolny", "ulgi podatkowe", "zwierzęta", "inwestycje", "grunty rolne i leśne", "rolnictwo", "hodowla"]

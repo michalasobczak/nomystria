@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2024 poz. 1185"
 tekst_jednolity_z_dnia: "2024-08-01"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "podatki", "umowy międzynarodowe", "finanse publiczne", "karne skarbowe prawo", "informacje gospodarcze"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 38
 tekst_jednolity: "Dz.U. 2024 poz. 1712"
 tekst_jednolity_z_dnia: "2024-11-07"
 zmian_po_tekscie_jednolitym: 6
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kontrola", "dyscyplinarne postępowanie", "nadzór", "inspekcja"]

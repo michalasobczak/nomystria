@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2019 poz. 994"
 tekst_jednolity_z_dnia: "2019-05-21"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2019
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "broń, amunicja i materiały wybuchowe", "systemy teleinformatyczne", "sprzedaż"]

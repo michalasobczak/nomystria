@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 61
 tekst_jednolity: "Dz.U. 2022 poz. 1722"
 tekst_jednolity_z_dnia: "2022-08-05"
 zmian_po_tekscie_jednolitym: 4
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["spółki", "radiofonia i telewizja", "przepisy karne", "opłaty administracyjne", "koncesje", "prasowe prawo", "karne prawo"]

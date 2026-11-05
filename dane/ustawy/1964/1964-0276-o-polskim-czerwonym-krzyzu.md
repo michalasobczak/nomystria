@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2019 poz. 179"
 tekst_jednolity_z_dnia: "2019-01-17"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2018
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["celne prawo", "przepisy karne", "obrona narodowa", "organizacje społeczne", "pomoc społeczna", "kombatanci", "łączność", "taryfy celne, wywóz i przywóz", "ochrona zdrowia", "wykroczenia"]

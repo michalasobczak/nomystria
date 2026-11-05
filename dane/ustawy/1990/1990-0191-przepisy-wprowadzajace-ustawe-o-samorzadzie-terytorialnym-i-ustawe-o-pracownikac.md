@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2020
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["gminy", "mienie komunalne", "sołtysi", "terenowe organy administracji rządowej", "związki i porozumienia komunalne", "samorząd terytorialny", "sejmiki samorządowe", "pracownicy samorządowi"]

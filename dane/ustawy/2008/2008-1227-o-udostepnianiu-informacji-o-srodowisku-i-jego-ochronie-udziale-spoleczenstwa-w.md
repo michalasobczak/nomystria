@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 99
 tekst_jednolity: "Dz.U. 2026 poz. 670"
 tekst_jednolity_z_dnia: "2026-05-15"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["elektroniczne nośniki informacji", "odpady", "hałas i wibracje", "ścieki", "dokumenty", "opłaty", "naczelne i centralne organy administracji", "ekologia", "promieniowanie", "ochrona środowiska", "powietrze atmosferyczne", "zanieczyszczenia", "ochrona przyrody"]

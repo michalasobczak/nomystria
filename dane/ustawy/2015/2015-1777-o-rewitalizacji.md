@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2024 poz. 278"
 tekst_jednolity_z_dnia: "2024-02-20"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["lotnicze prawo", "telekomunikacja", "podatki", "budowlane prawo", "geodezja i kartografia", "transport kolejowy", "planowanie przestrzenne", "gminy", "gazociągi i sieci gazowe", "porty lotnicze", "inwestycje", "działalność pożytku publicznego", "zamówienia publiczne", "samorząd terytorialny", "wolontariat", "nieruchomości"]

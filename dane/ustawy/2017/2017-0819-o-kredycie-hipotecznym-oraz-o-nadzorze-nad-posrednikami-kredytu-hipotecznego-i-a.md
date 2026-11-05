@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2025 poz. 720"
 tekst_jednolity_z_dnia: "2025-05-21"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "konsumenci", "nadzór", "działalność gospodarcza", "bankowe prawo", "kredyty i pożyczki"]

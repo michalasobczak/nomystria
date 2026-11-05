@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2024 poz. 1374"
 tekst_jednolity_z_dnia: "2024-09-11"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["współpraca zagraniczna", "osobowość prawna"]

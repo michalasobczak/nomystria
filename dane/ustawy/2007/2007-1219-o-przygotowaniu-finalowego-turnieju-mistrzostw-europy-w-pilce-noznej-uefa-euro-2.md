@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2020 poz. 2008"
 tekst_jednolity_z_dnia: "2020-10-08"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["spółki", "budżet", "budownictwo", "budowlane prawo", "drogi publiczne", "porty lotnicze", "finansowanie", "inwestycje", "remonty", "sport", "administracyjne postępowanie", "nieruchomości"]

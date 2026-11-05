@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2024 poz. 891"
 tekst_jednolity_z_dnia: "2024-06-11"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["świadczenia pieniężne", "ubezpieczenia społeczne", "emerytury i renty"]

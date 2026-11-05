@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 74
 tekst_jednolity: "Dz.U. 2024 poz. 425"
 tekst_jednolity_z_dnia: "2024-03-11"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["karne postępowanie w sprawach o wykroczenia", "kontrola", "budżet", "prawo pracy", "informatyzacja", "wodne prawo", "normalizacja", "pracownicy urzędów państwowych", "monitoring", "administracyjne postępowanie", "wykroczenia", "naczelne i centralne organy administracji", "trucizny", "ochrona środowiska", "kary pieniężne i porządkowe", "samorząd terytorialny", "budżetowe prawo", "ochrona wód"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 30
 tekst_jednolity: "Dz.U. 2023 poz. 1966"
 tekst_jednolity_z_dnia: "2023-08-02"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["celne prawo", "czas pracy", "obrona narodowa", "podatki", "pomoc społeczna", "budowlane prawo", "cmentarze", "organizacje społeczne", "wyznania", "szkolnictwo wyższe", "akta stanu cywilnego", "fundacje", "taryfy celne, wywóz i przywóz", "prasowe prawo", "nieruchomości"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: "Dz.U. 2024 poz. 442"
 tekst_jednolity_z_dnia: "2024-03-21"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["obrona narodowa", "sądy powszechne", "sądowe koszty i opłaty", "sądy wojskowe", "karne postępowanie", "osoby represjonowane", "bezpieczeństwo państwa"]

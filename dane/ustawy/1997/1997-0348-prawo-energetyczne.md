@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 151
 tekst_jednolity: "Dz.U. 2026 poz. 43"
 tekst_jednolity_z_dnia: "2025-12-05"
 zmian_po_tekscie_jednolitym: 5
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ceny i stawki taryfowe", "energetyczna gospodarka", "kary pieniężne i porządkowe", "energetyka", "maszyny i urządzenia", "koncesje", "odnawialne źródła energii"]

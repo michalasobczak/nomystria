@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2012
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["instytuty naukowo-badawcze", "badawczo-rozwojowe jednostki", "stopnie i tytuły naukowe", "nauka", "podatki", "szkolnictwo wyższe", "finansowanie"]

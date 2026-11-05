@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 23
 tekst_jednolity: "Dz.U. 2021 poz. 679"
 tekst_jednolity_z_dnia: "2021-03-31"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2021
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["gminy", "spółki", "zadania własne", "jednostki budżetowe", "komunalna gospodarka"]

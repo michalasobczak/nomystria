@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2025 poz. 498"
 tekst_jednolity_z_dnia: "2025-03-07"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["budowlane prawo", "energetyka", "administracja morska", "energetyczne prawo", "bezpieczeństwo żeglugi i wypadki morskie", "inwestycje", "nieruchomości", "geologiczne prawo", "odnawialne źródła energii"]

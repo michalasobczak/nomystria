@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 118
 tekst_jednolity: "Dz.U. 2026 poz. 1263"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["gospodarstwa rolne", "dzieła sztuki", "kasy rejestrujące", "lotnicze prawo", "import", "najem", "podatki", "finanse publiczne", "działalność gospodarcza", "alkohol", "leki i artykuły sanitarne", "zaświadczenia", "podatek dochodowy od osób fizycznych", "licencje", "obrót towarowy z zagranicą", "monety", "nadzór", "rejestry", "transport lotniczy", "urzędy i izby skarbowe", "opłata skarbowa", "spółdzielczość mieszkaniowa", "prawo o ruchu drogowym", "tytoń", "kontrola", "wino", "dokumenty", "złoto", "samochody", "transport morski", "transport", "podatek akcyzowy", "podatek od towarów i usług", "spółki", "turystyka", "farmaceutyczne środki", "księgi wieczyste i hipoteka", "elektroniczne urządzenia", "maklerzy", "ulgi podatkowe", "inwestycje", "ryczałt", "kaucje", "rolnictwo", "rybołówstwo morskie", "usługi", "hodowla"]

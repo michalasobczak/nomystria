@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["administracyjny podział kraju", "przeciwdziałanie alkoholizmowi", "szkolnictwo", "nauka", "zasiłki", "organizacja i zakres działania", "geodezja i kartografia", "terenowe organy administracji rządowej", "administracja rządowa", "bezrobocie", "miasta", "naczelne i centralne organy administracji", "gminy", "odszkodowania", "postępowanie egzekucyjne w administracji", "nauczyciele", "ochrona środowiska", "administracja samorządowa", "kierownicze stanowiska państwowe", "samorząd terytorialny", "inspekcja sanitarna", "sejmiki samorządowe", "nieruchomości"]

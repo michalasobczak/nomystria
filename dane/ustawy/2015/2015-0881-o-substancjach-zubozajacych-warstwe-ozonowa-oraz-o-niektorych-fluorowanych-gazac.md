@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2020 poz. 2065"
 tekst_jednolity_z_dnia: "2020-10-08"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["badania i certyfikacje", "sprawozdawczość", "elektroniczne urządzenia", "ochrona środowiska", "kary pieniężne i porządkowe", "powietrze atmosferyczne", "zanieczyszczenia", "elektroniczne wyroby", "pojazdy mechaniczne", "administracyjne postępowanie", "przeciwpożarowa ochrona"]

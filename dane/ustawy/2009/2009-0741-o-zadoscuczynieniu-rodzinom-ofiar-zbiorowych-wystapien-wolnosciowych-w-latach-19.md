@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2020 poz. 678"
 tekst_jednolity_z_dnia: "2020-03-26"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2019
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["świadczenia pieniężne", "kombatanci"]

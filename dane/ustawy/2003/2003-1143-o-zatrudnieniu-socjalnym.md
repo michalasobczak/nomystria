@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 23
 tekst_jednolity: "Dz.U. 2025 poz. 1718"
 tekst_jednolity_z_dnia: "2025-11-27"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przeciwdziałanie alkoholizmowi", "socjalna działalność", "kwalifikacje", "pomoc społeczna", "bezrobocie", "zatrudnianie", "dotacje", "ochrona zdrowia psychicznego", "zakłady karne", "wynagrodzenia przeciętne", "uchodźcy", "szkolenie zawodowe", "ubezpieczenia zdrowotne", "zasiłek dla bezrobotnych", "narkomania", "wolontariat"]

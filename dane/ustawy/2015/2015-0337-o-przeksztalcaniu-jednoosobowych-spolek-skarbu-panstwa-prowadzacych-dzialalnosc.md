@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2017 poz. 1357"
 tekst_jednolity_z_dnia: "2017-06-22"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2017
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["instytucje artystyczne", "działalność kulturalna", "kultura i sztuka"]

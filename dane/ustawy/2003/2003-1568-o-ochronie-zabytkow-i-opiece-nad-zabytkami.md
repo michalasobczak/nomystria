@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 35
 tekst_jednolity: "Dz.U. 2024 poz. 1292"
 tekst_jednolity_z_dnia: "2024-08-19"
 zmian_po_tekscie_jednolitym: 5
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["działalność kulturalna", "biblioteki", "finansowanie", "geodezja i kartografia", "terenowe organy administracji rządowej", "zabytki", "administracja rządowa", "pozwolenia na wywóz i przywóz", "zaświadczenia", "dotacje", "nadzór", "rejestry", "sprawozdawczość", "ochrona środowiska", "urbanistyka i architektura", "prawo o ruchu drogowym", "autostrady", "karne prawo", "nieruchomości", "podatek od spadków i darowizn", "kultura i sztuka", "kwalifikacje", "ewidencja", "dokumenty", "cmentarze", "rzeczoznawcy", "odszkodowania", "podatek rolny", "budownictwo", "fundacje", "ochrona", "wywóz dóbr kultury za granicę", "grunty rolne i leśne", "samorząd terytorialny", "ochrona przyrody"]

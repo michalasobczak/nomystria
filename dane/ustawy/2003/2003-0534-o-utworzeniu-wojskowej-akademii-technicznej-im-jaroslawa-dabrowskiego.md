@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2019 poz. 1371"
 tekst_jednolity_z_dnia: "2019-07-05"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2018
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["szkolnictwo wyższe", "szkolnictwo wojskowe"]

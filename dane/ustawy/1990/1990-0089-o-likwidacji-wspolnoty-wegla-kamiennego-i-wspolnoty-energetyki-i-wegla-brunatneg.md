@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 1997
 zrodlo_tekstu: "HTML (API ELI)"
 uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI."]
 slowa_kluczowe: ["górnicze urzędy", "węgiel", "górnicze prawo", "ochrona środowiska", "energetyka", "geodezja i kartografia", "ochrona powierzchni ziemi oraz kopalin", "naczelne i centralne organy administracji"]

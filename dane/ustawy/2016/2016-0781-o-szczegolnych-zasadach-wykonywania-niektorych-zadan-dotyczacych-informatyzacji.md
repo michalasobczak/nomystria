@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2025 poz. 1642"
 tekst_jednolity_z_dnia: "2025-11-24"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["podatki", "informatyzacja", "kontrola skarbowa"]

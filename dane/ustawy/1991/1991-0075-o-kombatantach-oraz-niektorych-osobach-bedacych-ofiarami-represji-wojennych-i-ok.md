@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 44
 tekst_jednolity: "Dz.U. 2022 poz. 2039"
 tekst_jednolity_z_dnia: "2022-09-05"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["fundusze", "socjalna działalność", "urlopy pracownicze", "budżet", "pomoc społeczna", "szczególne uprawnienia do urlopów", "kombatanci", "ordery, odznaczenia i odznaki", "zaświadczenia", "emerytury i renty", "ochrona zdrowia", "naczelne i centralne organy administracji"]

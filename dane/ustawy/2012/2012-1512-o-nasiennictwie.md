@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2021 poz. 129"
 tekst_jednolity_z_dnia: "2020-12-08"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kontrola", "rejestry", "nasiennictwo i szkółkarstwo", "ochrona roślin", "owoce i warzywa", "rośliny", "opłaty"]

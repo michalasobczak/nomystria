@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 91
 tekst_jednolity: "Dz.U. 2025 poz. 1312"
 tekst_jednolity_z_dnia: "2025-09-15"
 zmian_po_tekscie_jednolitym: 5
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ulgi przy przejazdach kolejami", "urlopy pracownicze", "nagrody jubileuszowe", "wynagrodzenia", "szczególne uprawnienia do urlopów", "żołnierz zawodowy", "pracownicy urzędów państwowych", "emerytury i renty", "ochrona zdrowia", "lokalowe prawo", "dyscyplinarne postępowanie", "mundury", "zakłady opieki zdrowotnej", "zasiłek pogrzebowy", "mieszkania funkcyjne", "odprawy", "wypadki w związku z pełnieniem służby", "wysługa lat", "koleje", "przeciwpożarowa ochrona", "związki zawodowe"]

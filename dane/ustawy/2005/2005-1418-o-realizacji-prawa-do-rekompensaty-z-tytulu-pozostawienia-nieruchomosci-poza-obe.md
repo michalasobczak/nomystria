@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2017 poz. 2097"
 tekst_jednolity_z_dnia: "2017-10-30"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2017
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["nieruchomości pozostawione za granicą", "odszkodowania", "nieruchomości"]

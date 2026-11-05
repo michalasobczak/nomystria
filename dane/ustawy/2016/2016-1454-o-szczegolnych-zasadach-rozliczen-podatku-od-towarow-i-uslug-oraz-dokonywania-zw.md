@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2018 poz. 280"
 tekst_jednolity_z_dnia: "2018-01-11"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2016
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["podatki", "finansowanie", "inwestycje", "podatek od towarów i usług", "samorząd terytorialny", "planowanie społeczno-gospodarcze"]

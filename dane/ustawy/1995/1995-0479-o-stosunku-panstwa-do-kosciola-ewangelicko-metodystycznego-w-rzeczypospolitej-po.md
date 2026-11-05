@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2023 poz. 85"
 tekst_jednolity_z_dnia: "2022-12-02"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["celne prawo", "biblioteki", "ewidencja gruntów i budynków", "podatki", "darowizny", "zabytki", "administracyjne postępowanie", "ochrona zdrowia", "rejestry", "szkolnictwo wyższe", "muzea", "oświata i wychowanie", "cywilne postępowanie", "ubezpieczenia społeczne", "święta", "kościoły", "nieruchomości", "obrona narodowa", "cmentarze", "użytkowanie wieczyste", "księgi wieczyste i hipoteka", "nauczyciele", "wyznania", "fundacje", "świadectwa i dyplomy"]

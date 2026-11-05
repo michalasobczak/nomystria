@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2021 poz. 403"
 tekst_jednolity_z_dnia: "2021-02-23"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "tekst jednolity, PDF T"
 uwagi: ["Tekst ujednolicony ISAP (z 2023-07-18, na podstawie DU/2023/1296) był starszy niż ostatni tekst jednolity Dz.U. 2021 poz. 403 z 2021-02-23; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["oprocentowanie", "finansowanie", "budownictwo mieszkaniowe", "kredyty i pożyczki"]

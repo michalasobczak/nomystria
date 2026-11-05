@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2024 poz. 114"
 tekst_jednolity_z_dnia: "2024-01-24"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["paliwa", "węgiel", "energetyczna gospodarka", "energetyka", "opłata skarbowa", "podatek akcyzowy"]

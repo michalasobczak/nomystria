@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 31
 tekst_jednolity: "Dz.U. 2023 poz. 1944"
 tekst_jednolity_z_dnia: "2023-08-02"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["turystyka", "działalność gospodarcza", "hotele", "koncesje", "usługi"]

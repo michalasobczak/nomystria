@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 89
 tekst_jednolity: "Dz.U. 2025 poz. 1228"
 tekst_jednolity_z_dnia: "2025-09-01"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["koszty i opłaty sądowe", "opłaty", "koszty sądowe w sprawach cywilnych"]

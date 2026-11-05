@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2021 poz. 2029"
 tekst_jednolity_z_dnia: "2021-10-14"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2021
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["świadczenia", "świadczenia pieniężne", "kombatanci", "osoby represjonowane", "obywatelstwo", "deportowani", "administracyjne postępowanie"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2020 poz. 227"
 tekst_jednolity_z_dnia: "2020-01-09"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2019
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przedsiębiorstwa", "zamówienia publiczne", "pomoc finansowa"]

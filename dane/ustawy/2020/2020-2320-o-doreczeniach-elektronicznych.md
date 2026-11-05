@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2026 poz. 3"
 tekst_jednolity_z_dnia: "2025-12-29"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "podatki", "doręczenia", "kodeks cywilny", "informatyzacja", "notariat", "administracyjne postępowanie", "kodeks postępowania cywilnego", "postępowanie egzekucyjne w administracji", "adwokatura", "kodeks spółek handlowych", "kodeks postępowania karnego", "cywilne postępowanie", "ubezpieczenia społeczne", "radcy prawni", "karne skarbowe prawo", "kodeks postępowania administracyjnego", "spółdzielcze prawo"]

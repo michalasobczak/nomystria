@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 451
 tekst_jednolity: "Dz.U. 2026 poz. 592"
 tekst_jednolity_z_dnia: "2026-04-17"
 zmian_po_tekscie_jednolitym: 9
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["rolnicze spółdzielnie produkcyjne", "ubezpieczenia rodzinne", "wynagrodzenia", "podatki", "waloryzacja świadczeń", "kodeks cywilny", "inwalidzi", "nakładcza praca", "działalność gospodarcza", "terenowe organy administracji rządowej", "emerytury i renty", "papiery wartościowe", "podatek dochodowy od osób fizycznych", "fundusze", "spółki", "cywilne prawo", "podatek rolny", "ulgi podatkowe", "urzędy i izby skarbowe", "ubezpieczenia społeczne", "księgi przychodów i rozchodów", "pracownicy", "podatek dochodowy od osób prawnych"]

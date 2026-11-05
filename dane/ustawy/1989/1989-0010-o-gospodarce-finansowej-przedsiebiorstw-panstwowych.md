@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2022 poz. 1439"
 tekst_jednolity_z_dnia: "2022-06-23"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["fundusze", "finansowa gospodarka", "przedsiębiorstwa", "finanse publiczne", "przedsiębiorstwa państwowe"]

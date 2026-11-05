@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2018 poz. 1802"
 tekst_jednolity_z_dnia: "2018-09-14"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2018
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ratownictwo", "opieka zdrowotna", "broń, amunicja i materiały wybuchowe"]

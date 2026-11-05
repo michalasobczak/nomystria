@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "administracja skarbowa", "podatki", "podatek wyrównawczy", "działalność gospodarcza", "rachunkowość", "administracyjne postępowanie", "podatek dochodowy od osób fizycznych", "bankowe prawo", "przedsiębiorstwa", "ordynacja podatkowa", "podatek dochodowy", "podatek dochodowy od osób prawnych"]

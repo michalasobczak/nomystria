@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 55
 tekst_jednolity: "Dz.U. 2026 poz. 1328"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["towary niebezpieczne", "odpady", "pojazdy mechaniczne", "administracja rządowa", "komunalna gospodarka", "planowanie przestrzenne", "ochrona zdrowia", "podatek dochodowy od osób fizycznych", "transport drogowy", "rejestry", "sprawozdawczość", "ochrona środowiska", "magazyny", "elektroniczne wyroby", "składowanie", "opłata skarbowa", "baterie i akumulatory", "podatek dochodowy od osób prawnych", "kwalifikacje", "ewidencja", "zezwolenia", "ścieki", "wydobywanie kopalin", "oleje", "utylizacyjne zakłady", "recykling", "górnictwo", "czystość i porządek", "elektroniczne urządzenia", "kary pieniężne i porządkowe", "metale", "geologiczne prawo"]

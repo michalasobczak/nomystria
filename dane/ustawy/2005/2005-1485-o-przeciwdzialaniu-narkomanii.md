@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 43
 tekst_jednolity: "Dz.U. 2023 poz. 1939"
 tekst_jednolity_z_dnia: "2023-08-17"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["farmaceutyczne środki", "rehabilitacja lecznicza", "mak", "oświata i wychowanie", "narkomania", "ochrona zdrowia"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2026 poz. 166"
 tekst_jednolity_z_dnia: "2026-02-05"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kwalifikacje", "działalność gospodarcza", "dokumenty", "szkolenie zawodowe", "świadectwa i dyplomy", "zaświadczenia", "usługi"]

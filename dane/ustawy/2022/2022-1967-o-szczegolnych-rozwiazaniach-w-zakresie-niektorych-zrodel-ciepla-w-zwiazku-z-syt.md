@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2026 poz. 1260"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["paliwa", "postępowanie egzekucyjne w administracji", "węgiel", "pomoc społeczna", "energetyczna gospodarka", "energetyka", "finansowanie", "rekompensaty pieniężne", "kodeks postępowania cywilnego", "podatek akcyzowy", "podatek dochodowy od osób fizycznych", "podatek dochodowy od osób prawnych"]

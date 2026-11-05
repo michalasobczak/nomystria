@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2005
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "celne prawo", "kodeks celny", "dług celny", "urzędy celne", "kontrola celna", "karne skarbowe prawo"]

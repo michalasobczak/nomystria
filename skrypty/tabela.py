@@ -57,6 +57,8 @@ def change_info(act: dict, tj_meta: dict[str, dict]) -> dict:
         "tekst_jednolity_z_dnia": meta.get("data_obwieszczenia") or "",
         "tekst_jednolity_ogloszony": meta.get("data_ogloszenia") or "",
         "zmian_po_tekscie_jednolitym": len(after) if tj else "",
+        # rok ogłoszenia ostatniej ustawy zmieniającej (z ELI: DU/rok/poz)
+        "rok_ostatniej_zmiany": _key(zm[-1])[0] if zm else "",
     }
 
 

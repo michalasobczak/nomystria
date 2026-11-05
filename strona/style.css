@@ -133,5 +133,3 @@ tr.znal-row > td { background: var(--row-hover); padding: 8px 12px 12px; }
 .zn blockquote { margin: 6px 0; padding-left: 10px; border-left: 3px solid var(--line); color: var(--muted); font-size: 13px; }
 .zn details summary { cursor: pointer; color: var(--accent); font-size: 13px; }
 .zn-nr { font-weight: 700; font-variant-numeric: tabular-nums; min-width: 2.2em; }
-.zn-diag { display: inline-block; font-weight: 600; text-decoration: none; padding: 5px 12px; border: 1.5px solid var(--accent); border-radius: 6px; }
-.zn-diag:hover { background: var(--accent); color: var(--panel); }

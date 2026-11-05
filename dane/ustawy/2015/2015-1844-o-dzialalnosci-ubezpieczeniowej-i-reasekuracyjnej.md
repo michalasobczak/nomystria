@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 43
 tekst_jednolity: "Dz.U. 2025 poz. 1526"
 tekst_jednolity_z_dnia: "2025-10-20"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["fundusze", "finansowa gospodarka", "likwidacja", "nadzór", "towarzystwa ubezpieczeń wzajemnych", "ubezpieczenia majątkowe i osobowe", "sprawozdanie finansowe", "działalność ubezpieczeniowa", "spółki akcyjne", "naprawcze postępowanie"]

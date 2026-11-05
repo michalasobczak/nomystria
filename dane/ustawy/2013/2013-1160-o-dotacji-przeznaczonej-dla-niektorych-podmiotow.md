@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2025 poz. 74"
 tekst_jednolity_z_dnia: "2025-01-15"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["górnictwo", "kopalnie", "dotacje"]

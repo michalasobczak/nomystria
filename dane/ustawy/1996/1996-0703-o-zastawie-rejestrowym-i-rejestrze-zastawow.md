@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 22
 tekst_jednolity: "Dz.U. 2018 poz. 2017"
 tekst_jednolity_z_dnia: "2018-10-03"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["zastaw rejestrowy", "kodeks cywilny", "fundusze powiernicze", "rejestr zastawów", "dokumenty", "sądy gospodarcze", "opłaty", "papiery wartościowe", "bankowe prawo", "cywilne prawo", "formularze", "rejestry", "upadłościowe prawo"]

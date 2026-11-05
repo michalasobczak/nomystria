@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 50
 tekst_jednolity: "Dz.U. 2023 poz. 624"
 tekst_jednolity_z_dnia: "2023-03-10"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "tekst jednolity, PDF T"
 uwagi: ["Tekst ujednolicony ISAP (z 2023-03-03, na podstawie DU/2022/1215) był starszy niż ostatni tekst jednolity Dz.U. 2023 poz. 624 z 2023-03-10; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["wynagrodzenia", "kierownicze stanowiska państwowe", "podatek od wynagrodzeń", "pracownicy urzędów państwowych"]

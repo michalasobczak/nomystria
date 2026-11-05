@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 103
 tekst_jednolity: "Dz.U. 2026 poz. 1395"
 tekst_jednolity_z_dnia: "2026-10-09"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "finanse publiczne", "podatki i opłaty terenowe", "karne skarbowe prawo", "opłata skarbowa", "planowanie przestrzenne", "samorząd terytorialny"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2004
 zrodlo_tekstu: "PDF T"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "urzędy celne", "administracja celna", "karne skarbowe prawo"]

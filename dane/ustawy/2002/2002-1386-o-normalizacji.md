@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2015 poz. 1483"
 tekst_jednolity_z_dnia: "2015-09-08"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2008
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["jakość wyrobów", "badania i certyfikacje", "jednostki budżetowe", "komitety", "normalizacja", "normy"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2025 poz. 797"
 tekst_jednolity_z_dnia: "2025-06-11"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["tachografy", "postępowanie egzekucyjne w administracji", "kierowcy", "podatek dochodowy od osób fizycznych", "systemy teleinformatyczne", "transport drogowy"]

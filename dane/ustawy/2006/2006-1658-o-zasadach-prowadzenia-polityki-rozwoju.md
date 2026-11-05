@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 30
 tekst_jednolity: "Dz.U. 2025 poz. 198"
 tekst_jednolity_z_dnia: "2025-02-05"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "tekst jednolity, PDF T"
 uwagi: ["Tekst ujednolicony ISAP (z 2026-11-02, na podstawie DU/2026/1366) był starszy niż ostatni tekst jednolity Dz.U. 2025 poz. 198 z 2025-02-05; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["działalność gospodarcza", "finansowanie", "inwestycje", "planowanie społeczno-gospodarcze", "pomoc finansowa"]

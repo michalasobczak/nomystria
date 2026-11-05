@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2026 poz. 1306"
 tekst_jednolity_z_dnia: "2026-10-02"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "kodeks postępowania w sprawach o wykroczenia", "informacje niejawne", "kodeks postępowania karnego", "ochrona", "karne postępowanie", "karne skarbowe prawo", "pomoc finansowa", "świadkowie"]

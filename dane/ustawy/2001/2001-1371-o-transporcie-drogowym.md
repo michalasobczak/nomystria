@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 109
 tekst_jednolity: "Dz.U. 2025 poz. 1490"
 tekst_jednolity_z_dnia: "2025-10-20"
 zmian_po_tekscie_jednolitym: 5
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["służba cywilna", "egzaminy", "badania i certyfikacje", "kontrola", "zezwolenia", "podatki i opłaty terenowe", "pojazdy mechaniczne", "administracja rządowa", "inspekcja", "opłaty", "przewóz osób", "transport drogowy", "licencje", "przewozowe prawo", "nadzór", "drogi publiczne", "opłaty lokalne", "legitymacje", "świadectwa i dyplomy", "broń palna", "prawo o ruchu drogowym", "rejestry sądowe", "transport międzynarodowy"]

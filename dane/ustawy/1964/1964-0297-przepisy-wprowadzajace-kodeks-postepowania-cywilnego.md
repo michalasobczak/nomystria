@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 1996
 zrodlo_tekstu: "OCR (tesseract) PDF U"
 uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); tekst odczytano przez OCR i może zawierać błędy rozpoznania."]
 slowa_kluczowe: ["przepisy karne", "lotnicze prawo", "obrona narodowa", "kodeks postępowania cywilnego", "morskie prawo", "imiona i nazwiska", "cudzoziemcy", "konsularne prawo", "komornicy", "rodzinne i opiekuńcze prawo", "akta stanu cywilnego", "statki powietrzne", "cywilne postępowanie", "statki morskie", "karne prawo"]

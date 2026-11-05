@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2026 poz. 111"
 tekst_jednolity_z_dnia: "2026-01-26"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ratownictwo", "inwalidzi wojenni i wojskowi", "misje specjalne", "świadczenia lecznicze", "inwalidzi", "żołnierz zawodowy", "renta inwalidzka", "emerytury i renty", "weterani", "pomoc finansowa", "bezpieczeństwo państwa"]

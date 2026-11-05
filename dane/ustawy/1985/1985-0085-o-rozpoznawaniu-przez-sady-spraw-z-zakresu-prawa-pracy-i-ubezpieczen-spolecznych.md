@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2003
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["prawo pracy", "młodociani", "ordery, odznaczenia i odznaki", "emerytury i renty", "administracyjne postępowanie", "dni wolne od pracy", "naczelne i centralne organy administracji", "sądy pracy i ubezpieczeń społecznych", "praktyki zawodowe", "oświata i wychowanie", "cywilne postępowanie", "ubezpieczenia społeczne", "odprawy", "święta", "opinie pracownicze", "urlopy pracownicze", "czas pracy", "wynagrodzenia", "obrona narodowa", "kobiety", "sądy powszechne", "dyscyplina pracy", "przedawnienie", "bhp", "legitymacje pracownicze", "zatrudnianie", "więziennictwo", "lokalowe prawo", "wykroczenia", "odzież ochronna, robocza i sprzęt ochrony osobistej", "morskie prawo", "choroby zawodowe", "materialna odpowiedzialność pracowników", "wypadki przy pracy", "wysługa lat", "związki zawodowe", "koleje", "przeciwpożarowa ochrona", "układy zbiorowe pracy"]

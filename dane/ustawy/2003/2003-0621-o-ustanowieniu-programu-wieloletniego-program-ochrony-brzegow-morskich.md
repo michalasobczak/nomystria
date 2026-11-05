@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2016 poz. 678"
 tekst_jednolity_z_dnia: "2016-05-11"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2015
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["morza", "budżet", "ochrona środowiska", "urzędy morskie", "programy wieloletnie", "monitoring"]

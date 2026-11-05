@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 1986
 zrodlo_tekstu: "HTML (API ELI)"
 uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI."]
 slowa_kluczowe: ["przepisy karne", "lotnicze prawo", "obrona narodowa", "morskie prawo", "imiona i nazwiska", "cudzoziemcy", "konsularne prawo", "cywilne prawo", "rodzinne i opiekuńcze prawo", "akta stanu cywilnego", "statki powietrzne", "statki morskie", "karne prawo", "kodeks rodzinny i opiekuńczy"]

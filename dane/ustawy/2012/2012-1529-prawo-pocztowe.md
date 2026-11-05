@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 22
 tekst_jednolity: "Dz.U. 2026 poz. 558"
 tekst_jednolity_z_dnia: "2026-04-17"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kontrola", "sprawozdawczość", "działalność gospodarcza", "kary pieniężne i porządkowe", "finansowanie", "tajemnica państwowa i służbowa", "poczta", "usługi", "znaczki pocztowe", "rachunkowość"]

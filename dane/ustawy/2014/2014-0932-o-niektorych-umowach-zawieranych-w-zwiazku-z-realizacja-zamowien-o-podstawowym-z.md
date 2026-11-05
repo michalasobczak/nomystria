@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2022 poz. 1218"
 tekst_jednolity_z_dnia: "2022-05-13"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["obrona narodowa", "broń, amunicja i materiały wybuchowe", "bezpieczeństwo państwa"]

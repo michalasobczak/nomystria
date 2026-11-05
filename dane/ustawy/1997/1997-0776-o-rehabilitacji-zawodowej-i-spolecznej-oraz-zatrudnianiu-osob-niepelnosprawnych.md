@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 124
 tekst_jednolity: "Dz.U. 2026 poz. 884"
 tekst_jednolity_z_dnia: "2026-06-19"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["zatrudnianie inwalidów i emerytów", "rehabilitacja lecznicza", "rehabilitacja zawodowa", "szkolenie zawodowe", "podatek od towarów i usług", "zakłady pracy chronionej", "podatek dochodowy od osób fizycznych", "podatek dochodowy od osób prawnych", "niepełnosprawni"]

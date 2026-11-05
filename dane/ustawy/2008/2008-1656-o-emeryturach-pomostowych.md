@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2024 poz. 1696"
 tekst_jednolity_z_dnia: "2024-11-07"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["fundusze", "składki", "fundusze emerytalne", "emerytury i renty"]

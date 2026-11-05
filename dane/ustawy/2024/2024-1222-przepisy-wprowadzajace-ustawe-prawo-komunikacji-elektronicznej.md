@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["radiofonia i telewizja", "kontrola", "telekomunikacja", "informacje niejawne", "zezwolenia", "informatyzacja", "akredytacja", "łączność", "komunikacja i łączność", "usługi", "karne prawo"]

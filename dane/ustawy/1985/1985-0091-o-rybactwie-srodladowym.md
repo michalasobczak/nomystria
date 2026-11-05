@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 28
 tekst_jednolity: "Dz.U. 2022 poz. 883"
 tekst_jednolity_z_dnia: "2022-03-23"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ochrona środowiska morskiego", "karty wędkarskie", "rybactwo śródlądowe", "ochrona środowiska", "wędkarstwo", "raki", "wykroczenia", "strażnicy rybaccy", "ochrona wód"]

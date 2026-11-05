@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 20
 tekst_jednolity: "Dz.U. 2024 poz. 1186"
 tekst_jednolity_z_dnia: "2024-08-01"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["sędziowie", "organizacja i zakres działania", "regulamin organizacyjny", "komisje", "lustracja"]

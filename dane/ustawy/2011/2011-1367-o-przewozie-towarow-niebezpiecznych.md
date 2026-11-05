@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2024 poz. 643"
 tekst_jednolity_z_dnia: "2024-03-21"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["towary niebezpieczne", "żegluga śródlądowa", "umowy międzynarodowe", "transport wodny", "transport kolejowy", "transport", "koleje", "transport drogowy"]

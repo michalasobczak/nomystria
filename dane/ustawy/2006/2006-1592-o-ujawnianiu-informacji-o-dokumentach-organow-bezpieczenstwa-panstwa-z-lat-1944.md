@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 54
 tekst_jednolity: "Dz.U. 2025 poz. 1519"
 tekst_jednolity_z_dnia: "2025-10-20"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["rejestry", "informacje niejawne", "dokumenty", "zaświadczenia", "karne postępowanie", "lustracja", "administracyjne postępowanie", "bezpieczeństwo państwa", "funkcje publiczne"]

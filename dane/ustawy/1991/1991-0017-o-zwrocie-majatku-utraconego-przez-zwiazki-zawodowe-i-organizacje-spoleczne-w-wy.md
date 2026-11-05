@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 1996 nr 143 poz. 661"
 tekst_jednolity_z_dnia: "1996-10-23"
 zmian_po_tekscie_jednolitym: 4
+rok_ostatniej_zmiany: 2009
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["stan wojenny", "postępowanie egzekucyjne w administracji", "organizacje społeczne", "działalność gospodarcza", "administracyjne postępowanie", "związki zawodowe", "naczelne i centralne organy administracji"]

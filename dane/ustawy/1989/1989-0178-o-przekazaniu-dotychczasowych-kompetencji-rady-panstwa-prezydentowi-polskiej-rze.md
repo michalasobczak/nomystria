@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2007
 zrodlo_tekstu: "PDF O"
 uwagi: []
 slowa_kluczowe: ["stan wojenny", "wydawnictwa i publikacje", "kierownicze stanowiska państwowe", "pracownicy urzędów państwowych", "planowanie przestrzenne", "budżetowe prawo", "naczelne i centralne organy administracji"]

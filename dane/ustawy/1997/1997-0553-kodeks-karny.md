@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 122
 tekst_jednolity: "Dz.U. 2026 poz. 1342"
 tekst_jednolity_z_dnia: "2026-10-02"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["odszkodowania", "grzywny", "kodeks karny", "sądy powszechne", "kary pieniężne i porządkowe", "sądy wojskowe", "przedawnienie", "skazani", "rejestr skazanych", "więziennictwo", "karne prawo"]

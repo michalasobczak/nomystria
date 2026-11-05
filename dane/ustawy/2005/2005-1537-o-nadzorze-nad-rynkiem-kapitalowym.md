@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 33
 tekst_jednolity: "Dz.U. 2024 poz. 1161"
 tekst_jednolity_z_dnia: "2024-07-28"
 zmian_po_tekscie_jednolitym: 6
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kapitał akcyjny", "instrumenty finansowe", "kodeks karny", "zezwolenia", "finansowanie", "dokumenty", "giełdy", "administracyjne postępowanie", "papiery wartościowe", "nadzór", "rachunki bankowe", "fundusz inwestycyjny", "kontrola skarbowa", "banki", "karne prawo"]

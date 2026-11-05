@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 40
 tekst_jednolity: "Dz.U. 2026 poz. 1261"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks wyborczy", "budżet", "mandaty poselskie i senatorskie", "radni", "komisje wyborcze", "finansowanie", "spis wyborców", "miasta", "gminy", "posłowie", "radiofonia i telewizja", "senatorowie", "prawa obywatelskie", "powiaty", "rejestry", "komisarz wyborczy", "komisje", "komitety", "partie polityczne", "samorząd terytorialny", "sejmiki samorządowe", "wybory"]

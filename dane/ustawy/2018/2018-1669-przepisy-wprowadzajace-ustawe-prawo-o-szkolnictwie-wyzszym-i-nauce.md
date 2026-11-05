@@ -4,7 +4,7 @@ eli: "DU/2018/1669"
 adres_publikacyjny: "Dz.U. 2018 poz. 1669"
 status: "obowiązujący"
 brzmienie: "ujednolicone"
-data_aktu: "2018-07-05"
+data_aktu: "2018-07-03"
 data_wejscia_w_zycie: "2018-10-01"
 tekst_ujednolicony_z_dnia: "2024-02-14"
 opracowano_na_podstawie: "Opracowano na podstawie Dz. U. z 2018 r. poz. 1669, z 2019 r. poz. 39, 534, z 2020 r. poz. 695, 875, 1086, z 2021 r. poz. 1630, 2232, z 2022 r. poz. 1010, 1117, 2306, z 2023 r. poz. 212, 1672, z 2024 r. poz. 124."
@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["stypendia", "nauka", "szkolnictwo zawodowe", "informatyzacja", "papiery wartościowe", "dotacje", "fundusze", "stopnie i tytuły naukowe", "pracownicy nauki", "dyscyplinarne postępowanie", "szkolnictwo wyższe", "studia w szkołach wyższych", "systemy teleinformatyczne", "kredyty i pożyczki"]

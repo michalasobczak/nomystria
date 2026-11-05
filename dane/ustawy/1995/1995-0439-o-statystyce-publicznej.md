@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 41
 tekst_jednolity: "Dz.U. 2026 poz. 851"
 tekst_jednolity_z_dnia: "2026-06-12"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["statystyka", "rejestry", "terenowe organy administracji rządowej", "dokumenty", "tajemnica państwowa i służbowa", "samorząd terytorialny", "wykroczenia", "budżetowe prawo", "naczelne i centralne organy administracji"]

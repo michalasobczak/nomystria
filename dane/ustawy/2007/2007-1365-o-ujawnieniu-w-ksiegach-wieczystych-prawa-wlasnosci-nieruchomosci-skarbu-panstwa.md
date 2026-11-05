@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2012 poz. 1460"
 tekst_jednolity_z_dnia: "2012-09-27"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2012
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["księgi wieczyste i hipoteka", "samorząd terytorialny", "nieruchomości"]

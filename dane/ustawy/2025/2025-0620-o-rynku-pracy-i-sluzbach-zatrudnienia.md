@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["praca", "pracodawca", "zasiłki", "prawo pracy", "działalność gospodarcza", "bezrobocie", "pracownicy urzędów państwowych", "urzędy pracy", "praca i ubezpieczenia społeczne", "zasiłek dla bezrobotnych", "ubezpieczenia społeczne", "pracownicy", "samorząd terytorialny", "kredyty i pożyczki"]

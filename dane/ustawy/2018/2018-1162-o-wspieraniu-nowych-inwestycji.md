@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2025 poz. 469"
 tekst_jednolity_z_dnia: "2025-03-24"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["specjalna strefa ekonomiczna", "ulgi podatkowe", "inwestycje", "podatek dochodowy od osób fizycznych", "podatek dochodowy od osób prawnych", "nieruchomości"]

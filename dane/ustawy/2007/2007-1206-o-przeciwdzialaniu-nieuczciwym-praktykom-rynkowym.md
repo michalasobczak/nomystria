@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2023 poz. 845"
 tekst_jednolity_z_dnia: "2023-04-07"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["konsumenci", "działalność gospodarcza", "konkurencja"]

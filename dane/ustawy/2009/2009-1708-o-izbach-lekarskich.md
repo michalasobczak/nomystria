@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 16
 tekst_jednolity: "Dz.U. 2021 poz. 1342"
 tekst_jednolity_z_dnia: "2021-06-25"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["lekarze", "lekarze dentyści", "samorząd zawodowy", "odpowiedzialność zawodowa", "izby lekarskie", "ochrona zdrowia", "służba zdrowia"]

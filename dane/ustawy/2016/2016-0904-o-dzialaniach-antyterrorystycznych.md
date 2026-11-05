@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2025 poz. 194"
 tekst_jednolity_z_dnia: "2025-02-05"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["elektroniczne nośniki informacji", "telekomunikacja", "lotnicze prawo", "kodeks karny", "giełdy", "kierowcy", "planowanie przestrzenne", "bankowe prawo", "bezpieczeństwo państwa", "zwalczanie terroryzmu", "ratownictwo", "działalność lecznicza", "ochrona środowiska", "granice państwa", "spółdzielcze kasy oszczędnościowo-kredytowe", "kontrola", "przymus bezpośredni", "instrumenty finansowe", "ochrona osób i mienia", "służba wojskowa żołnierzy", "informacje niejawne", "karne postępowanie", "administracja państwowa", "cudzoziemcy", "inwestycje", "grunty rolne i leśne", "broń palna", "przeciwpożarowa ochrona"]

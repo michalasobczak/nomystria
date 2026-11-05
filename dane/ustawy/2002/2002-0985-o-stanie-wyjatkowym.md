@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2017 poz. 1928"
 tekst_jednolity_z_dnia: "2017-09-28"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2016
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["gminy", "stan wyjątkowy", "kontrola", "prawa obywatelskie", "przepisy karne", "powszechny obowiązek obrony", "łączność", "prawa człowieka", "prasowe prawo", "wykroczenia", "naczelne i centralne organy administracji"]

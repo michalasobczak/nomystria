@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2019 poz. 1137"
 tekst_jednolity_z_dnia: "2019-06-06"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2018
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["nadzór", "budżet", "szkolnictwo wyższe", "finansowanie", "programy wieloletnie", "oświata i wychowanie"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2020 poz. 442"
 tekst_jednolity_z_dnia: "2020-02-13"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2019
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["świadczenia lecznicze", "działalność lecznicza", "opieka zdrowotna", "ochrona zdrowia", "kodeks rodzinny i opiekuńczy"]

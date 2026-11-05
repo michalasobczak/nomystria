@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 20
 tekst_jednolity: "Dz.U. 2025 poz. 1332"
 tekst_jednolity_z_dnia: "2025-09-26"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["nagrody jubileuszowe", "wynagrodzenia", "sądy powszechne", "prawo pracy", "sądy wojskowe", "odprawy", "zatrudnianie", "pracownicy", "prokuratura"]

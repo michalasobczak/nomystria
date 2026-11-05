@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 50
 tekst_jednolity: "Dz.U. 2023 poz. 1980"
 tekst_jednolity_z_dnia: "2023-08-02"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["obrót towarowy z zagranicą", "jakość wyrobów", "kontrola", "przepisy karne", "artykuły spożywcze", "znak jakości", "rejestry", "wino", "administracja rządowa", "rolnictwo", "rzeczoznawcy", "inspekcja"]

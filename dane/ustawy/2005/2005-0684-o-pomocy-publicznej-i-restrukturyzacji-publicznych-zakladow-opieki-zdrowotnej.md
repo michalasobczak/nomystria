@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2018 poz. 164"
 tekst_jednolity_z_dnia: "2017-11-24"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2016
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["pomoc publiczna", "zakłady opieki zdrowotnej", "restrukturyzacja", "pomoc finansowa"]

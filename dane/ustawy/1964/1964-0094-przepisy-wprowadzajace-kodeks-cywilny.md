@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2007
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przepisy karne", "cywilne prawo", "kodeks cywilny", "handlowe prawo", "depozyty", "grunty rolne i leśne", "pracownicy urzędów państwowych", "administracyjne postępowanie", "karne prawo", "nieruchomości"]

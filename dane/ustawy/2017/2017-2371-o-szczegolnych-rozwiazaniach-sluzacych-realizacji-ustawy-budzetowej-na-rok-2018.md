@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2018
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["zakładowy fundusz świadczeń socjalnych", "lekarze", "lekarze dentyści", "wynagrodzenia", "łowieckie prawo", "budżet", "kierownicze stanowiska państwowe", "opieka zdrowotna", "zatrudnianie", "budżetowe prawo", "transport drogowy"]

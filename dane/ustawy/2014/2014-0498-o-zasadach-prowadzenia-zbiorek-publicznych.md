@@ -4,7 +4,7 @@ eli: "DU/2014/498"
 adres_publikacyjny: "Dz.U. 2014 poz. 498"
 status: "akt posiada tekst jednolity"
 brzmienie: "ujednolicone"
-data_aktu: "2014-04-14"
+data_aktu: "2014-03-14"
 data_wejscia_w_zycie: "2014-07-18"
 tekst_ujednolicony_z_dnia: "2020-10-06"
 opracowano_na_podstawie: "t.j. Dz. U. z 2020 r. poz. 1672."
@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2020 poz. 1672"
 tekst_jednolity_z_dnia: "2020-09-16"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2019
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["zbiórki publiczne", "działalność pożytku publicznego"]

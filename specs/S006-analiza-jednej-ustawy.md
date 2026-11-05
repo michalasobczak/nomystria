@@ -1,6 +1,6 @@
 # S006 — Eksperymentalna analiza jednej ustawy pod kątem wad legislacyjnych
 
-- **Status:** dostarczona. Ustawa: o fundacji rodzinnej (DU/2023/326), wynik: [`kontrole/x002/RAPORT.md`](../kontrole/x002/RAPORT.md)
+- **Status:** wycofana (2026-11-05). Wyniki x002 usunięto z repozytorium i strony, ale zostały w historii git (commit `b73f07f` i późniejsze).
 - **Data:** 2026-11-05
 - **Powiązane:** S002 (korpus), S005 (wiarygodność danych), S007 (strona z wynikami kontroli)
 
@@ -131,3 +131,18 @@ Warunek ukończenia: znaleziska przeszły walidację (G1–G3), mają zapisany w
   - Którą ustawę wybrać? (rozstrzygnięte w realizacji)
   - Jakich dwóch narzędzi AI użyć?
   - Czy kategorie należy uzupełnić, np. o niezgodność z Konstytucją albo z prawem UE? Zostawiamy to na później, bo wymaga szerszego kontekstu.
+
+## Wycofanie (2026-11-05)
+
+Właściciel wycofał znaleziska x002 jako zbyt skomplikowane do automatycznej weryfikacji na pierwszym etapie.
+
+Bezpośrednim powodem było pytanie o znalezisko x002-001 („skąd założenie, że nie ma zarządu?”). Okazało się, że oba przebiegi AI i analiza scalająca pominęły **art. 42 Kodeksu cywilnego**. Przepis ten nakazuje sądowi ustanowić kuratora, gdy osoba prawna nie ma organu. To podważyło dwa znaleziska:
+
+- x002-001: luki „upływ kadencji” i „odwołanie bez powołania” mają ścieżkę przez kuratora;
+- x002-003: kurator z art. 117 ust. 1 pkt 19 to najpewniej kurator z art. 42 k.c.
+
+**Wnioski dla metody:**
+
+1. Ograniczenie analizy do tekstu jednej ustawy (zasada 2 instrukcji) usunęło halucynacje przepisów, ale ukryło ogólne reguły z innych aktów, zwłaszcza z kodeksów.
+2. Weryfikacja krzyżowa dwoma modelami nie wykryła tego błędu, bo oba przebiegi miały to samo ograniczenie. Niezależność narzędzi nie zastępuje niezależności kontekstu.
+3. Nowy kierunek (MANIFEST M12): **jedna prosta, deterministyczna reguła naraz, sprawdzana na wielu ustawach.** Złożone analizy treści, diagramy ścieżek i formalne kodowanie przepisów wrócą później jako osobne specyfikacje.

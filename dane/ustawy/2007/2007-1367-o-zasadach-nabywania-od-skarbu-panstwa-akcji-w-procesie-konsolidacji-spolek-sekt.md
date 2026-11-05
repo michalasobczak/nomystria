@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2021 poz. 116"
 tekst_jednolity_z_dnia: "2020-12-17"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2020
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["spółki", "energetyczna gospodarka", "prywatyzacja", "komercjalizacja", "papiery wartościowe", "konsolidacja"]

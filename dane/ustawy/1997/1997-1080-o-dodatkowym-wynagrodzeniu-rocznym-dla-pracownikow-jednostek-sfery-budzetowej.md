@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 21
 tekst_jednolity: "Dz.U. 2025 poz. 560"
 tekst_jednolity_z_dnia: "2025-04-23"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["nagrody", "wynagrodzenia", "jednostki budżetowe", "pracownicy"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 21
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2001
 zrodlo_tekstu: "OCR (tesseract) PDF U"
 uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); tekst odczytano przez OCR i może zawierać błędy rozpoznania."]
 slowa_kluczowe: ["lotnicze prawo", "import", "szkolnictwo zawodowe", "sołtysi", "łączność", "terenowe organy administracji rządowej", "żywność i żywienie", "choroby zakaźne", "komunalna gospodarka", "kodeks wykroczeń", "podróże służbowe", "ochrona zdrowia", "świadczenia osobiste i rzeczowe", "rodzinne i opiekuńcze prawo", "karne prawo wykonawcze", "zwierzęta", "oświata i wychowanie", "szkolenie zawodowe", "szkolnictwo artystyczne", "przedszkola", "kultura fizyczna", "karne prawo", "zgromadzenia", "przepisy karne", "żegluga śródlądowa", "nazwy miejscowości i obiektów fizjograficznych", "gastronomiczne zakłady", "zbiórki publiczne", "kodeks karny wykonawczy", "mięso", "lokalowe prawo", "wykroczenia", "morskie prawo", "imiona i nazwiska", "turystyka", "cudzoziemcy", "konsularne prawo", "wyznania", "leśnictwo", "akta stanu cywilnego", "drogi publiczne", "inwestycje", "komunikacja", "koleje", "przeciwpożarowa ochrona", "sport", "ochrona przyrody", "handel wewnętrzny"]

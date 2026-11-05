@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2026 poz. 393"
 tekst_jednolity_z_dnia: "2026-03-12"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["tłumacze", "imiona i nazwiska", "dowody osobiste", "cywilne prawo", "ewidencja ludności", "rodzinne i opiekuńcze prawo", "akta stanu cywilnego", "opłata skarbowa", "cmentarze", "kodeks postępowania cywilnego", "konsularne urzędy"]

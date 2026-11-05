@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 28
 tekst_jednolity: "Dz.U. 2026 poz. 810"
 tekst_jednolity_z_dnia: "2026-05-29"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["asesorzy", "dyscyplinarne postępowanie", "organizacja i zakres działania", "aplikacja", "finansowanie", "prokuratura", "karne prawo"]

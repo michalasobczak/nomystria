@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2010
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["klęski żywiołowe", "powodzie", "budownictwo mieszkaniowe", "kredyty i pożyczki"]

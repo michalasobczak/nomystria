@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2026 poz. 563"
 tekst_jednolity_z_dnia: "2026-04-22"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["powszechny obowiązek obrony", "kombatanci"]

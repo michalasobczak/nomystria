@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 29
 tekst_jednolity: "Dz.U. 2023 poz. 1170"
 tekst_jednolity_z_dnia: "2023-05-11"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["licencje", "patenty", "wzory użytkowe i zdobnicze", "dyscyplinarne postępowanie", "rejestry", "kolegia", "dokumenty", "cywilne postępowanie", "własność przemysłowa", "wynalazczość", "znaki towarowe"]

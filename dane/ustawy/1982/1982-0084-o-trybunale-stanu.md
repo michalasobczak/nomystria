@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2022 poz. 762"
 tekst_jednolity_z_dnia: "2022-03-23"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["konstytucyjna odpowiedzialność"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2024 poz. 1199"
 tekst_jednolity_z_dnia: "2024-08-01"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["budowlane prawo", "energetyczna gospodarka", "energetyka", "finansowanie", "geodezja i kartografia", "energetyczne prawo", "inwestycje", "nieruchomości"]

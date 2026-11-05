@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 30
 tekst_jednolity: "Dz.U. 2026 poz. 549"
 tekst_jednolity_z_dnia: "2026-04-17"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["sądy powszechne", "prawo pracy", "rejestry sądowe", "związki zawodowe", "wykroczenia", "karne prawo"]

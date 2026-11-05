@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2026 poz. 454"
 tekst_jednolity_z_dnia: "2026-03-27"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "ceny", "podatki", "rejestry", "ewidencja", "urzędy i izby skarbowe", "wydobywanie kopalin", "karne skarbowe prawo", "kontrola skarbowa", "metale", "podatek dochodowy od osób fizycznych", "podatek dochodowy od osób prawnych"]

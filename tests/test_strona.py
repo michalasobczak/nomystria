@@ -85,7 +85,7 @@ class TestStrona(unittest.TestCase):
 
     def test_wersjonowanie_zasobow(self):
         # workflow podmienia __WERSJA__ na skrót commita, żeby przeglądarka nie trzymała starych plików
-        for name in ("index.html", "sciezki.html"):
+        for name in ("index.html",):
             html = (ROOT / "strona" / name).read_text(encoding="utf-8")
             self.assertIn('<meta name="wersja" content="__WERSJA__">', html)
             for src in re.findall(r'(?:src|href)="([^"]+\.(?:js|css)[^"]*)"', html):

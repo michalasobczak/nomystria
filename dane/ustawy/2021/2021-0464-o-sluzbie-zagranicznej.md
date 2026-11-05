@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2026 poz. 788"
 tekst_jednolity_z_dnia: "2026-05-27"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["służba cywilna", "stanowiska", "organizacja i zakres działania", "aplikacja", "dodatki do wynagrodzeń", "badania lekarskie", "dyplomatyczne przedstawicielstwa", "służba zagraniczna", "konsularne urzędy"]

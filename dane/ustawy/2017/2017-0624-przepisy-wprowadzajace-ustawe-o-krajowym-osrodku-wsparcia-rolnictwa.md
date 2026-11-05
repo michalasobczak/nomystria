@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2017
 zrodlo_tekstu: "PDF T"
 uwagi: []
 slowa_kluczowe: ["produkty rolne", "świadczenia", "podatki", "biopaliwa", "grunty", "administracja rządowa", "zakwaterowanie sił zbrojnych", "fundusze", "jakość wyrobów", "obrót towarowy z zagranicą", "dzieci", "mienie", "ubezpieczenia społeczne", "opłata skarbowa", "paliwa i smary", "podatek leśny", "podatek dochodowy od osób prawnych", "nieruchomości", "wino", "ewidencja", "pomoc społeczna", "lasy", "organizacje i grupy producentów", "owoce i warzywa", "mleczarstwo", "alimenty", "księgi wieczyste i hipoteka", "artykuły spożywcze", "podatek rolny", "rolnictwo", "restrukturyzacja"]

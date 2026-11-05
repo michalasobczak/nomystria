@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2025 poz. 1354"
 tekst_jednolity_z_dnia: "2025-09-26"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ratownictwo", "telekomunikacja", "klęski żywiołowe", "geodezja i kartografia", "przeciwpożarowa ochrona", "systemy teleinformatyczne"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 95
 tekst_jednolity: "Dz.U. 2024 poz. 722"
 tekst_jednolity_z_dnia: "2024-03-21"
 zmian_po_tekscie_jednolitym: 16
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["działalność gospodarcza", "finansowanie", "giełdy", "papiery wartościowe", "podatek dochodowy od osób fizycznych", "bankowe prawo", "fundusze", "postępowanie egzekucyjne w administracji", "nadzór", "rejestry", "fundusz inwestycyjny", "biegli", "urzędy i izby skarbowe", "handlowe prawo", "ubezpieczenia społeczne", "waluta", "cywilne postępowanie", "upadłościowe prawo", "podatek dochodowy od osób prawnych", "nieruchomości", "kapitał akcyjny", "zastaw rejestrowy", "instrumenty finansowe", "kodeks cywilny", "zezwolenia", "opłaty", "spółki akcyjne", "spółki kapitałowe", "spółki", "finansowa gospodarka", "cudzoziemcy", "komornicy", "maklerzy", "fundusze emerytalne", "własność przemysłowa", "depozyty", "działalność ubezpieczeniowa"]

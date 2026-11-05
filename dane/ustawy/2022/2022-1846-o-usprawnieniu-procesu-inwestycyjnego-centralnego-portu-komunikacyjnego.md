@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: null
 zrodlo_tekstu: "PDF T"
 uwagi: []
 slowa_kluczowe: ["lotnicze prawo", "budowlane prawo", "geodezja i kartografia", "komercjalizacja", "transport kolejowy", "planowanie przestrzenne", "podatek dochodowy od osób fizycznych", "księgi wieczyste i hipoteka", "drogi publiczne", "porty lotnicze", "przedsiębiorstwa państwowe", "restrukturyzacja", "podatek od spadków i darowizn", "nieruchomości"]

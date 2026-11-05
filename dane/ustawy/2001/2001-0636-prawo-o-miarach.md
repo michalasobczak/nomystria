@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 33
 tekst_jednolity: "Dz.U. 2022 poz. 2063"
 tekst_jednolity_z_dnia: "2022-09-16"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kontrola", "nadzór", "rejestry", "urzędy jakości i miar", "administracja rządowa", "urzędy probiercze", "opłaty", "wykroczenia", "miary i narzędzia pomiarowe", "probiercze prawo"]

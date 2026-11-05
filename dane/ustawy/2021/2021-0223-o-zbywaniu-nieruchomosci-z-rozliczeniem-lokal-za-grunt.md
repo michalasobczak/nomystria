@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2023 poz. 1525"
 tekst_jednolity_z_dnia: "2023-06-16"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["gminy", "transport zbiorowy", "ceny", "lokal", "drogi publiczne", "nieruchomości"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2014 poz. 1798"
 tekst_jednolity_z_dnia: "2014-11-28"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2014
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["wyznania", "święta", "cmentarze", "nieruchomości"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2024 poz. 1411"
 tekst_jednolity_z_dnia: "2024-09-18"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["działalność kulturalna", "rehabilitacja zawodowa", "informatyzacja", "budowlane prawo", "zabytki", "skargi i wnioski", "administracja rządowa", "transport", "planowanie przestrzenne", "zatrudnianie", "niepełnosprawni", "bankowe prawo", "fundusze", "pacjenci", "budownictwo", "samorząd terytorialny", "ochrona przyrody"]

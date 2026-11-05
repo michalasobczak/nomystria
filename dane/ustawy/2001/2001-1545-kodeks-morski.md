@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 21
 tekst_jednolity: "Dz.U. 2023 poz. 1309"
 tekst_jednolity_z_dnia: "2023-05-25"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks morski", "składki", "badania i certyfikacje", "świadczenia", "działalność gospodarcza", "ubezpieczenia majątkowe i osobowe", "izby morskie", "konsularne urzędy", "fundusze", "przewozowe prawo", "ratownictwo", "biegli", "rejestry", "umowy międzynarodowe", "postępowanie egzekucyjne", "żegluga morska", "statki morskie", "ubezpieczenia wypadkowe", "kontrola", "wynagrodzenia", "kwalifikacje", "dokumenty", "transport morski", "opłaty", "odszkodowania", "spółki", "ochrona środowiska morskiego", "księgi wieczyste i hipoteka", "maklerzy", "budownictwo", "świadectwa i dyplomy", "własność"]

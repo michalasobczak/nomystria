@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2020 poz. 1645"
 tekst_jednolity_z_dnia: "2020-09-16"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2020
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ochrona środowiska", "żywność i żywienie", "rachunkowość"]

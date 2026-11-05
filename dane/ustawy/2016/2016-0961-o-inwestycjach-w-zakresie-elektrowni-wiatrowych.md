@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2024 poz. 317"
 tekst_jednolity_z_dnia: "2024-02-26"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ochrona środowiska", "budowlane prawo", "energetyczna gospodarka", "energetyka", "energetyczne prawo", "planowanie przestrzenne", "odnawialne źródła energii"]

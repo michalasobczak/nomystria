@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 65
 tekst_jednolity: "Dz.U. 2026 poz. 1315"
 tekst_jednolity_z_dnia: "2026-09-04"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przepisy karne", "ogrody zoologiczne", "ogrody botaniczne", "parki narodowe", "ochrona środowiska", "zezwolenia", "ochrona roślin", "ochrona zwierząt", "opłaty", "ochrona przyrody"]

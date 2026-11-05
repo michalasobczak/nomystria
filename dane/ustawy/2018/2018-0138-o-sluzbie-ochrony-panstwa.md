@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 37
 tekst_jednolity: "Dz.U. 2025 poz. 34"
 tekst_jednolity_z_dnia: "2024-12-06"
 zmian_po_tekscie_jednolitym: 9
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["nagrody", "nadzór", "wynagrodzenia", "dyscyplinarne postępowanie", "organizacja i zakres działania", "mundury", "ochrona", "prawa i obowiązki", "urlopy", "szkolenie pracowników"]

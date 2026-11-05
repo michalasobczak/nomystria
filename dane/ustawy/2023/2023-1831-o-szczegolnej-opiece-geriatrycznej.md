@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2026 poz. 914"
 tekst_jednolity_z_dnia: "2026-07-03"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["świadczenia lecznicze", "opieka zdrowotna", "ochrona zdrowia"]

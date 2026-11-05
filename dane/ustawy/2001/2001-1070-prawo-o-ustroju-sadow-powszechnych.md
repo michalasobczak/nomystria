@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 128
 tekst_jednolity: "Dz.U. 2024 poz. 334"
 tekst_jednolity_z_dnia: "2024-02-09"
 zmian_po_tekscie_jednolitym: 9
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["aplikacja", "kombatanci", "notariat", "emerytury i renty", "gminy", "sądy grodzkie", "oświadczenie o stanie majątkowym", "sądy okręgowe", "sędziowie", "nadzór", "ubezpieczenia społeczne", "radcy prawni", "wybory", "urlopy pracownicze", "wymiar sprawiedliwości", "sąd apelacyjny", "asesorzy", "sądy powszechne", "dyscyplina pracy", "referendarz sądowy", "zatrudnianie", "prokuratura", "sądy administracyjne", "adwokatura", "dyscyplinarne postępowanie", "ślubowanie", "ławnicy", "komornicy", "sądy wojskowe", "kuratorzy"]

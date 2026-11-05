@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2015 poz. 483"
 tekst_jednolity_z_dnia: "2015-03-18"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2014
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["wywłaszczenia", "obrona narodowa", "darowizny", "zabytki", "cmentarze", "domy pomocy społecznej", "księgi wieczyste i hipoteka", "wyznania", "oświata i wychowanie", "grunty rolne i leśne", "święta", "podatek dochodowy od osób prawnych", "nieruchomości"]

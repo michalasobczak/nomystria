@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2016 poz. 52"
 tekst_jednolity_z_dnia: "2015-12-16"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2015
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["spółki", "lokal", "przedsiębiorstwa państwowe", "lokalowe prawo"]

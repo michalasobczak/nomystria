@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 22
 tekst_jednolity: "Dz.U. 2026 poz. 1429"
 tekst_jednolity_z_dnia: "2026-10-02"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["klęski żywiołowe", "rezerwy państwowe", "zasiłki", "działalność gospodarcza", "wodne prawo", "administracja rządowa", "dotacje", "pomoc finansowa", "gminy", "odszkodowania", "przedsiębiorstwa", "ulgi podatkowe", "lokal", "powodzie", "samorząd terytorialny"]

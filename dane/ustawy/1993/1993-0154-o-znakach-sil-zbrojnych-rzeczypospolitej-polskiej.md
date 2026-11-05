@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2025 poz. 816"
 tekst_jednolity_z_dnia: "2025-06-11"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["bandery", "obrona narodowa", "znaki Sił Zbrojnych", "godło i barwy państwa"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 30
 tekst_jednolity: "Dz.U. 2026 poz. 125"
 tekst_jednolity_z_dnia: "2026-01-26"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["badanie zwierząt rzeźnych", "finansowa gospodarka", "farmaceutyczne środki", "dyscyplinarne postępowanie", "rejestry", "izby lekarsko-weterynaryjne", "weterynaryjna służba", "lekarze weterynarii", "zwierzęta", "samorząd zawodowy"]

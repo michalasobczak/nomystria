@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2017 poz. 1008"
 tekst_jednolity_z_dnia: "2017-05-11"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2016
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["obrót towarowy z zagranicą", "kodeks karny skarbowy", "karne skarbowe prawo", "usługi"]

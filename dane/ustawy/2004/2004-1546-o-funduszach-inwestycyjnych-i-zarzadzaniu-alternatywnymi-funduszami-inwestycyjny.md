@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 85
 tekst_jednolity: "Dz.U. 2026 poz. 60"
 tekst_jednolity_z_dnia: "2025-12-05"
 zmian_po_tekscie_jednolitym: 7
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["spółki", "przepisy karne", "fundusz inwestycyjny", "rejestry", "zezwolenia", "papiery wartościowe"]

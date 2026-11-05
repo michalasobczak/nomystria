@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2018 poz. 1235"
 tekst_jednolity_z_dnia: "2018-06-14"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2017
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["parki narodowe", "ochrona środowiska", "wody morskie", "lasy", "własność", "wody"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2025 poz. 1267"
 tekst_jednolity_z_dnia: "2025-09-15"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["fundusze", "finansowa gospodarka", "lotnicze prawo", "organizacja i zakres działania", "transport lotniczy", "kary pieniężne i porządkowe", "porty lotnicze", "statki powietrzne", "opłaty"]

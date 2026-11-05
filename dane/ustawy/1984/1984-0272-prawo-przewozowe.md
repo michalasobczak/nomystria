@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 30
 tekst_jednolity: "Dz.U. 2024 poz. 1262"
 tekst_jednolity_z_dnia: "2024-08-19"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przepisy karne", "żegluga śródlądowa", "terenowe organy administracji rządowej", "przedawnienie", "komunalna gospodarka", "transport kolejowy", "szybownictwo i sport lotniczy", "świadczenia osobiste i rzeczowe", "wykroczenia", "przewozowe prawo", "cywilne prawo", "transport drogowy i spedycja", "transport lotniczy", "ceny i stawki taryfowe", "kary pieniężne i porządkowe", "taksówki", "granice państwa", "komunikacja", "koleje", "pracownicy", "karne prawo"]

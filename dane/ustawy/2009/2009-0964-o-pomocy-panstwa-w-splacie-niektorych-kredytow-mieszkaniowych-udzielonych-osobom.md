@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2025 poz. 1580"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kredyt mieszkaniowy", "lokal", "bezrobocie", "budownictwo mieszkaniowe", "kredyty i pożyczki", "pomoc finansowa"]

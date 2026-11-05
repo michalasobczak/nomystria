@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 65
 tekst_jednolity: "Dz.U. 2026 poz. 151"
 tekst_jednolity_z_dnia: "2026-02-05"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["identyfikacja podatkowa", "przepisy karne", "rejestry", "urzędy i izby skarbowe", "administracyjne postępowanie", "podatek akcyzowy", "podatek od towarów i usług"]

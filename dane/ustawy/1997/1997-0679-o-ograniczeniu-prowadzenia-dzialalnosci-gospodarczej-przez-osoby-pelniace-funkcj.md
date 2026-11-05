@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 33
 tekst_jednolity: "Dz.U. 2025 poz. 499"
 tekst_jednolity_z_dnia: "2025-04-10"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["służba cywilna", "kolegia", "mandaty poselskie i senatorskie", "sądy powszechne", "działalność gospodarcza", "terenowe organy administracji rządowej", "pracownicy urzędów państwowych", "prokuratura", "naczelne i centralne organy administracji", "funkcje publiczne", "spółki", "izby obrachunkowe", "samorząd terytorialny", "pracownicy samorządowi"]

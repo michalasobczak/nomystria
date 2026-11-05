@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2025 poz. 1733"
 tekst_jednolity_z_dnia: "2025-11-24"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["badania i certyfikacje", "audyt", "choroby zakaźne", "podatek dochodowy od osób fizycznych", "dotacje", "gminy", "fundusze", "szkolnictwo wyższe", "działalność lecznicza", "ochrona środowiska", "uchodźcy", "oświata i wychowanie", "ubezpieczenia społeczne", "działalność pożytku publicznego", "pracownicy", "podatek dochodowy od osób prawnych", "wolontariat", "planowanie społeczno-gospodarcze", "autostrady", "praca", "instrumenty finansowe", "pomoc społeczna", "poręczenia państwowe", "wodne prawo", "zatrudnianie", "artykuły spożywcze", "opieka zdrowotna", "rolnictwo", "samorząd terytorialny", "zamówienia publiczne"]

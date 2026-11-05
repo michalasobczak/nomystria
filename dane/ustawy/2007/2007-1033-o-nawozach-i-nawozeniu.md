@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2024 poz. 105"
 tekst_jednolity_z_dnia: "2024-01-24"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["opakowania", "badania i certyfikacje", "celne prawo", "kontrola", "nadzór", "rolnicy", "nawozy", "rośliny", "rolnictwo", "opłaty"]

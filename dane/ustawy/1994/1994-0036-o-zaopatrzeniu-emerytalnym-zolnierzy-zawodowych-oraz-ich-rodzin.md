@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 57
 tekst_jednolity: "Dz.U. 2025 poz. 305"
 tekst_jednolity_z_dnia: "2025-03-06"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["zatrudnianie inwalidów i emerytów", "postępowanie egzekucyjne w administracji", "socjalna działalność", "waloryzacja świadczeń", "żołnierz zawodowy", "zasiłek pogrzebowy", "emerytury i renty", "administracyjne postępowanie", "ochrona zdrowia"]

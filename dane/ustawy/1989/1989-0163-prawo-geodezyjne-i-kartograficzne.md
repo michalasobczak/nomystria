@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 69
 tekst_jednolity: "Dz.U. 2026 poz. 1389"
 tekst_jednolity_z_dnia: "2026-09-18"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przepisy karne", "obrona narodowa", "ewidencja gruntów i budynków", "geodezja i kartografia", "grunty rolne i leśne", "notariat", "wykroczenia", "naczelne i centralne organy administracji", "nieruchomości"]

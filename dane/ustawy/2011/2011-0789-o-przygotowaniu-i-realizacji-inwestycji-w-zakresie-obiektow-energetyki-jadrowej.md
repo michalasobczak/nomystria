@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2025 poz. 1156"
 tekst_jednolity_z_dnia: "2025-08-05"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["odszkodowania", "promieniowanie", "odpady", "energetyczna gospodarka", "energetyczne prawo", "inwestycje", "paliwa i smary", "administracyjne postępowanie", "zamówienia publiczne", "nieruchomości"]

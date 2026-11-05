@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2023 poz. 755"
 tekst_jednolity_z_dnia: "2023-03-10"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["obrona narodowa", "jednostki wojskowe", "żołnierz zawodowy", "granice państwa", "wojsko"]

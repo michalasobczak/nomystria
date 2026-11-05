@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 16
 tekst_jednolity: "Dz.U. 2013 poz. 370"
 tekst_jednolity_z_dnia: "2013-02-20"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2004
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["budżet", "działalność gospodarcza", "żywność i żywienie", "pojazdy mechaniczne", "zboża", "dokumenty", "alkohol", "owoce i warzywa", "bankowe prawo", "maszyny i urządzenia", "rolnictwo", "rybołówstwo morskie", "eksport", "usługi", "kredyty i pożyczki", "tytoń"]

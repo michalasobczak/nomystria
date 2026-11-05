@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 34
 tekst_jednolity: "Dz.U. 2026 poz. 533"
 tekst_jednolity_z_dnia: "2026-03-27"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["stocznie morskie", "lotnicze prawo", "działalność gospodarcza", "rejestr zastawów", "komercjalizacja", "kinematografia", "notariat", "rachunkowość", "podatek dochodowy od osób fizycznych", "bankowe prawo", "transport drogowy", "licencje", "postępowanie egzekucyjne w administracji", "radiofonia i telewizja", "położne", "fundusz inwestycyjny", "prywatyzacja", "ubezpieczenia społeczne", "budownictwo mieszkaniowe", "pielęgniarstwo", "archiwa państwowe", "upadłościowe prawo", "koszty sądowe w sprawach cywilnych", "podatek dochodowy od osób prawnych", "spółdzielcze kasy oszczędnościowo-kredytowe", "instrumenty finansowe", "zastaw rejestrowy", "transport kolejowy", "kodeks postępowania cywilnego", "podatek akcyzowy", "podatek od towarów i usług", "miary i narzędzia pomiarowe", "księgi wieczyste i hipoteka", "spirytus", "wekslowe prawo", "kodeks spółek handlowych", "syndyk", "restrukturyzacja", "weksle"]

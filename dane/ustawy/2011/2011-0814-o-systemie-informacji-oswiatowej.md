@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 42
 tekst_jednolity: "Dz.U. 2026 poz. 803"
 tekst_jednolity_z_dnia: "2026-05-27"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "tekst jednolity, PDF T"
 uwagi: ["Tekst ujednolicony ISAP (z 2026-06-29, na podstawie DU/2026/804) był starszy niż ostatni tekst jednolity Dz.U. 2026 poz. 803 z 2026-05-27; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["nadzór", "finanse publiczne", "informatyzacja", "finansowanie", "oświata i wychowanie", "systemy teleinformatyczne"]

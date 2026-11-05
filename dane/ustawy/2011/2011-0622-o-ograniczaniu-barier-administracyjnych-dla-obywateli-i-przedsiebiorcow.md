@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2011
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["umowa leasingu", "podatki", "działalność gospodarcza", "dokumenty", "administracja rządowa", "zaświadczenia", "oświadczenie", "opłaty", "administracja państwowa", "licencje", "spółki", "przedsiębiorstwa", "rejestry", "archiwa państwowe", "kodeks postępowania administracyjnego"]

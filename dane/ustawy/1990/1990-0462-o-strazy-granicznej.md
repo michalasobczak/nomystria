@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 162
 tekst_jednolity: "Dz.U. 2026 poz. 367"
 tekst_jednolity_z_dnia: "2026-02-27"
 zmian_po_tekscie_jednolitym: 6
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["lotnicze prawo", "wynagrodzenia", "świadczenia z tytułu wypadków przy pracy i chorób zawodowych", "emerytury i renty", "ochrona zdrowia", "lokalowe prawo", "broń, amunicja i materiały wybuchowe", "zasady użycia broni przez funkcjonariuszy", "morskie prawo", "nagrody", "bandery", "dyscyplinarne postępowanie", "mundury", "zakłady opieki zdrowotnej", "zasiłek pogrzebowy", "mieszkania funkcyjne"]

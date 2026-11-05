@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 31
 tekst_jednolity: "Dz.U. 2023 poz. 725"
 tekst_jednolity_z_dnia: "2023-03-10"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["gminy", "cywilne prawo", "najem", "lokal", "czynsze", "postępowanie egzekucyjne", "kaucje", "spółdzielczość mieszkaniowa", "dodatki mieszkaniowe", "lokalowe prawo", "opłaty"]

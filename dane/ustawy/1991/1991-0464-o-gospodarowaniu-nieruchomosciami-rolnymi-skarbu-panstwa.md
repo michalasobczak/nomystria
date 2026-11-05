@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 92
 tekst_jednolity: "Dz.U. 2025 poz. 826"
 tekst_jednolity_z_dnia: "2025-06-13"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["wywłaszczenia", "przetargi", "spółdzielczość", "kodeks cywilny", "czynsze", "bankowe prawo", "spółki", "finansowa gospodarka", "księgi wieczyste i hipoteka", "cywilne prawo", "podatek rolny", "leśnictwo", "rolnicy", "ceny i stawki taryfowe", "prywatyzacja", "inwestycje", "ubezpieczenia społeczne", "budownictwo mieszkaniowe", "grunty rolne i leśne", "państwowe przedsiębiorstwa rolne"]

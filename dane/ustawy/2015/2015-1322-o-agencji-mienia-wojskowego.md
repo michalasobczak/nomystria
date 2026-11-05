@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 21
 tekst_jednolity: "Dz.U. 2025 poz. 817"
 tekst_jednolity_z_dnia: "2025-06-13"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["postępowanie egzekucyjne w administracji", "lokal", "lasy", "przedsiębiorstwa państwowe", "podatek dochodowy od osób fizycznych", "nieruchomości"]

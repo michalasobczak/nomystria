@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2023 poz. 1992"
 tekst_jednolity_z_dnia: "2023-08-17"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["choroby roślin", "rośliny", "nasiennictwo i szkółkarstwo", "ochrona roślin"]

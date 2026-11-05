@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 16
 tekst_jednolity: "Dz.U. 2026 poz. 232"
 tekst_jednolity_z_dnia: "2026-02-20"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["wywłaszczenia", "księgi wieczyste i hipoteka", "cywilne prawo", "kodeks cywilny", "cywilne postępowanie", "lokalowe prawo"]

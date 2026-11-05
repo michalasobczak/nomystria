@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 1998
 zrodlo_tekstu: "OCR (tesseract) PDF U"
 uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); tekst odczytano przez OCR i może zawierać błędy rozpoznania."]
 slowa_kluczowe: ["rolnicze spółdzielnie produkcyjne", "badawczo-rozwojowe jednostki", "spółdzielczość", "waloryzacja świadczeń", "fundusze", "spółki", "finansowa gospodarka", "scalanie i wymiana gruntów", "użytkowanie wieczyste", "fundusz zasobowy", "kółka rolnicze", "grunty rolne i leśne", "nieruchomości"]

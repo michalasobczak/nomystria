@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2026 poz. 1210"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["pomoc dla rodzin", "poręczenia państwowe", "budownictwo mieszkaniowe", "podatek dochodowy od osób fizycznych", "pomoc finansowa", "bankowe prawo", "banki", "kredyty i pożyczki"]

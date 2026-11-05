@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2020 poz. 1957"
 tekst_jednolity_z_dnia: "2020-10-21"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kosmonautyka"]

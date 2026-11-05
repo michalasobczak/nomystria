@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2022 poz. 2616"
 tekst_jednolity_z_dnia: "2022-11-24"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["celne prawo", "obrona narodowa", "podatki", "darowizny", "zabytki", "cmentarze", "ochrona zdrowia", "ulgi", "radiofonia i telewizja", "nauczyciele", "wyznania", "rejestry", "szkolnictwo wyższe", "fundacje", "oświata i wychowanie", "ubezpieczenia społeczne", "święta", "nieruchomości"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2005
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["działalność kulturalna", "podatki", "zbiórki publiczne", "finanse publiczne", "stowarzyszenia", "administracja rządowa", "komunalna gospodarka", "podatek akcyzowy", "podatek od towarów i usług", "podatek dochodowy od osób fizycznych", "radiofonia i telewizja", "cywilne prawo", "choroby zawodowe", "ryczałt podatkowy", "opłaty lokalne", "powszechny obowiązek obrony", "opłata skarbowa", "działalność pożytku publicznego", "koszty sądowe w sprawach cywilnych", "podatek dochodowy od osób prawnych", "wolontariat", "nieruchomości"]

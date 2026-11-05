@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 51
 tekst_jednolity: "Dz.U. 2024 poz. 1822"
 tekst_jednolity_z_dnia: "2024-12-06"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["subwencje", "odpady", "działalność gospodarcza", "konkurencja", "papiery wartościowe", "dotacje", "spółki", "rejestry", "chemiczne wyroby", "kary pieniężne i porządkowe", "karne skarbowe prawo", "samorząd terytorialny", "zamówienia publiczne", "karne prawo"]

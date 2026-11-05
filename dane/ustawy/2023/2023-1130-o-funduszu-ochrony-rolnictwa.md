@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2025 poz. 308"
 tekst_jednolity_z_dnia: "2025-03-06"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["fundusze", "postępowanie egzekucyjne w administracji", "rolnictwo", "podatek dochodowy od osób fizycznych", "podatek dochodowy od osób prawnych"]

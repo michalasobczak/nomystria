@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 1969
 zrodlo_tekstu: "PDF O"
 uwagi: []
 slowa_kluczowe: ["wywłaszczenia", "przejęcie mienia na własność państwa"]

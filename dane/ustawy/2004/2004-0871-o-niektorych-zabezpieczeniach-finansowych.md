@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2024 poz. 294"
 tekst_jednolity_z_dnia: "2024-02-26"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["postępowanie egzekucyjne w administracji", "nadzór", "elektroniczny instrument płatniczy", "fundusze emerytalne", "finansowanie", "działalność ubezpieczeniowa", "kodeks postępowania cywilnego", "papiery wartościowe", "upadłościowe prawo", "bankowe prawo", "zabezpieczenia"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2023 poz. 1589"
 tekst_jednolity_z_dnia: "2023-07-12"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["elektroniczne nośniki informacji", "kontrola", "przepisy karne", "rybactwo śródlądowe", "zezwolenia", "dokumenty", "lasy", "ochrona zwierząt", "ochrona środowiska morskiego", "łowieckie prawo", "rejestry", "parki narodowe", "ochrona", "ochrona środowiska", "zwierzęta", "kary pieniężne i porządkowe", "zakaz", "genetyka", "opłata skarbowa", "rybołówstwo morskie", "ochrona przyrody"]

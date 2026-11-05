@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2026 poz. 1374"
 tekst_jednolity_z_dnia: "2026-10-02"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "tekst jednolity, PDF T"
 uwagi: ["Tekst ujednolicony ISAP (z 2025-06-13, na podstawie Dz. U. z 2010 r. Nr 123, poz. 835, Nr 148, poz. 993, z 2025 r. poz. 680.) był starszy niż ostatni tekst jednolity Dz.U. 2026 poz. 1374 z 2026-10-02; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["przedsiębiorstwa", "klęski żywiołowe", "rezerwy państwowe", "lokal", "działalność gospodarcza", "powodzie", "remonty", "samorząd terytorialny", "dotacje", "kredyty i pożyczki", "pomoc finansowa"]

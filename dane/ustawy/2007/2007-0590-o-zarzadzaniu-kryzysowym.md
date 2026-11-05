@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 35
 tekst_jednolity: "Dz.U. 2026 poz. 574"
 tekst_jednolity_z_dnia: "2026-04-21"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["finansowanie", "bezpieczeństwo państwa"]

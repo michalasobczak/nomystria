@@ -65,11 +65,6 @@ def load_kontrole(kontrole_dir: Path, known: set[str]) -> tuple[list[dict], dict
     return meta, wyniki, znaleziska
 
 
-def diagramy(root: Path = ROOT) -> dict[str, Path]:
-    """Diagramy ścieżek: kontrole/<eksperyment>/sciezki/<id znaleziska>.json."""
-    return {f.stem: f for f in sorted((root / "kontrole").glob("*/sciezki/*.json"))}
-
-
 def status_kontroli(items: list[dict] | None) -> str:
     """'brak' gdy ustawy nie kontrolowano — nigdy 'zgodny' z braku danych (S007 G5)."""
     if not items:
@@ -82,11 +77,6 @@ def build(root: Path = ROOT) -> dict:
         rows = list(csv.DictReader(fh))
     known = {r["eli"] for r in rows}
     meta, wyniki, znaleziska = load_kontrole(root / "kontrole", known)
-    diag = diagramy(root)
-    for lista in znaleziska.values():
-        for z in lista:
-            if z.get("id") in diag:
-                z["diagram"] = z["id"]
     ustawy = []
     for r in rows:
         w, z = wyniki.get(r["eli"]), znaleziska.get(r["eli"])
@@ -100,6 +90,7 @@ def build(root: Path = ROOT) -> dict:
             "status": r["status"],
             "br": BRZMIENIE.get(r["brzmienie"], r["brzmienie"]),
             "zmian": _int(r["liczba_ustaw_zmieniajacych"]),
+            "rokZm": _int(r.get("rok_ostatniej_zmiany", "")),
             "tj": r["tekst_jednolity"],
             "tjData": r["tekst_jednolity_z_dnia"],
             "poTj": _int(r["zmian_po_tekscie_jednolitym"]),
@@ -130,11 +121,6 @@ def main() -> int:
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    # diagramy ścieżek obok dane.json (strona/sciezki.html czyta sciezki/<id>.json)
-    for zid, f in diagramy().items():
-        dst = out.parent / "sciezki" / f"{zid}.json"
-        dst.parent.mkdir(parents=True, exist_ok=True)
-        dst.write_text(f.read_text(encoding="utf-8"), encoding="utf-8")
     print(f"{out}: {len(data['ustawy'])} ustaw, {len(data['kontrole'])} plików kontroli, {out.stat().st_size // 1024} KB")
     return 0
 

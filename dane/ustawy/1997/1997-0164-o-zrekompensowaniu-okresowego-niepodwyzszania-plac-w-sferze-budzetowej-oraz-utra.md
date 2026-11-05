@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2000 nr 23 poz. 294"
 tekst_jednolity_z_dnia: "2000-03-14"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2008
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["górnicy", "fundusz inwestycyjny", "maklerzy", "prywatyzacja", "jednostki budżetowe", "świadectwa rekompensacyjne", "emerytury i renty", "papiery wartościowe", "podatek dochodowy od osób fizycznych"]

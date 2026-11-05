@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2019 poz. 1781"
 tekst_jednolity_z_dnia: "2019-08-30"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "kodeks wyborczy", "podatki", "odpady", "finanse publiczne", "informatyzacja", "pracownicy urzędów państwowych", "administracyjne postępowanie", "niepełnosprawni", "bankowe prawo", "powiaty", "szkolnictwo wyższe", "dzieci", "mienie", "postępowanie egzekucyjne", "energetyczne prawo", "oświata i wychowanie", "odpowiedzialność cywilna", "kodeks pracy", "nieruchomości", "kontrola", "przepisy karne", "spółdzielcze kasy oszczędnościowo-kredytowe", "statystyka", "województwa", "sądy powszechne", "informacje niejawne", "dokumenty", "monitoring", "kodeks postępowania cywilnego", "prokuratura", "kary pieniężne i porządkowe", "akredytacja", "opieka zdrowotna", "samorząd terytorialny", "działalność ubezpieczeniowa"]

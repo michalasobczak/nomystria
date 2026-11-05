@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2002
 zrodlo_tekstu: "HTML (API ELI)"
 uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI."]
 slowa_kluczowe: ["klęski żywiołowe", "administracyjne postępowanie"]

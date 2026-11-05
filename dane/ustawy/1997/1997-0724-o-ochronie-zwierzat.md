@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 39
 tekst_jednolity: "Dz.U. 2023 poz. 1580"
 tekst_jednolity_z_dnia: "2023-07-07"
 zmian_po_tekscie_jednolitym: 5
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przepisy karne", "ogrody zoologiczne", "weterynaryjna służba", "zwierzęta", "zwierzęta hodowlane", "transport", "ochrona zwierząt"]

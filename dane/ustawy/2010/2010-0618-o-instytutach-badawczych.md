@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 22
 tekst_jednolity: "Dz.U. 2026 poz. 741"
 tekst_jednolity_z_dnia: "2026-05-27"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["instytuty naukowo-badawcze", "nadzór", "organizacja i zakres działania"]

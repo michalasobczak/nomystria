@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 36
 tekst_jednolity: "Dz.U. 2026 poz. 373"
 tekst_jednolity_z_dnia: "2026-03-12"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ewidencja", "jednostki budżetowe", "kombatanci", "administracja rządowa", "osobowość prawna", "papiery wartościowe", "spółki akcyjne", "spółki kapitałowe", "naczelne i centralne organy administracji", "spółki", "instytuty naukowo-badawcze", "likwidacja", "nadzór", "mienie", "prywatyzacja", "przedsiębiorstwa państwowe"]

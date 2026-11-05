@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2025 poz. 1295"
 tekst_jednolity_z_dnia: "2025-09-15"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks spółek handlowych", "działalność lecznicza", "transplantacja", "diagnostyka laboratoryjna", "krwiodawstwo", "choroby zakaźne", "ochrona zdrowia"]

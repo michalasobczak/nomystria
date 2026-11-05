@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2021 poz. 503"
 tekst_jednolity_z_dnia: "2021-02-23"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["postępowanie egzekucyjne w administracji", "żegluga śródlądowa", "pomoc finansowa"]

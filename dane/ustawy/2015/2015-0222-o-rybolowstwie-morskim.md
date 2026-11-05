@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: "Dz.U. 2025 poz. 590"
 tekst_jednolity_z_dnia: "2025-04-10"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kontrola", "zezwolenia", "statki rybackie", "ryby", "morskie urzędy", "licencje", "morskie prawo", "rejestry", "kary pieniężne i porządkowe", "rybołówstwo morskie", "hodowla", "statki morskie", "ochrona wód"]

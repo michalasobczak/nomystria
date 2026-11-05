@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2024 poz. 1485"
 tekst_jednolity_z_dnia: "2024-09-30"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "tekst jednolity, PDF T"
 uwagi: ["Tekst ujednolicony ISAP (z 2024-09-04, na podstawie DU/2023/1212) był starszy niż ostatni tekst jednolity Dz.U. 2024 poz. 1485 z 2024-09-30; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["konsumenci", "sądy okręgowe", "cywilne postępowanie", "koszty sądowe w sprawach cywilnych"]

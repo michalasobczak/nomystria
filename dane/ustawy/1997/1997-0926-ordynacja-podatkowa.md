@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 234
 tekst_jednolity: "Dz.U. 2026 poz. 622"
 tekst_jednolity_z_dnia: "2026-04-22"
 zmian_po_tekscie_jednolitym: 6
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kontrola", "przepisy karne", "podatki", "przedawnienie", "tajemnica państwowa i służbowa", "dokumenty", "należności państwowe", "rachunkowość", "administracyjne postępowanie", "odszkodowania", "właściwość miejscowa", "ordynacja podatkowa", "kary pieniężne i porządkowe", "urzędy i izby skarbowe", "opłata skarbowa", "karne skarbowe prawo", "kodeks postępowania administracyjnego"]

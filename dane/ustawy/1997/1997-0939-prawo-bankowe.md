@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 196
 tekst_jednolity: "Dz.U. 2026 poz. 38"
 tekst_jednolity_z_dnia: "2025-12-10"
 zmian_po_tekscie_jednolitym: 6
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "nadzór", "rachunki bankowe", "papiery wartościowe", "upadłościowe prawo", "banki", "bankowe prawo", "kredyty i pożyczki", "naprawcze postępowanie"]

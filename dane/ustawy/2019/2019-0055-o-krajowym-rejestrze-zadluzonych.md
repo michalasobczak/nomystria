@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2025 poz. 1584"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["rejestry", "kodeks spółek handlowych", "sądy powszechne", "komornicy", "cywilne postępowanie", "restrukturyzacja", "informacje gospodarcze", "rachunkowość", "upadłościowe prawo", "systemy teleinformatyczne"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2024 poz. 1622"
 tekst_jednolity_z_dnia: "2024-10-11"
 zmian_po_tekscie_jednolitym: 5
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["paliwa", "energetyczna gospodarka", "energetyka", "energetyczne prawo"]

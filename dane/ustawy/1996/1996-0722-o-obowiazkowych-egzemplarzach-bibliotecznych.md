@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2018 poz. 545"
 tekst_jednolity_z_dnia: "2018-03-06"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2017
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["biblioteki", "elektroniczne urządzenia", "wydawnictwa i publikacje", "geodezja i kartografia", "kinematografia", "archiwa państwowe"]

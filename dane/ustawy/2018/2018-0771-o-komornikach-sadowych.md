@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2026 poz. 881"
 tekst_jednolity_z_dnia: "2026-06-12"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "tekst jednolity, PDF T"
 uwagi: ["Tekst ujednolicony ISAP (z 2026-07-14, na podstawie DU/2026/882) był starszy niż ostatni tekst jednolity Dz.U. 2026 poz. 881 z 2026-06-12; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["kodeks karny skarbowy", "egzaminy", "podatki", "ewidencja ludności", "aplikacja", "samorząd zawodowy", "giełdy", "fundusze", "nadzór", "postępowanie egzekucyjne", "energetyczne prawo", "ubezpieczenia społeczne", "karne skarbowe prawo", "asesorzy", "spółdzielcze kasy oszczędnościowo-kredytowe", "instrumenty finansowe", "sądy powszechne", "odpowiedzialność zawodowa", "kodeks postępowania cywilnego", "cudzoziemcy", "dyscyplinarne postępowanie", "komornicy", "kodeks postępowania karnego", "opieka zdrowotna", "informacje gospodarcze"]

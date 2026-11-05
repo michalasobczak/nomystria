@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2025 poz. 1891"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "świadczenia", "kodeks wyborczy", "lotnicze prawo", "finanse publiczne", "izby rolnicze", "giełdy", "rachunkowość", "doradztwo podatkowe", "podatek dochodowy od osób fizycznych", "bankowe prawo", "nadzór", "biegli", "fundusz inwestycyjny", "ochrona środowiska", "ubezpieczenia", "energetyczne prawo", "partie polityczne", "sprawozdanie finansowe", "karne skarbowe prawo", "podatek dochodowy od osób prawnych", "spółdzielcze kasy oszczędnościowo-kredytowe", "instrumenty finansowe", "transport kolejowy", "autorskie prawo", "gry losowe i zakłady wzajemne", "obligacje", "górnicze prawo", "kodeks spółek handlowych", "drogi publiczne", "usługi", "spółdzielcze prawo", "banki", "geologiczne prawo"]

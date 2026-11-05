@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2024 poz. 1207"
 tekst_jednolity_z_dnia: "2024-08-01"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["pomoc społeczna", "finanse publiczne", "energetyka", "kodeks postępowania cywilnego", "podatek dochodowy od osób fizycznych", "bankowe prawo", "gminy", "paliwa", "pomoc publiczna", "postępowanie egzekucyjne w administracji", "węgiel", "dodatek osłonowy", "energetyczna gospodarka"]

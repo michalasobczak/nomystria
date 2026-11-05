@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 21
 tekst_jednolity: "Dz.U. 2026 poz. 1421"
 tekst_jednolity_z_dnia: "2026-10-02"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["lotnicze prawo", "instrumenty finansowe", "giełdy", "podatek od towarów i usług", "bankowe prawo", "nadzór", "rachunki bankowe", "rejestry", "ochrona środowiska", "energetyczna gospodarka", "kary pieniężne i porządkowe", "statki powietrzne", "gazy techniczne", "powietrze atmosferyczne"]

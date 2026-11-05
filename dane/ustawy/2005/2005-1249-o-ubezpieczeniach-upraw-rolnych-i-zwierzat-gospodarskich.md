@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2025 poz. 251"
 tekst_jednolity_z_dnia: "2025-02-21"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["odszkodowania", "składki", "klęski żywiołowe", "budżet", "ubezpieczenia majątkowe i osobowe", "rolnictwo"]

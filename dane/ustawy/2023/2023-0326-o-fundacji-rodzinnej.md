@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ordynacja podatkowa", "kodeks cywilny", "ubezpieczenia społeczne", "fundacja rodzinna", "kodeks postępowania cywilnego", "podatek dochodowy od osób fizycznych", "podatek dochodowy od osób prawnych", "koszty sądowe w sprawach cywilnych", "podatek od spadków i darowizn"]

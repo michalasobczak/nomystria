@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2025 poz. 602"
 tekst_jednolity_z_dnia: "2025-04-10"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przepisy karne", "energetyczna gospodarka", "kary pieniężne i porządkowe", "energetyka", "energetyczne prawo", "produkcja", "opłaty", "pomoc finansowa"]

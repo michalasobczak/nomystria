@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2025 poz. 470"
 tekst_jednolity_z_dnia: "2025-03-24"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ministrowie", "mienie", "energetyczna gospodarka", "paliwa i smary", "sektor naftowy", "spółki kapitałowe"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2019 poz. 1326"
 tekst_jednolity_z_dnia: "2019-06-14"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2019
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["tłumacze", "egzaminy", "świadectwa i dyplomy", "odpowiedzialność zawodowa", "opłaty"]

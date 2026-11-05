@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: null
 zrodlo_tekstu: "HTML (API ELI)"
 uwagi: ["Warstwa tekstowa PDF jest nieczytelna (uszkodzone kodowanie czcionek); użyto wersji HTML z API ELI."]
 slowa_kluczowe: ["celne prawo", "pojazdy mechaniczne", "podatek od towarów i usług", "podatek dochodowy od osób fizycznych", "bankowe prawo", "dotacje", "handel wewnętrzny", "przedpłaty na samochody osobowe"]

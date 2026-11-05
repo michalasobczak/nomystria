@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 22
 tekst_jednolity: "Dz.U. 2023 poz. 1075"
 tekst_jednolity_z_dnia: "2023-04-17"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["gospodarstwa rolne", "grzywny", "kontrola", "weterynaryjna służba", "lekarze weterynarii", "choroby zakaźne", "mięso", "transport", "ochrona zwierząt", "drób", "nadzór", "rejestry", "zwierzęta", "surowice i szczepionki", "choroby zwierząt", "karne prawo"]

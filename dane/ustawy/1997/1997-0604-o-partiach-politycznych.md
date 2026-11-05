@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 23
 tekst_jednolity: "Dz.U. 2023 poz. 1215"
 tekst_jednolity_z_dnia: "2023-05-25"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "ewidencja", "partie polityczne"]

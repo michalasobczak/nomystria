@@ -4,7 +4,7 @@ eli: "DU/2018/538"
 adres_publikacyjny: "Dz.U. 2018 poz. 538"
 status: "akt posiada tekst jednolity"
 brzmienie: "ujednolicone"
-data_aktu: "2018-03-08"
+data_aktu: "2018-02-08"
 data_wejscia_w_zycie: "2018-03-29"
 tekst_ujednolicony_z_dnia: "2024-03-06"
 opracowano_na_podstawie: "t.j. Dz. U. z 2024 r. poz. 251."
@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2024 poz. 251"
 tekst_jednolity_z_dnia: "2024-02-20"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2023
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["instytuty naukowo-badawcze", "przyjaźń i współpraca", "dokumenty", "osobowość prawna"]

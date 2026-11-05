@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 32
 tekst_jednolity: "Dz.U. 2025 poz. 1693"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["farmaceuci", "samorząd zawodowy", "karne postępowanie", "administracyjne postępowanie", "ochrona zdrowia", "farmaceutyczne środki", "rejestry", "izby aptekarskie", "apteki", "komitety", "cywilne postępowanie", "pracownicy", "służba zdrowia"]

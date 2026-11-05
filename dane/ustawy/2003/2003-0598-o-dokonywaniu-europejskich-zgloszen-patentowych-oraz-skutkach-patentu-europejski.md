@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2016 poz. 2"
 tekst_jednolity_z_dnia: "2015-12-16"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2015
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["patenty", "umowy międzynarodowe", "wynalazczość"]

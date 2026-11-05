@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2024 poz. 1208"
 tekst_jednolity_z_dnia: "2024-08-01"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["farmaceutyczne prawo", "lekarze", "świadczenia lecznicze", "lekarze dentyści", "krwiodawstwo", "opieka zdrowotna", "ochrona zdrowia"]

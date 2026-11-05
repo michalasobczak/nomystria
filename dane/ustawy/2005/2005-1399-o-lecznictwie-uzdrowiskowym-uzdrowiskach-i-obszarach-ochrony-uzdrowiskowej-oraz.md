@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2025 poz. 1135"
 tekst_jednolity_z_dnia: "2025-08-11"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["gminy", "lekarze", "ochrona środowiska", "finansowanie", "zakłady opieki zdrowotnej", "uzdrowiska", "ochrona zdrowia"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2023 poz. 714"
 tekst_jednolity_z_dnia: "2023-03-10"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ratownictwo", "finansowanie", "bezpieczeństwo żeglugi i wypadki morskie", "wodne prawo", "prawo o ruchu drogowym", "sport"]

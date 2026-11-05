@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2020 poz. 982"
 tekst_jednolity_z_dnia: "2020-05-29"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2019
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["instytuty naukowo-badawcze", "organizacja i zakres działania", "siedziba"]

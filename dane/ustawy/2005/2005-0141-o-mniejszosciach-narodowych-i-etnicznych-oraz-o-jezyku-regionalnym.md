@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2026 poz. 75"
 tekst_jednolity_z_dnia: "2026-01-21"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["nazwy miejscowości i obiektów fizjograficznych", "administracja rządowa", "dotacje", "mniejszości narodowe", "gminy", "radiofonia i telewizja", "wyznania", "rejestry", "regiony", "oświata, nauka i kultura", "język państwowy", "samorząd terytorialny", "wolontariat"]

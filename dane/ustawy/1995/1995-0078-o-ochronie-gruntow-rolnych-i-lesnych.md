@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 36
 tekst_jednolity: "Dz.U. 2024 poz. 82"
 tekst_jednolity_z_dnia: "2024-01-16"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ogrody działkowe", "dokumenty", "planowanie przestrzenne", "opłaty", "ogrody botaniczne", "podatek rolny", "leśnictwo", "zadrzewienia", "ochrona środowiska", "inwestycje", "grunty rolne i leśne", "ochrona przyrody", "nieruchomości"]

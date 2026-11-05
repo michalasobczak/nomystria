@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 36
 tekst_jednolity: "Dz.U. 2025 poz. 1644"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ubezpieczenia wypadkowe", "składki", "zasiłek chorobowy", "świadczenia", "budżet", "mandaty poselskie i senatorskie", "zasiłek macierzyński", "dodatki do wynagrodzeń", "bezrobocie", "zatrudnianie", "emerytury i renty", "fundusze", "odszkodowania", "wynagrodzenia przeciętne", "choroby zawodowe", "oprocentowanie", "powszechny obowiązek obrony", "wypadki przy pracy", "ubezpieczenia społeczne", "kodeks pracy", "budżetowe prawo"]

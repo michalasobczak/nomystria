@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 16
 tekst_jednolity: "Dz.U. 2026 poz. 723"
 tekst_jednolity_z_dnia: "2026-05-27"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["renta socjalna", "spółdzielcze kasy oszczędnościowo-kredytowe", "świadczenia", "pomoc społeczna", "finanse publiczne", "emerytury i renty", "zatrudnianie", "podatek dochodowy od osób fizycznych", "niepełnosprawni", "bankowe prawo", "fundusze", "dodatki mieszkaniowe", "kredyty i pożyczki"]

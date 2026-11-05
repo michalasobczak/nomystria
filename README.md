@@ -20,7 +20,7 @@ Projekt prowadzimy według metodyki [Rondo + Context-Driven-Development](https:/
 
 ## Stan
 
-Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Strona z filtrami i wynikami kontroli (S007) działa pod adresem **https://michalasobczak.github.io/nomystria/**. Jej kod jest w [`strona/`](strona/). Wyniki kontroli trafiają do [`kontrole/`](kontrole/). Weryfikacja danych (S005) potwierdziła bilans i parametry na próbie 100 ustaw. Wykryła też 12 ustaw z tekstem ujednoliconym starszym niż ostatni t.j. i 29 ustaw z nieczytelnym tekstem ([raport](kontrole/x001/RAPORT.md)). Oba problemy naprawiła S008. Pierwsza próbna analiza ustawy (S006, ustawa o fundacji rodzinnej) dała 18 znalezisk, z czego 5 potwierdziły niezależnie dwa przebiegi AI ([raport](kontrole/x002/RAPORT.md)). Pierwsze znalezisko ma [interaktywny diagram ścieżek](https://michalasobczak.github.io/nomystria/sciezki.html?id=x002-001) (S009): na 9 ścieżek 3 kończą się luką.
+Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Strona z filtrami i wynikami kontroli (S007) działa pod adresem **https://michalasobczak.github.io/nomystria/**. Jej kod jest w [`strona/`](strona/). Wyniki kontroli trafiają do [`kontrole/`](kontrole/). Weryfikacja danych (S005) potwierdziła bilans i parametry na próbie 100 ustaw. Wykryła też 12 ustaw z tekstem ujednoliconym starszym niż ostatni t.j. i 29 ustaw z nieczytelnym tekstem ([raport](kontrole/x001/RAPORT.md)). Oba problemy naprawiła S008. Próbną analizę jednej ustawy (S006) i diagram ścieżek (S009) wycofano. Analiza pominęła art. 42 Kodeksu cywilnego, więc dalej sprawdzamy jedną prostą regułę naraz na wielu ustawach (MANIFEST M12).
 
 | Spec | Tytuł | Status |
 | --- | --- | --- |
@@ -29,10 +29,10 @@ Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucj
 | [S003](specs/S003-konwersja-pdf-md.md) | Konwersja PDF → Markdown | dostarczona |
 | [S004](specs/S004-tabela-ustaw.md) | Tabela ustaw: zmiany, tekst jednolity i tekst ujednolicony | dostarczona |
 | [S005](specs/S005-weryfikacja-ilosciowa.md) | Weryfikacja ilościowa korpusu i klasyfikacji: jednorazowy test na próbie 100 ustaw ([raport](kontrole/x001/RAPORT.md)) | dostarczona, czeka na przegląd autora |
-| [S006](specs/S006-analiza-jednej-ustawy.md) | Eksperymentalna analiza jednej ustawy: niespójności, braki, wady, sprzeczności, brak ścieżek alternatywnych, zaniechania ([raport](kontrole/x002/RAPORT.md)) | dostarczona |
+| [S006](specs/S006-analiza-jednej-ustawy.md) | Eksperymentalna analiza jednej ustawy (ustawa o fundacji rodzinnej) | wycofana |
 | [S007](specs/S007-strona-gh-pages.md) | Strona na GitHub Pages: przeglądarka ustaw z filtrami i wynikami kontroli | dostarczona |
 | [S008](specs/S008-aktualnosc-i-czytelnosc.md) | Aktualność i czytelność tekstów: tekst jednolity zamiast starszego ujednoliconego, HTML/OCR zamiast nieczytelnego PDF | dostarczona |
-| [S009](specs/S009-diagram-sciezek.md) | Diagram ścieżek przepisów dla znaleziska ([przykład](https://michalasobczak.github.io/nomystria/sciezki.html?id=x002-001)) | dostarczona |
+| [S009](specs/S009-diagram-sciezek.md) | Diagram ścieżek przepisów dla znaleziska | wycofana |
 
 ## Glosariusz
 
@@ -116,6 +116,7 @@ liczba_ustaw_zmieniajacych: 122
 tekst_jednolity: "Dz.U. 2026 poz. 1342"
 tekst_jednolity_z_dnia: "2026-10-02"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 slowa_kluczowe: [...]
 zrodlo_pdf: "https://api.sejm.gov.pl/eli/acts/DU/1997/553/text/U/D19970553Lj.pdf"
 isap: "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970880553"

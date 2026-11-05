@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 14
 tekst_jednolity: "Dz.U. 2022 poz. 1007"
 tekst_jednolity_z_dnia: "2022-04-28"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2021
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["licencje", "egzaminy", "syndyk", "upadłościowe prawo", "naprawcze postępowanie"]

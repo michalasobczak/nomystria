@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 26
 tekst_jednolity: "Dz.U. 2017 poz. 2278"
 tekst_jednolity_z_dnia: "2017-11-22"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["cudzoziemcy", "nieruchomości"]

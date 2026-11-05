@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2026 poz. 12"
 tekst_jednolity_z_dnia: "2025-11-20"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["spółdzielcze kasy oszczędnościowo-kredytowe", "nadzór", "instrumenty finansowe", "ubezpieczenia", "działalność ubezpieczeniowa"]

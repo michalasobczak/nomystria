@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2005
 zrodlo_tekstu: "PDF T"
 uwagi: []
 slowa_kluczowe: ["odszkodowania", "cywilne prawo", "koszty i opłaty sądowe", "kodeks cywilny", "prawa człowieka", "koszty sądowe w sprawach cywilnych"]

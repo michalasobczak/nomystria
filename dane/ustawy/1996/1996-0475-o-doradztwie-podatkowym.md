@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 33
 tekst_jednolity: "Dz.U. 2026 poz. 1274"
 tekst_jednolity_z_dnia: "2026-09-04"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["podatki", "spółdzielczość", "stowarzyszenia", "samorząd zawodowy", "rzeczoznawcy", "administracyjne postępowanie", "księgi rachunkowe", "opłaty", "papiery wartościowe", "rachunkowość", "doradztwo podatkowe", "wykroczenia", "spółki", "adwokatura", "cywilne prawo", "dyscyplinarne postępowanie", "rejestry", "izby gospodarcze", "radcy prawni", "karne prawo"]

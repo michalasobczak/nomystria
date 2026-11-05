@@ -27,3 +27,5 @@ Zasady projektu i zasady inżynierskie nomystrii. Obowiązują przy każdej spec
 **M10. Bramki weryfikujemy maszynowo.** Każda bramka kontrolna ze specyfikacji ma test w `tests/` albo polecenie, które da się powtórzyć.
 
 **M11. Język.** Artefakty, komunikaty skryptów i nazwy pól metadanych są po polsku. Nazwy pól piszemy bez polskich znaków.
+
+**M12. Jedna reguła naraz.** Kontrole treści prawa wprowadzamy po jednej. Każda to prosta, deterministyczna reguła z jednoznacznym warunkiem, sprawdzana mechanicznie na wielu ustawach. Złożone analizy interpretacyjne odkładamy, dopóki nie mamy modelu obejmującego przepisy ogólne, np. kodeksy. Wynika to z wycofania S006.

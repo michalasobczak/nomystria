@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 21
 tekst_jednolity: "Dz.U. 2025 poz. 299"
 tekst_jednolity_z_dnia: "2025-03-06"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["bandery", "przepisy karne", "hymn", "statki powietrzne", "pieczęcie urzędowe", "dyplomatyczne przedstawicielstwa", "godło i barwy państwa", "polskie przedstawicielstwa za granicą", "statki morskie", "karne prawo", "naczelne i centralne organy administracji"]

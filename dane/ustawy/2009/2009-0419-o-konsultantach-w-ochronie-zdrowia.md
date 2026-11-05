@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2025 poz. 254"
 tekst_jednolity_z_dnia: "2025-02-21"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kontrola", "lekarze", "farmaceuci", "ochrona zdrowia", "pacjenci", "położne", "świadczenia lecznicze", "lekarze dentyści", "szkolnictwo medyczne", "zakłady opieki zdrowotnej", "szkolenie zawodowe", "badania lekarskie", "pielęgniarstwo"]

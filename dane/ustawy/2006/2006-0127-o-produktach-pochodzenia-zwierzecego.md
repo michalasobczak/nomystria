@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2026 poz. 981"
 tekst_jednolity_z_dnia: "2026-07-16"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["produkty rolne", "kontrola", "odpadki konsumpcyjne", "weterynaryjna służba", "działalność gospodarcza", "zwierzęta", "bezpieczeństwo produktów", "choroby zwierząt"]

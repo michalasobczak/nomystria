@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 204
 tekst_jednolity: "Dz.U. 2026 poz. 1453"
 tekst_jednolity_z_dnia: "2026-10-22"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "tekst jednolity, PDF O"
 uwagi: ["Tekst ujednolicony ISAP (z 2026-09-11, na podstawie DU/2025/647) był starszy niż ostatni tekst jednolity Dz.U. 2026 poz. 1453 z 2026-10-22; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["odpady", "hałas i wibracje", "ścieki", "finansowanie", "wodne prawo", "lasy", "monitoring", "planowanie przestrzenne", "administracyjne postępowanie", "opłaty", "ekologia", "łowieckie prawo", "ochrona środowiska", "zwierzęta", "kary pieniężne i porządkowe", "reklama", "powietrze atmosferyczne", "ochrona roślin", "grunty rolne i leśne", "elektromagnetyczne pola", "ochrona powierzchni ziemi oraz kopalin", "ochrona przyrody"]

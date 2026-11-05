@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: "Dz.U. 2022 poz. 183"
 tekst_jednolity_z_dnia: "2021-12-02"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2021
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "izby rolnicze", "samorząd zawodowy", "administracyjne postępowanie", "rachunkowość", "wybory"]

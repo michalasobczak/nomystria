@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 1996
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["wywłaszczenia", "sądy powszechne", "terenowe organy administracji rządowej", "partie polityczne", "nieruchomości"]

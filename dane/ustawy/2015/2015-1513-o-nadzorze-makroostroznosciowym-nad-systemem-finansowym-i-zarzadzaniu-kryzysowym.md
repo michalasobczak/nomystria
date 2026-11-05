@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2025 poz. 819"
 tekst_jednolity_z_dnia: "2025-06-11"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["spółdzielcze kasy oszczędnościowo-kredytowe", "instrumenty finansowe", "finanse publiczne", "administracyjne postępowanie", "rachunkowość", "bankowe prawo", "finansowa gospodarka", "nadzór", "rachunki bankowe", "fundusze emerytalne", "inwestycje", "komitety", "restrukturyzacja"]

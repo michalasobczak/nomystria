@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 95
 tekst_jednolity: "Dz.U. 2026 poz. 522"
 tekst_jednolity_z_dnia: "2026-03-30"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przepisy karne", "ewidencja", "fundusze powiernicze", "działalność gospodarcza", "jednostki budżetowe", "ubezpieczenia majątkowe i osobowe", "dokumenty", "bilanse", "księgi rachunkowe", "papiery wartościowe", "bankowe prawo", "gminy", "spółki", "fundusze", "finansowa gospodarka", "handlowe prawo", "inwestycje", "główni księgowi", "księgi przychodów i rozchodów", "księgowość", "środki trwałe", "handel wewnętrzny", "karne prawo", "budżetowe prawo"]

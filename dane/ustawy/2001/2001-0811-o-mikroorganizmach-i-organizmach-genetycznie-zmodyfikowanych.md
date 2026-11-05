@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2022 poz. 546"
 tekst_jednolity_z_dnia: "2022-01-28"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2021
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ratownictwo", "przepisy karne", "farmaceutyczne środki", "kontrola", "zezwolenia", "ochrona środowiska", "żywność i żywienie", "genetyka", "administracja rządowa", "granice państwa", "tranzyt", "ochrona zdrowia"]

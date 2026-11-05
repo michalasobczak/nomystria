@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2026 poz. 584"
 tekst_jednolity_z_dnia: "2026-04-17"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["świadczenia lecznicze", "dyscyplinarne postępowanie", "fizjoterapeuci", "działalność lecznicza", "karne postępowanie", "odpowiedzialność zawodowa", "karne prawo"]

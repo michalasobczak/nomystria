@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2023 poz. 51"
 tekst_jednolity_z_dnia: "2022-11-16"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["celne prawo", "obrona narodowa", "biblioteki", "darowizny", "cmentarze", "emerytury i renty", "ochrona zdrowia", "administracyjne postępowanie", "radiofonia i telewizja", "użytkowanie wieczyste", "nauczyciele", "wyznania", "szkolnictwo wyższe", "fundacje", "oświata i wychowanie", "muzea", "ubezpieczenia społeczne", "cywilne postępowanie", "grunty rolne i leśne", "archiwa państwowe", "kościoły", "nieruchomości"]

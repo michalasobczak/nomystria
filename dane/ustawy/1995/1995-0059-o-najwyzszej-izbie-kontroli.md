@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 39
 tekst_jednolity: "Dz.U. 2022 poz. 623"
 tekst_jednolity_z_dnia: "2022-03-10"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["nagrody jubileuszowe", "budżet", "spółdzielczość", "prawo pracy", "działalność gospodarcza", "terenowe organy administracji rządowej", "wykładnia prawa", "tajemnica państwowa i służbowa", "emerytury i renty", "podróże służbowe", "administracyjne postępowanie", "bankowe prawo", "naczelne i centralne organy administracji", "gminy", "szkolnictwo wyższe", "odprawy", "przedsiębiorstwa państwowe", "wybory", "sejmiki samorządowe", "karne prawo", "czas pracy", "kontrola", "wynagrodzenia", "pieniężny system", "dokumenty", "karne postępowanie", "zatrudnianie", "konstytucja", "finansowa gospodarka", "nagrody", "sądy administracyjne", "dyscyplinarne postępowanie", "kary pieniężne i porządkowe", "inwestycje", "obywatelstwo", "wysługa lat", "samorząd terytorialny", "zamówienia publiczne"]

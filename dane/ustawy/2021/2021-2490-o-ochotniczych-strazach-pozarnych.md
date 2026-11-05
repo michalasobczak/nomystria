@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2025 poz. 244"
 tekst_jednolity_z_dnia: "2025-02-21"
 zmian_po_tekscie_jednolitym: 4
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ratownictwo", "odszkodowania", "ochotnicza straż pożarna", "wynagrodzenia", "świadczenia", "emerytury i renty", "ekwiwalent pieniężny"]

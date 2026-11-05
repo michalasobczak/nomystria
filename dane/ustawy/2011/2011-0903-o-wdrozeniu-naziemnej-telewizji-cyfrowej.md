@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: "Dz.U. 2024 poz. 1772"
 tekst_jednolity_z_dnia: "2024-11-27"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["radiofonia i telewizja", "elektroniczne nośniki informacji", "telekomunikacja", "kary pieniężne i porządkowe", "łączność"]

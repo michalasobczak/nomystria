@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2021 poz. 24"
 tekst_jednolity_z_dnia: "2020-12-02"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["opakowania", "nadzór", "rejestry", "chemiczne wyroby", "ochrona środowiska", "reklama", "ochrona zwierząt", "ochrona zdrowia", "klasyfikacja", "produkty biobójcze"]

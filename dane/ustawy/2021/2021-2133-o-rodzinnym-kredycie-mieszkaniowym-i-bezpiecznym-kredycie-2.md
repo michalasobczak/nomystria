@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 7
 tekst_jednolity: "Dz.U. 2026 poz. 1396"
 tekst_jednolity_z_dnia: "2026-10-09"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kredyt mieszkaniowy", "poręczenia państwowe", "podatek dochodowy od osób fizycznych", "kredyty i pożyczki"]

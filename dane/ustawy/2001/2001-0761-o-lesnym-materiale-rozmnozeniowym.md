@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2019 poz. 1097"
 tekst_jednolity_z_dnia: "2019-05-16"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2018
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kontrola", "przepisy karne", "nadzór", "rejestry", "leśnictwo", "ochrona środowiska", "lasy", "świadectwa i dyplomy", "administracja rządowa", "nasiennictwo i szkółkarstwo", "ochrona roślin", "ochrona przyrody"]

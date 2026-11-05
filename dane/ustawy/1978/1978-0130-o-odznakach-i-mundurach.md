@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2023 poz. 76"
 tekst_jednolity_z_dnia: "2022-12-14"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["gminy", "herby miast i województw", "organizacje społeczne", "mundury", "mienie komunalne", "ordery, odznaczenia i odznaki"]

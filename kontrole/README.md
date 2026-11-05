@@ -59,8 +59,6 @@ Brak danych w źródle kontrolnym daje `niezweryfikowany`, nigdy `zgodny`.
 }
 ```
 
-Opcjonalnie `kontrole/<id>/sciezki/<id znaleziska>.json` zawiera diagram ścieżek przepisów (S009). Strona pokazuje go pod adresem `sciezki.html?id=<id znaleziska>`. Węzły mają typ `pytanie` (z `odpowiedzi`), `krok` (z `dalej`) albo `wynik` (`ok` / `luka` / `statut`), a każdy węzeł ma `przepisy` i dosłowne `cytaty`.
-
 Dopuszczalne wartości pól:
 
 | Pole | Wartości |

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2015
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["księgi wieczyste i hipoteka", "rejestry", "sądy powszechne", "informatyzacja", "kodeks postępowania cywilnego"]

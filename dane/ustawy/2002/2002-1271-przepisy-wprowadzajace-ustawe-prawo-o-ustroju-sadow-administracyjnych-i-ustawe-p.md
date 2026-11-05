@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2007
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["sądy administracyjne", "administracyjne postępowanie", "kodeks postępowania administracyjnego"]

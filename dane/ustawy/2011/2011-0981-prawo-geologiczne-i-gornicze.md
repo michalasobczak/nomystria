@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 44
 tekst_jednolity: "Dz.U. 2026 poz. 69"
 tekst_jednolity_z_dnia: "2026-01-09"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przepisy karne", "kwalifikacje", "ewidencja", "odpowiedzialność zawodowa", "kopalnie", "koncesje", "rzeczoznawcy", "opłaty", "ratownictwo", "rzeczoznawstwo", "górnicze urzędy", "likwidacja", "przedsiębiorstwa", "górnictwo", "górnicy", "nadzór", "węgiel", "górnicze prawo", "kary pieniężne i porządkowe", "składowanie", "wody", "dokumentacja geologiczna", "szkody górnicze", "geologiczne prawo"]

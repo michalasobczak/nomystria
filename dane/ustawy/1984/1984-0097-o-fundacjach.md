@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2023 poz. 166"
 tekst_jednolity_z_dnia: "2023-01-11"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["cywilne prawo", "sądy powszechne", "fundacje", "rejestry sądowe"]

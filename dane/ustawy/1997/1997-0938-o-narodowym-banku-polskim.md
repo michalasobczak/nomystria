@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 46
 tekst_jednolity: "Dz.U. 2022 poz. 2025"
 tekst_jednolity_z_dnia: "2022-09-05"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "rachunki bankowe", "nadzór", "organizacja i zakres działania", "pieniężny system", "kontrola dewizowa", "bankowe prawo"]

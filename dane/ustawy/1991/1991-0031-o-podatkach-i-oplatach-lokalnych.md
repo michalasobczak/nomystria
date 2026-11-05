@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 89
 tekst_jednolity: "Dz.U. 2025 poz. 707"
 tekst_jednolity_z_dnia: "2025-05-21"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ogrody działkowe", "podatki", "opłata targowa", "podatki i opłaty terenowe", "podatek od środków transportowych", "uzdrowiska", "turystyka", "opłaty administracyjne", "ulgi podatkowe", "podatek od nieruchomości", "opłaty lokalne", "psy", "opłata miejscowa"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2026 poz. 1214"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["grzywny", "reklama", "terenowe organy administracji rządowej", "zakłady opieki zdrowotnej", "oświata i wychowanie", "ochrona zdrowia", "wykroczenia", "tytoń"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2024 poz. 1218"
 tekst_jednolity_z_dnia: "2024-08-01"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przewozowe prawo", "opakowania", "kontrola", "kodeks postępowania w sprawach o wykroczenia", "kary pieniężne i porządkowe", "kaucje", "towar", "monitoring", "transport międzynarodowy", "transport drogowy"]

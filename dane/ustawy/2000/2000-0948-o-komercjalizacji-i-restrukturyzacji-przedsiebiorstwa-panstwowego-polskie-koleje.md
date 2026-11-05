@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 39
 tekst_jednolity: "Dz.U. 2026 poz. 967"
 tekst_jednolity_z_dnia: "2026-07-16"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["rolne prawo", "rezerwy państwowe", "rękodzieło ludowe i artystyczne", "roboty publiczne", "rocznice", "rękojmia", "komercjalizacja", "koncesje", "emerytury i renty", "zatrudnianie", "przewozowe prawo", "spółki", "finansowa gospodarka", "rewaloryzacja", "rewaloryzacja wkładów", "rodzinne i opiekuńcze prawo", "prywatyzacja", "rezerwaty przyrody", "odprawy", "przedsiębiorstwa państwowe", "restrukturyzacja", "koleje", "roboty budowlane"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 61
 tekst_jednolity: "Dz.U. 2026 poz. 156"
 tekst_jednolity_z_dnia: "2026-02-05"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["biblioteki", "transplantacja", "ochrona zdrowia", "położne", "świadczenia lecznicze", "lekarze dentyści", "nadzór", "działalność lecznicza", "zakłady opieki zdrowotnej", "służba medycyny pracy", "krwiodawstwo", "pielęgniarstwo", "pracownicy", "służba zdrowia", "dokumentacja medyczna", "przeciwdziałanie alkoholizmowi", "lekarze", "felczerzy", "kontrola", "czas pracy", "kosmetyki", "ochrona zdrowia psychicznego", "farmaceutyczne środki", "inwalidzi wojenni i wojskowi", "wyznania", "opieka zdrowotna", "izby lekarskie"]

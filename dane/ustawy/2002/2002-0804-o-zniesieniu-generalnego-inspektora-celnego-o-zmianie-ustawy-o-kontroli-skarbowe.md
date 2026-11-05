@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2006
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "cło", "kontrola", "nadzór", "przymus bezpośredni", "urzędy i izby skarbowe", "karne skarbowe prawo", "kontrola skarbowa", "broń palna", "inspekcja", "karne prawo"]

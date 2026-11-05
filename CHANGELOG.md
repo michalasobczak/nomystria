@@ -4,6 +4,25 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### S007: przełącznik „uchwalone lub zmieniane od 1989 r.”
+
+- Nowe pole `rok_ostatniej_zmiany` (rok ogłoszenia ostatniej ustawy zmieniającej, z ELI) w metadanych, `indeks.csv` i `dane.json`.
+- W wyszukiwaniu podstawowym jest przełącznik „Tylko ustawy uchwalone lub zmieniane w 1989 r. lub później”. Obejmuje 1147 z 1177 aktów: 1082 uchwalone w 1989 r. lub później i 65 starszych, ale zmienianych od 1989 r. W oknie szczegółów widać rok ostatniej zmiany.
+
+### Zmiana kierunku: jedna reguła naraz (M12); wycofanie S006 i S009
+
+- Pytanie właściciela o x002-001 ujawniło, że analiza pominęła art. 42 Kodeksu cywilnego (kurator dla osoby prawnej bez organu). Podważyło to znaleziska x002-001 i x002-003.
+- Właściciel wycofał wszystkie znaleziska x002 jako zbyt skomplikowane do automatycznej weryfikacji na tym etapie. Usunięto je razem z diagramem ścieżek:
+  - `kontrole/x002/`,
+  - `eksperymenty/x002-…`,
+  - `strona/sciezki.*`,
+  - `tests/test_sciezki.py`, `tests/test_kontrole.py`,
+  - kod diagramów w `skrypty/strona.py` i `strona/app.js`.
+
+  Wszystko zostaje w historii git. S006 i S009 mają status „wycofana” z opisem wniosków.
+- Nowa zasada MANIFEST M12: jedna prosta, deterministyczna reguła naraz, sprawdzana na wielu ustawach.
+- Sprawdzono, że wszystkie 14 obowiązujących kodeksów jest w korpusie: KC, KPC, KRO, KP, KK, KPK, KKW, KKS, KSH, KPA, Kodeks wykroczeń, KPW, Kodeks morski i Kodeks wyborczy.
+
 ### S007: wersjonowanie plików strony
 
 - Właściciel nie widział linku do diagramu, bo przeglądarka trzymała starą wersję `app.js` i `dane.json` (GitHub Pages: `cache-control: max-age=600`). Workflow wstawia teraz skrót commita w miejsce `__WERSJA__` w HTML, a pliki JS, CSS i dane są ładowane z `?v=<commit>`. Link do diagramu ma postać wyraźnego przycisku.

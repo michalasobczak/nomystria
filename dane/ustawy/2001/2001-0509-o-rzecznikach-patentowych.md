@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 32
 tekst_jednolity: "Dz.U. 2026 poz. 778"
 tekst_jednolity_z_dnia: "2026-05-29"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "egzaminy", "wzory użytkowe i zdobnicze", "rzecznicy patentowi", "kwalifikacje", "działalność gospodarcza", "aplikacja", "samorząd zawodowy", "tajemnica państwowa i służbowa", "wynalazczość", "opłaty", "administracyjne postępowanie", "znaki towarowe", "dyscyplinarne postępowanie", "ślubowanie", "kasacja", "własność przemysłowa", "kodeks postępowania administracyjnego"]

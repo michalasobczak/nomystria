@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2019 poz. 24"
 tekst_jednolity_z_dnia: "2018-12-05"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["nadzór", "kodeks postępowania w sprawach o wykroczenia", "weterynaryjna służba", "zwierzęta hodowlane", "lekarze weterynarii", "zwierzęta", "kodeks wykroczeń", "usługi", "wykroczenia"]

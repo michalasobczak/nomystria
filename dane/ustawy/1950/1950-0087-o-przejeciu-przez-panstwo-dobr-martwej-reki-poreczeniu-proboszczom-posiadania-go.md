@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 1998
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["wywłaszczenia", "wyznania", "grunty rolne i leśne", "przejęcie mienia na własność państwa"]

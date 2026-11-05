@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2026 poz. 115"
 tekst_jednolity_z_dnia: "2026-01-26"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["likwidacja", "zakłady pracy", "świadczenia pieniężne", "waloryzacja", "bezrobocie", "emerytury i renty", "zatrudnianie", "pracownicy", "świadczenia przedemerytalne", "urzędy pracy"]

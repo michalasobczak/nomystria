@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 32
 tekst_jednolity: "Dz.U. 2025 poz. 595"
 tekst_jednolity_z_dnia: "2025-04-10"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "gry losowe i zakłady wzajemne", "podatki", "sprawozdawczość", "zezwolenia", "kary pieniężne i porządkowe", "świadectwa i dyplomy", "koncesje", "karne skarbowe prawo", "opłaty"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 170
 tekst_jednolity: "Dz.U. 2026 poz. 1226"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["wymiar sprawiedliwości", "nauka", "obrona narodowa", "budżet", "kultura i sztuka", "łączność", "administracja rządowa", "transport", "ochrona zdrowia", "finansowa gospodarka", "szkolnictwo wyższe", "budownictwo", "ochrona środowiska", "oświata i wychowanie", "ubezpieczenia społeczne", "rolnictwo", "kultura fizyczna"]

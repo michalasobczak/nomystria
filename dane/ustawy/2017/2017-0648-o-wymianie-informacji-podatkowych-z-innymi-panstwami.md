@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: "Dz.U. 2025 poz. 1379"
 tekst_jednolity_z_dnia: "2025-09-26"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "podatki", "współpraca zagraniczna", "karne skarbowe prawo", "podatek dochodowy od osób fizycznych", "podatek dochodowy od osób prawnych"]

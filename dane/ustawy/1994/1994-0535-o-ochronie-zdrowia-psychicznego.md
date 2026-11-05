@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 31
 tekst_jednolity: "Dz.U. 2024 poz. 917"
 tekst_jednolity_z_dnia: "2024-06-14"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kontrola", "przepisy karne", "pomoc społeczna", "sądy powszechne", "nieletni", "terenowe organy administracji rządowej", "dokumenty", "tajemnica państwowa i służbowa", "ochrona zdrowia", "domy pomocy społecznej", "ochrona zdrowia psychicznego", "farmaceutyczne środki", "rehabilitacja lecznicza", "zakłady opieki zdrowotnej", "oświata i wychowanie", "opieka zdrowotna", "badania lekarskie", "samorząd terytorialny", "karne prawo"]

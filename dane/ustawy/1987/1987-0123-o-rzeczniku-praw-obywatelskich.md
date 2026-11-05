@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 20
 tekst_jednolity: "Dz.U. 2024 poz. 1264"
 tekst_jednolity_z_dnia: "2024-08-19"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["prawa obywatelskie", "kierownicze stanowiska państwowe", "cywilne postępowanie", "karne postępowanie", "wynalazczość", "pracownicy urzędów państwowych", "administracyjne postępowanie", "naczelne i centralne organy administracji"]

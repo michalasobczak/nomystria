@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 1998
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["majątki opuszczone i poniemieckie", "nieruchomości"]

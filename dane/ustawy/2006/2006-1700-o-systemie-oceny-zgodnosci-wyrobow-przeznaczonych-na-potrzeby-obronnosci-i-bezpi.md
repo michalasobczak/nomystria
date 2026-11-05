@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2022 poz. 747"
 tekst_jednolity_z_dnia: "2022-03-23"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2021
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["badania i certyfikacje", "nadzór", "obrona narodowa", "akredytacja", "dokumenty", "wyroby", "opłaty", "bezpieczeństwo państwa"]

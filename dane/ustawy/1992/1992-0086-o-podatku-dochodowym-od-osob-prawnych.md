@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 307
 tekst_jednolity: "Dz.U. 2026 poz. 554"
 tekst_jednolity_z_dnia: "2026-03-27"
 zmian_po_tekscie_jednolitym: 6
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["spółki", "opłaty administracyjne", "podatek rolny", "podatki", "ulgi podatkowe", "opłaty lokalne", "opodatkowanie jgu", "podatek obrotowy", "opłata skarbowa", "księgi rachunkowe", "podatek dochodowy od osób fizycznych", "podatek dochodowy od osób prawnych"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 27
 tekst_jednolity: "Dz.U. 2026 poz. 186"
 tekst_jednolity_z_dnia: "2026-02-13"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["fundusze", "pracodawca", "ochrona", "pracownicy"]

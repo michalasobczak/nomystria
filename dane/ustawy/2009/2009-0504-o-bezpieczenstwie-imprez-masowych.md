@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 16
 tekst_jednolity: "Dz.U. 2023 poz. 616"
 tekst_jednolity_z_dnia: "2023-02-09"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["odszkodowania", "kontrola", "przepisy karne", "zezwolenia", "imprezy rozrywkowe", "imprezy sportowe", "imprezy masowe", "kultura fizyczna"]

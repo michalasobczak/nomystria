@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: "Dz.U. 2026 poz. 1208"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przewozowe prawo", "dowody osobiste", "towary niebezpieczne", "dokumenty", "kierowcy", "dokumenty publiczne", "prawo o ruchu drogowym", "zamówienia publiczne", "systemy teleinformatyczne"]

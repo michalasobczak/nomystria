@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 1990
 zrodlo_tekstu: "PDF O"
 uwagi: []
 slowa_kluczowe: ["finansowa gospodarka", "wynagrodzenia", "podatki", "opodatkowanie jgu", "przedsiębiorstwa państwowe", "zatrudnianie"]

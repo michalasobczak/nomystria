@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["szkolnictwo", "nauka", "ewidencja", "kuratoria oświaty i wychowania", "szkolnictwo niepaństwowe", "dokumenty", "szkolnictwo morskie", "młodzież", "obowiązek szkolny", "szkolnictwo rolnicze", "uczniowie i absolwenci szkół", "nauczyciele", "dzieci", "szkolnictwo medyczne", "komisje", "oświata i wychowanie", "szkolenie zawodowe", "szkolnictwo wojskowe", "szkolnictwo artystyczne", "przedszkola", "kodeks pracy", "oświata, nauka i kultura"]

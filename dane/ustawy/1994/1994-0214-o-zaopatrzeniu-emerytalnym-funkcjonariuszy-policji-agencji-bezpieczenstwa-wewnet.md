@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 65
 tekst_jednolity: "Dz.U. 2026 poz. 505"
 tekst_jednolity_z_dnia: "2026-03-27"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["socjalna działalność", "waloryzacja świadczeń", "inwalidzi", "karne postępowanie", "ordery, odznaczenia i odznaki", "emerytury i renty", "świadczenia z tytułu wypadków przy pracy i chorób zawodowych", "lokalowe prawo", "ochrona zdrowia", "więziennictwo", "administracyjne postępowanie", "zatrudnianie inwalidów i emerytów", "postępowanie egzekucyjne w administracji", "dyscyplinarne postępowanie", "umowy międzynarodowe", "zasiłek pogrzebowy", "mieszkania funkcyjne", "ubezpieczenia społeczne", "budownictwo mieszkaniowe", "wypadki w związku z pełnieniem służby", "wysługa lat", "przeciwpożarowa ochrona"]

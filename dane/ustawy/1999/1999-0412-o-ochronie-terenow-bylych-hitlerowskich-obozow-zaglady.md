@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2015 poz. 2120"
 tekst_jednolity_z_dnia: "2015-11-26"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2015
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["zgromadzenia", "wywłaszczenia", "budowlane prawo", "działalność gospodarcza", "muzea", "pomniki walki i męczeństwa", "strefy ochronne", "nieruchomości"]

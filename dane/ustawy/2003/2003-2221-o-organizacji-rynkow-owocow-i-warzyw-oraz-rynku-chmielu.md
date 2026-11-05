@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 30
 tekst_jednolity: "Dz.U. 2023 poz. 1318"
 tekst_jednolity_z_dnia: "2023-05-25"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["badania i certyfikacje", "kontrola", "rejestry", "województwa", "pasze", "organizacje i grupy producentów", "owoce i warzywa", "tytoń"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2018 poz. 359"
 tekst_jednolity_z_dnia: "2018-01-30"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2016
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["obrót towarowy z zagranicą", "przepisy karne", "import", "umowy międzynarodowe", "informacje niejawne", "zezwolenia", "eksport", "tranzyt", "broń, amunicja i materiały wybuchowe"]

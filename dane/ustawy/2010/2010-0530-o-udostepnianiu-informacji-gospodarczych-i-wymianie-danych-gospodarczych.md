@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 27
 tekst_jednolity: "Dz.U. 2025 poz. 85"
 tekst_jednolity_z_dnia: "2025-01-15"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["konsumenci", "cywilne prawo", "informacje niejawne", "wierzytelności", "informacje gospodarcze", "kredyty i pożyczki"]

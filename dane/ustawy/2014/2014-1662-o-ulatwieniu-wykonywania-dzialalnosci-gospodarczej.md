@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 0
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: null
 zrodlo_tekstu: "PDF T"
 uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "celne prawo", "weterynaryjna służba", "działalność gospodarcza", "żywność i żywienie", "podatek dochodowy od osób fizycznych", "gwarancja", "jakość wyrobów", "informacja publiczna", "pasze", "ochrona środowiska", "ubezpieczenia", "elektroniczne wyroby", "energetyczne prawo", "ochrona roślin", "ubezpieczenia społeczne", "izby gospodarcze", "kodeks pracy", "podatek dochodowy od osób prawnych", "tytoń", "medyczne wyroby", "statystyka", "podpis elektroniczny", "poręczenia państwowe", "bezpieczeństwo produktów", "organizacje i grupy producentów", "owoce i warzywa", "kontrola celna", "zatrudnianie", "podatek akcyzowy", "podatek od towarów i usług", "broń, amunicja i materiały wybuchowe", "górnictwo", "artykuły spożywcze", "rośliny", "geologiczne prawo"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 12
 tekst_jednolity: "Dz.U. 2024 poz. 573"
 tekst_jednolity_z_dnia: "2024-04-02"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["opakowania", "odpady", "działalność gospodarcza", "podatek dochodowy od osób fizycznych", "gminy", "utylizacyjne zakłady", "recykling", "rejestry", "chemiczne wyroby", "czystość i porządek", "elektroniczne urządzenia", "ochrona środowiska", "baterie i akumulatory", "podatek dochodowy od osób prawnych"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2026 poz. 925"
 tekst_jednolity_z_dnia: "2026-07-03"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["świadczenia", "transport kolejowy", "kodeks wykroczeń", "bankowe prawo", "gminy", "turystyka", "konsumenci", "konsularne prawo", "czystość i porządek", "ubezpieczenia", "oświata i wychowanie", "opieka zdrowotna", "opłata skarbowa", "usługi"]

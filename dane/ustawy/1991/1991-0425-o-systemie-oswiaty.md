@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 128
 tekst_jednolity: "Dz.U. 2025 poz. 881"
 tekst_jednolity_z_dnia: "2025-06-11"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["szkolnictwo zawodowe", "pomoc dla rodzin", "kuratoria oświaty i wychowania", "terenowe organy administracji rządowej", "obowiązek szkolny", "pracownicy urzędów państwowych", "finansowa gospodarka", "hufce pracy", "nauczyciele", "wyznania", "rodzinne i opiekuńcze prawo", "oświata i wychowanie", "przedszkola", "szkolenie pracowników"]

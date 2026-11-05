@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 24
 tekst_jednolity: "Dz.U. 2024 poz. 1170"
 tekst_jednolity_z_dnia: "2024-07-23"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["badawczo-rozwojowe jednostki", "nauka", "organizacja i zakres działania", "innowacyjno-wdrożeniowe jednostki"]

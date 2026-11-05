@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2019 poz. 2393"
 tekst_jednolity_z_dnia: "2019-11-22"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2019
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "kontrola", "koszty i opłaty sądowe", "sędziowie", "organizacja i zakres działania", "regulamin pracy", "ochrona", "orzeczenie", "skargi i wnioski", "dokumenty", "konstytucja"]

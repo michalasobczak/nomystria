@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 28
 tekst_jednolity: "Dz.U. 2019 poz. 1461"
 tekst_jednolity_z_dnia: "2019-07-19"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["dzienniki urzędowe", "wydawnictwa i publikacje"]

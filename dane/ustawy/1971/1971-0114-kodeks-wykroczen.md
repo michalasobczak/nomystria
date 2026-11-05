@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 117
 tekst_jednolity: "Dz.U. 2026 poz. 1372"
 tekst_jednolity_z_dnia: "2026-10-02"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "tekst jednolity, PDF T"
 uwagi: ["Tekst ujednolicony ISAP (z 2026-05-05, na podstawie DU/2025/734) był starszy niż ostatni tekst jednolity Dz.U. 2026 poz. 1372 z 2026-10-02; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["kodeks wykroczeń", "wykroczenia"]

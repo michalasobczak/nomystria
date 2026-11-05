@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 51
 tekst_jednolity: "Dz.U. 2026 poz. 820"
 tekst_jednolity_z_dnia: "2026-06-12"
 zmian_po_tekscie_jednolitym: 4
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["szkolnictwo", "nauka", "ewidencja", "kuratoria oświaty i wychowania", "szkolnictwo niepaństwowe", "szkolnictwo morskie", "dokumenty", "obowiązek szkolny", "młodzież", "szkolnictwo rolnicze", "uczniowie i absolwenci szkół", "nauczyciele", "dzieci", "szkolnictwo medyczne", "komisje", "oświata i wychowanie", "szkolenie zawodowe", "szkolnictwo wojskowe", "szkolnictwo artystyczne", "przedszkola", "oświata, nauka i kultura"]

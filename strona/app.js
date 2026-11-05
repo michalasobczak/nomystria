@@ -15,7 +15,7 @@
 
   const $ = (id) => document.getElementById(id);
   const el = {
-    q: $("q"), tylkoZnal: $("tylkoZnal"), rokOd: $("rokOd"), rokDo: $("rokDo"), zmOd: $("zmOd"), zmDo: $("zmDo"),
+    q: $("q"), tylkoZnal: $("tylkoZnal"), od1989: $("od1989"), rokOd: $("rokOd"), rokDo: $("rokDo"), zmOd: $("zmOd"), zmDo: $("zmDo"),
     tj: $("tj"), poTj: $("poTj"), kontrola: $("kontrola"),
     br: Array.from(document.querySelectorAll('input[name="br"]')),
     adv: $("zaawansowane"), advActive: $("advActive"),
@@ -32,7 +32,7 @@
 
   // ---- stan filtrów <-> adres URL (#q=...&br=U,P) ----
   function readState() {
-    const st = { q: el.q.value.trim(), tylkoZnal: el.tylkoZnal.checked ? "1" : "", br: el.br.filter((c) => c.checked).map((c) => c.value).join(",") };
+    const st = { q: el.q.value.trim(), tylkoZnal: el.tylkoZnal.checked ? "1" : "", od1989: el.od1989.checked ? "1" : "", br: el.br.filter((c) => c.checked).map((c) => c.value).join(",") };
     for (const k of ADV) st[k] = el[k].value;
     return st;
   }
@@ -50,6 +50,7 @@
     const p = new URLSearchParams(location.hash.slice(1));
     el.q.value = p.get("q") || "";
     el.tylkoZnal.checked = p.get("tylkoZnal") === "1";
+    el.od1989.checked = p.get("od1989") === "1";
     for (const k of ADV) el[k].value = p.get(k) || "";
     const br = (p.get("br") || BR_ALL).split(",");
     el.br.forEach((c) => (c.checked = br.includes(c.value)));
@@ -64,6 +65,8 @@
   const FILTRY = {
     q: (u, st) => { const w = norm(st.q).split(/\s+/).filter(Boolean); return !w.length || w.every((x) => u._hay.includes(x)); },
     tylkoZnal: (u, st) => !st.tylkoZnal || u.znaleziska.length > 0,
+    // uchwalona w 1989 r. lub później albo zmieniona ustawą ogłoszoną w 1989 r. lub później
+    od1989: (u, st) => !st.od1989 || (u.rok ?? 0) >= 1989 || (u.rokZm ?? 0) >= 1989,
     br: (u, st) => (st.br ? st.br.split(",") : []).includes(u.br),
     rok: (u, st) => { const o = num(st.rokOd), d = num(st.rokDo); return (o === null || (u.rok ?? -1) >= o) && (d === null || (u.rok ?? 1e9) <= d); },
     zmian: (u, st) => { const o = num(st.zmOd), d = num(st.zmDo); return (o === null || (u.zmian ?? 0) >= o) && (d === null || (u.zmian ?? 0) <= d); },
@@ -78,6 +81,7 @@
     const count = (_filtr, patch) => { const s = { ...st, ...patch }; let n = 0; for (const u of DATA) if (matchesExcept(u, s, null)) n++; return n; };
     const set = (key, n) => document.querySelectorAll(`[data-cnt="${key}"]`).forEach((e) => (e.textContent = `(${n})`));
     set("tylkoZnal", count("tylkoZnal", { tylkoZnal: "1" }));
+    set("od1989", count("od1989", { od1989: "1" }));
     for (const b of BR_ALL.split(",")) set("br:" + b, count("br", { br: b }));
     const opts = { tj: "tj", poTj: "poTj", kontrola: "kontrola" };
     for (const [id, f] of Object.entries(opts)) {
@@ -143,7 +147,6 @@
             · ${z.weryfikacja_krzyzowa ? "potwierdzone krzyżowo" : "jedno źródło"}</span>
         </div>
         <p>${esc(z.opis)}</p>
-        ${z.diagram ? `<p><a class="zn-diag" href="sciezki.html?id=${encodeURIComponent(z.diagram)}">⇢ Diagram ścieżek: przetestuj przepisy</a></p>` : ""}
         ${(z.cytaty || []).slice(0, 2).map((c) => `<blockquote>${esc(c)}</blockquote>`).join("")}
         <details><summary>Uzasadnienie i źródła</summary>
           <p>${esc(z.uzasadnienie)}</p>
@@ -170,8 +173,7 @@
             ${z.weryfikacja_krzyzowa ? " · potwierdzone krzyżowo" : " · niepotwierdzone krzyżowo"}
             ${(z.cytaty || []).map((c) => `<blockquote>${esc(c)}</blockquote>`).join("")}
             <p>${esc(z.opis)}</p>
-            ${z.diagram ? `<p><a class="zn-diag" href="sciezki.html?id=${encodeURIComponent(z.diagram)}">⇢ Diagram ścieżek: przetestuj przepisy</a></p>` : ""}
-            ${z.uzasadnienie ? `<p><em>Uzasadnienie:</em> ${esc(z.uzasadnienie)}</p>` : ""}
+                ${z.uzasadnienie ? `<p><em>Uzasadnienie:</em> ${esc(z.uzasadnienie)}</p>` : ""}
             <p class="eli">${esc(z.id)} (${esc(z.k)}) · wykryto: ${esc((z.zrodla_wykrycia || []).join(", "))}</p>
           </div>`).join("")
       : "<p>Brak znalezisk.</p>";
@@ -189,7 +191,7 @@
         <dt>Status (ISAP)</dt><dd>${esc(u.status)}</dd>
         <dt>Brzmienie</dt><dd>${SYMBOL[u.br] || ""} ${esc(BR_OPIS[u.br] || u.br)}</dd>
         <dt>Wejście w życie</dt><dd>${esc(u.wejscie) || "—"}</dd>
-        <dt>Ustaw zmieniających</dt><dd>${u.zmian ?? "—"}</dd>
+        <dt>Ustaw zmieniających</dt><dd>${u.zmian ?? "—"}${u.rokZm ? ` (ostatnia z ${u.rokZm} r.)` : ""}</dd>
         <dt>Ostatni tekst jednolity</dt><dd>${u.tj ? `${esc(u.tj)} z ${esc(u.tjData)}` : "—"}</dd>
         <dt>Zmian po t.j.</dt><dd>${u.tj ? u.poTj ?? "—" : "—"}</dd>
         <dt>Tekst ujednolicony z dnia</dt><dd>${esc(u.tu) || "—"}</dd>
@@ -206,7 +208,7 @@
   let t;
   const debounced = () => { clearTimeout(t); t = setTimeout(render, 120); };
   [el.q, el.rokOd, el.rokDo, el.zmOd, el.zmDo].forEach((i) => i.addEventListener("input", debounced));
-  [el.tylkoZnal, el.tj, el.poTj, el.kontrola, ...el.br].forEach((i) => i.addEventListener("change", render));
+  [el.tylkoZnal, el.od1989, el.tj, el.poTj, el.kontrola, ...el.br].forEach((i) => i.addEventListener("change", render));
   $("reset").addEventListener("click", () => { history.replaceState(null, "", location.pathname); applyHash(); render(); });
   document.querySelectorAll("th[data-k]").forEach((th) => th.addEventListener("click", () => {
     const k = th.dataset.k;

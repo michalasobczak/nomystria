@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 84
 tekst_jednolity: "Dz.U. 2026 poz. 538"
 tekst_jednolity_z_dnia: "2026-03-27"
 zmian_po_tekscie_jednolitym: 3
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["gminy", "województwa", "administracja rządowa", "planowanie przestrzenne", "samorząd terytorialny"]

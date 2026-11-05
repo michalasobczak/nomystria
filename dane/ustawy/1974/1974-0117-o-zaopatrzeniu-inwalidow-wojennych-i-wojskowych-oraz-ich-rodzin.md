@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 47
 tekst_jednolity: "Dz.U. 2025 poz. 195"
 tekst_jednolity_z_dnia: "2025-02-05"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["zatrudnianie inwalidów i emerytów", "ulgi przy przejazdach kolejami", "inwalidzi wojenni i wojskowi", "obrona narodowa", "urlopy wypoczynkowe", "opieka zdrowotna", "emerytury i renty", "koleje", "ochrona zdrowia"]

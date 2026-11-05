@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2025 poz. 428"
 tekst_jednolity_z_dnia: "2025-03-24"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kontrola", "województwa", "administracja rządowa", "samorząd terytorialny", "prawo miejscowe"]

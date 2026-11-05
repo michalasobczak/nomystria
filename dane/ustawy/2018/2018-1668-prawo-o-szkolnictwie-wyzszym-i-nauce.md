@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 57
 tekst_jednolity: "Dz.U. 2026 poz. 1362"
 tekst_jednolity_z_dnia: "2026-09-17"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["stypendia", "nauka", "nauczyciele akademiccy", "informatyzacja", "finansowanie", "komercjalizacja", "dotacje", "fundusze", "stopnie i tytuły naukowe", "nadzór", "szkolnictwo wyższe", "wydawnictwa i publikacje", "studia w szkołach wyższych", "szkolnictwo wojskowe", "kontrola", "subwencje", "szkolnictwo niepaństwowe", "studenci", "autorskie prawo", "nauczyciele", "cudzoziemcy", "dyscyplinarne postępowanie", "mediacje", "kary pieniężne i porządkowe", "szkolnictwo medyczne", "komisje", "akredytacja", "świadectwa i dyplomy", "kredyty i pożyczki"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2018 poz. 926"
 tekst_jednolity_z_dnia: "2018-04-13"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2017
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["emerytury i renty", "emerytalne programy"]

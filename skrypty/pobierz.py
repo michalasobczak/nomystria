@@ -258,6 +258,7 @@ def render(act: dict, pdf: str) -> dict:
         "tekst_jednolity": zm["tekst_jednolity"] or None,
         "tekst_jednolity_z_dnia": zm["tekst_jednolity_z_dnia"] or None,
         "zmian_po_tekscie_jednolitym": zm["zmian_po_tekscie_jednolitym"] if zm["tekst_jednolity"] else None,
+        "rok_ostatniej_zmiany": zm["rok_ostatniej_zmiany"] or None,
         "zrodlo_tekstu": zrodlo_tekstu,
         "uwagi": uwagi,
         "slowa_kluczowe": act.get("keywords", []),

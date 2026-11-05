@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 81
 tekst_jednolity: "Dz.U. 2025 poz. 843"
 tekst_jednolity_z_dnia: "2025-06-13"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["gospodarstwa rolne", "karta podatkowa", "działalność gospodarcza", "księgi rachunkowe", "podatek dochodowy od osób fizycznych", "spółki", "podatek rolny", "ulgi podatkowe", "duchowni", "ryczałt", "ubezpieczenia zdrowotne", "wyroby", "usługi", "księgi przychodów i rozchodów", "handel wewnętrzny"]

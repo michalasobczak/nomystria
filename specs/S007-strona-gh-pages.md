@@ -28,7 +28,9 @@ Repozytorium jest publiczne, więc GitHub Pages jest bezpłatne i nie wymaga ser
     - obecność znalezisk S006 (przełącznik w wyszukiwaniu podstawowym).
   - Sortowanie po kolumnach i licznik wyników.
   - Szczegóły ustawy: metadane, wyniki kontroli z wyjaśnieniami, znaleziska z cytatami, linki do pliku Markdown w repozytorium, PDF-u źródłowego i ISAP.
-  - Wyszukiwanie podstawowe: pole tekstowe i przełącznik „Tylko ustawy ze znaleziskami”, domyślnie wyłączony. Pozostałe filtry są w zwijanej sekcji „Wyszukiwanie zaawansowane”. Rozwija się sama, gdy adres zawiera filtry zaawansowane.
+  - Wyszukiwanie podstawowe: pole tekstowe i dwa przełączniki, domyślnie wyłączone:
+    - „Tylko ustawy uchwalone lub zmieniane w 1989 r. lub później”: rok ustawy ≥ 1989 albo rok ostatniej ustawy zmieniającej (`rok_ostatniej_zmiany`) ≥ 1989;
+    - „Tylko ustawy ze znaleziskami”. Pozostałe filtry są w zwijanej sekcji „Wyszukiwanie zaawansowane”. Rozwija się sama, gdy adres zawiera filtry zaawansowane.
   - Kliknięcie liczby znalezisk rozwija listę znalezisk pod wierszem ustawy.
   - Liczby w nawiasach przy opcjach pokazują, ile ustaw da dana opcja przy pozostałych ustawionych filtrach.
   - Domyślne sortowanie: od najnowszej ustawy (data ustawy malejąco).

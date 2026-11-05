@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 16
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2014
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["żegluga śródlądowa", "odpady", "zezwolenia", "budowlane prawo", "ścieki", "wodne prawo", "komunalna gospodarka", "planowanie przestrzenne", "opłaty", "strefy ochronne", "gminy", "chemiczne wyroby", "azbest", "ochrona środowiska", "atomowe prawo", "zanieczyszczenia", "grunty rolne i leśne", "opłata skarbowa", "ochrona przyrody", "autostrady", "ochrona wód"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 23
 tekst_jednolity: "Dz.U. 2019 poz. 2136"
 tekst_jednolity_z_dnia: "2019-10-14"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2019
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["fundusze", "spółki", "badawczo-rozwojowe jednostki", "nagrody", "wynagrodzenia", "zakłady budżetowe", "kasy chorych", "fundacje", "zakłady opieki zdrowotnej", "odprawy", "przedsiębiorstwa państwowe"]

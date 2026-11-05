@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 112
 tekst_jednolity: "Dz.U. 2026 poz. 1447"
 tekst_jednolity_z_dnia: "2026-10-02"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "tekst jednolity, PDF O"
 uwagi: ["Tekst ujednolicony ISAP (z 2026-08-03, na podstawie DU/2025/1483) był starszy niż ostatni tekst jednolity Dz.U. 2026 poz. 1447 z 2026-10-02; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["kontrola", "zakłady budżetowe", "budżet", "audyt", "finanse publiczne", "jednostki budżetowe", "papiery wartościowe", "rachunkowość", "bankowe prawo", "fundusze", "samorząd terytorialny", "budżetowe prawo", "kredyty i pożyczki"]

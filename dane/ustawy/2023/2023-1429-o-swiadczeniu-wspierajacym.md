@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2026 poz. 873"
 tekst_jednolity_z_dnia: "2026-06-19"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["świadczenia", "zasiłki", "pomoc dla rodzin", "finanse publiczne", "żołnierz zawodowy", "emerytury i renty", "zatrudnianie", "kodeks postępowania cywilnego", "prokuratura", "podatek dochodowy od osób fizycznych", "niepełnosprawni", "postępowanie egzekucyjne w administracji", "alimenty", "rolnicy", "dzieci", "ubezpieczenia społeczne", "świadczenie wspierające", "opieka zdrowotna"]

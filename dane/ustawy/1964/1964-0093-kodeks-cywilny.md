@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 113
 tekst_jednolity: "Dz.U. 2026 poz. 795"
 tekst_jednolity_z_dnia: "2026-05-27"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["dowody", "świadczenia", "czynsze", "działalność gospodarcza", "grunty", "ogólne warunki umów", "pojazdy mechaniczne", "notariat", "spadki", "bankowe prawo", "gwarancja", "gminy", "zwierzęta", "handlowe prawo", "odpowiedzialność cywilna", "nieruchomości", "skup i kontraktacja", "umowa leasingu", "kodeks cywilny", "dokumenty", "terminy", "sprzedaż", "odszkodowania", "służebności gruntowe", "użytkowanie wieczyste", "cywilne prawo", "roboty budowlane", "znalezione rzeczy", "gospodarstwa rolne", "rolnicze spółdzielnie produkcyjne", "zastaw", "najem", "darowizny", "rękojmia", "prawa i obowiązki", "budowlano-montażowe przedsiębiorstwa", "papiery wartościowe", "przewóz osób", "przewozowe prawo", "noclegowe zakłady", "umowa agencyjna", "rodzinne i opiekuńcze prawo", "lokal", "mienie", "ubezpieczenia", "umowy", "umowy o świadczenie usług", "przetargi", "komis", "wierzytelności", "przedawnienie", "zysk", "spółki", "przedsiębiorstwa", "ajenci", "rachunki bankowe", "transport drogowy i spedycja", "umowa zlecenia", "własność", "hotele", "własność przemysłowa", "oferty"]

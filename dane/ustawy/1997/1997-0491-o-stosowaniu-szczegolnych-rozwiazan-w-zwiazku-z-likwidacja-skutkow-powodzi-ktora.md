@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 3
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 1999
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["składki", "zakładowy fundusz świadczeń socjalnych", "klęski żywiołowe", "budżet", "pomoc społeczna", "ulgi podatkowe", "ochrona środowiska", "dokumenty", "niepełnosprawni"]

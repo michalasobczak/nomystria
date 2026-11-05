@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2015 poz. 1543"
 tekst_jednolity_z_dnia: "2015-09-17"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2006
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["samorząd załogi", "przedsiębiorstwa państwowe", "wybory"]

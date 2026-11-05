@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2025 poz. 1567"
 tekst_jednolity_z_dnia: "2025-11-07"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "tekst jednolity, PDF T"
 uwagi: ["Tekst ujednolicony ISAP (z 2025-06-04, na podstawie DU/2021/1745) był starszy niż ostatni tekst jednolity Dz.U. 2025 poz. 1567 z 2025-11-07; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["karne postępowanie w sprawach o wykroczenia", "cudzoziemcy", "dokumenty", "ubezpieczenia społeczne", "zatrudnianie", "zamówienia publiczne", "podatek dochodowy od osób fizycznych", "karne prawo"]

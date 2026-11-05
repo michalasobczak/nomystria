@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 16
 tekst_jednolity: "Dz.U. 2026 poz. 1065"
 tekst_jednolity_z_dnia: "2026-07-31"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["cudzoziemcy", "konsularne prawo", "rejestry", "wizy", "akta stanu cywilnego", "dokumenty", "obywatelstwo", "choroby", "karne prawo", "konsularne urzędy"]

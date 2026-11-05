@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2006
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["obrót między jgu", "cywilne prawo", "przedsiębiorstwa państwowe", "należności państwowe", "administracyjne postępowanie"]

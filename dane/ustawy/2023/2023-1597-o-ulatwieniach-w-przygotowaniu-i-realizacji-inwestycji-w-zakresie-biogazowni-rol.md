@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2026 poz. 52"
 tekst_jednolity_z_dnia: "2026-01-09"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["odpady", "budowlane prawo", "biopaliwa", "alkohol", "nawozy", "planowanie przestrzenne", "paliwa alternatywne", "energetyczna gospodarka", "inwestycje", "energetyczne prawo", "rolnictwo", "grunty rolne i leśne", "tytoń", "odnawialne źródła energii"]

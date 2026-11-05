@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2026 poz. 532"
 tekst_jednolity_z_dnia: "2026-03-27"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["świadczenia", "pomoc społeczna", "pomoc dla rodzin", "finanse publiczne", "emerytury i renty", "zatrudnianie", "kodeks postępowania cywilnego", "podatek dochodowy od osób fizycznych", "niepełnosprawni", "postępowanie egzekucyjne w administracji", "świadczenia lecznicze", "dzieci", "kredyt mieszkaniowy", "systemy teleinformatyczne"]

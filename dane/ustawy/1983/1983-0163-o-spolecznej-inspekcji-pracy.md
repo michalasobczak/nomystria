@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2015 poz. 567"
 tekst_jednolity_z_dnia: "2015-04-13"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2018
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przepisy karne", "wynagrodzenia", "prawo pracy", "kontrola społeczna", "związki zawodowe", "wykroczenia"]

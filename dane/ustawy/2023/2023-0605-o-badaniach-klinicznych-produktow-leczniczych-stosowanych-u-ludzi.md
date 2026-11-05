@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2026 poz. 2"
 tekst_jednolity_z_dnia: "2025-12-04"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["farmaceutyczne prawo", "lekarze", "świadczenia lecznicze", "lekarze dentyści", "eksperyment medyczny", "badania kliniczne", "leki i artykuły sanitarne", "choroby zakaźne", "podatek dochodowy od osób fizycznych"]

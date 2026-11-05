@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2018 poz. 2120"
 tekst_jednolity_z_dnia: "2018-10-25"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2018
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["prawa obywatelskie", "tworzenie prawa", "konstytucja"]

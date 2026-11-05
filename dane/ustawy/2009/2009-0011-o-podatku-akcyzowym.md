@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 89
 tekst_jednolity: "Dz.U. 2026 poz. 412"
 tekst_jednolity_z_dnia: "2026-03-12"
 zmian_po_tekscie_jednolitym: 4
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "import", "zezwolenia", "energetyka", "alkohol", "samochody", "podatek akcyzowy", "rejestry", "ulgi podatkowe", "deklaracja podatkowa", "stawki", "składowanie", "urzędy celne", "depozyty", "karne skarbowe prawo", "produkcja", "właściwość rzeczowa", "akcyza", "tytoń", "zabezpieczenia"]

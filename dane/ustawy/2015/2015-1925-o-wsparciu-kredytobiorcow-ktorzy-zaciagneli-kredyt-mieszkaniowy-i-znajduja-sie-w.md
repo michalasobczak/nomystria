@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2024 poz. 1385"
 tekst_jednolity_z_dnia: "2024-09-11"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["podatek dochodowy od osób fizycznych", "kredyty i pożyczki"]

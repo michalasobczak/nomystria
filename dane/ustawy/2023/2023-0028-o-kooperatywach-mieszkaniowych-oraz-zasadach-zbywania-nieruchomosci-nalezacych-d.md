@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2025 poz. 9"
 tekst_jednolity_z_dnia: "2024-12-23"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kooperatywy mieszkaniowe", "inwestycje", "budownictwo mieszkaniowe", "spółdzielczość mieszkaniowa", "nieruchomości"]

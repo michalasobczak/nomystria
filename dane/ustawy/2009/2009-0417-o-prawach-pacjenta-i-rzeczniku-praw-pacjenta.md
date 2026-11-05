@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 37
 tekst_jednolity: "Dz.U. 2024 poz. 581"
 tekst_jednolity_z_dnia: "2024-04-02"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "lekarze", "komisje lekarskie", "ochrona zdrowia", "naczelne i centralne organy administracji", "informacja publiczna", "pacjenci", "świadczenia lecznicze", "lekarze dentyści", "kary pieniężne i porządkowe", "zakłady opieki zdrowotnej", "opieka zdrowotna", "ochrona praw człowieka", "dokumentacja medyczna"]

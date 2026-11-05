@@ -1,6 +1,6 @@
 # S009 — Diagram ścieżek przepisów dla znaleziska
 
-- **Status:** dostarczona
+- **Status:** wycofana (2026-11-05) razem ze znaleziskami S006. Pomysł diagramów i formalnego kodowania przepisów wróci później.
 - **Data:** 2026-11-05
 - **Powiązane:** S006 (znalezisko x002-001), S007 (strona)
 
@@ -82,3 +82,9 @@ Drzewo decyzyjne z cytatami robi z opisu sprawdzalną strukturę. Każdą odpowi
   - Mermaid lub inne biblioteki z CDN, bo to zbędna zależność (MANIFEST M9) i trudniej podświetlić trasę.
   - Zwykły układ drzewa (wszystkie liście w jednym rzędzie), bo był za szeroki: 2134 px wobec obecnych ok. 1680 px.
 - **Otwarte pytania:** czy diagramy dodawać do każdego znaleziska typu luka lub brak ścieżki alternatywnej.
+
+## Wycofanie (2026-11-05)
+
+Diagram x002-001 pomijał art. 42 Kodeksu cywilnego (kurator dla osoby prawnej bez organu), więc trzy „luki” były oceniane bez pełnego kontekstu prawnego. Właściciel wycofał znaleziska i diagram. Kod (`strona/sciezki.*`, `tests/test_sciezki.py`) i dane są w historii git i mogą posłużyć przy powrocie do pomysłu.
+
+**Wniosek:** diagram ścieżek wymaga modelu, który obejmuje przepisy ogólne (k.c., k.p.a.) obowiązujące obok analizowanej ustawy.

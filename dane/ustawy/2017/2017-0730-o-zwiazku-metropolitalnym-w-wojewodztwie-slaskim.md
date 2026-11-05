@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 8
 tekst_jednolity: "Dz.U. 2025 poz. 186"
 tekst_jednolity_z_dnia: "2025-02-05"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["transport zbiorowy", "finansowa gospodarka", "powiaty", "województwa", "związek metropolitalny", "mienie", "działalność gospodarcza", "planowanie przestrzenne", "samorząd terytorialny", "woj. śląskie", "dochód"]

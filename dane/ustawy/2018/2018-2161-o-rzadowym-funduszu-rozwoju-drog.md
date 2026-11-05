@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 17
 tekst_jednolity: "Dz.U. 2025 poz. 94"
 tekst_jednolity_z_dnia: "2025-01-15"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["finanse publiczne", "finansowanie", "dokumenty", "sprawozdanie roczne", "papiery wartościowe", "fundusze", "spółki", "gminy", "drogi publiczne", "postępowanie egzekucyjne", "sprawozdanie finansowe", "prawo o ruchu drogowym", "samorząd terytorialny", "budowa i utrzymanie dróg"]

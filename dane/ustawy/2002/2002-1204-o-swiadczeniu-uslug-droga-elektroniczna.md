@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 18
 tekst_jednolity: "Dz.U. 2024 poz. 1513"
 tekst_jednolity_z_dnia: "2024-10-10"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["ochrona danych osobowych", "przepisy karne", "elektroniczne nośniki informacji", "elektroniczne urządzenia", "informatyzacja", "usługi"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 6
 tekst_jednolity: "Dz.U. 2026 poz. 196"
 tekst_jednolity_z_dnia: "2026-02-13"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["konsularne prawo", "ewidencja ludności", "akta stanu cywilnego", "informatyzacja", "dokumenty", "dokumenty publiczne", "administracja rządowa", "paszporty"]

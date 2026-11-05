@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 104
 tekst_jednolity: "Dz.U. 2025 poz. 633"
 tekst_jednolity_z_dnia: "2025-04-10"
 zmian_po_tekscie_jednolitym: 4
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kodeks karny skarbowy", "postępowanie karne skarbowe", "grzywny", "sądy powszechne", "postępowanie nakazowe i upominawcze", "urzędy i izby skarbowe", "karne skarbowe prawo", "kontrola skarbowa", "wykroczenia"]

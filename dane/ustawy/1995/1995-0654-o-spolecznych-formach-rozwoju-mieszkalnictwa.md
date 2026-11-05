@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 57
 tekst_jednolity: "Dz.U. 2026 poz. 1242"
 tekst_jednolity_z_dnia: "2026-09-01"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["najem", "spółdzielczość", "sądy powszechne", "odsetki ustawowe", "dokumenty", "bilanse", "papiery wartościowe", "podatek dochodowy od osób fizycznych", "bankowe prawo", "fundusze", "gminy", "spółki", "sądy administracyjne", "cywilne prawo", "rachunki bankowe", "budownictwo mieszkaniowe", "spółdzielczość mieszkaniowa", "podatek dochodowy od osób prawnych", "budżetowe prawo", "kredyty i pożyczki", "podatek od spadków i darowizn", "banki"]

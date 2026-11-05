@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2020 poz. 127"
 tekst_jednolity_z_dnia: "2019-12-13"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2019
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["wydawnictwa i publikacje", "umowy międzynarodowe", "naczelne i centralne organy administracji"]

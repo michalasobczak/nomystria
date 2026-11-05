@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 38
 tekst_jednolity: "Dz.U. 2024 poz. 485"
 tekst_jednolity_z_dnia: "2024-03-21"
 zmian_po_tekscie_jednolitym: 2
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["cudzoziemcy", "przepisy karne", "zezwolenia", "legitymacje", "broń, amunicja i materiały wybuchowe"]

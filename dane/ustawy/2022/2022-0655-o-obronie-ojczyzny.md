@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 24
 tekst_jednolity: "Dz.U. 2025 poz. 825"
 tekst_jednolity_z_dnia: "2025-06-11"
 zmian_po_tekscie_jednolitym: 7
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["obrona narodowa", "służba wojskowa żołnierzy", "powszechny obowiązek obrony", "żołnierz zawodowy", "służba wojskowa", "wojsko", "służba zastępcza", "bezpieczeństwo państwa"]

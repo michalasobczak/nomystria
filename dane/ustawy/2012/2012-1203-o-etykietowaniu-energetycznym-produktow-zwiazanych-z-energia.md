@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 4
 tekst_jednolity: "Dz.U. 2020 poz. 378"
 tekst_jednolity_z_dnia: "2020-02-13"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2019
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["energetyczna gospodarka", "energetyka", "energetyczne prawo"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 11
 tekst_jednolity: "Dz.U. 2025 poz. 781"
 tekst_jednolity_z_dnia: "2025-06-11"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["arbitraż", "rolne prawo", "organizacje społeczne", "kółka rolnicze", "sądy powszechne", "samorząd zawodowy", "rejestry sądowe"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: "Dz.U. 2026 poz. 200"
 tekst_jednolity_z_dnia: "2026-02-13"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["egzaminy", "dyscyplinarne postępowanie", "sądy okręgowe", "wynagrodzenia", "ślubowanie", "sądy powszechne", "aplikacja", "urlopy", "kuratorzy", "pracownicy urzędów państwowych", "koszty sądowe w sprawach cywilnych"]

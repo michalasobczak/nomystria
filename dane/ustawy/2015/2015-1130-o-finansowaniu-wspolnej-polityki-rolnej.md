@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 5
 tekst_jednolity: "Dz.U. 2022 poz. 2068"
 tekst_jednolity_z_dnia: "2022-09-05"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2022
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["finanse publiczne", "akredytacja", "agencje płatnicze", "rolnictwo", "samorząd terytorialny", "dotacje", "pomoc finansowa"]

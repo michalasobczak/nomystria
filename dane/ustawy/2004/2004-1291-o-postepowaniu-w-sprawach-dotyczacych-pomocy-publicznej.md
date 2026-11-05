@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 15
 tekst_jednolity: "Dz.U. 2026 poz. 500"
 tekst_jednolity_z_dnia: "2026-03-30"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kontrola", "podatki", "finanse publiczne", "finansowanie", "poręczenia państwowe", "komercjalizacja", "administracyjne postępowanie", "dotacje", "pomoc finansowa", "przedsiębiorstwa", "pomoc publiczna", "specjalna strefa ekonomiczna", "ulgi podatkowe", "kary pieniężne i porządkowe", "opłaty lokalne", "prywatyzacja", "inwestycje", "kredyty i pożyczki"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2016 poz. 1197"
 tekst_jednolity_z_dnia: "2016-07-22"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2016
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["świadek koronny", "sądy powszechne", "ochrona", "tajemnica państwowa i służbowa", "karne postępowanie", "prokuratura", "karne prawo"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 1995
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["cywilne prawo", "pieniężny system", "papiery wartościowe", "bankowe prawo"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 46
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["przeciwdziałanie alkoholizmowi", "spółdzielczość", "kodeks cywilny", "energetyka", "geodezja i kartografia", "terenowe organy administracji rządowej", "alkohol", "uzdrowiska", "miasta", "naczelne i centralne organy administracji", "gminy", "podatek rolny", "drogi publiczne", "muzea", "narkomania", "partie polityczne", "prawo o ruchu drogowym"]

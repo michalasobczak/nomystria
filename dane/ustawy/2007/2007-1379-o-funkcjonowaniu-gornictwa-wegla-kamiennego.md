@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 19
 tekst_jednolity: "Dz.U. 2026 poz. 520"
 tekst_jednolity_z_dnia: "2026-03-30"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2025
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["likwidacja", "przedsiębiorstwa", "górnictwo", "nadzór", "węgiel", "wynagrodzenia", "finansowanie", "kopalnie", "restrukturyzacja", "upadłościowe prawo", "ekwiwalent pieniężny", "dotacje"]

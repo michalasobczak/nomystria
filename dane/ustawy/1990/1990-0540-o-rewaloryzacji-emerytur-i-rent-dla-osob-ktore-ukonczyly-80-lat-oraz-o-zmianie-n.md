@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: null
 tekst_jednolity_z_dnia: null
 zmian_po_tekscie_jednolitym: null
+rok_ostatniej_zmiany: 1994
 zrodlo_tekstu: "PDF T"
 uwagi: []
 slowa_kluczowe: ["rolnicze spółdzielnie produkcyjne", "świadczenia", "waloryzacja świadczeń", "działalność gospodarcza", "żołnierz zawodowy", "emerytury i renty", "górnicy", "inwalidzi wojenni i wojskowi", "duchowni", "twórcy", "ubezpieczenia społeczne", "umowa zlecenia", "koleje", "pracownicy"]

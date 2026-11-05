@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 1
 tekst_jednolity: "Dz.U. 2016 poz. 861"
 tekst_jednolity_z_dnia: "2016-06-09"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2015
 zrodlo_tekstu: "tekst jednolity, PDF T"
 uwagi: ["Tekst ujednolicony ISAP (z 2016-02-09, na podstawie Dz. U. z 2014 r. poz. 575, z 2015 r. poz. 2281.) był starszy niż ostatni tekst jednolity Dz.U. 2016 poz. 861 z 2016-06-09; użyto tekstu jednolitego z Dz. U."]
 slowa_kluczowe: ["tworzenie prawa"]

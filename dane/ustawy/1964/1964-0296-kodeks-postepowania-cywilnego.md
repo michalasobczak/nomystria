@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 356
 tekst_jednolity: "Dz.U. 2026 poz. 468"
 tekst_jednolity_z_dnia: "2026-03-27"
 zmian_po_tekscie_jednolitym: 5
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["morskie prawo", "alimenty", "organizacje społeczne", "komornicy", "rodzinne i opiekuńcze prawo", "sądowe koszty i opłaty", "cywilne postępowanie", "emerytury i renty", "kodeks postępowania cywilnego", "statki morskie", "bankowe prawo"]

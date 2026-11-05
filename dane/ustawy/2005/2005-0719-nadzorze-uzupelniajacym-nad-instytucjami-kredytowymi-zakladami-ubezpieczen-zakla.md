@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 10
 tekst_jednolity: "Dz.U. 2020 poz. 1413"
 tekst_jednolity_z_dnia: "2020-07-16"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["kontrola", "finansowanie", "giełdy", "papiery wartościowe", "bankowe prawo", "spółki", "fundusze", "postępowanie egzekucyjne w administracji", "nadzór", "fundusz inwestycyjny", "maklerzy", "inwestycje", "wskaźnik", "działalność ubezpieczeniowa", "kredyty i pożyczki"]

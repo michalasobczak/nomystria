@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2022 poz. 425"
 tekst_jednolity_z_dnia: "2022-02-09"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2021
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["stan wyjątkowy", "turystyka", "woj. lubelskie", "rekompensaty pieniężne", "hotele", "usługi", "woj. podlaskie"]

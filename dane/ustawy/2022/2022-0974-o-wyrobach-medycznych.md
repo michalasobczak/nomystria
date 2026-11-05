@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2024 poz. 1620"
 tekst_jednolity_z_dnia: "2024-10-10"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2024
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["badania i certyfikacje", "nauka", "diagnostyka laboratoryjna", "farmaceuci", "choroby zakaźne", "leki i artykuły sanitarne", "ochrona zdrowia", "administracyjne postępowanie", "farmaceutyczne prawo", "rejestry medyczne", "świadczenia lecznicze", "pacjenci", "nadzór", "lekarze dentyści", "działalność lecznicza", "reklama", "atomowe prawo", "wyroby", "krwiodawstwo", "towar", "probiercze prawo", "felczerzy", "lekarze", "medyczne wyroby", "obrona narodowa", "opinie", "żołnierz zawodowy", "komisje lekarskie", "inspekcja", "kodeks postępowania cywilnego", "podatek od towarów i usług", "sprzedaż", "ochrona zdrowia psychicznego", "przedsiębiorstwa", "ordynacja podatkowa", "elektroniczne urządzenia", "procedura", "kary pieniężne i porządkowe", "opieka zdrowotna", "systemy teleinformatyczne"]

@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 13
 tekst_jednolity: "Dz.U. 2020 poz. 818"
 tekst_jednolity_z_dnia: "2020-04-16"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2020
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["fundusze", "finansowa gospodarka", "instrumenty finansowe", "finanse publiczne", "finansowanie", "polityka spójności", "polityka pieniężna", "systemy teleinformatyczne", "pomoc finansowa"]

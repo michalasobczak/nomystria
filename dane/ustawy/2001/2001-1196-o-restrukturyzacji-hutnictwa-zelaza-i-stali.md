@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 9
 tekst_jednolity: "Dz.U. 2020 poz. 2216"
 tekst_jednolity_z_dnia: "2020-12-08"
 zmian_po_tekscie_jednolitym: 0
+rok_ostatniej_zmiany: 2020
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["badawczo-rozwojowe jednostki", "składki", "przetargi", "budżet", "komercjalizacja", "papiery wartościowe", "spółki akcyjne", "dotacje", "fundusze", "księgi wieczyste i hipoteka", "wynagrodzenia przeciętne", "prywatyzacja", "ubezpieczenia społeczne", "przedsiębiorstwa państwowe", "restrukturyzacja", "podatek dochodowy od osób prawnych", "hutnictwo", "nieruchomości"]

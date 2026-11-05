@@ -12,6 +12,7 @@ liczba_ustaw_zmieniajacych: 2
 tekst_jednolity: "Dz.U. 2024 poz. 578"
 tekst_jednolity_z_dnia: "2024-03-21"
 zmian_po_tekscie_jednolitym: 1
+rok_ostatniej_zmiany: 2026
 zrodlo_tekstu: "PDF U"
 uwagi: []
 slowa_kluczowe: ["działalność kulturalna", "finansowanie", "zabytki", "administracyjne postępowanie", "podatek dochodowy od osób fizycznych", "spółki", "odszkodowania", "budownictwo", "ochrona środowiska", "mienie", "inwestycje", "jednoosobowe spółki Skarbu Państwa", "działalność pożytku publicznego", "nieruchomości"]
