@@ -4,6 +4,10 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### README: adnotacja o charakterze projektu
+
+- Na początku README dodano ostrzeżenie: projekt jest eksploracyjny, teksty są dobierane i konwertowane automatycznie i mogą zawierać błędy oraz nieścisłości, a każdy przypadek trzeba rozpatrywać indywidualnie (MANIFEST M4).
+
 ### S004: symbole brzmienia w tabeli
 
 - Kolumna „Brzmienie” w tabeli README zastąpiona wąską kolumną „Br.” z legendą. Na prośbę właściciela, bo tabela się rozjeżdżała. Właściciel sprawdził też symbole tekstowe U / P / PZ, ale wybrał graficzne ● / ○ / ◐.

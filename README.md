@@ -4,6 +4,9 @@
 
 > Odkrywanie tajemnic i ukrytej struktury prawa.
 
+> [!WARNING]
+> **To projekt eksploracyjny.** Teksty aktów prawnych są wyszukiwane, dobierane i konwertowane automatycznie, więc dane mogą zawierać błędy i nieścisłości. Każdy przypadek należy rozpatrywać indywidualnie i porównywać z tekstem ogłoszonym w Dzienniku Ustaw. Nie jest to źródło prawa ani porada prawna.
+
 Projekt prowadzimy według metodyki [Rondo + Context-Driven-Development](https://workwithrondo.com). Artefakty:
 
 - ten README (stan „tu i teraz”),
