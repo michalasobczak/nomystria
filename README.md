@@ -4,6 +4,10 @@
 
 > Odkrywanie tajemnic i ukrytej struktury prawa.
 
+**Cel.** Projekt szuka w prawie sprzeczności, niespójności, luk, wad i braków, w tym brakujących ścieżek alternatywnych. Każdy znaleziony przypadek ma zostać opracowany indywidualnie i przekazany odpowiednim organom jako propozycja inicjatywy ustawodawczej.
+
+**Motywacja.** Polskie prawodawstwo, i nie tylko polskie, pozostawia częściową dowolność interpretacji.
+
 Projekt prowadzimy według metodyki [Rondo + Context-Driven-Development](https://workwithrondo.com). Artefakty:
 
 - ten README (stan „tu i teraz”),

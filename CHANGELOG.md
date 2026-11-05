@@ -4,6 +4,10 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### README: cel i motywacja projektu
+
+- Na początku README dodano cel: identyfikacja sprzeczności, niespójności, luk, wad i braków (w tym brakujących ścieżek alternatywnych) w prawie, aby je opracować indywidualnie i przekazać odpowiednim organom jako propozycje inicjatyw ustawodawczych. Dodano też motywację: częściową dowolność interpretacyjną polskiego, i nie tylko polskiego, prawodawstwa.
+
 ### README: sekcja „Uwagi” pod tabelą ustaw
 
 - Ostrzeżenie o eksploracyjnym charakterze projektu i informację o autorze przeniesiono z początku README do nowej sekcji „Uwagi” pod tabelą ustaw. Odświeżanie tabeli (`skrypty/tabela.py`) zachowuje tę sekcję.
