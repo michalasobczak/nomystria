@@ -10,12 +10,14 @@
     sprzecznosc: "sprzeczność", niespojnosc: "niespójność", luka: "luka", wada: "wada legislacyjna",
     brak_sciezki_alternatywnej: "brak ścieżki alternatywnej", zaniechanie: "zaniechanie",
   };
+  // Ostatnie 5 lat kalendarzowych łącznie z bieżącym (np. 2022–2026); przesuwa się samo z upływem czasu.
+  const ROK_OD_5 = new Date().getFullYear() - 4;
   const DOMYSLNE_SORT = { k: "data", dir: -1 };
   const ADV = ["rokOd", "rokDo", "zmOd", "zmDo", "tj", "poTj", "kontrola"];
 
   const $ = (id) => document.getElementById(id);
   const el = {
-    q: $("q"), tylkoZnal: $("tylkoZnal"), od1989: $("od1989"), rokOd: $("rokOd"), rokDo: $("rokDo"), zmOd: $("zmOd"), zmDo: $("zmDo"),
+    q: $("q"), tylkoZnal: $("tylkoZnal"), od1989: $("od1989"), ost5: $("ost5"), rokOd: $("rokOd"), rokDo: $("rokDo"), zmOd: $("zmOd"), zmDo: $("zmDo"),
     tj: $("tj"), poTj: $("poTj"), kontrola: $("kontrola"),
     br: Array.from(document.querySelectorAll('input[name="br"]')),
     adv: $("zaawansowane"), advActive: $("advActive"),
@@ -32,7 +34,7 @@
 
   // ---- stan filtrów <-> adres URL (#q=...&br=U,P) ----
   function readState() {
-    const st = { q: el.q.value.trim(), tylkoZnal: el.tylkoZnal.checked ? "1" : "", od1989: el.od1989.checked ? "1" : "", br: el.br.filter((c) => c.checked).map((c) => c.value).join(",") };
+    const st = { q: el.q.value.trim(), tylkoZnal: el.tylkoZnal.checked ? "1" : "", od1989: el.od1989.checked ? "1" : "", ost5: el.ost5.checked ? "1" : "", br: el.br.filter((c) => c.checked).map((c) => c.value).join(",") };
     for (const k of ADV) st[k] = el[k].value;
     return st;
   }
@@ -51,6 +53,7 @@
     el.q.value = p.get("q") || "";
     el.tylkoZnal.checked = p.get("tylkoZnal") === "1";
     el.od1989.checked = p.get("od1989") === "1";
+    el.ost5.checked = p.get("ost5") === "1";
     for (const k of ADV) el[k].value = p.get(k) || "";
     const br = (p.get("br") || BR_ALL).split(",");
     el.br.forEach((c) => (c.checked = br.includes(c.value)));
@@ -67,6 +70,7 @@
     tylkoZnal: (u, st) => !st.tylkoZnal || u.znaleziska.length > 0,
     // uchwalona w 1989 r. lub później albo zmieniona ustawą ogłoszoną w 1989 r. lub później
     od1989: (u, st) => !st.od1989 || (u.rok ?? 0) >= 1989 || (u.rokZm ?? 0) >= 1989,
+    ost5: (u, st) => !st.ost5 || (u.rok ?? 0) >= ROK_OD_5 || (u.rokZm ?? 0) >= ROK_OD_5,
     br: (u, st) => (st.br ? st.br.split(",") : []).includes(u.br),
     rok: (u, st) => { const o = num(st.rokOd), d = num(st.rokDo); return (o === null || (u.rok ?? -1) >= o) && (d === null || (u.rok ?? 1e9) <= d); },
     zmian: (u, st) => { const o = num(st.zmOd), d = num(st.zmDo); return (o === null || (u.zmian ?? 0) >= o) && (d === null || (u.zmian ?? 0) <= d); },
@@ -82,6 +86,7 @@
     const set = (key, n) => document.querySelectorAll(`[data-cnt="${key}"]`).forEach((e) => (e.textContent = `(${n})`));
     set("tylkoZnal", count("tylkoZnal", { tylkoZnal: "1" }));
     set("od1989", count("od1989", { od1989: "1" }));
+    set("ost5", count("ost5", { ost5: "1" }));
     for (const b of BR_ALL.split(",")) set("br:" + b, count("br", { br: b }));
     const opts = { tj: "tj", poTj: "poTj", kontrola: "kontrola" };
     for (const [id, f] of Object.entries(opts)) {
@@ -208,7 +213,7 @@
   let t;
   const debounced = () => { clearTimeout(t); t = setTimeout(render, 120); };
   [el.q, el.rokOd, el.rokDo, el.zmOd, el.zmDo].forEach((i) => i.addEventListener("input", debounced));
-  [el.tylkoZnal, el.od1989, el.tj, el.poTj, el.kontrola, ...el.br].forEach((i) => i.addEventListener("change", render));
+  [el.tylkoZnal, el.od1989, el.ost5, el.tj, el.poTj, el.kontrola, ...el.br].forEach((i) => i.addEventListener("change", render));
   $("reset").addEventListener("click", () => { history.replaceState(null, "", location.pathname); applyHash(); render(); });
   document.querySelectorAll("th[data-k]").forEach((th) => th.addEventListener("click", () => {
     const k = th.dataset.k;
@@ -242,6 +247,7 @@
         $("listaKontroli").innerHTML = d.kontrole.map((k) =>
           `<li><strong>${esc(k.id)}</strong> (${esc(k.spec)}) — ${esc(k.tytul)}, ${esc(k.data)}: ${k.liczba} ${k.rodzaj === "wyniki" ? "wyników" : "znalezisk"} · <a href="https://github.com/michalasobczak/nomystria/blob/main/${esc(k.plik)}">${esc(k.plik)}</a></li>`).join("");
       }
+      $("ost5lata").textContent = `${ROK_OD_5}–${ROK_OD_5 + 4}`;
       applyHash();
       render();
     })

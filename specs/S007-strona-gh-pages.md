@@ -30,6 +30,7 @@ Repozytorium jest publiczne, więc GitHub Pages jest bezpłatne i nie wymaga ser
   - Szczegóły ustawy: metadane, wyniki kontroli z wyjaśnieniami, znaleziska z cytatami, linki do pliku Markdown w repozytorium, PDF-u źródłowego i ISAP.
   - Wyszukiwanie podstawowe: pole tekstowe i dwa przełączniki, domyślnie wyłączone:
     - „Tylko ustawy uchwalone lub zmieniane w 1989 r. lub później”: rok ustawy ≥ 1989 albo rok ostatniej ustawy zmieniającej (`rok_ostatniej_zmiany`) ≥ 1989;
+    - „Tylko uchwalone lub zmieniane w ostatnich 5 latach”: 5 lat kalendarzowych łącznie z bieżącym (w 2026 r. to lata 2022–2026), liczone w przeglądarce, więc zakres przesuwa się bez przebudowy danych;
     - „Tylko ustawy ze znaleziskami”. Pozostałe filtry są w zwijanej sekcji „Wyszukiwanie zaawansowane”. Rozwija się sama, gdy adres zawiera filtry zaawansowane.
   - Kliknięcie liczby znalezisk rozwija listę znalezisk pod wierszem ustawy.
   - Liczby w nawiasach przy opcjach pokazują, ile ustaw da dana opcja przy pozostałych ustawionych filtrach.

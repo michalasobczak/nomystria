@@ -4,6 +4,10 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### S007: przełącznik „ostatnie 5 lat”
+
+- Nowy przełącznik „Tylko uchwalone lub zmieniane w ostatnich 5 latach”: rok ustawy albo rok ostatniej zmiany ≥ bieżący rok − 4, czyli teraz 2022–2026. Obejmuje 767 aktów. Zmiana dotyczy tylko strony i nie wymagała przebudowy danych.
+
 ### S007: przełącznik „uchwalone lub zmieniane od 1989 r.”
 
 - Nowe pole `rok_ostatniej_zmiany` (rok ogłoszenia ostatniej ustawy zmieniającej, z ELI) w metadanych, `indeks.csv` i `dane.json`.
