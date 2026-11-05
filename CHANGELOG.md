@@ -4,6 +4,10 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### README: weryfikacja krzyżowa
+
+- Do opisu sposobu pracy (sekcja „Uwagi”) dopisano, że wyniki są weryfikowane krzyżowo za pomocą różnych narzędzi.
+
 ### README: cel i motywacja projektu
 
 - Na początku README dodano cel: identyfikacja sprzeczności, niespójności, luk, wad i braków (w tym brakujących ścieżek alternatywnych) w prawie, aby je opracować indywidualnie i przekazać odpowiednim organom jako propozycje inicjatyw ustawodawczych. Dodano też motywację: częściową dowolność interpretacyjną polskiego, i nie tylko polskiego, prawodawstwa.
