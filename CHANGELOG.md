@@ -4,6 +4,16 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ## 2026-11-05
 
+### S012: reguła R3, ślubowanie bez ścieżki po stronie przyjmującego (x005)
+
+- Właściciel wybrał najpierw kategorię „braki ścieżek”. Próba po 5 przypadków z trzech tematów (wyłączenie zaskarżenia, porozumienie, termin) i analiza tematu ślubowania wskazały ślubowanie jako najłatwiejsze do identyfikacji i podważenia. S011 (uchylone artykuły) odłożono.
+- Skrypt `eksperymenty/x005-slubowanie/x005.py` znalazł 40 ustaw z przepisami o ślubowaniu wobec wskazanego podmiotu albo ze ślubowaniem jako warunkiem statusu. Pierwsza wersja dawała 31 i pomijała ustawę o statusie sędziów TK, bo jej akapit rozdzielił się przy konwersji.
+- 4 przebiegi Claude Sonnet ocenily 40 ustaw: 14 brak ścieżki, 10 ścieżka istnieje (w tym wzorzec: ustawa o samorządzie gminnym, art. 29a ust. 3), 13 nie dotyczy, 3 niejasne. Cytaty sprawdzono automatycznie.
+- Na stronie jest 14 znalezisk kategorii „brak ścieżki alternatywnej”. Wagę nadano ręcznie według jawnej zasady:
+  - **wysoka (3):** ustawy o TK, bo Prezydent przyjmuje ślubowanie sędziów wybranych przez Sejm;
+  - **średnia (2):** radcy prawni, rzecznicy patentowi;
+  - **niska (9):** ten sam organ powołuje i przyjmuje ślubowanie, czyli sędziowie oraz RPO, RPD, UODO, IPN i Komisja ds. pedofilii.
+
 ### S010: reguła R1, martwe odesłania wewnętrzne (x003)
 
 - Skrypt `eksperymenty/x003-martwe-odeslania/x003.py` sprawdził 1112 ustaw (uchwalonych lub zmienianych od 1989 r., bez „Przepisy wprowadzające”), wyłącznie na wersji tekstowej. Wynik: 531 kandydatów. Filtr zgrubny zawęził ich do 48 w ustawach do 200 KB.

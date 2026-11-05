@@ -1,0 +1,1229 @@
+{
+ "id": "x005",
+ "spec": "S012",
+ "etap": "1 (skrypt)",
+ "data": "2026-11-05",
+ "kandydaci": [
+  {
+   "eli": "DU/1982/124",
+   "tytul": "Ustawa z dnia 26 maja 1982 r. Prawo o adwokaturze.",
+   "plik": "dane/ustawy/1982/1982-0124-prawo-o-adwokaturze.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "dziekana ślubowanie treści następującej"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "5",
+     "tekst": "Art. 5. Adwokat przed rozpoczęciem wykonywania czynności zawodowych składa wobec dziekana ślubowanie treści następującej:"
+    },
+    {
+     "art": "49",
+     "tekst": "11) datę złożenia ślubowania;"
+    },
+    {
+     "art": "69a",
+     "tekst": "3. Niezwłocznie po dokonaniu wpisu na listę aplikantów adwokackich okręgowa rada adwokacka wyznacza aplikantowi termin ślubowania. Przepis art. 5 stosuje się odpowiednio."
+    },
+    {
+     "art": "77",
+     "tekst": "6. Uprawnienia, o których mowa w ust. 1, 2, 4 i 5 oraz art. 35[1] ust. 5 ustawy z dnia 6 lipca 1982 r. o radcach prawnych, przysługują również osobie wpisanej na listę adwokatów, a w przypadku, o którym mowa w art. 79 ust. 1 pkt 3, do dnia złożenia ślubowania, niedłużej jednak niż przez okres wskazany w art. 79 ust. 1 pkt 4 lub 5."
+    }
+   ]
+  },
+  {
+   "eli": "DU/1982/145",
+   "tytul": "Ustawa z dnia 6 lipca 1982 r. o radcach prawnych.",
+   "plik": "dane/ustawy/1982/1982-0145-o-radcach-prawnych.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "23",
+     "tekst": "Art. 23. Prawo wykonywania zawodu radcy prawnego powstaje z chwilą dokonania wpisu na listę radców prawnych i złożenia ślubowania."
+    },
+    {
+     "art": "27",
+     "tekst": "Art. 27. 1. Rota ślubowania składanego przez radcę prawnego ma następujące brzmienie: „Ślubuję uroczyście w wykonywaniu zawodu radcy prawnego przyczyniać się do ochrony i umacniania porządku prawnego Rzeczypospolitej Polskiej, obowiązki zawodowe wypełniać sumiennie i zgodnie z przepisami prawa, zachować tajemnicę zawodową, postępować godnie i uczciwie, kierując się zasadami etyki radcy prawnego i sprawiedliwości”."
+    },
+    {
+     "art": "312",
+     "tekst": "3. Niezwłocznie po dokonaniu wpisu na listę aplikantów radcowskich rada okręgowej izby radców prawnych wyznacza aplikantowi termin ślubowania. Przepisy art. 27 stosuje się odpowiednio."
+    }
+   ]
+  },
+  {
+   "eli": "DU/1987/123",
+   "tytul": "Ustawa z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich.",
+   "plik": "dane/ustawy/1987/1987-0123-o-rzeczniku-praw-obywatelskich.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Sejmem",
+    "Sejmem następujące ślubowanie"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "4",
+     "tekst": "Art. 4. Przed przystąpieniem do wykonywania obowiązków Rzecznik składa przed Sejmem następujące ślubowanie:"
+    },
+    {
+     "art": "5",
+     "tekst": "Art. 5. 1. Kadencja Rzecznika trwa pięć lat, licząc od dnia złożenia ślubowania przed Sejmem."
+    },
+    {
+     "art": "7",
+     "tekst": "2. Sejm odwołuje Rzecznika przed upływem okresu, na jaki został powołany, również jeżeli Rzecznik sprzeniewierzył się złożonemu ślubowaniu."
+    }
+   ]
+  },
+  {
+   "eli": "DU/1990/95",
+   "tytul": "Ustawa z dnia 8 marca 1990 r. o samorządzie gminnym",
+   "plik": "dane/ustawy/1990/1990-0095-o-samorzadzie-gminnym.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "rady gminy ślubowania o następującej treści",
+    "właściwym terytorialnie komisarzem wyborczym",
+    "zatrudnieniem na stanowisku sekretarza gminy"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": true,
+   "wyciag": [
+    {
+     "art": "23a",
+     "tekst": "Art. 23a. 1. Przed przystąpieniem do wykonywania mandatu radni składają ślubowanie:"
+    },
+    {
+     "art": "23a",
+     "tekst": "3. Radni nieobecni na pierwszej sesji rady gminy oraz radni, którzy uzyskali mandat w czasie trwania kadencji, składają ślubowanie na pierwszej sesji, na której są obecni."
+    },
+    {
+     "art": "24f",
+     "tekst": "Art. 24f. 1. Radni nie mogą prowadzić działalności gospodarczej na własny rachunek lub wspólnie z innymi osobami z wykorzystaniem mienia komunalnego gminy, w której radny uzyskał mandat, a także zarządzać taką działalnością lub być przedstawicielem czy pełnomocnikiem w prowadzeniu takiej działalności. 1a. Jeżeli radny przed rozpoczęciem wykonywania mandatu prowadził działalność gospodarczą, o której mowa w ust. 1, jest obowiązany do zaprzestania prowadzenia tej działalności gospodarczej w ciągu 3 miesięcy od dnia złożenia ślubowania. Niewypełnienie obowiązku, o którym mowa w zdaniu pierwszym, stanowi podstawę do stwierdzenia wygaśnięcia mandatu radnego w trybie art. 383 ustawy, o której mowa w art. 24b ust. 6."
+    },
+    {
+     "art": "24f",
+     "tekst": "4. Jeżeli wybór lub powołanie, o których mowa w ust. 2, nastąpiły przed rozpoczęciem wykonywania mandatu radnego albo dniem wyboru wójta lub przed zatrudnieniem na stanowisku sekretarza gminy, powołaniem na stanowisko zastępcy wójta, skarbnika gminy, kierownika jednostki organizacyjnej gminy oraz osoby zarządzającej i członka organu zarządzającego gminną osobą prawną, osoby, o których mowa w ust. 2, są obowiązane zrzec się stanowiska lub funkcji w terminie 3 miesięcy od dnia złożenia ślubowania przez radnego albo wójta czy też od dnia zatrudnienia na podstawie umowy o pracę lub powołania na stanowisko. W razie niezrzeczenia się stanowiska lub funkcji osoba, o której mowa w ust. 2, traci je z mocy prawa po upływie terminu, o którym mowa w zdaniu pierwszym. 5. Radni nie mogą posiadać pakietu większego niż 10 % udziałów lub akcji w spółkach prawa handlowego z udziałem gminnych osób prawnych lub przedsiębiorców, w których uczestniczą takie osoby. Udziały lub akcje przekraczające ten pakiet powinny być zbyte przez radnego przed pierwszą sesją rady gminy, a w razie niezbycia ich nie uczestniczą one przez okres sprawowania mandatu i dwóch lat po jego wygaśnięciu w wykonywaniu przysługujących im uprawnień (prawa głosu, prawa do dywidendy, prawa do podziału majątku, prawa poboru)."
+    },
+    {
+     "art": "24h",
+     "tekst": "4. Radny i wójt składają pierwsze oświadczenie majątkowe w terminie 30 dni od dnia złożenia ślubowania. Do pierwszego oświadczenia majątkowego radny jest obowiązany dołączyć informację o sposobie i terminie zaprzestania prowadzenia działalności gospodarczej z wykorzystaniem mienia gminy, w której uzyskał mandat, a wójt informację o zaprzestaniu prowadzenia działalności gospodarczej, jeżeli taką działalność prowadzili przed dniem wyboru. Kolejne oświadczenia majątkowe są składane przez radnego i wójta co roku do dnia 30 kwietnia, według stanu na dzień 31 grudnia roku poprzedniego, oraz na 2 miesiące przed upływem kadencji."
+    },
+    {
+     "art": "28g",
+     "tekst": "3a. W przypadku gdy przemijająca przeszkoda w wykonywaniu zadań i kompetencji wójta spowodowana przez jedną z okoliczności, o których mowa w ust. 1, zaistnieje przed złożeniem przez wójta ślubowania, zadania i kompetencje wójta przejmuje osoba, o której mowa w art. 28h."
+    },
+    {
+     "art": "29a",
+     "tekst": "Art. 29a. 1. Objęcie obowiązków przez wójta następuje z chwilą złożenia wobec rady gminy ślubowania o następującej treści:"
+    },
+    {
+     "art": "29a",
+     "tekst": "2. Wójt składa ślubowanie podczas pierwszej sesji nowo wybranej rady zwołanej na podstawie art. 20 ust. 2, a w przypadku wyboru wójta:"
+    },
+    {
+     "art": "29a",
+     "tekst": "3. Jeżeli sesja zwołana w trybie określonym w ust. 2 nie odbyła się albo upłynął termin, o którym mowa w ust. 2, wójt składa ślubowanie o treści określonej w ust. 1 przed właściwym terytorialnie komisarzem wyborczym. Złożenie ślubowania wójt potwierdza podpisem pod treścią ślubowania. Akt ślubowania komisarz wyborczy przesyła niezwłocznie przewodniczącemu rady. Informację o dacie złożenia ślubowania komisarz wyborczy podaje do publicznej wiadomości mieszkańców gminy w formie komunikatu w Biuletynie Informacji Publicznej w terminie 14 dni od dnia złożenia ślubowania."
+    },
+    {
+     "art": "29a",
+     "tekst": "4. Uchylanie się od złożenia ślubowania w terminie 3 miesięcy od dnia ogłoszenia wyników wyborów wójta jest równoznaczne z odmową złożenia ślubowania."
+    }
+   ]
+  },
+  {
+   "eli": "DU/1991/91",
+   "tytul": "Ustawa z dnia 14 lutego 1991 r. Prawo o notariacie.",
+   "plik": "dane/ustawy/1991/1991-0091-prawo-o-notariacie.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Ministra Sprawiedliwości ślubowanie według następującej roty",
+    "odbiera ślubowanie",
+    "przyjęcia ślubowania"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "15",
+     "tekst": "Art. 15. § 1. Przy powołaniu notariusz składa wobec Ministra Sprawiedliwości ślubowanie według następującej roty:"
+    },
+    {
+     "art": "15",
+     "tekst": "§ 2. Minister Sprawiedliwości może upoważnić prezesa właściwego sądu apelacyjnego do przyjęcia ślubowania."
+    },
+    {
+     "art": "17",
+     "tekst": "Art. 17. Notariusz jest obowiązany postępować zgodnie ze złożonym ślubowaniem oraz stale podnosić kwalifikacje zawodowe."
+    },
+    {
+     "art": "76",
+     "tekst": "Art. 76. § 1. Zastępcą notarialnym jest osoba, która uzyskała pozytywny wynik z egzaminu notarialnego i złożyła ślubowanie."
+    },
+    {
+     "art": "76",
+     "tekst": "§ 3. Na podstawie zaświadczenia, o którym mowa w § 2, prezes rady właściwej izby notarialnej odbiera ślubowanie, a następnie umieszcza zastępcę notarialnego w wykazie zastępców notarialnych danej izby. Art. 15 § 1 stosuje się odpowiednio."
+    }
+   ]
+  },
+  {
+   "eli": "DU/1995/59",
+   "tytul": "Ustawa z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli.",
+   "plik": "dane/ustawy/1995/1995-0059-o-najwyzszej-izbie-kontroli.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Prezesem Najwyższej Izby Kontroli ślubowanie następującej treści"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "70",
+     "tekst": "Art. 70. 1. Przy mianowaniu kontroler składa przed Prezesem Najwyższej Izby Kontroli ślubowanie następującej treści:"
+    },
+    {
+     "art": "70",
+     "tekst": "Ślubowanie może być również złożone z dodaniem słów: „Tak mi dopomóż Bóg”. 1a. Złożenie ślubowania kontroler potwierdza podpisem."
+    }
+   ]
+  },
+  {
+   "eli": "DU/1996/350",
+   "tytul": "Ustawa z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora.",
+   "plik": "dane/ustawy/1996/1996-0350-o-wykonywaniu-mandatu-posla-i-senatora.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": true,
+   "wyciag": [
+    {
+     "art": "2",
+     "tekst": "Art. 2. 1. Przed przystąpieniem do wykonywania mandatu poseł składa na posiedzeniu Sejmu ślubowanie następującej treści:"
+    },
+    {
+     "art": "2",
+     "tekst": "2. Przed przystąpieniem do wykonywania mandatu senator składa na posiedzeniu Senatu ślubowanie następującej treści:"
+    },
+    {
+     "art": "2",
+     "tekst": "3. Odmowa złożenia ślubowania powoduje wygaśnięcie mandatu posła lub senatora."
+    },
+    {
+     "art": "2",
+     "tekst": "4. Uchylanie się od złożenia ślubowania w terminie trzech miesięcy od pierwszego posiedzenia Sejmu lub Senatu jest równoznaczne ze zrzeczeniem się mandatu posła lub senatora."
+    },
+    {
+     "art": "2",
+     "tekst": "5. Sposób złożenia ślubowania oraz tryb rozpatrywania spraw posłów i senatorów, którzy nie złożyli ślubowania w terminie trzech miesięcy od uzyskania mandatu, określają regulaminy Sejmu i Senatu."
+    },
+    {
+     "art": "25",
+     "tekst": "2) którzy nie złożyli ślubowania na pierwszym posiedzeniu Sejmu lub Senatu – określa Prezydium Sejmu i Prezydium Senatu."
+    },
+    {
+     "art": "34",
+     "tekst": "3. Jeżeli wybór lub powołanie, o którym mowa w ust. 2, miało miejsce przed rozpoczęciem wykonywania mandatu, poseł i senator jest obowiązany zrzec się stanowiska lub funkcji. W razie niezrzeczenia się stanowiska lub funkcji, poseł i senator traci je z mocy prawa po upływie trzech miesięcy od dnia złożenia ślubowania, o którym mowa w art. 2."
+    },
+    {
+     "art": "35",
+     "tekst": "1) do dnia złożenia ślubowania, wraz z informacją o sposobie i terminach zaprzestania prowadzenia działalności gospodarczej z wykorzystaniem majątku Skarbu Państwa lub samorządu terytorialnego w związku z wyborem na posła albo senatora oraz z informacją o posiadaniu majątku Skarbu Państwa lub samorządu terytorialnego;"
+    }
+   ]
+  },
+  {
+   "eli": "DU/1996/475",
+   "tytul": "Ustawa z dnia 5 lipca 1996 r. o doradztwie podatkowym.",
+   "plik": "dane/ustawy/1996/1996-0475-o-doradztwie-podatkowym.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "przewodniczącego Krajowej Rady Doradców Podatkowych lub osoby przez nie"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "8",
+     "tekst": "Art. 8. 1. Wpis na listę doradców podatkowych następuje po złożeniu ślubowania wobec przewodniczącego Krajowej Rady Doradców Podatkowych lub osoby przez niego upoważnionej spośród członków Krajowej Rady Doradców Podatkowych."
+    },
+    {
+     "art": "8",
+     "tekst": "2. Rota ślubowania ma następujące brzmienie: „Przyrzekam, że jako doradca podatkowy będę wykonywać ten zawód kierując się dobrem swoich klientów, z całą sumiennością i rzetelnością, zgodnie z prawem, wiedzą i zasadami etyki zawodowej. Poznane w związku z wykonywaniem zawodu fakty i informacje zachowam w tajemnicy wobec osób trzecich.”."
+    },
+    {
+     "art": "36",
+     "tekst": "1) postępować zgodnie z przepisami prawa, ze złożonym ślubowaniem i z zasadami etyki zawodowej;"
+    }
+   ]
+  },
+  {
+   "eli": "DU/1997/483",
+   "tytul": "Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.",
+   "plik": "dane/konstytucja.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Sejmem następujące ślubowanie"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": true,
+   "wyciag": [
+    {
+     "art": "104",
+     "tekst": "2. Przed rozpoczęciem sprawowania mandatu posłowie składają przed Sejmem następujące ślubowanie:"
+    },
+    {
+     "art": "104",
+     "tekst": "3. Odmowa złożenia ślubowania oznacza zrzeczenie się mandatu."
+    }
+   ]
+  },
+  {
+   "eli": "DU/1997/753",
+   "tytul": "Ustawa z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych.",
+   "plik": "dane/ustawy/1997/1997-0753-prawo-o-ustroju-sadow-wojskowych.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Prezydenta Rzeczypospolitej Polskiej",
+    "prezesa właściwego sądu wojskowego"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "21",
+     "tekst": "Art. 21. § 1. Sędzia sądu wojskowego jest obowiązany postępować zgodnie ze ślubowaniem sędziowskim oraz stale podnosić kwalifikacje zawodowe."
+    },
+    {
+     "art": "23",
+     "tekst": "Art. 23. § 1. Sędzią sądu wojskowego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej."
+    },
+    {
+     "art": "62",
+     "tekst": "Art. 62. Ławnicy składają ślubowanie według roty ustalonej dla sędziów wobec prezesa właściwego sądu wojskowego, który po odebraniu ślubowania dokonuje wpisu na listę ławników."
+    }
+   ]
+  },
+  {
+   "eli": "DU/1998/576",
+   "tytul": "Ustawa z dnia 5 czerwca 1998 r. o samorządzie województwa.",
+   "plik": "dane/ustawy/1998/1998-0576-o-samorzadzie-wojewodztwa.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "uzyskaniem mandatu pozostawał w stosunku pracy w urzędzie marszałkowski",
+    "zatrudnieniem na stanowisku sekretarza województwa"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "22",
+     "tekst": "Art. 22. 1. Radny przed objęciem mandatu składa ślubowanie:"
+    },
+    {
+     "art": "22",
+     "tekst": "3. Radny nieobecny na pierwszej sesji sejmiku województwa oraz radny, który uzyskał mandat w czasie trwania kadencji, składa ślubowanie na pierwszej sesji, na której jest obecny."
+    },
+    {
+     "art": "26",
+     "tekst": "Art. 26. 1. Radny, który przed uzyskaniem mandatu pozostawał w stosunku pracy w urzędzie marszałkowskim lub był zatrudniony na stanowisku kierownika wojewódzkiej samorządowej jednostki organizacyjnej w tym województwie, w którym uzyskał mandat, jest obowiązany złożyć wniosek o urlop bezpłatny w terminie 7 dni od dnia ogłoszenia wyników wyborów przez właściwy organ wyborczy, przed złożeniem ślubowania, o którym mowa w art. 22 ust. 1."
+    },
+    {
+     "art": "27b",
+     "tekst": "2. Jeżeli radny, przed rozpoczęciem wykonywania mandatu, prowadził działalność gospodarczą, o której mowa w ust. 1, jest obowiązany do zaprzestania prowadzenia tej działalności gospodarczej w ciągu 3 miesięcy od dnia złożenia ślubowania. Niewypełnienie obowiązku, o którym mowa w zdaniu pierwszym, stanowi podstawę do stwierdzenia wygaśnięcia mandatu radnego w trybie art. 383 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. z 2025 r. poz. 365 i 1792 oraz z 2026 r. poz. 178)."
+    },
+    {
+     "art": "27b",
+     "tekst": "4. Jeżeli wybór lub powołanie, o których mowa w ust. 3, nastąpiły przed rozpoczęciem wykonywania mandatu radnego albo dniem wyboru członka zarządu województwa lub przed zatrudnieniem na stanowisku sekretarza województwa, powołaniem na stanowisko skarbnika województwa, kierownika wojewódzkiej samorządowej jednostki organizacyjnej oraz osoby zarządzającej i członka organu zarządzającego wojewódzką osobą prawną, osoby, o których mowa w ust. 3, są obowiązane zrzec się stanowiska lub funkcji w terminie 3 miesięcy od dnia złożenia ślubowania przez radnego albo od dnia wyboru, zatrudnienia lub powołania na stanowisko. W razie niezrzeczenia się stanowiska lub funkcji osoba, o której mowa w ust. 3, traci je z mocy prawa po upływie terminu, o którym mowa w zdaniu pierwszym."
+    },
+    {
+     "art": "27c",
+     "tekst": "4. Radny składa pierwsze oświadczenie majątkowe w terminie 30 dni od dnia złożenia ślubowania. Do pierwszego oświadczenia majątkowego radny jest obowiązany dołączyć informację o sposobie i terminie zaprzestania prowadzenia działalności gospodarczej z wykorzystaniem mienia województwa, w którym uzyskał mandat, jeżeli taką działalność prowadził przed dniem wyboru. Kolejne oświadczenia majątkowe są składane przez radnego co roku do dnia 30 kwietnia, według stanu na dzień 31 grudnia roku poprzedniego, oraz na 2 miesiące przed upływem kadencji. 5. Członek zarządu województwa, skarbnik województwa, sekretarz województwa, kierownik wojewódzkiej samorządowej jednostki organizacyjnej, osoba zarządzająca i członek organu zarządzającego wojewódzką osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu marszałka województwa składają pierwsze oświadczenie majątkowe w terminie 30 dni od dnia wyboru lub powołania na stanowisko albo od dnia zatrudnienia na podstawie umowy o pracę. Do pierwszego oświadczenia majątkowego członek zarządu województwa, skarbnik województwa, sekretarz województwa, kierownik wojewódzkiej samorządowej jednostki organizacyjnej, osoba zarządzająca i członek organu zarządzającego wojewódzką osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu marszałka województwa są obowiązani dołączyć informację o sposobie i terminie zaprzestania prowadzenia działalności gospodarczej, jeżeli prowadzili ją przed dniem wyboru, powołania lub zatrudnienia. Kolejne oświadczenia majątkowe są składane przez nich co roku do dnia 30 kwietnia, według stanu na dzień 31 grudnia roku poprzedniego, oraz w dniu odwołania ze stanowiska lub rozwiązania umowy o pracę."
+    }
+   ]
+  },
+  {
+   "eli": "DU/1998/578",
+   "tytul": "Ustawa z dnia 5 czerwca 1998 r. o samorządzie powiatowym.",
+   "plik": "dane/ustawy/1998/1998-0578-o-samorzadzie-powiatowym.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "uzyskaniem mandatu wykonywał pracę w ramach stosunku pracy w starostwie",
+    "zatrudnieniem na stanowisku sekretarza powiatu"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "20",
+     "tekst": "Art. 20. 1. Radny przed objęciem mandatu składa ślubowanie:"
+    },
+    {
+     "art": "20",
+     "tekst": "3. Radny nieobecny na pierwszej sesji rady powiatu oraz radny, który uzyskał mandat w czasie trwania kadencji, składa ślubowanie na pierwszej sesji, na której jest obecny."
+    },
+    {
+     "art": "24",
+     "tekst": "Art. 24. 1. Radny, który przed uzyskaniem mandatu wykonywał pracę w ramach stosunku pracy w starostwie powiatowym lub pełnił funkcję kierownika jednostki organizacyjnej tego powiatu, w którym uzyskał mandat, obowiązany jest złożyć wniosek o urlop bezpłatny w terminie 7 dni od dnia ogłoszenia wyników wyborów przez właściwy organ wyborczy, przed złożeniem ślubowania, o którym mowa w art. 20 ust. 1."
+    },
+    {
+     "art": "25b",
+     "tekst": "2. Jeżeli radny przed rozpoczęciem wykonywania mandatu prowadził działalność gospodarczą, o której mowa w ust. 1, jest obowiązany do zaprzestania prowadzenia tej działalności gospodarczej w ciągu 3 miesięcy od dnia złożenia ślubowania. Niewypełnienie obowiązku, o którym mowa w zdaniu pierwszym, stanowi podstawę do stwierdzenia wygaśnięcia mandatu radnego w trybie art. 383 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy."
+    },
+    {
+     "art": "25b",
+     "tekst": "4. Jeżeli wybór lub powołanie, o których mowa w ust. 3, nastąpiły przed rozpoczęciem wykonywania mandatu radnego albo dniem wyboru członka zarządu powiatu lub przed zatrudnieniem na stanowisku sekretarza powiatu, powołaniem skarbnika powiatu, kierownika jednostki organizacyjnej powiatu oraz osoby zarządzającej i członka organu zarządzającego powiatową osobą prawną, osoby, o których mowa w ust. 3, są obowiązane zrzec się stanowiska lub funkcji w terminie 3 miesięcy od dnia złożenia ślubowania przez radnego albo od dnia wyboru, zatrudnienia na podstawie umowy o pracę lub powołania na stanowisko. W razie niezrzeczenia się stanowiska lub funkcji osoba, o której mowa w ust. 3, traci je z mocy prawa po upływie terminu, o którym mowa w zdaniu pierwszym."
+    },
+    {
+     "art": "25c",
+     "tekst": "4. Radny składa pierwsze oświadczenie majątkowe w terminie 30 dni od dnia złożenia ślubowania. Do pierwszego oświadczenia majątkowego radny jest obowiązany dołączyć informację o sposobie i terminie zaprzestania prowadzenia dzia-łalności gospodarczej z wykorzystaniem mienia powiatu, w którym uzyskał mandat, jeżeli taką działalność prowadził przed dniem wyboru. Kolejne oświadczenia majątkowe są składane przez radnego co roku do dnia 30 kwietnia, według stanu na dzień 31 grudnia roku poprzedniego, oraz na 2 miesiące przed upływem kadencji. 5. Członek zarządu powiatu, sekretarz powiatu, skarbnik powiatu, kierownik jednostki organizacyjnej powiatu, osoba zarządzająca i członek organu zarządzającego powiatową osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu starosty składają pierwsze oświadczenie majątkowe w terminie 30 dni od dnia wyboru lub powołania na stanowisko albo od dnia zatrudnienia. Do pierwszego oświadczenia majątkowego członek zarządu powiatu, sekretarz powiatu, skarbnik powiatu, kierownik jednostki organizacyjnej powiatu, osoba zarządzająca i członek organu zarządzającego powiatową osobą prawną oraz osoba wydająca decyzje administracyjne w imieniu starosty są obowiązani dołączyć informację o sposobie i terminie zaprzestania prowadzenia działalności gospodarczej, jeżeli prowadzili ją przed dniem wyboru, powołania lub zatrudnienia. Kolejne oświadczenia majątkowe są składane przez nich co roku do dnia 30 kwietnia, według stanu na dzień 31 grudnia roku poprzedniego, oraz w dniu odwołania ze stanowiska lub rozwiązania umowy o pracę."
+    }
+   ]
+  },
+  {
+   "eli": "DU/1998/1016",
+   "tytul": "Ustawa z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu.",
+   "plik": "dane/ustawy/1998/1998-1016-o-instytucie-pamieci-narodowej-komisji-scigania-zbrodni-przeciwko-narodowi-polsk.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Sejmem Rzeczypospolitej Polskiej następujące ślubowanie"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "10",
+     "tekst": "2. Kadencja Prezesa Instytutu Pamięci trwa 5 lat, licząc od dnia złożenia ślubowania. Po upływie kadencji pełni on obowiązki do czasu objęcia stanowiska przez nowego Prezesa Instytutu Pamięci."
+    },
+    {
+     "art": "12",
+     "tekst": "Art. 12. Przed przystąpieniem do wykonywania obowiązków Prezes Instytutu Pamięci składa przed Sejmem Rzeczypospolitej Polskiej następujące ślubowanie: „Ślubuję uroczyście na powierzonym mi stanowisku Prezesa Instytutu Pamięci Narodowej służyć wiernie Narodowi Polskiemu, stać na straży prawa, obowiązki mojego urzędu wypełniać sumiennie, a w postępowaniu kierować się zasadami godności i uczciwości.”."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2000/69",
+   "tytul": "Ustawa z dnia 6 stycznia 2000 r. o Rzeczniku Praw Dziecka.",
+   "plik": "dane/ustawy/2000/2000-0069-o-rzeczniku-praw-dziecka.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Sejmem",
+    "Sejmem następujące ślubowanie"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "4",
+     "tekst": "6. Dotychczasowy Rzecznik pełni swoje obowiązki do czasu złożenia ślubowania przez nowego Rzecznika, z zastrzeżeniem art. 8 ust. 1."
+    },
+    {
+     "art": "5",
+     "tekst": "Art. 5. Przed przystąpieniem do wykonywania obowiązków Rzecznik składa przed Sejmem następujące ślubowanie:"
+    },
+    {
+     "art": "6",
+     "tekst": "Art. 6. 1. Kadencja Rzecznika trwa 5 lat, licząc od dnia złożenia ślubowania przed Sejmem."
+    },
+    {
+     "art": "8",
+     "tekst": "3) sprzeniewierzył się złożonemu ślubowaniu;"
+    }
+   ]
+  },
+  {
+   "eli": "DU/2001/508",
+   "tytul": "Ustawa z dnia 30 czerwca 2000 r. Prawo własności przemysłowej.",
+   "plik": "dane/ustawy/2001/2001-0508-prawo-wlasnosci-przemyslowej.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Prezesa Urzędu Patentowego według następującej roty"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": true,
+   "wyciag": [
+    {
+     "art": "268",
+     "tekst": "4. Przy powołaniu ekspert składa ślubowanie wobec Prezesa Urzędu Patentowego według następującej roty: „Ślubuję uroczyście na powierzonym mi stanowisku eksperta sumiennie wykonywać zadania, orzekać bezstronnie i zgodnie z przepisami prawa, dochować tajemnicy prawnie chronionej, a w postępowaniu kierować się zasadami godności i uczciwości.”."
+    },
+    {
+     "art": "268",
+     "tekst": "5. Ekspert, który przechodzi na inne stanowisko eksperckie, nie składa ponownie ślubowania."
+    },
+    {
+     "art": "270",
+     "tekst": "Art. 270. 1. Ekspert jest obowiązany postępować zgodnie ze złożonym ślubowaniem, a w szczególności:"
+    },
+    {
+     "art": "274",
+     "tekst": "4) odmowy złożenia ślubowania;"
+    }
+   ]
+  },
+  {
+   "eli": "DU/2001/509",
+   "tytul": "Ustawa z dnia 11 kwietnia 2001 r. o rzecznikach patentowych.",
+   "plik": "dane/ustawy/2001/2001-0509-o-rzecznikach-patentowych.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "18",
+     "tekst": "Art. 18. 1. Prawo wykonywania zawodu rzecznika patentowego powstaje po złożeniu ślubowania, z dniem dokonania wpisu na listę rzeczników patentowych. 2. Urząd Patentowy prowadzi w systemie teleinformatycznym aktualną listę rzeczników patentowych, która zawiera:"
+    },
+    {
+     "art": "22",
+     "tekst": "Art. 22. 1. Rota ślubowania składanego przez rzecznika patentowego ma następujące brzmienie: „Ślubuję uroczyście wykonywać zawód rzecznika patentowego sumiennie i zgodnie z prawem Rzeczypospolitej Polskiej, zachowywać tajemnicę zawodową, postępować godnie i uczciwie, kierując się zasadami etyki rzecznika patentowego.”."
+    },
+    {
+     "art": "22",
+     "tekst": "2. Do roty ślubowania, o której mowa w ust. 1, rzecznik patentowy może dodać słowa „Tak mi dopomóż Bóg”."
+    },
+    {
+     "art": "41",
+     "tekst": "2. Rota ślubowania składanego przez aplikanta ma następujące brzmienie: „Ślubuję uroczyście wykonywać obowiązki aplikanta rzecznikowskiego sumiennie i zgodnie z prawem Rzeczypospolitej Polskiej, zachowywać tajemnicę zawodową, postępować godnie i uczciwie, kierując się zasadami etyki rzecznika patentowego.”. 3. Do roty ślubowania, o której mowa w ust. 2, aplikant może dodać słowa „Tak mi dopomóż Bóg”."
+    },
+    {
+     "art": "57",
+     "tekst": "Art. 57. 1. Rzecznik patentowy i aplikant podlegają odpowiedzialności dyscyplinarnej za zawinione, nienależyte wykonywanie zawodu rzecznika patentowego i innych obowiązków określonych w ustawie, w szczególności za czyny sprzeczne ze ślubowaniem lub z zasadami etyki rzecznika patentowego."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2001/1070",
+   "tytul": "Ustawa z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych.",
+   "plik": "dane/ustawy/2001/2001-1070-prawo-o-ustroju-sadow-powszechnych.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Prezydenta Rzeczypospolitej Polskiej",
+    "Prezydenta Rzeczypospolitej Polskiej według następującej roty",
+    "odbiera od nich ślubowanie",
+    "prezesa sądu okręgowego",
+    "prezesa tego sądu"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": true,
+   "wyciag": [
+    {
+     "art": "55",
+     "tekst": "Art. 55. § 1. Sędzią sądu powszechnego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej."
+    },
+    {
+     "art": "66",
+     "tekst": "Art. 66. § 1. Przy powołaniu sędzia składa ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej według następującej roty:"
+    },
+    {
+     "art": "66",
+     "tekst": "§ 2. Odmowa złożenia ślubowania jest równoznaczna ze zrzeczeniem się stanowiska sędziowskiego."
+    },
+    {
+     "art": "82",
+     "tekst": "Art. 82. § 1. Sędzia jest obowiązany postępować zgodnie ze ślubowaniem sędziowskim."
+    },
+    {
+     "art": "106i",
+     "tekst": "§ 3. Asesor sądowy składa ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej według następującej roty:"
+    },
+    {
+     "art": "150",
+     "tekst": "§ 4. Przed podjęciem po raz pierwszy pracy na stanowisku referendarza referendarz sądowy wobec prezesa sądu okręgowego, a referendarz zatrudniony w sądzie apelacyjnym – wobec prezesa tego sądu, składa ślubowanie według następującej roty:"
+    },
+    {
+     "art": "164",
+     "tekst": "§ 2. Prezes sądu wręcza ławnikom zawiadomienie o wyborze i odbiera od nich ślubowanie według roty ustalonej dla sędziów, z odpowiednią zmianą."
+    },
+    {
+     "art": "164",
+     "tekst": "§ 3. Po odebraniu ślubowania prezes sądu wpisuje ławnika na listę ławników, którzy mogą być wyznaczani do orzekania, i wydaje mu legitymację."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2001/1071",
+   "tytul": "Ustawa z dnia 27 lipca 2001 r. o kuratorach sądowych.",
+   "plik": "dane/ustawy/2001/2001-1071-o-kuratorach-sadowych.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "odebrania ślubowania",
+    "prezesa sądu okręgowego i kuratora okręgowego według następującej roty",
+    "prezesem sądu okręgowego",
+    "prezesem właściwego sądu rejonowego w obecności kierownika zespołu ślub"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "6",
+     "tekst": "Art. 6. 1. Przed przystąpieniem do wykonywania obowiązków kurator zawodowy składa przed prezesem sądu okręgowego, w obecności kuratora okręgowego, następujące ślubowanie:"
+    },
+    {
+     "art": "6",
+     "tekst": "2. Z odebrania ślubowania sporządza się protokół, który podpisują: składający ślubowanie, prezes sądu okręgowego oraz kurator okręgowy."
+    },
+    {
+     "art": "74",
+     "tekst": "Art. 74. Przed podjęciem obowiązków aplikant kuratorski składa ślubowanie wobec prezesa sądu okręgowego i kuratora okręgowego według następującej roty: „Ślubuję uroczyście sumiennie wypełniać obowiązki aplikanta kuratorskiego, w postępowaniu kierować się zasadami godności i uczciwości oraz dochować tajemnicy prawnie chronionej.”."
+    },
+    {
+     "art": "85",
+     "tekst": "Art. 85. 1. Przed przystąpieniem do pełnienia funkcji kurator społeczny składa przed prezesem właściwego sądu rejonowego w obecności kierownika zespołu ślubowanie, określone w art. 6 ust. 1."
+    },
+    {
+     "art": "85",
+     "tekst": "2. Z odebrania ślubowania sporządza się protokół, który podpisują: składający ślubowanie, prezes sądu rejonowego oraz kierownik zespołu."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2002/1269",
+   "tytul": "Ustawa z dnia 25 lipca 2002 r. Prawo o ustroju sądów administracyjnych.",
+   "plik": "dane/ustawy/2002/2002-1269-prawo-o-ustroju-sadow-administracyjnych.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Prezydenta Rzeczypospolitej Polskiej"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "5",
+     "tekst": "Art. 5. § 1. Sędzią sądu administracyjnego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2004/2702",
+   "tytul": "Ustawa z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego",
+   "plik": "dane/ustawy/2004/2004-2702-o-zawodzie-tlumacza-przysieglego.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Ministra Sprawiedliwości ślubowanie według następującej roty",
+    "uzyskaniem wpisu na listę tłumaczy przysięgłych są obowiązane złożyć wo"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "6",
+     "tekst": "Art. 6. 1. Osoba, która nabyła uprawnienia do wykonywania zawodu tłumacza przysięgłego, uzyskuje prawo do wykonywania tego zawodu po złożeniu ślubowania i wpisaniu na listę tłumaczy przysięgłych."
+    },
+    {
+     "art": "6",
+     "tekst": "2. Osoba, która złożyła ślubowanie, o którym mowa w ust. 1, podlega z urzędu wpisowi na listę tłumaczy przysięgłych prowadzoną przez Ministra Sprawiedliwości."
+    },
+    {
+     "art": "7",
+     "tekst": "Art. 7. 1. Tłumacz przysięgły składa wobec Ministra Sprawiedliwości ślubowanie według następującej roty:"
+    },
+    {
+     "art": "7",
+     "tekst": "2. Po złożeniu ślubowania tłumacz przysięgły składa podpis pod jego rotą."
+    },
+    {
+     "art": "33",
+     "tekst": "– stają się tłumaczami przysięgłymi w rozumieniu ustawy pod warunkiem wpisu, na swój wniosek, złożony w terminie 2 lat od dnia wejścia w życie ustawy, na listę tłumaczy przysięgłych, o której mowa w art. 6 ust. 2. Osoby, o których mowa w pkt 2, przed uzyskaniem wpisu na listę tłumaczy przysięgłych są obowiązane złożyć wobec Ministra Sprawiedliwości ślubowanie, zgodnie z art. 7."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2007/850",
+   "tytul": "Ustawa z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego",
+   "plik": "dane/ustawy/2007/2007-0850-o-licencji-doradcy-restrukturyzacyjnego.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Ministra Sprawiedliwości",
+    "prawem",
+    "przyjęcia ślubowania",
+    "wpisem na listę osób posiadających licencję doradcy restrukturyzacyjneg"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "15",
+     "tekst": "Art. 15. 1. Osoba, której przyznano licencję doradcy restrukturyzacyjnego, składa wobec Ministra Sprawiedliwości, przed wpisem na listę osób posiadających licencję doradcy restrukturyzacyjnego, o której mowa w art. 17 ust. 1, ślubowanie według następującej roty: „Mając świadomość znaczenia moich słów i odpowiedzialności przed prawem, ślubuję uroczyście, że powierzone mi obowiązki w postępowaniu upadłościowym lub restrukturyzacyjnym będę wypełniać sumiennie i bezstronnie, dochowując tajemnic prawnie chronionych oraz kierując się w swym postępowaniu zasadami godności, uczciwości i etyki.”. 1a. Do treści ślubowania, o której mowa w ust. 1, osoba, której przyznano licencję doradcy restrukturyzacyjnego, może dodać słowa „Tak mi dopomóż Bóg”. 2. Minister Sprawiedliwości może upoważnić do przyjęcia ślubowania prezesa sądu okręgowego właściwego dla miejsca zamieszkania osoby, o której mowa w ust. 1."
+    },
+    {
+     "art": "15",
+     "tekst": "3. Osoba, która złożyła ślubowanie, składa podpis pod rotą ślubowania."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2008/1458",
+   "tytul": "Ustawa z dnia 21 listopada 2008 r. o pracownikach samorządowych",
+   "plik": "dane/ustawy/2008/2008-1458-o-pracownikach-samorzadowych.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "zawarciem nowej umowy o pracę"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": true,
+   "wyciag": [
+    {
+     "art": "18",
+     "tekst": "Art. 18. 1. Przed przystąpieniem do wykonywania obowiązków służbowych, z zastrzeżeniem art. 19 ust. 9, pracownik samorządowy zatrudniony na stanowisku urzędniczym, w tym kierowniczym stanowisku urzędniczym, składa w obecności kierownika jednostki lub sekretarza ślubowanie o następującej treści: „Ślubuję uroczyście, że na zajmowanym stanowisku będę służyć państwu polskiemu i wspólnocie samorządowej, przestrzegać porządku prawnego i wykonywać sumiennie powierzone mi zadania”. Do treści ślubowania mogą być dodane słowa „Tak mi dopomóż Bóg”. Złożenie ślubowania pracownik potwierdza podpisem. 2. Odmowa złożenia ślubowania, o którym mowa w ust. 1, powoduje wygaśnięcie stosunku pracy."
+    },
+    {
+     "art": "19",
+     "tekst": "9. Po uzyskaniu pozytywnego wyniku egzaminu, o którym mowa w ust. 6, przed zawarciem nowej umowy o pracę, pracownik składa ślubowanie."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2008/1505",
+   "tytul": "Ustawa z dnia 21 listopada 2008 r. o służbie cywilnej",
+   "plik": "dane/ustawy/2008/2008-1505-o-sluzbie-cywilnej.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Prezesem Rady Ministrów następujące ślubowanie"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": true,
+   "wyciag": [
+    {
+     "art": "10",
+     "tekst": "2. Szef Służby Cywilnej podlega bezpośrednio Prezesowi Rady Ministrów. 3. Szefa Służby Cywilnej powołuje i odwołuje Prezes Rady Ministrów. 4. Przed przystąpieniem do wykonywania obowiązków Szef Służby Cywilnej składa przed Prezesem Rady Ministrów następujące ślubowanie:"
+    },
+    {
+     "art": "50",
+     "tekst": "Art. 50. 1. Urzędnik służby cywilnej składa uroczyste ślubowanie o następującej treści:"
+    },
+    {
+     "art": "50",
+     "tekst": "2. Do treści ślubowania, o którym mowa w ust. 1, urzędnik służby cywilnej może dodać słowa „Tak mi dopomóż Bóg”."
+    },
+    {
+     "art": "50",
+     "tekst": "3. Złożenie ślubowania urzędnik służby cywilnej potwierdza podpisem."
+    },
+    {
+     "art": "70",
+     "tekst": "1) odmowy złożenia ślubowania; ogłoszeń o naborze kandydatów do [2) utraty obywatelstwa państwa należącego do Unii Europejskiej lub innego korpusu służby cywilnej oraz o państwa, którego obywatelom na podstawie umów międzynarodowych lub wyniku naboru, składanie przepisów prawa wspólnotowego przysługuje prawo do podjęcia zatrudnienia wymaganych na terytorium Rzeczypospolitej Polskiej;] dokumentów – po zastosowaniu <2) utraty obywatelstwa Unii Europejskiej lub obywatelstwa państwa, zapewnionych w systemie którego obywatelom na podstawie umów międzynarodowych lub teleinformatycznym sposobów przepisów prawa Unii Europejskiej przysługuje prawo podjęcia potwierdzenia pochodzenia, zatrudnienia na terytorium Rzeczypospolitej Polskiej, lub utraty dokumentowanie ważności albo unieważnienia Karty Polaka, jeżeli urzędnikowi służby przebiegu naboru, w tym oceny kandydatów, a także założenie profilu użytkownika systemu teleinformatycznego (Dz. U. z 2023 r. poz."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2009/157",
+   "tytul": "Ustawa z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury",
+   "plik": "dane/ustawy/2009/2009-0157-o-krajowej-szkole-sadownictwa-i-prokuratury.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Dyrektora Krajowej Szkoły według następującej roty"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "26",
+     "tekst": "Art. 26. Przed objęciem obowiązków aplikanci aplikacji sędziowskiej i aplikacji prokuratorskiej składają ślubowanie wobec Dyrektora Krajowej Szkoły według następującej roty: „Ślubuję uroczyście sumiennie wypełniać obowiązki aplikanta Krajowej Szkoły Sądownictwa i Prokuratury, w postępowaniu kierować się zasadami godności i uczciwości, dbać o dobre imię Krajowej Szkoły Sądownictwa i Prokuratury oraz dochować tajemnicy prawnie chronionej”; składający ślubowanie może dodać zwrot: „Tak mi dopomóż Bóg”."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2011/112",
+   "tytul": "Ustawa z dnia 5 stycznia 2011 r. - Kodeks wyborczy",
+   "plik": "dane/ustawy/2011/2011-0112-kodeks-wyborczy.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": true,
+   "wyciag": [
+    {
+     "art": "247",
+     "tekst": "§ 2. Odmowa złożenia ślubowania poselskiego oznacza zrzeczenie się mandatu."
+    },
+    {
+     "art": "279",
+     "tekst": "§ 2. Odmowa złożenia ślubowania senatorskiego oznacza zrzeczenie się mandatu."
+    },
+    {
+     "art": "383",
+     "tekst": "3) odmowy złożenia ślubowania;"
+    },
+    {
+     "art": "383",
+     "tekst": "§ 5. Jeżeli radny przed dniem wyboru wykonywał funkcję lub prowadził działalność, o której mowa w § 1 pkt 5, obowiązany jest do zrzeczenia się funkcji lub zaprzestania prowadzenia działalności w ciągu 3 miesięcy od dnia złożenia ślubowania."
+    },
+    {
+     "art": "492",
+     "tekst": "1) odmowy złożenia ślubowania;"
+    },
+    {
+     "art": "492",
+     "tekst": "§ 4. Jeżeli wójt przed dniem wyboru wykonywał funkcję lub prowadził działalność gospodarczą, o których mowa w § 1 pkt 5, obowiązany jest do zrzeczenia się funkcji lub zaprzestania prowadzenia działalności gospodarczej w terminie 3 miesięcy od dnia złożenia ślubowania."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2011/622",
+   "tytul": "Ustawa z dnia 25 marca 2011 r. o ograniczaniu barier administracyjnych dla obywateli i przedsiębiorców",
+   "plik": "dane/ustawy/2011/2011-0622-o-ograniczaniu-barier-administracyjnych-dla-obywateli-i-przedsiebiorcow.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": []
+  },
+  {
+   "eli": "DU/2016/177",
+   "tytul": "Ustawa z dnia 28 stycznia 2016 r. Prawo o prokuraturze",
+   "plik": "dane/ustawy/2016/2016-0177-prawo-o-prokuraturze.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Prokuratora Generalnego według następującej roty"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "92",
+     "tekst": "Art. 92. § 1. Przy powołaniu prokurator składa ślubowanie wobec Prokuratora Generalnego według następującej roty:"
+    },
+    {
+     "art": "92",
+     "tekst": "§ 2. Prokurator powołany na kolejne stanowisko prokuratorskie ślubowania nie składa."
+    },
+    {
+     "art": "96",
+     "tekst": "Art. 96. § 1. Prokurator jest obowiązany postępować zgodnie ze ślubowaniem prokuratorskim."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2016/2072",
+   "tytul": "Ustawa z dnia 30 listopada 2016 r. o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym",
+   "plik": "dane/ustawy/2016/2016-2072-o-organizacji-i-trybie-postepowania-przed-trybunalem-konstytucyjnym.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Prezydenta Rzeczypospolitej Polskiej"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "6",
+     "tekst": "Art. 6. 1. Zgromadzenie Ogólne tworzą urzędujący sędziowie Trybunału, którzy złożyli ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej."
+    },
+    {
+     "art": "11",
+     "tekst": "5. W posiedzeniu Zgromadzenia Ogólnego w sprawie przedstawienia kandydatów na stanowisko Prezesa Trybunału uczestniczą sędziowie Trybunału, którzy do dnia posiedzenia złożyli ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2016/2073",
+   "tytul": "Ustawa z dnia 30 listopada 2016 r. o statusie sędziów Trybunału Konstytucyjnego",
+   "plik": "dane/ustawy/2016/2016-2073-o-statusie-sedziow-trybunalu-konstytucyjnego.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Prezydenta Rzeczypospolitej Polskiej ślubowanie następującej"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": true,
+   "wyciag": [
+    {
+     "art": "4",
+     "tekst": "Prezydenta Rzeczypospolitej Polskiej ślubowanie następującej treści: „Ślubuję"
+    },
+    {
+     "art": "4",
+     "tekst": "2. Odmowa złożenia ślubowania jest równoznaczna ze zrzeczeniem się"
+    },
+    {
+     "art": "5",
+     "tekst": "ślubowania. Sędzia po złożeniu ślubowania stawia się niezwłocznie w Trybunale"
+    },
+    {
+     "art": null,
+     "tekst": "Art. 4. 1. Osoba wybrana na stanowisko sędziego Trybunału składa wobec Prezydenta Rzeczypospolitej Polskiej ślubowanie następującej treści: „Ślubuję"
+    }
+   ]
+  },
+  {
+   "eli": "DU/2016/2074",
+   "tytul": "Ustawa z dnia 13 grudnia 2016 r. - Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym oraz ustawę o statusie sędziów Trybunału Konstytucyjnego",
+   "plik": "dane/ustawy/2016/2016-2074-przepisy-wprowadzajace-ustawe-o-organizacji-i-trybie-postepowania-przed-trybunal.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Prezydenta Rzeczypospolitej Polskiej",
+    "Prezydenta Rzeczypospolitej Polskiej i stwarza im warunki umożliwiające"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "18",
+     "tekst": "2) przydziela sprawy sędziom Trybunału, którzy złożyli ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej i stwarza im warunki umożliwiające wypełnianie obowiązków sędziego Trybunału;"
+    },
+    {
+     "art": "21",
+     "tekst": "Art. 21. 1. Sędzia pełniący obowiązki Prezesa Trybunału zwołuje posiedzenie Zgromadzenia Ogólnego w sprawie przedstawienia Prezydentowi Rzeczypospolitej Polskiej kandydatów na stanowisko Prezesa Trybunału niezwłocznie i zawiadamia sędziów Trybunału o terminie tego posiedzenia. 2. W posiedzeniu, o którym mowa w ust. 1, uczestniczą sędziowie Trybunału, którzy złożyli ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej. Sędzia pełniący obowiązki Prezesa Trybunału ustala porządek obrad oraz im przewodniczy."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2016/2261",
+   "tytul": "Ustawa z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej",
+   "plik": "dane/ustawy/2016/2016-2261-o-prokuratorii-generalnej-rzeczypospolitej-polskiej.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Prezesa Prokuratorii Generalnej ślubowanie",
+    "Prezesa Rady Ministrów ślubowanie",
+    "Prezesa Rady Ministrów ślubowanie według następującej roty",
+    "nawiązaniem stosunku pracy radca składa wobec Prezesa Prokuratorii Gene",
+    "nawiązaniem stosunku pracy referendarz składa wobec Prezesa Prokuratori"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "41",
+     "tekst": "Art. 41. 1. Prezesa Prokuratorii Generalnej powołuje Prezes Rady Ministrów, spośród osób wyłonionych w drodze otwartego i konkurencyjnego naboru. Prezes Rady Ministrów odwołuje Prezesa Prokuratorii Generalnej oraz podejmuje inne czynności z zakresu prawa pracy w stosunku do Prezesa Prokuratorii Generalnej. 2. Prezes Prokuratorii Generalnej oraz wiceprezesi Prokuratorii Generalnej, obejmując stanowisko, składają wobec Prezesa Rady Ministrów ślubowanie według następującej roty: „Ślubuję uroczyście służyć wiernie Rzeczypospolitej Polskiej, stać na straży Jej praw i interesów, obowiązki swoje wypełniać sumiennie, zachować w tajemnicy informacje mi powierzone, a w postępowaniu kierować się zasadami godności i uczciwości.”. Składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg.”."
+    },
+    {
+     "art": "56",
+     "tekst": "Art. 56. Przed nawiązaniem stosunku pracy radca składa wobec Prezesa Prokuratorii Generalnej ślubowanie według następującej roty: „Ślubuję uroczyście służyć wiernie Rzeczypospolitej Polskiej, stać na straży Jej praw i interesów, obo-wiązki swoje wypełniać sumiennie, zachować w tajemnicy informacje mi powierzone, a w postępowaniu kierować się zasadami godności i uczciwości.”. Składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg.”."
+    },
+    {
+     "art": "57",
+     "tekst": "Art. 57. Radca wypełnia obowiązki wynikające ze ślubowania, w szczególności przez:"
+    },
+    {
+     "art": "66",
+     "tekst": "9) zdolności kierownicze, w przypadku radców pełniących funkcje kierownicze – biorąc pod uwagę obiektywność i porównywalność ocen, mając na uwadze cel oceny kwalifikacyjnej, jakim jest sprawdzenie czy radca wykonuje obowiązki służbowe zgodnie z zasadami wynikającymi z treści ślubowania, o którym mowa w art. 56."
+    },
+    {
+     "art": "79",
+     "tekst": "Art. 79. Przed nawiązaniem stosunku pracy referendarz składa wobec Prezesa Prokuratorii Generalnej ślubowanie według następującej roty: „Ślubuję uroczyście służyć wiernie Rzeczypospolitej Polskiej, stać na straży Jej praw i interesów, obowiązki swoje wypełniać sumiennie, zachować w tajemnicy informacje mi powierzone, a w postępowaniu kierować się zasadami godności i uczciwości.”. Składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg.”."
+    },
+    {
+     "art": "127",
+     "tekst": "Art. 127. 1. W terminie 30 dni od dnia wejścia w życie ustawy Prezes Prokuratorii Generalnej oraz wiceprezesi Prokuratorii Generalnej, złożą wobec Prezesa Rady Ministrów ślubowanie, o którym mowa w art. 41 ust. 2."
+    },
+    {
+     "art": "127",
+     "tekst": "2. W terminie 30 dni od dnia wejścia w życie ustawy radcowie Prokuratorii Generalnej złożą wobec Prezesa Prokuratorii Generalnej ślubowanie, o którym mowa w art. 56."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2017/1089",
+   "tytul": "Ustawa z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym",
+   "plik": "dane/ustawy/2017/2017-1089-o-bieglych-rewidentach-firmach-audytorskich-oraz-nadzorze-publicznym.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "4",
+     "tekst": "8) złożyła ślubowanie."
+    },
+    {
+     "art": "7",
+     "tekst": "Art. 7. 1. Rota ślubowania składanego przez biegłego rewidenta ma następujące brzmienie:"
+    },
+    {
+     "art": "8",
+     "tekst": "1) postępować zgodnie ze złożonym ślubowaniem;"
+    }
+   ]
+  },
+  {
+   "eli": "DU/2018/5",
+   "tytul": "Ustawa z dnia 8 grudnia 2017 r. o Sądzie Najwyższym",
+   "plik": "dane/ustawy/2018/2018-0005-o-sadzie-najwyzszym.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Prezydenta Rzeczypospolitej Polskiej",
+    "Prezydenta Rzeczypospolitej Polskiej według następującej roty",
+    "odbiera od nich ślubowanie"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": true,
+   "wyciag": [
+    {
+     "art": "29",
+     "tekst": "Art. 29. § 1. Sędzią Sądu Najwyższego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej."
+    },
+    {
+     "art": "34",
+     "tekst": "Art. 34. § 1. Przy powołaniu sędzia Sądu Najwyższego składa ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej według następującej roty:"
+    },
+    {
+     "art": "34",
+     "tekst": "§ 2. Składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg”."
+    },
+    {
+     "art": "34",
+     "tekst": "§ 3. Odmowa złożenia ślubowania jest równoznaczna ze zrzeczeniem się pełnienia urzędu na stanowisku sędziego Sądu Najwyższego."
+    },
+    {
+     "art": "41",
+     "tekst": "Art. 41. § 1. Sędzia jest obowiązany postępować zgodnie ze ślubowaniem sędziowskim."
+    },
+    {
+     "art": "63",
+     "tekst": "§ 2. Pierwszy Prezes Sądu Najwyższego wręcza ławnikom Sądu Najwyższego zawiadomienie o wyborze i odbiera od nich ślubowanie według roty w brzmieniu: „Ślubuję uroczyście jako ławnik Sądu Najwyższego służyć wiernie Rzeczypospolitej Polskiej, stać na straży prawa i praworządności, obowiązki ławnika wypełniać sumiennie, orzekać zgodnie z przepisami prawa i zasadami słuszności, bezstronnie według mego sumienia, dochować tajemnicy prawnie chronionej, a w postępowaniu kierować się zasadami godności i uczciwości”."
+    },
+    {
+     "art": "63",
+     "tekst": "§ 3. Składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg”."
+    },
+    {
+     "art": "63",
+     "tekst": "§ 4. Odmowa złożenia ślubowania jest równoznaczna ze zrzeczeniem się funkcji ławnika Sądu Najwyższego."
+    },
+    {
+     "art": "63",
+     "tekst": "§ 5. Po odebraniu ślubowania Pierwszy Prezes Sądu Najwyższego wpisuje ławnika Sądu Najwyższego na listę ławników Sądu Najwyższego, którzy mogą być wyznaczani do orzekania, i wydaje mu legitymację."
+    },
+    {
+     "art": "126",
+     "tekst": "§ 4. Pierwsza kadencja ławników Sądu Najwyższego rozpoczyna się w dniu złożenia ślubowania przez ławników Sądu Najwyższego i kończy się z dniem 31 grudnia 2022 r."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2018/771",
+   "tytul": "Ustawa z dnia 22 marca 2018 r. o komornikach sądowych",
+   "plik": "dane/ustawy/2018/2018-0771-o-komornikach-sadowych.md",
+   "brzmienie": "jednolite",
+   "przyjmujacy_skrypt": [
+    "odbiera od aplikanta ślubowanie",
+    "odbiera od asesora ślubowanie",
+    "odbiera od komornika ślubowanie",
+    "prezesa właściwego sądu rejonowego"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "10",
+     "tekst": "7. W stosunku do komornika, który rozpoczął działalność, zaległość i skuteczność, o których mowa w ust. 4, oblicza się po upływie roku następującego po roku, w którym złożył ślubowanie. W pierwszych dwóch latach kalendarzowych działalności komornik nie może przyjąć więcej niż 2500 spraw z wyboru wierzyciela w każdym roku."
+    },
+    {
+     "art": "17",
+     "tekst": "2. W terminie 14 dni od dnia otrzymania zawiadomienia, prezes właściwego sądu apelacyjnego odbiera od komornika ślubowanie według następującej roty:"
+    },
+    {
+     "art": "17",
+     "tekst": "3. Składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg.”."
+    },
+    {
+     "art": "17",
+     "tekst": "4. Prezes właściwego sądu apelacyjnego zawiadamia Ministra Sprawiedliwości, prezesa właściwego sądu okręgowego, prezesa właściwego sądu rejonowego oraz radę właściwej izby komorniczej o odebraniu od komornika ślubowania."
+    },
+    {
+     "art": "17",
+     "tekst": "5. Jeżeli komornik odmówi złożenia ślubowania lub z własnej winy nie złoży go we wskazanym terminie, powołanie na stanowisko komornika traci moc. Okoliczność tę stwierdza Minister Sprawiedliwości."
+    },
+    {
+     "art": "17",
+     "tekst": "6. Z dniem złożenia ślubowania komornik uzyskuje prawo wykonywania czynności, o których mowa w art. 3. Z tym dniem nawiązuje się stosunek podległości służbowej komornika wobec prezesa właściwego sądu rejonowego."
+    },
+    {
+     "art": "25",
+     "tekst": "Art. 25. 1. Komornik jest obowiązany postępować zgodnie z przepisami prawa, orzeczeniami sądu wydanymi w trybie nadzoru judykacyjnego, zarządzeniami lub zaleceniami uprawnionych organów nadzoru administracyjnego, złożonym ślubowaniem i zasadami etyki zawodowej oraz podnosić kwalifikacje zawodowe."
+    },
+    {
+     "art": "92",
+     "tekst": "Art. 92. 1. Niezwłocznie po dokonaniu wpisu na listę aplikantów komorniczych rada izby komorniczej wyznacza aplikantowi termin ślubowania. Przewodniczący rady właściwej izby komorniczej odbiera od aplikanta ślubowanie według następującej roty:"
+    },
+    {
+     "art": "92",
+     "tekst": "2. Składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg.”."
+    },
+    {
+     "art": "136",
+     "tekst": "Art. 136. 1. Prezes właściwego sądu rejonowego, w terminie 14 dni od dnia otrzymania zawiadomienia o zawarciu przez asesora umowy o pracę, odbiera od asesora ślubowanie według następującej roty:"
+    },
+    {
+     "art": "136",
+     "tekst": "2. Składający ślubowanie może dodać na końcu zwrot: „Tak mi dopomóż Bóg.”."
+    },
+    {
+     "art": "136",
+     "tekst": "3. Prezes właściwego sądu rejonowego zawiadamia prezesa właściwego sądu apelacyjnego o odebraniu od asesora ślubowania."
+    },
+    {
+     "art": "136",
+     "tekst": "4. Z dniem złożenia ślubowania asesor uzyskuje prawo wykonywania czynności, o których mowa w art. 138."
+    },
+    {
+     "art": "137",
+     "tekst": "Art. 137. Jeżeli asesor odmówi złożenia ślubowania lub z własnej winy nie złoży go we wskazanym terminie, powołanie traci moc. Okoliczność tę stwierdza prezes właściwego sądu apelacyjnego."
+    },
+    {
+     "art": "205",
+     "tekst": "3. Członkostwo w izbie komorniczej powstaje z dniem złożenia przez komornika ślubowania i ustaje z dniem odwołania komornika z zajmowanego stanowiska albo wygaśnięcia powołania na stanowisko komornika z mocy prawa. Z dniem odwołania komornika z zajmowanego stanowiska albo wygaśnięcia powołania na stanowisko komornika z mocy prawa komornik przestaje pełnić wszelkie funkcje w organach samorządu komorniczego."
+    },
+    {
+     "art": "217",
+     "tekst": "7) datę złożenia ślubowania;"
+    },
+    {
+     "art": "219",
+     "tekst": "5) datę złożenia ślubowania;"
+    },
+    {
+     "art": "220",
+     "tekst": "3) datę złożenia ślubowania;"
+    }
+   ]
+  },
+  {
+   "eli": "DU/2018/1000",
+   "tytul": "Ustawa z dnia 10 maja 2018 r. o ochronie danych osobowych",
+   "plik": "dane/ustawy/2018/2018-1000-o-ochronie-danych-osobowych.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Sejmem Rzeczypospolitej Polskiej ślubowanie o następującej treści"
+   ],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "34",
+     "tekst": "6. Kadencja Prezesa Urzędu trwa 4 lata, licząc od dnia złożenia ślubowania. Prezes Urzędu po upływie kadencji wykonuje swoje obowiązki do czasu objęcia stanowiska przez nowego Prezesa Urzędu."
+    },
+    {
+     "art": "34",
+     "tekst": "3) sprzeniewierzył się ślubowaniu;"
+    },
+    {
+     "art": "35",
+     "tekst": "Art. 35. 1. Przed przystąpieniem do wykonywania obowiązków Prezes Urzędu składa przed Sejmem Rzeczypospolitej Polskiej ślubowanie o następującej treści:"
+    }
+   ]
+  },
+  {
+   "eli": "DU/2018/1668",
+   "tytul": "Ustawa z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce",
+   "plik": "dane/ustawy/2018/2018-1668-prawo-o-szkolnictwie-wyzszym-i-nauce.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "83",
+     "tekst": "Art. 83. Osoba przyjęta na studia rozpoczyna studia i nabywa prawa studenta z chwilą złożenia ślubowania."
+    },
+    {
+     "art": "107",
+     "tekst": "Art. 107. 1. Student jest obowiązany postępować zgodnie z treścią ślubowania i przepisami obowiązującymi w uczelni."
+    },
+    {
+     "art": "200",
+     "tekst": "7. Jednocześnie można być doktorantem tylko w jednej szkole doktorskiej. 8. Osoba przyjęta do szkoły doktorskiej rozpoczyna kształcenie i nabywa prawa doktoranta z chwilą złożenia ślubowania."
+    },
+    {
+     "art": "343a",
+     "tekst": "b) datę złożenia ślubowania,"
+    }
+   ]
+  },
+  {
+   "eli": "DU/2019/1820",
+   "tytul": "Ustawa z dnia 30 sierpnia 2019 r. o Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15",
+   "plik": "dane/ustawy/2019/2019-1820-o-panstwowej-komisji-do-spraw-przeciwdzialania-wykorzystaniu-seksualnemu-malolet.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "Sejmem Rzeczypospolitej Polskiej następujące ślubowanie"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "8",
+     "tekst": "4. Przed przystąpieniem do wykonywania obowiązków członkowie Komisji składają przed Sejmem Rzeczypospolitej Polskiej następujące ślubowanie:"
+    }
+   ]
+  },
+  {
+   "eli": "DU/2019/2019",
+   "tytul": "Ustawa z dnia 11 września 2019 r. - Prawo zamówień publicznych",
+   "plik": "dane/ustawy/2019/2019-2019-prawo-zamowien-publicznych.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "ministrem właściwym do spraw gospodarki ślubowanie według następującej"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": true,
+   "wyciag": [
+    {
+     "art": "474",
+     "tekst": "3. Przed podjęciem obowiązków członek Izby jest obowiązany złożyć przed ministrem właściwym do spraw gospodarki ślubowanie według następującej roty: „Ślubuję uroczyście wypełniać obowiązki członka Izby, orzekać bezstronnie, zgodnie z przepisami prawa, a w postępowaniu kierować się zasadami godności i uczciwości”. Składający ślubowanie może na końcu dodać: „Tak mi dopomóż Bóg”. Złożenie ślubowania członek Izby potwierdza podpisem pod jego treścią."
+    },
+    {
+     "art": "478",
+     "tekst": "10) odmowy złożenia ślubowania;"
+    }
+   ]
+  },
+  {
+   "eli": "DU/2021/97",
+   "tytul": "Ustawa z dnia 10 grudnia 2020 r. o zawodzie farmaceuty",
+   "plik": "dane/ustawy/2021/2021-0097-o-zawodzie-farmaceuty.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [],
+   "sygnal_zaleznosc": true,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "16",
+     "tekst": "Art. 16. 1. Farmaceuta, w stosunku do którego podjęta została uchwała przez NRA albo okręgową radę aptekarską o przyznaniu prawa wykonywania zawodu farmaceuty, składa ślubowanie w języku polskim."
+    },
+    {
+     "art": "16",
+     "tekst": "2. Okręgowa rada aptekarska właściwa ze względu na zamierzone miejsce wykonywania zawodu farmaceuty, a w przypadku obywatela państwa członkowskiego – NRA, informuje farmaceutę o terminie ślubowania. Ślubowanie odbywa się bez zbędnej zwłoki."
+    },
+    {
+     "art": "16",
+     "tekst": "3. Ślubowanie składane przez farmaceutę w brzmieniu: „Ślubuję uroczyście w swej pracy farmaceuty sumiennie, gorliwie i z należytą starannością wykonywać swoje obowiązki, mając zawsze na uwadze dobro pacjenta, wymogi etyki zawodowej i obowiązujące prawo, a także zachować tajemnicę zawodową, zaś w postępowaniu swoim kierować się zasadami godności, uczciwości i słuszności.” odbiera prezes właściwej okręgowej rady aptekarskiej albo Prezes NRA. W przypadku nieobecności prezesa właściwej okręgowej rady aptekarskiej albo Prezesa NRA ślubowanie odbiera wskazany wiceprezes okręgowej rady aptekarskiej albo wiceprezes NRA."
+    },
+    {
+     "art": "17",
+     "tekst": "Art. 17. 1. Okręgowa rada aptekarska, a w przypadku obywatela państwa członkowskiego innego niż obywatel polski – NRA, niezwłocznie po złożeniu ślubowania, o którym mowa w art. 16, wydaje farmaceucie dokument „Prawo wykonywania zawodu farmaceuty”."
+    },
+    {
+     "art": "25",
+     "tekst": "Art. 25. Zawód farmaceuty może wykonywać osoba posiadająca prawo wykonywania zawodu farmaceuty, która złożyła ślubowanie i jest wpisana do rejestru farmaceutów, o którym mowa w art. 8 ust. 1 ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich."
+    }
+   ]
+  },
+  {
+   "eli": "DU/2021/464",
+   "tytul": "Ustawa z dnia 21 stycznia 2021 r. o służbie zagranicznej",
+   "plik": "dane/ustawy/2021/2021-0464-o-sluzbie-zagranicznej.md",
+   "brzmienie": "ujednolicone",
+   "przyjmujacy_skrypt": [
+    "ministrem właściwym do spraw zagranicznych następujące ślubowanie"
+   ],
+   "sygnal_zaleznosc": false,
+   "sygnal_odmowa_osoby": false,
+   "wyciag": [
+    {
+     "art": "11",
+     "tekst": "2. Przed przystąpieniem do wykonywania obowiązków Szef Służby Zagranicznej składa przed ministrem właściwym do spraw zagranicznych następujące ślubowanie: „Obejmując stanowisko Szefa Służby Zagranicznej, uroczyście ślubuję dochować wierności postanowieniom Konstytucji Rzeczypospolitej Polskiej, w szczególności strzec zawodowego, rzetelnego, bezstronnego i politycznie neutralnego wykonywania zadań państwa w urzędzie obsługującym ministra właściwego do spraw zagranicznych oraz w placówkach zagranicznych przez służbę zagraniczną, a powierzone mi obowiązki wypełniać sumiennie i bezstronnie.”. Ślubowanie może być złożone z dodaniem słów „Tak mi dopomóż Bóg”."
+    },
+    {
+     "art": "33",
+     "tekst": "Art. 33. 1. Dyplomata zawodowy, przy otrzymaniu po raz pierwszy stopnia dyplomatycznego, składa ślubowanie następującej treści: „Przyrzekam i zobowiązuję się wiernie służyć Rzeczypospolitej Polskiej, godnie ją reprezentować, dbać o jej interesy i dobre imię, rzetelnie i sumiennie wykonywać powierzone mi obowiązki.” Ślubowanie może być złożone z dodaniem słów „Tak mi dopomóż Bóg”."
+    },
+    {
+     "art": "33",
+     "tekst": "2. Minister właściwy do spraw zagranicznych określi, w drodze zarządzenia, tryb, formę i ceremoniał nadania stopnia dyplomatycznego oraz składania ślubowania, uwzględniając historyczne tradycje i zwyczaje dyplomatyczne."
+    }
+   ]
+  }
+ ]
+}

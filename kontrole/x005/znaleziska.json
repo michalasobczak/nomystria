@@ -1,0 +1,288 @@
+{
+ "id": "x005",
+ "spec": "S012",
+ "tytul": "Reguła R3: ślubowanie bez ścieżki po stronie przyjmującego",
+ "data": "2026-11-05",
+ "znaleziska": [
+  {
+   "id": "x005-001",
+   "eli": "DU/2016/2072",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 6"
+   ],
+   "cytaty": [
+    "Zgromadzenie Ogólne tworzą urzędujący sędziowie Trybunału, którzy złożyli ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej."
+   ],
+   "opis": "Od ślubowania wobec: Prezydent Rzeczypospolitej Polskiej zależy: Skład Zgromadzenia Ogólnego TK i udział w posiedzeniu w sprawie kandydatów na Prezesa TK zależą od ślubowania sędziego wobec Prezydenta. Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Sędzia niezłożający ślubowania wobec Prezydenta nie wchodzi w skład Zgromadzenia Ogólnego ani nie uczestniczy w wyborze kandydatów na Prezesa TK (art. 6 ust. 1, art. 11 ust. 5); ustawa milczy o odmowie lub zwłoce Prezydenta. Przyjmujący ślubowanie jest innym organem niż organ wybierający, a ustawa nie daje trybu na odmowę lub zwłokę przyjęcia. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "wysoka",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-002",
+   "eli": "DU/2016/2073",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 5"
+   ],
+   "cytaty": [
+    "Stosunek służbowy sędziego Trybunału nawiązuje się po złożeniu"
+   ],
+   "opis": "Od ślubowania wobec: Prezydent Rzeczypospolitej Polskiej zależy: nawiązanie stosunku służbowego sędziego Trybunału Konstytucyjnego oraz podjęcie obowiązków. Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Stosunek służbowy powstaje dopiero po ślubowaniu wobec Prezydenta (art. 4 ust. 1, art. 5), a ustawa reguluje tylko odmowę sędziego, nie odmowę ani zwłokę Prezydenta. Brak terminu, trybu zastępczego i fikcji złożenia; art. 131 Konstytucji nie obejmuje odmowy. Przyjmujący ślubowanie jest innym organem niż organ wybierający, a ustawa nie daje trybu na odmowę lub zwłokę przyjęcia. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "wysoka",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-003",
+   "eli": "DU/2016/2074",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 18"
+   ],
+   "cytaty": [
+    "przydziela sprawy sędziom Trybunału, którzy złożyli ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej i stwarza im warunki umożliwiające wypełnianie obowiązków sędziego Trybunału;"
+   ],
+   "opis": "Od ślubowania wobec: Prezydent Rzeczypospolitej Polskiej (ślubowanie sędziów TK; sama rota i tryb w ustawie o statusie sędziów TK, tu tylko skutki) zależy: przydział spraw sędziom TK oraz udział w Zgromadzeniu Ogólnym zależą od ślubowania wobec Prezydenta. Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Możliwość orzekania i udziału w Zgromadzeniu Ogólnym jest uzależniona od ślubowania wobec Prezydenta (art. 18 pkt 2 i art. 21 ust. 2), a ustawa nie reguluje tego, co dzieje się przy odmowie lub zwłoce Prezydenta. Art. 131 Konstytucji nie obejmuje odmowy Prezydenta. Uwaga: przepisy wprowadzające tylko przesądzają skutki, sama podstawa ślubowania leży w ustawie o statusie sędziów TK. Przyjmujący ślubowanie jest innym organem niż organ wybierający, a ustawa nie daje trybu na odmowę lub zwłokę przyjęcia. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "wysoka",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-004",
+   "eli": "DU/1982/145",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 23"
+   ],
+   "cytaty": [
+    "Prawo wykonywania zawodu radcy prawnego powstaje z chwilą dokonania wpisu na listę radców prawnych i złożenia ślubowania."
+   ],
+   "opis": "Od ślubowania wobec: dziekan rady okręgowej izby radców prawnych prowadzącej listę (art. 27 ust. 2) zależy: prawo wykonywania zawodu radcy prawnego (powstaje dopiero po wpisie i ślubowaniu). Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Prawo wykonywania zawodu zależy od ślubowania, które odbiera wyłącznie dziekan właściwej rady okręgowej (art. 27 ust. 2). Ustawa nie wyznacza terminu, zastępcy dziekana do tej czynności, trybu pisemnego ani skutku bezczynności lub odmowy dziekana. Przepis o podpisywaniu uchwał z upoważnienia dziekana (art. 45 ust. 3) dotyczy uchwał, nie ślubowania. Ślubowanie odbiera jedna wskazana osoba, bez zastępcy i bez terminu. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "srednia",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-005",
+   "eli": "DU/2001/509",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 18"
+   ],
+   "cytaty": [
+    "Prawo wykonywania zawodu rzecznika patentowego powstaje po złożeniu ślubowania, z dniem dokonania wpisu na listę rzeczników patentowych."
+   ],
+   "opis": "Od ślubowania wobec: Prezes Urzędu Patentowego (w obecności przedstawiciela samorządu) zależy: Prawo wykonywania zawodu rzecznika patentowego powstaje po złożeniu ślubowania, z dniem wpisu na listę. Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Ślubowanie odbiera wyłącznie Prezes Urzędu Patentowego (art. 22 ust. 3), bez zastępcy, upoważnienia, terminu, fikcji ani trybu zastępczego; art. 20 ust. 4 przewiduje odmowę wpisu tylko z innych przyczyn, nie za nieprzyjęcie ślubowania. Pewność umiarkowana: ogólne zasady zastępstwa kierownika urzędu nie są w ustawie. Ślubowanie odbiera jedna wskazana osoba, bez zastępcy i bez terminu. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "srednia",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-006",
+   "eli": "DU/1987/123",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 5"
+   ],
+   "cytaty": [
+    "Art. 5. 1. Kadencja Rzecznika trwa pięć lat, licząc od dnia złożenia ślubowania przed Sejmem."
+   ],
+   "opis": "Od ślubowania wobec: Sejm zależy: Kadencja Rzecznika liczona od dnia złożenia ślubowania przed Sejmem; ślubowanie warunkiem przystąpienia do wykonywania obowiązków. Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Rzecznik przed przystąpieniem do obowiązków i dla biegu kadencji musi ślubować przed Sejmem (art. 4, 5 ust. 1). Ustawa nie przewiduje trybu zastępczego, terminu ani skutku odmowy/zwłoki Sejmu przyjmującego ślubowanie. Ten sam organ powołuje (wybiera) i przyjmuje ślubowanie, więc ryzyko jest małe, ale ustawa nie reguluje odmowy ani zwłoki przyjęcia. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "niska",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-007",
+   "eli": "DU/1997/753",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 23"
+   ],
+   "cytaty": [
+    "Sędzią sądu wojskowego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej."
+   ],
+   "opis": "Od ślubowania wobec: Prezydent Rzeczypospolitej Polskiej (sędzia sądu wojskowego); prezes sądu wojskowego (ławnicy) zależy: status sędziego sądu wojskowego - sędzią jest tylko osoba powołana, która złożyła ślubowanie wobec Prezydenta RP. Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Art. 23 § 1 uzależnia status sędziego od ślubowania wobec Prezydenta, a ustawa nie przewiduje terminu, trybu zastępczego ani skutku odmowy lub zwłoki Prezydenta. Art. 131 Konstytucji (Marszałek Sejmu) działa tylko przy stwierdzonej przeszkodzie, nie przy odmowie. Wątek ławników (art. 62, prezes sądu wojskowego, zastępowany przez zastępcę wg art. 11 § 2) jest zastępowalny w hierarchii i nie zmienia oceny dla sędziów. Ten sam organ powołuje (wybiera) i przyjmuje ślubowanie, więc ryzyko jest małe, ale ustawa nie reguluje odmowy ani zwłoki przyjęcia. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "niska",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-008",
+   "eli": "DU/1998/1016",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 10"
+   ],
+   "cytaty": [
+    "Kadencja Prezesa Instytutu Pamięci trwa 5 lat, licząc od dnia złożenia ślubowania."
+   ],
+   "opis": "Od ślubowania wobec: Sejm Rzeczypospolitej Polskiej zależy: początek kadencji Prezesa IPN (liczona od dnia złożenia ślubowania) oraz przystąpienie do wykonywania obowiązków. Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Kadencja biegnie od ślubowania przed Sejmem, a przed ślubowaniem Prezes nie może przystąpić do obowiązków (art. 12). Ustawa nie przewiduje terminu, trybu zastępczego ani fikcji złożenia, jeśli Sejm ślubowania nie przyjmie. Art. 10 ust. 2a (zastępca wskazany przez Marszałka) dotyczy tylko śmierci Prezesa. Ten sam organ powołuje (wybiera) i przyjmuje ślubowanie, więc ryzyko jest małe, ale ustawa nie reguluje odmowy ani zwłoki przyjęcia. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "niska",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-009",
+   "eli": "DU/2000/69",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 6"
+   ],
+   "cytaty": [
+    "Kadencja Rzecznika trwa 5 lat, licząc od dnia złożenia ślubowania przed Sejmem."
+   ],
+   "opis": "Od ślubowania wobec: Sejm zależy: początek kadencji i przystąpienie do wykonywania obowiązków przez nowego Rzecznika Praw Dziecka. Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Rozpoczęcie wykonywania obowiązków i kadencji zależy od ślubowania przed Sejmem (art. 5 i 6). Ustawa nie przewiduje innego podmiotu przyjmującego, terminu ani skutku, gdy Sejm ślubowania nie przyjmie; art. 4 ust. 6 tylko przedłuża urzędowanie poprzednika, więc ryzyko jest ograniczone, ale ścieżki nie ma. Ten sam organ powołuje (wybiera) i przyjmuje ślubowanie, więc ryzyko jest małe, ale ustawa nie reguluje odmowy ani zwłoki przyjęcia. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "niska",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-010",
+   "eli": "DU/2001/1070",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 55"
+   ],
+   "cytaty": [
+    "Sędzią sądu powszechnego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej."
+   ],
+   "opis": "Od ślubowania wobec: Prezydent Rzeczypospolitej Polskiej (sędzia i asesor); prezes sądu (referendarz, ławnik) zależy: status sędziego sądu powszechnego (powołanie plus złożone ślubowanie wobec Prezydenta). Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Status sędziego (art. 55 § 1) zależy od ślubowania wobec Prezydenta, a ustawa reguluje tylko odmowę sędziego (art. 66 § 2), nie odmowę lub zwłokę Prezydenta; brak terminu i trybu zastępczego. Ratunek z art. 131 Konstytucji nie działa przy odmowie. Referendarz i ławnik składają ślubowanie wobec prezesa sądu, który jest zastępowalny, więc nie dotyczy. Ten sam organ powołuje (wybiera) i przyjmuje ślubowanie, więc ryzyko jest małe, ale ustawa nie reguluje odmowy ani zwłoki przyjęcia. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "niska",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-011",
+   "eli": "DU/2002/1269",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 5"
+   ],
+   "cytaty": [
+    "Art. 5. § 1. Sędzią sądu administracyjnego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej."
+   ],
+   "opis": "Od ślubowania wobec: Prezydent Rzeczypospolitej Polskiej zależy: Status sędziego sądu administracyjnego (powołany ORAZ złożył ślubowanie wobec Prezydenta). Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Bycie sędzią zależy wprost od ślubowania wobec Prezydenta RP. Ustawa nie przewiduje przyjęcia ślubowania przez inny podmiot, terminu ani skutku odmowy Prezydenta; art. 131 Konstytucji nie obejmuje odmowy, a jedynie stwierdzoną przeszkodę. Ten sam organ powołuje (wybiera) i przyjmuje ślubowanie, więc ryzyko jest małe, ale ustawa nie reguluje odmowy ani zwłoki przyjęcia. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "niska",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-012",
+   "eli": "DU/2018/1000",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 34"
+   ],
+   "cytaty": [
+    "6. Kadencja Prezesa Urzędu trwa 4 lata, licząc od dnia złożenia ślubowania."
+   ],
+   "opis": "Od ślubowania wobec: Sejm zależy: Kadencja Prezesa UODO liczona od dnia złożenia ślubowania; ślubowanie przed przystąpieniem do wykonywania obowiązków. Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Prezes UODO musi ślubować przed Sejmem przed przystąpieniem do obowiązków (art. 35 ust. 1), od tego biegnie kadencja. Zastępca pełni obowiązki tylko po wygaśnięciu kadencji (art. 34 ust. 10), a ustawa nie reguluje odmowy ani zwłoki Sejmu. Ten sam organ powołuje (wybiera) i przyjmuje ślubowanie, więc ryzyko jest małe, ale ustawa nie reguluje odmowy ani zwłoki przyjęcia. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "niska",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-013",
+   "eli": "DU/2018/5",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 29"
+   ],
+   "cytaty": [
+    "Sędzią Sądu Najwyższego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej."
+   ],
+   "opis": "Od ślubowania wobec: Prezydent Rzeczypospolitej Polskiej (sędzia); Pierwszy Prezes SN (ławnik) zależy: status sędziego Sądu Najwyższego (powołanie plus złożone ślubowanie wobec Prezydenta). Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Status sędziego SN (art. 29 § 1) zależy od ślubowania wobec Prezydenta, a ustawa reguluje tylko odmowę sędziego (art. 34 § 3), nie odmowę lub zwłokę Prezydenta; brak terminu i trybu zastępczego. Art. 131 Konstytucji nie działa przy odmowie. Ławnicy składają ślubowanie wobec Pierwszego Prezesa, więc nie dotyczy. Ten sam organ powołuje (wybiera) i przyjmuje ślubowanie, więc ryzyko jest małe, ale ustawa nie reguluje odmowy ani zwłoki przyjęcia. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "niska",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  },
+  {
+   "id": "x005-014",
+   "eli": "DU/2019/1820",
+   "kategoria": "brak_sciezki_alternatywnej",
+   "przepisy": [
+    "art. 8"
+   ],
+   "cytaty": [
+    "Przed przystąpieniem do wykonywania obowiązków członkowie Komisji składają przed Sejmem Rzeczypospolitej Polskiej następujące ślubowanie:"
+   ],
+   "opis": "Od ślubowania wobec: Sejm Rzeczypospolitej Polskiej zależy: przystąpienie członka Państwowej Komisji do wykonywania obowiązków. Ustawa nie przewiduje, co się dzieje, gdy przyjmujący nie przyjmie ślubowania (odmowa, zwłoka, niemożność).",
+   "uzasadnienie": "Możliwość działania członka zależy od ślubowania przed Sejmem, a ustawa nie reguluje ani odmowy członka, ani sytuacji, gdy Sejm ślubowania nie przyjmie (brak terminu, trybu zastępczego, fikcji). Kadencja Komisji biegnie od pierwszego posiedzenia, a nie od ślubowania, co osłabia skutki luki. Ten sam organ powołuje (wybiera) i przyjmuje ślubowanie, więc ryzyko jest małe, ale ustawa nie reguluje odmowy ani zwłoki przyjęcia. Reguła R3 (S012). Wzorzec rozwiązania: ustawa o samorządzie gminnym, art. 29a ust. 3 (ślubowanie przed komisarzem wyborczym). Znalezisko nie przesądza o niekonstytucyjności.",
+   "waga": "niska",
+   "zrodla_wykrycia": [
+    "reguła R3 (skrypt)",
+    "ocena modelem (Claude Sonnet)",
+    "przegląd ręczny"
+   ],
+   "weryfikacja_krzyzowa": true
+  }
+ ]
+}

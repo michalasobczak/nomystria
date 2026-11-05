@@ -20,7 +20,7 @@ Projekt prowadzimy według metodyki [Rondo + Context-Driven-Development](https:/
 
 ## Stan
 
-Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Strona z filtrami i wynikami kontroli (S007) działa pod adresem **https://michalasobczak.github.io/nomystria/**. Jej kod jest w [`strona/`](strona/). Wyniki kontroli trafiają do [`kontrole/`](kontrole/). Weryfikacja danych (S005) potwierdziła bilans i parametry na próbie 100 ustaw. Wykryła też 12 ustaw z tekstem ujednoliconym starszym niż ostatni t.j. i 29 ustaw z nieczytelnym tekstem ([raport](kontrole/x001/RAPORT.md)). Oba problemy naprawiła S008. Próbną analizę jednej ustawy (S006) i diagram ścieżek (S009) wycofano. Analiza pominęła art. 42 Kodeksu cywilnego, więc dalej sprawdzamy jedną prostą regułę naraz na wielu ustawach (MANIFEST M12). Pierwsza reguła, R1 (martwe odesłania wewnętrzne, S010), sprawdziła 1112 ustaw w trzech etapach: skrypt, filtr zgrubny i ocena modelem z tekstem ustawy. Wynik to 2 potwierdzone martwe odesłania ([raport](kontrole/x003/RAPORT.md)).
+Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucja i obowiązujące ustawy w aktualnym brzmieniu, w formacie Markdown z metadanymi. Stan danych: 2026-11-05. Strona z filtrami i wynikami kontroli (S007) działa pod adresem **https://michalasobczak.github.io/nomystria/**. Jej kod jest w [`strona/`](strona/). Wyniki kontroli trafiają do [`kontrole/`](kontrole/). Weryfikacja danych (S005) potwierdziła bilans i parametry na próbie 100 ustaw. Wykryła też 12 ustaw z tekstem ujednoliconym starszym niż ostatni t.j. i 29 ustaw z nieczytelnym tekstem ([raport](kontrole/x001/RAPORT.md)). Oba problemy naprawiła S008. Próbną analizę jednej ustawy (S006) i diagram ścieżek (S009) wycofano. Analiza pominęła art. 42 Kodeksu cywilnego, więc dalej sprawdzamy jedną prostą regułę naraz na wielu ustawach (MANIFEST M12). Pierwsza reguła, R1 (martwe odesłania wewnętrzne, S010), sprawdziła 1112 ustaw w trzech etapach: skrypt, filtr zgrubny i ocena modelem z tekstem ustawy. Wynik to 2 potwierdzone martwe odesłania ([raport](kontrole/x003/RAPORT.md)). Pierwsza reguła z kategorii braków ścieżek, R3 (S012), sprawdziła, czy ustawy regulują sytuację, w której podmiot przyjmujący ślubowanie go nie przyjmie. Na 40 ustaw 14 nie daje żadnej ścieżki, w tym trzy ustawy o Trybunale Konstytucyjnym ([raport](kontrole/x005/RAPORT.md)).
 
 | Spec | Tytuł | Status |
 | --- | --- | --- |
@@ -34,6 +34,8 @@ Pierwszy etap jest gotowy: **tekstowy korpus polskiego prawa**, czyli Konstytucj
 | [S008](specs/S008-aktualnosc-i-czytelnosc.md) | Aktualność i czytelność tekstów: tekst jednolity zamiast starszego ujednoliconego, HTML/OCR zamiast nieczytelnego PDF | dostarczona |
 | [S009](specs/S009-diagram-sciezek.md) | Diagram ścieżek przepisów dla znaleziska | wycofana |
 | [S010](specs/S010-martwe-odeslania-wewnetrzne.md) | Reguła R1: martwe odesłania wewnętrzne ([raport](kontrole/x003/RAPORT.md)) | dostarczona |
+| [S011](specs/S011-odeslania-do-uchylonych.md) | Reguła R2: odesłania do uchylonych artykułów | proponowana |
+| [S012](specs/S012-slubowanie-sciezka-przyjmujacego.md) | Reguła R3: ślubowanie bez ścieżki po stronie przyjmującego ([raport](kontrole/x005/RAPORT.md)) | dostarczona |
 
 ## Glosariusz
 
