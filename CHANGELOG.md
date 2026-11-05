@@ -18,7 +18,7 @@ Chronologiczny zapis tego, co faktycznie dostarczono. Wpisy są uporządkowane w
 
 ### README: autor i sposób pracy
 
-- Dodano informację o autorze inicjatywy (Michał Sobczak): ustala wytyczne, szablon i schemat działania oraz kontroluje wyniki. Prace są prowadzone automatycznie, z wykorzystaniem sztucznej inteligencji.
+- Dodano informację o autorze inicjatywy (Michał Sobczak, michalasobczak.pl): ustala wytyczne, szablon i schemat działania oraz kontroluje wyniki. Prace są prowadzone automatycznie, z wykorzystaniem sztucznej inteligencji.
 
 ### README: adnotacja o charakterze projektu
 
